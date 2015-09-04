@@ -1,0 +1,5755 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.294408",
+          "34.724772"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u6771\u7058\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-411-0556",
+        "\u90f5\u4fbf\u756a\u53f7": "658-0013",
+        "\u65bd\u8a2dID": "670",
+        "\u7d4c\u5ea6": "135.294408",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u6771\u7058\u533a\u6df1\u6c5f\u5317\u753a2-4-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u6771\u7058\u533a",
+        "\u7def\u5ea6": "34.724772",
+        "FAX\u756a\u53f7": "078-411-0557"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.288617",
+          "34.720778"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u672c\u5e84\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-411-0339",
+        "\u90f5\u4fbf\u756a\u53f7": "658-0027",
+        "\u65bd\u8a2dID": "671",
+        "\u7d4c\u5ea6": "135.288617",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u6771\u7058\u533a\u9752\u67284-4-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u6771\u7058\u533a",
+        "\u7def\u5ea6": "34.720778",
+        "FAX\u756a\u53f7": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.282448",
+          "34.723603"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u672c\u5c71\u5357\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-452-0071",
+        "\u90f5\u4fbf\u756a\u53f7": "658-0015",
+        "\u65bd\u8a2dID": "672",
+        "\u7d4c\u5ea6": "135.282448",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u6771\u7058\u533a\u672c\u5c71\u5357\u753a8-2-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u6771\u7058\u533a",
+        "\u7def\u5ea6": "34.723603",
+        "FAX\u756a\u53f7": "078-452-0072"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.278804",
+          "34.721253"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u798f\u6c60\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-452-5595",
+        "\u90f5\u4fbf\u756a\u53f7": "658-0015",
+        "\u65bd\u8a2dID": "673",
+        "\u7d4c\u5ea6": "135.278804",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u6771\u7058\u533a\u672c\u5c71\u5357\u753a4-4-28",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u6771\u7058\u533a",
+        "\u7def\u5ea6": "34.721253",
+        "FAX\u756a\u53f7": "078-452-5596"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.271405",
+          "34.71507"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u9b5a\u5d0e\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-411-6196",
+        "\u90f5\u4fbf\u756a\u53f7": "658-0083",
+        "\u65bd\u8a2dID": "674",
+        "\u7d4c\u5ea6": "135.271405",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u6771\u7058\u533a\u9b5a\u5d0e\u4e2d\u753a4-10-8",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u6771\u7058\u533a",
+        "\u7def\u5ea6": "34.71507",
+        "FAX\u756a\u53f7": "078-411-6197"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.278631",
+          "34.728324"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u672c\u5c71\u7b2c\u4e00\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-411-1974",
+        "\u90f5\u4fbf\u756a\u53f7": "658-0003",
+        "\u65bd\u8a2dID": "675",
+        "\u7d4c\u5ea6": "135.278631",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u6771\u7058\u533a\u672c\u5c71\u5317\u753a3-10-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u6771\u7058\u533a",
+        "\u7def\u5ea6": "34.728324",
+        "FAX\u756a\u53f7": "078-411-1975"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.269482",
+          "34.725252"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u672c\u5c71\u7b2c\u4e8c\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-431-1441",
+        "\u90f5\u4fbf\u756a\u53f7": "658-0073",
+        "\u65bd\u8a2dID": "676",
+        "\u7d4c\u5ea6": "135.269482",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u6771\u7058\u533a\u897f\u5ca1\u672c1-3-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u6771\u7058\u533a",
+        "\u7def\u5ea6": "34.725252",
+        "FAX\u756a\u53f7": "078-431-1442"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.2863",
+          "34.728041"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u672c\u5c71\u7b2c\u4e09\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-411-0005",
+        "\u90f5\u4fbf\u756a\u53f7": "658-0016",
+        "\u65bd\u8a2dID": "677",
+        "\u7d4c\u5ea6": "135.2863",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u6771\u7058\u533a\u672c\u5c71\u4e2d\u753a1-2-35",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u6771\u7058\u533a",
+        "\u7def\u5ea6": "34.728041",
+        "FAX\u756a\u53f7": "078-411-0006"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.264641",
+          "34.717614"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u4f4f\u5409\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-851-2887",
+        "\u90f5\u4fbf\u756a\u53f7": "658-0052",
+        "\u65bd\u8a2dID": "678",
+        "\u7d4c\u5ea6": "135.264641",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u6771\u7058\u533a\u4f4f\u5409\u6771\u753a4-1-31",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u6771\u7058\u533a",
+        "\u7def\u5ea6": "34.717614",
+        "FAX\u756a\u53f7": "078-851-2888"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.251406",
+          "34.714767"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u5fa1\u5f71\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-851-3673",
+        "\u90f5\u4fbf\u756a\u53f7": "658-0045",
+        "\u65bd\u8a2dID": "679",
+        "\u7d4c\u5ea6": "135.251406",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u6771\u7058\u533a\u5fa1\u5f71\u77f3\u753a3-1-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u6771\u7058\u533a",
+        "\u7def\u5ea6": "34.714767",
+        "FAX\u756a\u53f7": "078-851-3674"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.250661",
+          "34.738836"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u6e26\u304c\u68ee\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-851-3185",
+        "\u90f5\u4fbf\u756a\u53f7": "658-0066",
+        "\u65bd\u8a2dID": "680",
+        "\u7d4c\u5ea6": "135.250661",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u6771\u7058\u533a\u6e26\u68ee\u53f01-12-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u6771\u7058\u533a",
+        "\u7def\u5ea6": "34.738836",
+        "FAX\u756a\u53f7": "078-851-7796"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.248787",
+          "34.724619"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u5fa1\u5f71\u5317\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-851-6809",
+        "\u90f5\u4fbf\u756a\u53f7": "658-0065",
+        "\u65bd\u8a2dID": "681",
+        "\u7d4c\u5ea6": "135.248787",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u6771\u7058\u533a\u5fa1\u5f71\u5c71\u624b1-12-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u6771\u7058\u533a",
+        "\u7def\u5ea6": "34.724619",
+        "FAX\u756a\u53f7": "078-851-8742"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.274605",
+          "34.688736"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u516d\u7532\u30a2\u30a4\u30e9\u30f3\u30c9\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-857-3121",
+        "\u90f5\u4fbf\u756a\u53f7": "658-0032",
+        "\u65bd\u8a2dID": "682",
+        "\u7d4c\u5ea6": "135.274605",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u6771\u7058\u533a\u5411\u6d0b\u753a\u4e2d2-7",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u6771\u7058\u533a",
+        "\u7def\u5ea6": "34.688736",
+        "FAX\u756a\u53f7": "078-857-3122"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.26468",
+          "34.68771"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u5411\u6d0b\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-857-2450",
+        "\u90f5\u4fbf\u756a\u53f7": "658-0032",
+        "\u65bd\u8a2dID": "683",
+        "\u7d4c\u5ea6": "135.26468",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u6771\u7058\u533a\u5411\u6d0b\u753a\u4e2d6",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u6771\u7058\u533a",
+        "\u7def\u5ea6": "34.68771",
+        "FAX\u756a\u53f7": "078-857-2451"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.242121",
+          "34.715539"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u6210\u5fb3\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-821-1001",
+        "\u90f5\u4fbf\u756a\u53f7": "657-0037",
+        "\u65bd\u8a2dID": "684",
+        "\u7d4c\u5ea6": "135.242121",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u7058\u533a\u5099\u5f8c\u753a1-3-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u7058\u533a",
+        "\u7def\u5ea6": "34.715539",
+        "FAX\u756a\u53f7": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.238824",
+          "34.723208"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u9ad8\u7fbd\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-841-0541",
+        "\u90f5\u4fbf\u756a\u53f7": "657-0023",
+        "\u65bd\u8a2dID": "685",
+        "\u7d4c\u5ea6": "135.238824",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u7058\u533a\u9ad8\u7fbd\u753a3-11-11",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u7058\u533a",
+        "\u7def\u5ea6": "34.723208",
+        "FAX\u756a\u53f7": "078-841-0542"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.236404",
+          "34.733573"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u9db4\u7532\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-821-0444",
+        "\u90f5\u4fbf\u756a\u53f7": "657-0011",
+        "\u65bd\u8a2dID": "686",
+        "\u7d4c\u5ea6": "135.236404",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u7058\u533a\u9db4\u75322-10-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u7058\u533a",
+        "\u7def\u5ea6": "34.733573",
+        "FAX\u756a\u53f7": "078-821-5926"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.232794",
+          "34.706948"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u897f\u90f7\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-861-2888",
+        "\u90f5\u4fbf\u756a\u53f7": "657-0043",
+        "\u65bd\u8a2dID": "687",
+        "\u7d4c\u5ea6": "135.232794",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u7058\u533a\u5927\u77f3\u6771\u753a6-2-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u7058\u533a",
+        "\u7def\u5ea6": "34.706948",
+        "FAX\u756a\u53f7": "078-881-5565"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.233108",
+          "34.71769"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u516d\u7532\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-881-1071",
+        "\u90f5\u4fbf\u756a\u53f7": "657-0051",
+        "\u65bd\u8a2dID": "688",
+        "\u7d4c\u5ea6": "135.233108",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u7058\u533a\u516b\u5e61\u753a4-4-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u7058\u533a",
+        "\u7def\u5ea6": "34.71769",
+        "FAX\u756a\u53f7": "078-881-1072"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.232549",
+          "34.713256"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u7058\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-871-0481",
+        "\u90f5\u4fbf\u756a\u53f7": "657-0056",
+        "\u65bd\u8a2dID": "689",
+        "\u7d4c\u5ea6": "135.232549",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u7058\u533a\u5343\u65e6\u901a1-5-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u7058\u533a",
+        "\u7def\u5ea6": "34.713256",
+        "FAX\u756a\u53f7": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.227705",
+          "34.707718"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u897f\u7058\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-861-8851",
+        "\u90f5\u4fbf\u756a\u53f7": "657-0842",
+        "\u65bd\u8a2dID": "690",
+        "\u7d4c\u5ea6": "135.227705",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u7058\u533a\u8239\u5bfa\u901a3-4-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u7058\u533a",
+        "\u7def\u5ea6": "34.707718",
+        "FAX\u756a\u53f7": "078-861-8852"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.222408",
+          "34.711354"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u7a17\u7530\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-871-0721",
+        "\u90f5\u4fbf\u756a\u53f7": "657-0832",
+        "\u65bd\u8a2dID": "691",
+        "\u7d4c\u5ea6": "135.222408",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u7058\u533a\u5cb8\u5730\u901a4-2-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u7058\u533a",
+        "\u7def\u5ea6": "34.711354",
+        "FAX\u756a\u53f7": "078-871-0722"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.221169",
+          "34.723105"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u7f8e\u91ce\u4e18\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-871-1381",
+        "\u90f5\u4fbf\u756a\u53f7": "657-0812",
+        "\u65bd\u8a2dID": "692",
+        "\u7d4c\u5ea6": "135.221169",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u7058\u533a\u7b95\u5ca1\u901a1-3-17",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u7058\u533a",
+        "\u7def\u5ea6": "34.723105",
+        "FAX\u756a\u53f7": "078-871-1382"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.220544",
+          "34.715684"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u6469\u8036\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-861-3172",
+        "\u90f5\u4fbf\u756a\u53f7": "657-0822",
+        "\u65bd\u8a2dID": "693",
+        "\u7d4c\u5ea6": "135.220544",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u7058\u533a\u7551\u539f\u901a4-1-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u7058\u533a",
+        "\u7def\u5ea6": "34.715684",
+        "FAX\u756a\u53f7": "078-861-3173"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.218489",
+          "34.713181"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u798f\u4f4f\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-861-2424",
+        "\u90f5\u4fbf\u756a\u53f7": "657-0824",
+        "\u65bd\u8a2dID": "694",
+        "\u7d4c\u5ea6": "135.218489",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u7058\u533a\u798f\u4f4f\u901a7-1-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u7058\u533a",
+        "\u7def\u5ea6": "34.713181",
+        "FAX\u756a\u53f7": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.232301",
+          "34.757374"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u516d\u7532\u5c71\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-891-0328",
+        "\u90f5\u4fbf\u756a\u53f7": "657-0101",
+        "\u65bd\u8a2dID": "695",
+        "\u7d4c\u5ea6": "135.232301",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u7058\u533a\u516d\u7532\u5c71\u753a\u5317\u516d\u75324512-42",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u7058\u533a",
+        "\u7def\u5ea6": "34.757374",
+        "FAX\u756a\u53f7": "078-891-0351"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.211345",
+          "34.71062"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u4e0a\u7b52\u4e95\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-241-1080",
+        "\u90f5\u4fbf\u756a\u53f7": "651-0054",
+        "\u65bd\u8a2dID": "696",
+        "\u7d4c\u5ea6": "135.211345",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u4e2d\u592e\u533a\u91ce\u5d0e\u901a1-1-2",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u4e2d\u592e\u533a",
+        "\u7def\u5ea6": "34.71062",
+        "FAX\u756a\u53f7": "078-241-1081"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.211015",
+          "34.697744"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u306a\u304e\u3055\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-252-5611",
+        "\u90f5\u4fbf\u756a\u53f7": "651-0073",
+        "\u65bd\u8a2dID": "697",
+        "\u7d4c\u5ea6": "135.211015",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u4e2d\u592e\u533a\u8107\u6d5c\u6d77\u5cb8\u901a2-4-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u4e2d\u592e\u533a",
+        "\u7def\u5ea6": "34.697744",
+        "FAX\u756a\u53f7": "078-252-5612"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.211776",
+          "34.70672"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u5bae\u672c\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-221-1600",
+        "\u90f5\u4fbf\u756a\u53f7": "651-0063",
+        "\u65bd\u8a2dID": "698",
+        "\u7d4c\u5ea6": "135.211776",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u4e2d\u592e\u533a\u5bae\u672c\u901a2-1-36",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u4e2d\u592e\u533a",
+        "\u7def\u5ea6": "34.70672",
+        "FAX\u756a\u53f7": "078-221-7422"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.206143",
+          "34.705662"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u6625\u65e5\u91ce\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-231-2461",
+        "\u90f5\u4fbf\u756a\u53f7": "561-0063",
+        "\u65bd\u8a2dID": "699",
+        "\u7d4c\u5ea6": "135.206143",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u4e2d\u592e\u533a\u5bae\u672c\u901a7-1-6",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u4e2d\u592e\u533a",
+        "\u7def\u5ea6": "34.705662",
+        "FAX\u756a\u53f7": "078-231-2462"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.200242",
+          "34.706038"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u96f2\u4e2d\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-231-3441",
+        "\u90f5\u4fbf\u756a\u53f7": "651-0056",
+        "\u65bd\u8a2dID": "700",
+        "\u7d4c\u5ea6": "135.200242",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u4e2d\u592e\u533a\u718a\u5185\u753a3-1-7",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u4e2d\u592e\u533a",
+        "\u7def\u5ea6": "34.706038",
+        "FAX\u756a\u53f7": "078-231-3442"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.199727",
+          "34.701737"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u4e2d\u592e\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-231-2421",
+        "\u90f5\u4fbf\u756a\u53f7": "651-0067",
+        "\u65bd\u8a2dID": "701",
+        "\u7d4c\u5ea6": "135.199727",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u4e2d\u592e\u533a\u795e\u82e5\u901a7-1-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u4e2d\u592e\u533a",
+        "\u7def\u5ea6": "34.701737",
+        "FAX\u756a\u53f7": "078-231-2422"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.182473",
+          "34.69356"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u3053\u3046\u3079\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-221-2539",
+        "\u90f5\u4fbf\u756a\u53f7": "650-0004",
+        "\u65bd\u8a2dID": "702",
+        "\u7d4c\u5ea6": "135.182473",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u4e2d\u592e\u533a\u4e2d\u5c71\u624b\u901a4-23-2",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u4e2d\u592e\u533a",
+        "\u7def\u5ea6": "34.69356",
+        "FAX\u756a\u53f7": "078-221-0218"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.175569",
+          "34.690705"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u5c71\u306e\u624b\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-341-8911",
+        "\u90f5\u4fbf\u756a\u53f7": "650-0004",
+        "\u65bd\u8a2dID": "703",
+        "\u7d4c\u5ea6": "135.175569",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u4e2d\u592e\u533a\u4e2d\u5c71\u624b\u901a7-31-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u4e2d\u592e\u533a",
+        "\u7def\u5ea6": "34.690705",
+        "FAX\u756a\u53f7": "078-341-8921"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.180861",
+          "34.676937"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u6e4a\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-360-1200",
+        "\u90f5\u4fbf\u756a\u53f7": "650-0044",
+        "\u65bd\u8a2dID": "704",
+        "\u7d4c\u5ea6": "135.180861",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u4e2d\u592e\u533a\u6771\u5ddd\u5d0e\u753a1-4-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u4e2d\u592e\u533a",
+        "\u7def\u5ea6": "34.676937",
+        "FAX\u756a\u53f7": "078-360-1201"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.172147",
+          "34.683647"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u6e4a\u5ddd\u591a\u805e\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-341-7124",
+        "\u90f5\u4fbf\u756a\u53f7": "650-0017",
+        "\u65bd\u8a2dID": "705",
+        "\u7d4c\u5ea6": "135.172147",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u4e2d\u592e\u533a\u6960\u753a4-2-4",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u4e2d\u592e\u533a",
+        "\u7def\u5ea6": "34.683647",
+        "FAX\u756a\u53f7": "078-341-7125"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.212266",
+          "34.669119"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u6e2f\u5cf6\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-302-1661",
+        "\u90f5\u4fbf\u756a\u53f7": "650-0046",
+        "\u65bd\u8a2dID": "706",
+        "\u7d4c\u5ea6": "135.212266",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u4e2d\u592e\u533a\u6e2f\u5cf6\u4e2d\u753a3-2-3",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u4e2d\u592e\u533a",
+        "\u7def\u5ea6": "34.669119",
+        "FAX\u756a\u53f7": "078-302-1662"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.166855",
+          "34.689757"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u5e73\u91ce\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-521-3801",
+        "\u90f5\u4fbf\u756a\u53f7": "652-0014",
+        "\u65bd\u8a2dID": "707",
+        "\u7d4c\u5ea6": "135.166855",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5175\u5eab\u533a\u4e0b\u4e09\u6761\u753a10-46",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5175\u5eab\u533a",
+        "\u7def\u5ea6": "34.689757",
+        "FAX\u756a\u53f7": "078-521-380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.164942",
+          "34.689769"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u6e4a\u5c71\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-521-3881",
+        "\u90f5\u4fbf\u756a\u53f7": "652-0031",
+        "\u65bd\u8a2dID": "708",
+        "\u7d4c\u5ea6": "135.164942",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5175\u5eab\u533a\u96ea\u5fa1\u6240\u753a2-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5175\u5eab\u533a",
+        "\u7def\u5ea6": "34.689769",
+        "FAX\u756a\u53f7": "078-521-3882"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.165041",
+          "34.684829"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u8352\u7530\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-511-3378",
+        "\u90f5\u4fbf\u756a\u53f7": "652-0032",
+        "\u65bd\u8a2dID": "709",
+        "\u7d4c\u5ea6": "135.165041",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5175\u5eab\u533a\u8352\u7530\u753a4-17-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5175\u5eab\u533a",
+        "\u7def\u5ea6": "34.684829",
+        "FAX\u756a\u53f7": "078-511-3380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.160434",
+          "34.681557"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u5922\u91ce\u306e\u4e18\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-521-7340",
+        "\u90f5\u4fbf\u756a\u53f7": "652-0042",
+        "\u65bd\u8a2dID": "714",
+        "\u7d4c\u5ea6": "135.160434",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5175\u5eab\u533a\u6771\u5c71\u753a4\u4e01\u76ee20",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5175\u5eab\u533a",
+        "\u7def\u5ea6": "34.681557",
+        "FAX\u756a\u53f7": "078-521-7342"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.164967",
+          "34.67897"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u4f1a\u4e0b\u5c71\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-577-1501",
+        "\u90f5\u4fbf\u756a\u53f7": "652-0046",
+        "\u65bd\u8a2dID": "715",
+        "\u7d4c\u5ea6": "135.164967",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5175\u5eab\u533a\u4e0a\u6ca2\u901a1-3-26",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5175\u5eab\u533a",
+        "\u7def\u5ea6": "34.67897",
+        "FAX\u756a\u53f7": "078-577-1502"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.1664",
+          "34.673604"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u5175\u5eab\u5927\u958b\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-575-4773",
+        "\u90f5\u4fbf\u756a\u53f7": "652-0803",
+        "\u65bd\u8a2dID": "716",
+        "\u7d4c\u5ea6": "135.1664",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5175\u5eab\u533a\u5927\u958b\u901a4-1-39",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5175\u5eab\u533a",
+        "\u7def\u5ea6": "34.673604",
+        "FAX\u756a\u53f7": "078-575-4718"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.159325",
+          "34.670401"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u6c34\u6728\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-575-8360",
+        "\u90f5\u4fbf\u756a\u53f7": "652-0802",
+        "\u65bd\u8a2dID": "717",
+        "\u7d4c\u5ea6": "135.159325",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5175\u5eab\u533a\u6c34\u6728\u901a9-1-8",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5175\u5eab\u533a",
+        "\u7def\u5ea6": "34.670401",
+        "FAX\u756a\u53f7": "078-575-8369"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.175474",
+          "34.65515"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u548c\u7530\u5cac\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-671-1105",
+        "\u90f5\u4fbf\u756a\u53f7": "652-0863",
+        "\u65bd\u8a2dID": "718",
+        "\u7d4c\u5ea6": "135.175474",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5175\u5eab\u533a\u548c\u7530\u5bae\u901a6-1-18",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5175\u5eab\u533a",
+        "\u7def\u5ea6": "34.65515",
+        "FAX\u756a\u53f7": "078-671-4700"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.166089",
+          "34.665141"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u660e\u89aa\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-651-2855",
+        "\u90f5\u4fbf\u756a\u53f7": "652-0896",
+        "\u65bd\u8a2dID": "719",
+        "\u7d4c\u5ea6": "135.166089",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5175\u5eab\u533a\u9808\u4f50\u91ce\u901a4-1-19",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5175\u5eab\u533a",
+        "\u7def\u5ea6": "34.665141",
+        "FAX\u756a\u53f7": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.166211",
+          "34.657763"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u6d5c\u5c71\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-651-3890",
+        "\u90f5\u4fbf\u756a\u53f7": "652-0851",
+        "\u65bd\u8a2dID": "720",
+        "\u7d4c\u5ea6": "135.166211",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5175\u5eab\u533a\u6750\u6728\u753a4-2",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5175\u5eab\u533a",
+        "\u7def\u5ea6": "34.657763",
+        "FAX\u756a\u53f7": "078-651-3891"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.248461",
+          "34.800956"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u6709\u99ac\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-904-0170",
+        "\u90f5\u4fbf\u756a\u53f7": "651-1401",
+        "\u65bd\u8a2dID": "721",
+        "\u7d4c\u5ea6": "135.248461",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5317\u533a\u6709\u99ac\u753a\u4e2d\u75511274",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5317\u533a",
+        "\u7def\u5ea6": "34.800956",
+        "FAX\u756a\u53f7": "078-904-0179"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.21796",
+          "34.820624"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u6709\u91ce\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-981-5341",
+        "\u90f5\u4fbf\u756a\u53f7": "651-1302",
+        "\u65bd\u8a2dID": "722",
+        "\u7d4c\u5ea6": "135.21796",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5317\u533a\u85e4\u539f\u53f0\u4e2d\u753a3-17-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5317\u533a",
+        "\u7def\u5ea6": "34.820624",
+        "FAX\u756a\u53f7": "078-981-8748"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.208191",
+          "34.812824"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u85e4\u539f\u53f0\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-982-5880",
+        "\u90f5\u4fbf\u756a\u53f7": "651-1303",
+        "\u65bd\u8a2dID": "723",
+        "\u7d4c\u5ea6": "135.208191",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5317\u533a\u85e4\u539f\u53f0\u5357\u753a1-13-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5317\u533a",
+        "\u7def\u5ea6": "34.812824",
+        "FAX\u756a\u53f7": "078-982-5881"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.218326",
+          "34.8389"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u897f\u5c71\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-952-1800",
+        "\u90f5\u4fbf\u756a\u53f7": "651-1305",
+        "\u65bd\u8a2dID": "724",
+        "\u7d4c\u5ea6": "135.218326",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5317\u533a\u897f\u5c711-67",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5317\u533a",
+        "\u7def\u5ea6": "34.8389",
+        "FAX\u756a\u53f7": "078-952-1801"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.225874",
+          "34.812222"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u6709\u91ce\u53f0\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-981-5111",
+        "\u90f5\u4fbf\u756a\u53f7": "651-1321",
+        "\u65bd\u8a2dID": "725",
+        "\u7d4c\u5ea6": "135.225874",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5317\u533a\u6709\u91ce\u53f02-8",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5317\u533a",
+        "\u7def\u5ea6": "34.812222",
+        "FAX\u756a\u53f7": "078-981-5182"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.22991",
+          "34.813798"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u6709\u91ce\u6771\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-982-3051",
+        "\u90f5\u4fbf\u756a\u53f7": "651-1321",
+        "\u65bd\u8a2dID": "726",
+        "\u7d4c\u5ea6": "135.22991",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5317\u533a\u6709\u91ce\u53f05-2",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5317\u533a",
+        "\u7def\u5ea6": "34.813798",
+        "FAX\u756a\u53f7": "078-982-3052"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.213999",
+          "34.789852"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u5510\u6ac3\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-981-5926",
+        "\u90f5\u4fbf\u756a\u53f7": "651-1332",
+        "\u65bd\u8a2dID": "727",
+        "\u7d4c\u5ea6": "135.213999",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5317\u533a\u5510\u6ac3\u53f02-39-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5317\u533a",
+        "\u7def\u5ea6": "34.789852",
+        "FAX\u756a\u53f7": "078-981-5017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.198607",
+          "34.772193"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u5927\u6c60\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-581-8032",
+        "\u90f5\u4fbf\u756a\u53f7": "651-1201",
+        "\u65bd\u8a2dID": "728",
+        "\u7d4c\u5ea6": "135.198607",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5317\u533a\u897f\u5927\u6c602-24-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5317\u533a",
+        "\u7def\u5ea6": "34.772193",
+        "FAX\u756a\u53f7": "078-581-8033"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.185308",
+          "34.765282"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u82b1\u5c71\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-583-1120",
+        "\u90f5\u4fbf\u756a\u53f7": "651-1204",
+        "\u65bd\u8a2dID": "729",
+        "\u7d4c\u5ea6": "135.185308",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5317\u533a\u82b1\u5c71\u6771\u753a3-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5317\u533a",
+        "\u7def\u5ea6": "34.765282",
+        "FAX\u756a\u53f7": "078-583-6696"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.169582",
+          "34.763379"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u8c37\u4e0a\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-581-3351",
+        "\u90f5\u4fbf\u756a\u53f7": "651-1243",
+        "\u65bd\u8a2dID": "730",
+        "\u7d4c\u5ea6": "135.169582",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5317\u533a\u5c71\u7530\u753a\u4e0b\u8c37\u4e0a\u5b57\u4e2d\u4e0a16",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5317\u533a",
+        "\u7def\u5ea6": "34.763379",
+        "FAX\u756a\u53f7": "078-581-3352"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.149463",
+          "34.758328"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u7b95\u8c37\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-581-8030",
+        "\u90f5\u4fbf\u756a\u53f7": "651-1232",
+        "\u65bd\u8a2dID": "731",
+        "\u7d4c\u5ea6": "135.149463",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5317\u533a\u677e\u304c\u679d\u753a1-11",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5317\u533a",
+        "\u7def\u5ea6": "34.758328",
+        "FAX\u756a\u53f7": "078-581-8031"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.144559",
+          "34.747073"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u6842\u6728\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-582-4001",
+        "\u90f5\u4fbf\u756a\u53f7": "651-1223",
+        "\u65bd\u8a2dID": "732",
+        "\u7d4c\u5ea6": "135.144559",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5317\u533a\u6842\u67281-2-5",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5317\u533a",
+        "\u7def\u5ea6": "34.747073",
+        "FAX\u756a\u53f7": "078-582-4002"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.165104",
+          "34.748473"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u5e83\u9675\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-583-0191",
+        "\u90f5\u4fbf\u756a\u53f7": "651-1212",
+        "\u65bd\u8a2dID": "733",
+        "\u7d4c\u5ea6": "135.165104",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5317\u533a\u7b51\u7d2b\u304c\u4e182-9-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5317\u533a",
+        "\u7def\u5ea6": "34.748473",
+        "FAX\u756a\u53f7": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.162496",
+          "34.744296"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u7b51\u7d2b\u304c\u4e18\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-581-1006",
+        "\u90f5\u4fbf\u756a\u53f7": "651-1212",
+        "\u65bd\u8a2dID": "734",
+        "\u7d4c\u5ea6": "135.162496",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5317\u533a\u7b51\u7d2b\u304c\u4e183-4-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5317\u533a",
+        "\u7def\u5ea6": "34.744296",
+        "FAX\u756a\u53f7": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.154344",
+          "34.740591"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u685c\u306e\u5bae\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-591-1009",
+        "\u90f5\u4fbf\u756a\u53f7": "651-1143",
+        "\u65bd\u8a2dID": "735",
+        "\u7d4c\u5ea6": "135.154344",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5317\u533a\u82e5\u8449\u53f01-3-15",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5317\u533a",
+        "\u7def\u5ea6": "34.740591",
+        "FAX\u756a\u53f7": "078-591-9111"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.150067",
+          "34.74454"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u7532\u7dd1\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-581-1221",
+        "\u90f5\u4fbf\u756a\u53f7": "651-1221",
+        "\u65bd\u8a2dID": "736",
+        "\u7d4c\u5ea6": "135.150067",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5317\u533a\u7dd1\u753a7-12-10",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5317\u533a",
+        "\u7def\u5ea6": "34.74454",
+        "FAX\u756a\u53f7": "078-581-1222"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.131677",
+          "34.76558"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u5c71\u7530\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-581-0055",
+        "\u90f5\u4fbf\u756a\u53f7": "651-1253",
+        "\u65bd\u8a2dID": "737",
+        "\u7d4c\u5ea6": "135.131677",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5317\u533a\u5c71\u7530\u753a\u4e2d\u5b57\u9577\u5c3e\u30b51",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5317\u533a",
+        "\u7def\u5ea6": "34.76558",
+        "FAX\u756a\u53f7": "078-581-0056"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.157114",
+          "34.727767"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u5c0f\u90e8\u6771\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-592-0086",
+        "\u90f5\u4fbf\u756a\u53f7": "651-1111",
+        "\u65bd\u8a2dID": "738",
+        "\u7d4c\u5ea6": "135.157114",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5317\u533a\u9234\u862d\u53f0\u5317\u753a7-11-22",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5317\u533a",
+        "\u7def\u5ea6": "34.727767",
+        "FAX\u756a\u53f7": "078-593-1006"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.148145",
+          "34.729667"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u5c0f\u90e8\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-591-1761",
+        "\u90f5\u4fbf\u756a\u53f7": "651-1111",
+        "\u65bd\u8a2dID": "739",
+        "\u7d4c\u5ea6": "135.148145",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5317\u533a\u9234\u862d\u53f0\u5317\u753a3-8-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5317\u533a",
+        "\u7def\u5ea6": "34.729667",
+        "FAX\u756a\u53f7": "078-591-1762"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.137699",
+          "34.738394"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u6cc9\u53f0\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-593-7771",
+        "\u90f5\u4fbf\u756a\u53f7": "651-1141",
+        "\u65bd\u8a2dID": "740",
+        "\u7d4c\u5ea6": "135.137699",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5317\u533a\u6cc9\u53f03-1-4",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5317\u533a",
+        "\u7def\u5ea6": "34.738394",
+        "FAX\u756a\u53f7": "078-593-8671"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.140957",
+          "34.725364"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u9234\u862d\u53f0\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-592-8181",
+        "\u90f5\u4fbf\u756a\u53f7": "651-1113",
+        "\u65bd\u8a2dID": "741",
+        "\u7d4c\u5ea6": "135.140957",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5317\u533a\u9234\u862d\u53f0\u5357\u753a2-14-24",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5317\u533a",
+        "\u7def\u5ea6": "34.725364",
+        "FAX\u756a\u53f7": "078-592-8182"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.136421",
+          "34.730583"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u5317\u4e94\u8449\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-591-1196",
+        "\u90f5\u4fbf\u756a\u53f7": "651-1131",
+        "\u65bd\u8a2dID": "742",
+        "\u7d4c\u5ea6": "135.136421",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5317\u533a\u5317\u4e94\u84493-7-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5317\u533a",
+        "\u7def\u5ea6": "34.730583",
+        "FAX\u756a\u53f7": "078-591-1198"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.133599",
+          "34.722081"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u5357\u4e94\u8449\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-591-1314",
+        "\u90f5\u4fbf\u756a\u53f7": "651-1132",
+        "\u65bd\u8a2dID": "743",
+        "\u7d4c\u5ea6": "135.133599",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5317\u533a\u5357\u4e94\u84493-1-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5317\u533a",
+        "\u7def\u5ea6": "34.722081",
+        "FAX\u756a\u53f7": "078-591-0211"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.136146",
+          "34.714357"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u541b\u5f71\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-592-0059",
+        "\u90f5\u4fbf\u756a\u53f7": "651-1122",
+        "\u65bd\u8a2dID": "744",
+        "\u7d4c\u5ea6": "135.136146",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5317\u533a\u541b\u5f71\u753a1-11-13",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5317\u533a",
+        "\u7def\u5ea6": "34.714357",
+        "FAX\u756a\u53f7": "078-592-0099"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.123746",
+          "34.723903"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u661f\u548c\u53f0\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-593-8200",
+        "\u90f5\u4fbf\u756a\u53f7": "651-1121",
+        "\u65bd\u8a2dID": "745",
+        "\u7d4c\u5ea6": "135.123746",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5317\u533a\u661f\u548c\u53f06-21",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5317\u533a",
+        "\u7def\u5ea6": "34.723903",
+        "FAX\u756a\u53f7": "078-593-8107"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.125149",
+          "34.698223"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u3072\u3088\u3069\u308a\u53f0\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-743-0062",
+        "\u90f5\u4fbf\u756a\u53f7": "651-1123",
+        "\u65bd\u8a2dID": "746",
+        "\u7d4c\u5ea6": "135.125149",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5317\u533a\u3072\u3088\u3069\u308a\u53f03-3",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5317\u533a",
+        "\u7def\u5ea6": "34.698223",
+        "FAX\u756a\u53f7": "078-743-0063"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.113057",
+          "34.735252"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u85cd\u90a3\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-591-0367",
+        "\u90f5\u4fbf\u756a\u53f7": "651-1104",
+        "\u65bd\u8a2dID": "747",
+        "\u7d4c\u5ea6": "135.113057",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5317\u533a\u5c71\u7530\u753a\u85cd\u90a3\u5b57\u86c7\u8c371-10",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5317\u533a",
+        "\u7def\u5ea6": "34.735252",
+        "FAX\u756a\u53f7": "078-591-0377"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.23228",
+          "34.869862"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u9053\u5834\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-985-4016",
+        "\u90f5\u4fbf\u756a\u53f7": "651-1502",
+        "\u65bd\u8a2dID": "748",
+        "\u7d4c\u5ea6": "135.23228",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5317\u533a\u9053\u5834\u753a\u5869\u75301460",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5317\u533a",
+        "\u7def\u5ea6": "34.869862",
+        "FAX\u756a\u53f7": "078-985-3957"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.195698",
+          "34.822448"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u516b\u591a\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-982-0048",
+        "\u90f5\u4fbf\u756a\u53f7": "651-1343",
+        "\u65bd\u8a2dID": "749",
+        "\u7d4c\u5ea6": "135.195698",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5317\u533a\u516b\u591a\u753a\u9644\u7269876",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5317\u533a",
+        "\u7def\u5ea6": "34.822448",
+        "FAX\u756a\u53f7": "078-982-7248"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.165184",
+          "34.855076"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u5927\u6ca2\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-954-0310",
+        "\u90f5\u4fbf\u756a\u53f7": "651-1524",
+        "\u65bd\u8a2dID": "750",
+        "\u7d4c\u5ea6": "135.165184",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5317\u533a\u5927\u6ca2\u753a\u4e2d\u5927\u6ca2976",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5317\u533a",
+        "\u7def\u5ea6": "34.855076",
+        "FAX\u756a\u53f7": "078-954-0019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.194504",
+          "34.865703"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u9577\u5c3e\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-986-2074",
+        "\u90f5\u4fbf\u756a\u53f7": "651-1515",
+        "\u65bd\u8a2dID": "751",
+        "\u7d4c\u5ea6": "135.194504",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5317\u533a\u4e0a\u6d25\u53f03-4-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5317\u533a",
+        "\u7def\u5ea6": "34.865703",
+        "FAX\u756a\u53f7": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.218332",
+          "34.861015"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u9e7f\u306e\u5b50\u53f0\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-952-1720",
+        "\u90f5\u4fbf\u756a\u53f7": "651-1513",
+        "\u65bd\u8a2dID": "752",
+        "\u7d4c\u5ea6": "135.218332",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5317\u533a\u9e7f\u306e\u5b50\u53f0\u5317\u753a6-34-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5317\u533a",
+        "\u7def\u5ea6": "34.861015",
+        "FAX\u756a\u53f7": "078-952-1721"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.150196",
+          "34.822456"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u597d\u5fb3\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-958-0004",
+        "\u90f5\u4fbf\u756a\u53f7": "651-1623",
+        "\u65bd\u8a2dID": "753",
+        "\u7d4c\u5ea6": "135.150196",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5317\u533a\u6de1\u6cb3\u753a\u91ce\u702c487",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5317\u533a",
+        "\u7def\u5ea6": "34.822456",
+        "FAX\u756a\u53f7": "078-958-0006"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.102089",
+          "34.816323"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u6de1\u6cb3\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-959-0113",
+        "\u90f5\u4fbf\u756a\u53f7": "651-1615",
+        "\u65bd\u8a2dID": "754",
+        "\u7d4c\u5ea6": "135.102089",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5317\u533a\u6de1\u6cb3\u753a\u8429\u539f524",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5317\u533a",
+        "\u7def\u5ea6": "34.816323",
+        "FAX\u756a\u53f7": "078-959-0114"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.154359",
+          "34.673481"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u5ba4\u5185\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-691-0917",
+        "\u90f5\u4fbf\u756a\u53f7": "653-0803",
+        "\u65bd\u8a2dID": "755",
+        "\u7d4c\u5ea6": "135.154359",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u9577\u7530\u533a\u524d\u539f\u753a1-17-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u9577\u7530\u533a",
+        "\u7def\u5ea6": "34.673481",
+        "FAX\u756a\u53f7": "078-691-0918"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.148132",
+          "34.679983"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u540d\u5009\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-691-6181",
+        "\u90f5\u4fbf\u756a\u53f7": "653-0801",
+        "\u65bd\u8a2dID": "756",
+        "\u7d4c\u5ea6": "135.148132",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u9577\u7530\u533a\u623f\u738b\u5bfa\u753a4-7-15",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u9577\u7530\u533a",
+        "\u7def\u5ea6": "34.679983",
+        "FAX\u756a\u53f7": "078-691-6182"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.134738",
+          "34.691218"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u96f2\u96c0\u4e18\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-621-6021",
+        "\u90f5\u4fbf\u756a\u53f7": "653-0879",
+        "\u65bd\u8a2dID": "757",
+        "\u7d4c\u5ea6": "135.134738",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u9577\u7530\u533a\u96f2\u96c0\u30f6\u4e181-1-2",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u9577\u7530\u533a",
+        "\u7def\u5ea6": "34.691218",
+        "FAX\u756a\u53f7": "078-621-6022"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.137558",
+          "34.686433"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u4e38\u5c71\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-691-8552",
+        "\u90f5\u4fbf\u756a\u53f7": "653-0875",
+        "\u65bd\u8a2dID": "758",
+        "\u7d4c\u5ea6": "135.137558",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u9577\u7530\u533a\u897f\u4e38\u5c71\u753a3-2-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u9577\u7530\u533a",
+        "\u7def\u5ea6": "34.686433",
+        "FAX\u756a\u53f7": "078-691-8553"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.147306",
+          "34.672204"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u5bae\u5ddd\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-631-2721",
+        "\u90f5\u4fbf\u756a\u53f7": "653-0812",
+        "\u65bd\u8a2dID": "759",
+        "\u7d4c\u5ea6": "135.147306",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u9577\u7530\u533a\u9577\u7530\u753a4-1-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u9577\u7530\u533a",
+        "\u7def\u5ea6": "34.672204",
+        "FAX\u756a\u53f7": "078-631-2722"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.144943",
+          "34.668026"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u6c60\u7530\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-691-1661",
+        "\u90f5\u4fbf\u756a\u53f7": "653-0824",
+        "\u65bd\u8a2dID": "760",
+        "\u7d4c\u5ea6": "135.144943",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u9577\u7530\u533a\u6c60\u7530\u4e0a\u753a19",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u9577\u7530\u533a",
+        "\u7def\u5ea6": "34.668026",
+        "FAX\u756a\u53f7": "078-691-1662"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.143138",
+          "34.66261"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u84ee\u6c60\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-691-4215",
+        "\u90f5\u4fbf\u756a\u53f7": "653-0838",
+        "\u65bd\u8a2dID": "761",
+        "\u7d4c\u5ea6": "135.143138",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u9577\u7530\u533a\u5927\u8c37\u753a1-1-10",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u9577\u7530\u533a",
+        "\u7def\u5ea6": "34.66261",
+        "FAX\u756a\u53f7": "078-691-4216"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.143002",
+          "34.672345"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u9577\u7530\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-631-2731",
+        "\u90f5\u4fbf\u756a\u53f7": "653-0862",
+        "\u65bd\u8a2dID": "762",
+        "\u7d4c\u5ea6": "135.143002",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u9577\u7530\u533a\u897f\u5c71\u753a2-4-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u9577\u7530\u533a",
+        "\u7def\u5ea6": "34.672345",
+        "FAX\u756a\u53f7": "078-631-2732"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.136352",
+          "34.666071"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u4e94\u4f4d\u306e\u6c60\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-631-2741",
+        "\u90f5\u4fbf\u756a\u53f7": "653-0851",
+        "\u65bd\u8a2dID": "763",
+        "\u7d4c\u5ea6": "135.136352",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u9577\u7530\u533a\u4e94\u4f4d\u30ce\u6c60\u753a2-3-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u9577\u7530\u533a",
+        "\u7def\u5ea6": "34.666071",
+        "FAX\u756a\u53f7": "078-631-2742"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.155181",
+          "34.665968"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u5fa1\u8535\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-575-2226",
+        "\u90f5\u4fbf\u756a\u53f7": "653-0013",
+        "\u65bd\u8a2dID": "764",
+        "\u7d4c\u5ea6": "135.155181",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u9577\u7530\u533a\u4e00\u756a\u753a4-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u9577\u7530\u533a",
+        "\u7def\u5ea6": "34.665968",
+        "FAX\u756a\u53f7": "078-575-2229"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.154095",
+          "34.657002"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u771f\u91ce\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-671-0190",
+        "\u90f5\u4fbf\u756a\u53f7": "653-0032",
+        "\u65bd\u8a2dID": "765",
+        "\u7d4c\u5ea6": "135.154095",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u9577\u7530\u533a\u82c5\u85fb\u901a3-4-32",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u9577\u7530\u533a",
+        "\u7def\u5ea6": "34.657002",
+        "FAX\u756a\u53f7": "078-671-7311"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.14997",
+          "34.661917"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u9577\u7530\u5357\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-691-1702",
+        "\u90f5\u4fbf\u756a\u53f7": "653-0836",
+        "\u65bd\u8a2dID": "766",
+        "\u7d4c\u5ea6": "135.14997",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u9577\u7530\u533a\u795e\u697d\u753a1-3-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u9577\u7530\u533a",
+        "\u7def\u5ea6": "34.661917",
+        "FAX\u756a\u53f7": "078-691-1722"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.151293",
+          "34.65548"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u771f\u967d\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-611-0456",
+        "\u90f5\u4fbf\u756a\u53f7": "653-0042",
+        "\u65bd\u8a2dID": "767",
+        "\u7d4c\u5ea6": "135.151293",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u9577\u7530\u533a\u4e8c\u8449\u753a1-5-5",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u9577\u7530\u533a",
+        "\u7def\u5ea6": "34.65548",
+        "FAX\u756a\u53f7": "078-611-0457"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.14133",
+          "34.650192"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u99d2\u30b1\u6797\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-731-7061",
+        "\u90f5\u4fbf\u756a\u53f7": "653-0051",
+        "\u65bd\u8a2dID": "768",
+        "\u7d4c\u5ea6": "135.14133",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u9577\u7530\u533a\u91ce\u7530\u753a6-1-16",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u9577\u7530\u533a",
+        "\u7def\u5ea6": "34.650192",
+        "FAX\u756a\u53f7": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.134486",
+          "34.65393"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u3060\u3044\u3061\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-739-1502",
+        "\u90f5\u4fbf\u756a\u53f7": "654-0026",
+        "\u65bd\u8a2dID": "769",
+        "\u7d4c\u5ea6": "135.134486",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u9808\u78e8\u533a\u5927\u6c60\u753a5-15-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u9808\u78e8\u533a",
+        "\u7def\u5ea6": "34.65393",
+        "FAX\u756a\u53f7": "078-735-1631"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.131403",
+          "34.646292"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u82e5\u5bae\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-731-0007",
+        "\u90f5\u4fbf\u756a\u53f7": "654-0049",
+        "\u65bd\u8a2dID": "770",
+        "\u7d4c\u5ea6": "135.131403",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u9808\u78e8\u533a\u82e5\u5bae\u753a2-1-21",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u9808\u78e8\u533a",
+        "\u7def\u5ea6": "34.646292",
+        "FAX\u756a\u53f7": "078-731-0025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.12036",
+          "34.646575"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u897f\u9808\u78e8\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-731-0295",
+        "\u90f5\u4fbf\u756a\u53f7": "654-0052",
+        "\u65bd\u8a2dID": "771",
+        "\u7d4c\u5ea6": "135.12036",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u9808\u78e8\u533a\u884c\u5e78\u753a3-4-18",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u9808\u78e8\u533a",
+        "\u7def\u5ea6": "34.646575",
+        "FAX\u756a\u53f7": "078-731-0296"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.115292",
+          "34.652726"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u5317\u9808\u78e8\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-731-8149",
+        "\u90f5\u4fbf\u756a\u53f7": "654-0067",
+        "\u65bd\u8a2dID": "772",
+        "\u7d4c\u5ea6": "135.115292",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u9808\u78e8\u533a\u96e2\u5bae\u897f\u753a2-1-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u9808\u78e8\u533a",
+        "\u7def\u5ea6": "34.652726",
+        "FAX\u756a\u53f7": "078-731-8192"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.104122",
+          "34.656266"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u9ad8\u5009\u53f0\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-734-1766",
+        "\u90f5\u4fbf\u756a\u53f7": "654-0081",
+        "\u65bd\u8a2dID": "773",
+        "\u7d4c\u5ea6": "135.104122",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u9808\u78e8\u533a\u9ad8\u5009\u53f04-1-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u9808\u78e8\u533a",
+        "\u7def\u5ea6": "34.656266",
+        "FAX\u756a\u53f7": "078-734-1769"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.094289",
+          "34.668861"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u591a\u4e95\u7551\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-792-0450",
+        "\u90f5\u4fbf\u756a\u53f7": "654-0142",
+        "\u65bd\u8a2dID": "774",
+        "\u7d4c\u5ea6": "135.094289",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u9808\u78e8\u533a\u53cb\u304c\u4e183-106",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u9808\u78e8\u533a",
+        "\u7def\u5ea6": "34.668861",
+        "FAX\u756a\u53f7": "078-792-0454"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.133278",
+          "34.662899"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u677f\u5bbf\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-732-4055",
+        "\u90f5\u4fbf\u756a\u53f7": "654-0008",
+        "\u65bd\u8a2dID": "775",
+        "\u7d4c\u5ea6": "135.133278",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u9808\u78e8\u533a\u83ca\u6c60\u753a1-1-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u9808\u78e8\u533a",
+        "\u7def\u5ea6": "34.662899",
+        "FAX\u756a\u53f7": "078-732-4056"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.127651",
+          "34.654808"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u6771\u9808\u78e8\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-731-0448",
+        "\u90f5\u4fbf\u756a\u53f7": "654-0032",
+        "\u65bd\u8a2dID": "776",
+        "\u7d4c\u5ea6": "135.127651",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u9808\u78e8\u533a\u5800\u6c60\u753a1-2-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u9808\u78e8\u533a",
+        "\u7def\u5ea6": "34.654808",
+        "FAX\u756a\u53f7": "078-731-0449"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.114777",
+          "34.687639"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u82e5\u8349\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-743-7311",
+        "\u90f5\u4fbf\u756a\u53f7": "654-0112",
+        "\u65bd\u8a2dID": "777",
+        "\u7d4c\u5ea6": "135.114777",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u9808\u78e8\u533a\u82e5\u8349\u753a1-13",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u9808\u78e8\u533a",
+        "\u7def\u5ea6": "34.687639",
+        "FAX\u756a\u53f7": "078-743-7312"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.117003",
+          "34.676166"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u5999\u6cd5\u5bfa\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-741-2559",
+        "\u90f5\u4fbf\u756a\u53f7": "654-0121",
+        "\u65bd\u8a2dID": "778",
+        "\u7d4c\u5ea6": "135.117003",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u9808\u78e8\u533a\u5999\u6cd5\u5bfa\u5b57\u685c\u754c\u5730106-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u9808\u78e8\u533a",
+        "\u7def\u5ea6": "34.676166",
+        "FAX\u756a\u53f7": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.111689",
+          "34.67047"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u6a2a\u5c3e\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-743-4511",
+        "\u90f5\u4fbf\u756a\u53f7": "654-0131",
+        "\u65bd\u8a2dID": "779",
+        "\u7d4c\u5ea6": "135.111689",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u9808\u78e8\u533a\u6a2a\u5c3e5-3",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u9808\u78e8\u533a",
+        "\u7def\u5ea6": "34.67047",
+        "FAX\u756a\u53f7": "078-743-4512"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.100652",
+          "34.696228"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u767d\u5ddd\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-792-2619",
+        "\u90f5\u4fbf\u756a\u53f7": "654-0103",
+        "\u65bd\u8a2dID": "780",
+        "\u7d4c\u5ea6": "135.100652",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u9808\u78e8\u533a\u767d\u5ddd\u53f07-3-2",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u9808\u78e8\u533a",
+        "\u7def\u5ea6": "34.696228",
+        "FAX\u756a\u53f7": "078-792-2602"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.085439",
+          "34.688535"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u795e\u306e\u8c37\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-791-8277",
+        "\u90f5\u4fbf\u756a\u53f7": "654-0162",
+        "\u65bd\u8a2dID": "781",
+        "\u7d4c\u5ea6": "135.085439",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u9808\u78e8\u533a\u795e\u306e\u8c375-1-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u9808\u78e8\u533a",
+        "\u7def\u5ea6": "34.688535",
+        "FAX\u756a\u53f7": "078-791-8278"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.092228",
+          "34.686765"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u677e\u5c3e\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-791-8422",
+        "\u90f5\u4fbf\u756a\u53f7": "654-0151",
+        "\u65bd\u8a2dID": "782",
+        "\u7d4c\u5ea6": "135.092228",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u9808\u78e8\u533a\u5317\u843d\u54082-13-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u9808\u78e8\u533a",
+        "\u7def\u5ea6": "34.686765",
+        "FAX\u756a\u53f7": "078-791-8616"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.101357",
+          "34.685072"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u6771\u843d\u5408\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-793-1844",
+        "\u90f5\u4fbf\u756a\u53f7": "654-0152",
+        "\u65bd\u8a2dID": "783",
+        "\u7d4c\u5ea6": "135.101357",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u9808\u78e8\u533a\u6771\u843d\u54082-18-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u9808\u78e8\u533a",
+        "\u7def\u5ea6": "34.685072",
+        "FAX\u756a\u53f7": "078-793-1845"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.101516",
+          "34.680222"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u82b1\u8c37\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-791-8272",
+        "\u90f5\u4fbf\u756a\u53f7": "654-0152",
+        "\u65bd\u8a2dID": "784",
+        "\u7d4c\u5ea6": "135.101516",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u9808\u78e8\u533a\u6771\u843d\u54081-4-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u9808\u78e8\u533a",
+        "\u7def\u5ea6": "34.680222",
+        "FAX\u756a\u53f7": "078-791-8273"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.101469",
+          "34.676311"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u5357\u843d\u5408\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-792-5244",
+        "\u90f5\u4fbf\u756a\u53f7": "654-0153",
+        "\u65bd\u8a2dID": "785",
+        "\u7d4c\u5ea6": "135.101469",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u9808\u78e8\u533a\u5357\u843d\u54083-11-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u9808\u78e8\u533a",
+        "\u7def\u5ea6": "34.676311",
+        "FAX\u756a\u53f7": "078-792-5245"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.089234",
+          "34.681938"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u897f\u843d\u5408\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-792-5556",
+        "\u90f5\u4fbf\u756a\u53f7": "654-0155",
+        "\u65bd\u8a2dID": "786",
+        "\u7d4c\u5ea6": "135.089234",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u9808\u78e8\u533a\u897f\u843d\u54087-1-3",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u9808\u78e8\u533a",
+        "\u7def\u5ea6": "34.681938",
+        "FAX\u756a\u53f7": "078-792-5557"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.091162",
+          "34.674541"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u7adc\u304c\u53f0\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-793-1833",
+        "\u90f5\u4fbf\u756a\u53f7": "654-0141",
+        "\u65bd\u8a2dID": "787",
+        "\u7d4c\u5ea6": "135.091162",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u9808\u78e8\u533a\u7adc\u304c\u53f06-15-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u9808\u78e8\u533a",
+        "\u7def\u5ea6": "34.674541",
+        "FAX\u756a\u53f7": "078-793-1834"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.083518",
+          "34.672261"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u83c5\u306e\u53f0\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-791-0233",
+        "\u90f5\u4fbf\u756a\u53f7": "654-0143",
+        "\u65bd\u8a2dID": "788",
+        "\u7d4c\u5ea6": "135.083518",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u9808\u78e8\u533a\u83c5\u306e\u53f04-3-2",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u9808\u78e8\u533a",
+        "\u7def\u5ea6": "34.672261",
+        "FAX\u756a\u53f7": "078-791-0234"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.090654",
+          "34.64703"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u5869\u5c4b\u5317\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-752-7575",
+        "\u90f5\u4fbf\u756a\u53f7": "655-0863",
+        "\u65bd\u8a2dID": "789",
+        "\u7d4c\u5ea6": "135.090654",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5782\u6c34\u533a\u5869\u5c4b\u5317\u753a4-10-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5782\u6c34\u533a",
+        "\u7def\u5ea6": "34.64703",
+        "FAX\u756a\u53f7": "078-752-7541"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.083159",
+          "34.65596"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u4e0b\u7551\u53f0\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-752-6780",
+        "\u90f5\u4fbf\u756a\u53f7": "655-0854",
+        "\u65bd\u8a2dID": "790",
+        "\u7d4c\u5ea6": "135.083159",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5782\u6c34\u533a\u6843\u5c71\u53f03-20",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5782\u6c34\u533a",
+        "\u7def\u5ea6": "34.65596",
+        "FAX\u756a\u53f7": "078-752-6781"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.078779",
+          "34.657363"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u3064\u3064\u3058\u304c\u4e18\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-709-7751",
+        "\u90f5\u4fbf\u756a\u53f7": "655-0853",
+        "\u65bd\u8a2dID": "791",
+        "\u7d4c\u5ea6": "135.078779",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5782\u6c34\u533a\u3064\u3064\u3058\u304c\u4e183-1385-79",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5782\u6c34\u533a",
+        "\u7def\u5ea6": "34.657363",
+        "FAX\u756a\u53f7": "078-709-7752"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.081419",
+          "34.638015"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u5869\u5c4b\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-751-4400",
+        "\u90f5\u4fbf\u756a\u53f7": "655-0872",
+        "\u65bd\u8a2dID": "792",
+        "\u7d4c\u5ea6": "135.081419",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5782\u6c34\u533a\u5869\u5c4b\u753a3-18-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5782\u6c34\u533a",
+        "\u7def\u5ea6": "34.638015",
+        "FAX\u756a\u53f7": "078-751\uff0d4401"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.071187",
+          "34.640384"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u4e59\u6728\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-752-4205",
+        "\u90f5\u4fbf\u756a\u53f7": "655-0874",
+        "\u65bd\u8a2dID": "793",
+        "\u7d4c\u5ea6": "135.071187",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5782\u6c34\u533a\u7f8e\u5c71\u53f02-1-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5782\u6c34\u533a",
+        "\u7def\u5ea6": "34.640384",
+        "FAX\u756a\u53f7": "078-751-4397"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.071048",
+          "34.634843"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u6771\u5782\u6c34\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-751-2623",
+        "\u90f5\u4fbf\u756a\u53f7": "655-0883",
+        "\u65bd\u8a2dID": "794",
+        "\u7d4c\u5ea6": "135.071048",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5782\u6c34\u533a\u738b\u5c45\u6bbf2-5-25",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5782\u6c34\u533a",
+        "\u7def\u5ea6": "34.634843",
+        "FAX\u756a\u53f7": "078-751-2624"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.070986",
+          "34.66332"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u540d\u8c37\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-707-2481",
+        "\u90f5\u4fbf\u756a\u53f7": "655-0852",
+        "\u65bd\u8a2dID": "795",
+        "\u7d4c\u5ea6": "135.070986",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5782\u6c34\u533a\u540d\u8c37\u753a1896",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5782\u6c34\u533a",
+        "\u7def\u5ea6": "34.66332",
+        "FAX\u756a\u53f7": "078-709-6846"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.066312",
+          "34.641201"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u798f\u7530\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-753-3515",
+        "\u90f5\u4fbf\u756a\u53f7": "655-0882",
+        "\u65bd\u8a2dID": "796",
+        "\u7d4c\u5ea6": "135.066312",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5782\u6c34\u533a\u4e59\u67283-3-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5782\u6c34\u533a",
+        "\u7def\u5ea6": "34.641201",
+        "FAX\u756a\u53f7": "078-753-3517"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.061388",
+          "34.638118"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u9ad8\u4e38\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-707-8877",
+        "\u90f5\u4fbf\u756a\u53f7": "655-0014",
+        "\u65bd\u8a2dID": "797",
+        "\u7d4c\u5ea6": "135.061388",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5782\u6c34\u533a\u5927\u753a2-6-9",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5782\u6c34\u533a",
+        "\u7def\u5ea6": "34.638118",
+        "FAX\u756a\u53f7": "078-707-8878"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.058129",
+          "34.64335"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u5343\u9ce5\u304c\u4e18\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-709-1655",
+        "\u90f5\u4fbf\u756a\u53f7": "655-0011",
+        "\u65bd\u8a2dID": "798",
+        "\u7d4c\u5ea6": "135.058129",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5782\u6c34\u533a\u5343\u9ce5\u304c\u4e183-10-37",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5782\u6c34\u533a",
+        "\u7def\u5ea6": "34.64335",
+        "FAX\u756a\u53f7": "078-709-1656"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.051391",
+          "34.641472"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u5343\u4ee3\u304c\u4e18\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-708-8801",
+        "\u90f5\u4fbf\u756a\u53f7": "655-0017",
+        "\u65bd\u8a2dID": "799",
+        "\u7d4c\u5ea6": "135.051391",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5782\u6c34\u533a\u4e0a\u9ad8\u4e381-4-2",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5782\u6c34\u533a",
+        "\u7def\u5ea6": "34.641472",
+        "FAX\u756a\u53f7": "078-708-8802"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.05588",
+          "34.631579"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u5782\u6c34\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-707-6006",
+        "\u90f5\u4fbf\u756a\u53f7": "655-0893",
+        "\u65bd\u8a2dID": "800",
+        "\u7d4c\u5ea6": "135.05588",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5782\u6c34\u533a\u65e5\u54112-4-6",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5782\u6c34\u533a",
+        "\u7def\u5ea6": "34.631579",
+        "FAX\u756a\u53f7": "078-707-6007"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.042761",
+          "34.633373"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u971e\u30b1\u4e18\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-706-0156",
+        "\u90f5\u4fbf\u756a\u53f7": "655-0039",
+        "\u65bd\u8a2dID": "801",
+        "\u7d4c\u5ea6": "135.042761",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5782\u6c34\u533a\u971e\u30f6\u4e184-6-16",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5782\u6c34\u533a",
+        "\u7def\u5ea6": "34.633373",
+        "FAX\u756a\u53f7": "078-706-0157"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.0365",
+          "34.63937"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u6771\u821e\u5b50\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-782-2712",
+        "\u90f5\u4fbf\u756a\u53f7": "655-0046",
+        "\u65bd\u8a2dID": "802",
+        "\u7d4c\u5ea6": "135.0365",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5782\u6c34\u533a\u821e\u5b50\u53f04-10-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5782\u6c34\u533a",
+        "\u7def\u5ea6": "34.63937",
+        "FAX\u756a\u53f7": "078-782-2713"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.030362",
+          "34.643808"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u821e\u5b50\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-782-2332",
+        "\u90f5\u4fbf\u756a\u53f7": "655-0048",
+        "\u65bd\u8a2dID": "803",
+        "\u7d4c\u5ea6": "135.030362",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5782\u6c34\u533a\u897f\u821e\u5b504-7-43",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5782\u6c34\u533a",
+        "\u7def\u5ea6": "34.643808",
+        "FAX\u756a\u53f7": "078-782-2333"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.030737",
+          "34.649735"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u897f\u821e\u5b50\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-781-0004",
+        "\u90f5\u4fbf\u756a\u53f7": "655-0049",
+        "\u65bd\u8a2dID": "804",
+        "\u7d4c\u5ea6": "135.030737",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5782\u6c34\u533a\u72e9\u53e3\u53f03-1-2",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5782\u6c34\u533a",
+        "\u7def\u5ea6": "34.649735",
+        "FAX\u756a\u53f7": "078-781-0005"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.038475",
+          "34.655837"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u897f\u8107\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-781-9531",
+        "\u90f5\u4fbf\u756a\u53f7": "655-0042",
+        "\u65bd\u8a2dID": "805",
+        "\u7d4c\u5ea6": "135.038475",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5782\u6c34\u533a\u897f\u81071-8-6",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5782\u6c34\u533a",
+        "\u7def\u5ea6": "34.655837",
+        "FAX\u756a\u53f7": "078-781-9532"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.046775",
+          "34.65288"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u591a\u805e\u5357\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-783-5877",
+        "\u90f5\u4fbf\u756a\u53f7": "655-0006",
+        "\u65bd\u8a2dID": "806",
+        "\u7d4c\u5ea6": "135.046775",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5782\u6c34\u533a\u672c\u591a\u805e5-2-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5782\u6c34\u533a",
+        "\u7def\u5ea6": "34.65288",
+        "FAX\u756a\u53f7": "078-783-6202"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.055252",
+          "34.658574"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u591a\u805e\u6771\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-783-5868",
+        "\u90f5\u4fbf\u756a\u53f7": "655-0004",
+        "\u65bd\u8a2dID": "807",
+        "\u7d4c\u5ea6": "135.055252",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5782\u6c34\u533a\u5b66\u304c\u4e184-1-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5782\u6c34\u533a",
+        "\u7def\u5ea6": "34.658574",
+        "FAX\u756a\u53f7": "078-783-6116"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.061268",
+          "34.666492"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u5c0f\u675f\u5c71\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-784-2656",
+        "\u90f5\u4fbf\u756a\u53f7": "655-0002",
+        "\u65bd\u8a2dID": "808",
+        "\u7d4c\u5ea6": "135.061268",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5782\u6c34\u533a\u5c0f\u675f\u5c717-868-362",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5782\u6c34\u533a",
+        "\u7def\u5ea6": "34.666492",
+        "FAX\u756a\u53f7": "078-784-2657"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.048074",
+          "34.658082"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u672c\u591a\u805e\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-784-4477",
+        "\u90f5\u4fbf\u756a\u53f7": "655-0006",
+        "\u65bd\u8a2dID": "809",
+        "\u7d4c\u5ea6": "135.048074",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5782\u6c34\u533a\u672c\u591a\u805e4-4-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5782\u6c34\u533a",
+        "\u7def\u5ea6": "34.658082",
+        "FAX\u756a\u53f7": "078-784-4478"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.040111",
+          "34.662281"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u591a\u805e\u53f0\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-782-0375",
+        "\u90f5\u4fbf\u756a\u53f7": "655-0007",
+        "\u65bd\u8a2dID": "810",
+        "\u7d4c\u5ea6": "135.040111",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5782\u6c34\u533a\u591a\u805e\u53f03-9-29",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5782\u6c34\u533a",
+        "\u7def\u5ea6": "34.662281",
+        "FAX\u756a\u53f7": "078-782-0376"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.034031",
+          "34.659887"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u795e\u9675\u53f0\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-781-3843",
+        "\u90f5\u4fbf\u756a\u53f7": "655-0041",
+        "\u65bd\u8a2dID": "811",
+        "\u7d4c\u5ea6": "135.034031",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5782\u6c34\u533a\u795e\u9675\u53f03-1-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5782\u6c34\u533a",
+        "\u7def\u5ea6": "34.659887",
+        "FAX\u756a\u53f7": "078-781-3919"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.06471",
+          "34.685039"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u6771\u753a\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-794-4000",
+        "\u90f5\u4fbf\u756a\u53f7": "651-2102",
+        "\u65bd\u8a2dID": "812",
+        "\u7d4c\u5ea6": "135.06471",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u897f\u533a\u5b66\u5712\u6771\u753a5-5",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u897f\u533a",
+        "\u7def\u5ea6": "34.685039",
+        "FAX\u756a\u53f7": "078-794-4004"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.054609",
+          "34.68374"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u5c0f\u5bfa\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-791-2950",
+        "\u90f5\u4fbf\u756a\u53f7": "651-2103",
+        "\u65bd\u8a2dID": "813",
+        "\u7d4c\u5ea6": "135.054609",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u897f\u533a\u5b66\u5712\u897f\u753a5-5",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u897f\u533a",
+        "\u7def\u5ea6": "34.68374",
+        "FAX\u756a\u53f7": "078-791-2951"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.037469",
+          "34.66908"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u9577\u5742\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-974-2333",
+        "\u90f5\u4fbf\u756a\u53f7": "651-2104",
+        "\u65bd\u8a2dID": "814",
+        "\u7d4c\u5ea6": "135.037469",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u897f\u533a\u4f0a\u5ddd\u8c37\u753a\u9577\u5742\u5b57\u91cd\u585a910-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u897f\u533a",
+        "\u7def\u5ea6": "34.66908",
+        "FAX\u756a\u53f7": "078-974\uff0d2501"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.018668",
+          "34.664135"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u6709\u702c\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-974-2709",
+        "\u90f5\u4fbf\u756a\u53f7": "651-2113",
+        "\u65bd\u8a2dID": "815",
+        "\u7d4c\u5ea6": "135.018668",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u897f\u533a\u4f0a\u5ddd\u8c37\u753a\u6709\u702c\u5b57\u91d1\u4e95\u58341137-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u897f\u533a",
+        "\u7def\u5ea6": "34.664135",
+        "FAX\u756a\u53f7": "078-974-2710"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.055348",
+          "34.696255"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u592a\u5c71\u5bfa\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-974-0007",
+        "\u90f5\u4fbf\u756a\u53f7": "651-2108",
+        "\u65bd\u8a2dID": "816",
+        "\u7d4c\u5ea6": "135.055348",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u897f\u533a\u4f0a\u5ddd\u8c37\u753a\u524d\u958b860",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u897f\u533a",
+        "\u7def\u5ea6": "34.696255",
+        "FAX\u756a\u53f7": "078-974-2199"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.037864",
+          "34.704199"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u4e95\u5439\u6771\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-997-0820",
+        "\u90f5\u4fbf\u756a\u53f7": "651-2242",
+        "\u65bd\u8a2dID": "817",
+        "\u7d4c\u5ea6": "135.037864",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u897f\u533a\u4e95\u5439\u53f0\u6771\u753a5-32",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u897f\u533a",
+        "\u7def\u5ea6": "34.704199",
+        "FAX\u756a\u53f7": "078-997-0821"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.022924",
+          "34.693534"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u4e95\u5439\u897f\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-997-0114",
+        "\u90f5\u4fbf\u756a\u53f7": "651-2243",
+        "\u65bd\u8a2dID": "818",
+        "\u7d4c\u5ea6": "135.022924",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u897f\u533a\u4e95\u5439\u53f0\u897f\u753a4-3",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u897f\u533a",
+        "\u7def\u5ea6": "34.693534",
+        "FAX\u756a\u53f7": "078-997-0136"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.012426",
+          "34.671968"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u4f0a\u5ddd\u8c37\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-974-0006",
+        "\u90f5\u4fbf\u756a\u53f7": "651-2117",
+        "\u65bd\u8a2dID": "819",
+        "\u7d4c\u5ea6": "135.012426",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u897f\u533a\u5317\u5225\u5e9c3-3-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u897f\u533a",
+        "\u7def\u5ea6": "34.671968",
+        "FAX\u756a\u53f7": "078-974-3980"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.025535",
+          "34.710115"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u6ae8\u8c37\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-991-0004",
+        "\u90f5\u4fbf\u756a\u53f7": "651-2234",
+        "\u65bd\u8a2dID": "820",
+        "\u7d4c\u5ea6": "135.025535",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u897f\u533a\u6ae8\u8c37\u753a\u6c60\u8c37\u5b57\u5c71\u306e\u8c37203-2",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u897f\u533a",
+        "\u7def\u5ea6": "34.710115",
+        "FAX\u756a\u53f7": "078-991-1359"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.023433",
+          "34.719752"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u7cc0\u53f0\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-991-1635",
+        "\u90f5\u4fbf\u756a\u53f7": "651-2273",
+        "\u65bd\u8a2dID": "821",
+        "\u7d4c\u5ea6": "135.023433",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u897f\u533a\u7cc0\u53f03-32-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u897f\u533a",
+        "\u7def\u5ea6": "34.719752",
+        "FAX\u756a\u53f7": "078-991-1636"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.032394",
+          "34.722791"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u72e9\u5834\u53f0\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-991-3415",
+        "\u90f5\u4fbf\u756a\u53f7": "651-2272",
+        "\u65bd\u8a2dID": "822",
+        "\u7d4c\u5ea6": "135.032394",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u897f\u533a\u72e9\u5834\u53f03-6-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u897f\u533a",
+        "\u7def\u5ea6": "34.722791",
+        "FAX\u756a\u53f7": "078-991-3416"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.012582",
+          "34.712947"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u7af9\u306e\u53f0\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-991-4471",
+        "\u90f5\u4fbf\u756a\u53f7": "651-2274",
+        "\u65bd\u8a2dID": "823",
+        "\u7d4c\u5ea6": "135.012582",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u897f\u533a\u7af9\u306e\u53f02-10-2",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u897f\u533a",
+        "\u7def\u5ea6": "34.712947",
+        "FAX\u756a\u53f7": "078-991-4472"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.002047",
+          "34.706392"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u6a2b\u91ce\u53f0\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-992-2500",
+        "\u90f5\u4fbf\u756a\u53f7": "651-2275",
+        "\u65bd\u8a2dID": "824",
+        "\u7d4c\u5ea6": "135.002047",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u897f\u533a\u6a2b\u91ce\u53f03-3-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u897f\u533a",
+        "\u7def\u5ea6": "34.706392",
+        "FAX\u756a\u53f7": "078-992-2501"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.065369",
+          "34.742875"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u6728\u6d25\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-994-0003",
+        "\u90f5\u4fbf\u756a\u53f7": "651-2225",
+        "\u65bd\u8a2dID": "825",
+        "\u7d4c\u5ea6": "135.065369",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u897f\u533a\u685c\u304c\u4e18\u6771\u753a5-149-31",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u897f\u533a",
+        "\u7def\u5ea6": "34.742875",
+        "FAX\u756a\u53f7": "078-994-0071"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.058289",
+          "34.745138"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u685c\u304c\u4e18\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-994-8010",
+        "\u90f5\u4fbf\u756a\u53f7": "651-2226",
+        "\u65bd\u8a2dID": "826",
+        "\u7d4c\u5ea6": "135.058289",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u897f\u533a\u685c\u304c\u4e18\u4e2d\u753a3-3-2",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u897f\u533a",
+        "\u7def\u5ea6": "34.745138",
+        "FAX\u756a\u53f7": "078-994-8011"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.037726",
+          "34.755663"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u62bc\u90e8\u8c37\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-994-0002",
+        "\u90f5\u4fbf\u756a\u53f7": "651-2213",
+        "\u65bd\u8a2dID": "827",
+        "\u7d4c\u5ea6": "135.037726",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u897f\u533a\u62bc\u90e8\u8c37\u753a\u798f\u4f4f\u5b57\u56db\u5341\u4ee3552-3",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u897f\u533a",
+        "\u7def\u5ea6": "34.755663",
+        "FAX\u756a\u53f7": "078-994-0079"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.049128",
+          "34.759351"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u6708\u304c\u4e18\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-995-3171",
+        "\u90f5\u4fbf\u756a\u53f7": "651-2217",
+        "\u65bd\u8a2dID": "828",
+        "\u7d4c\u5ea6": "135.049128",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u897f\u533a\u6708\u304c\u4e187-2",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u897f\u533a",
+        "\u7def\u5ea6": "34.759351",
+        "FAX\u756a\u53f7": "078-995-3172"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.031387",
+          "34.762735"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u5317\u5c71\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-994-8020",
+        "\u90f5\u4fbf\u756a\u53f7": "651-2215",
+        "\u65bd\u8a2dID": "829",
+        "\u7d4c\u5ea6": "135.031387",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u897f\u533a\u5317\u5c71\u53f03-26-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u897f\u533a",
+        "\u7def\u5ea6": "34.762735",
+        "FAX\u756a\u53f7": "078-994-8021"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.012816",
+          "34.74112"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u9ad8\u548c\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-994-0004",
+        "\u90f5\u4fbf\u756a\u53f7": "651-2204",
+        "\u65bd\u8a2dID": "830",
+        "\u7d4c\u5ea6": "135.012816",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u897f\u533a\u62bc\u90e8\u8c37\u753a\u9ad8\u548c\u5b57\u6e9d\u7530565",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u897f\u533a",
+        "\u7def\u5ea6": "34.74112",
+        "FAX\u756a\u53f7": "078-994-2491"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "134.995244",
+          "34.670382"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u9ad8\u6d25\u6a4b\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-917-6501",
+        "\u90f5\u4fbf\u756a\u53f7": "651-2122",
+        "\u65bd\u8a2dID": "831",
+        "\u7d4c\u5ea6": "134.995244",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u897f\u533a\u7389\u6d25\u753a\u9ad8\u6d25\u6a4b\u5b57\u6c60\u30ce\u5185640-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u897f\u533a",
+        "\u7def\u5ea6": "34.670382",
+        "FAX\u756a\u53f7": "078-917-6502"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "134.987832",
+          "34.684794"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u7389\u6d25\u7b2c\u4e00\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-928-3790",
+        "\u90f5\u4fbf\u756a\u53f7": "651-2144",
+        "\u65bd\u8a2dID": "832",
+        "\u7d4c\u5ea6": "134.987832",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u897f\u533a\u5c0f\u5c711-4-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u897f\u533a",
+        "\u7def\u5ea6": "34.684794",
+        "FAX\u756a\u53f7": "078-928-3765"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "134.977866",
+          "34.664769"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u679d\u5409\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-928-0880",
+        "\u90f5\u4fbf\u756a\u53f7": "651-2133",
+        "\u65bd\u8a2dID": "833",
+        "\u7d4c\u5ea6": "134.977866",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u897f\u533a\u679d\u54092-95",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u897f\u533a",
+        "\u7def\u5ea6": "34.664769",
+        "FAX\u756a\u53f7": "078-928-0881"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "134.972675",
+          "34.677406"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u51fa\u5408\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-928-5516",
+        "\u90f5\u4fbf\u756a\u53f7": "651-2136",
+        "\u65bd\u8a2dID": "834",
+        "\u7d4c\u5ea6": "134.972675",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u897f\u533a\u4e2d\u91ce1-22-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u897f\u533a",
+        "\u7def\u5ea6": "34.677406",
+        "FAX\u756a\u53f7": "078-928-5517"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.005738",
+          "34.719749"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u7f8e\u8cc0\u591a\u53f0\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-991-7659",
+        "\u90f5\u4fbf\u756a\u53f7": "651-2277",
+        "\u65bd\u8a2dID": "835",
+        "\u7d4c\u5ea6": "135.005738",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u897f\u533a\u7f8e\u8cc0\u591a\u53f06-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u897f\u533a",
+        "\u7def\u5ea6": "34.719749",
+        "FAX\u756a\u53f7": "078-991-7661"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "134.995658",
+          "34.708842"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u6625\u65e5\u53f0\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-961-0251",
+        "\u90f5\u4fbf\u756a\u53f7": "651-2276",
+        "\u65bd\u8a2dID": "836",
+        "\u7d4c\u5ea6": "134.995658",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u897f\u533a\u6625\u65e5\u53f04-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u897f\u533a",
+        "\u7def\u5ea6": "34.708842",
+        "FAX\u756a\u53f7": "078-961-0252"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "134.982021",
+          "34.706222"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u5e73\u91ce\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-961-0011",
+        "\u90f5\u4fbf\u756a\u53f7": "651-2265",
+        "\u65bd\u8a2dID": "837",
+        "\u7d4c\u5ea6": "134.982021",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u897f\u533a\u5e73\u91ce\u753a\u5bae\u524d301",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u897f\u533a",
+        "\u7def\u5ea6": "34.706222",
+        "FAX\u756a\u53f7": "078-961-0026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "134.987736",
+          "34.747371"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u795e\u51fa\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-965-0006",
+        "\u90f5\u4fbf\u756a\u53f7": "651-2313",
+        "\u65bd\u8a2dID": "838",
+        "\u7d4c\u5ea6": "134.987736",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u897f\u533a\u795e\u51fa\u753a\u7530\u4e95444",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u897f\u533a",
+        "\u7def\u5ea6": "34.747371",
+        "FAX\u756a\u53f7": "078-965-3344"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "134.944293",
+          "34.71823"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u5ca9\u5ca1\u5c0f\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-967-0013",
+        "\u90f5\u4fbf\u756a\u53f7": "651-2404",
+        "\u65bd\u8a2dID": "839",
+        "\u7d4c\u5ea6": "134.944293",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u897f\u533a\u5ca9\u5ca1\u753a\u53e4\u90f7267",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u5c0f\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u897f\u533a",
+        "\u7def\u5ea6": "34.71823",
+        "FAX\u756a\u53f7": "078-967-2110"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.287453",
+          "34.720506"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u672c\u5e84\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-411-2261",
+        "\u90f5\u4fbf\u756a\u53f7": "658-0027",
+        "\u65bd\u8a2dID": "840",
+        "\u7d4c\u5ea6": "135.287453",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u6771\u7058\u533a\u9752\u67284-4-2",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u6771\u7058\u533a",
+        "\u7def\u5ea6": "34.720506",
+        "FAX\u756a\u53f7": "078-411-2262"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.279343",
+          "34.712951"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u9b5a\u5d0e\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-411-1631",
+        "\u90f5\u4fbf\u756a\u53f7": "658-0025",
+        "\u65bd\u8a2dID": "841",
+        "\u7d4c\u5ea6": "135.279343",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u6771\u7058\u533a\u9b5a\u5d0e\u5357\u753a1-2-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u6771\u7058\u533a",
+        "\u7def\u5ea6": "34.712951",
+        "FAX\u756a\u53f7": "078-411-1632"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.270485",
+          "34.722997"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u672c\u5c71\u5357\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-412-2033",
+        "\u90f5\u4fbf\u756a\u53f7": "658-0081",
+        "\u65bd\u8a2dID": "842",
+        "\u7d4c\u5ea6": "135.270485",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u6771\u7058\u533a\u7530\u4e2d\u753a4-12-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u6771\u7058\u533a",
+        "\u7def\u5ea6": "34.722997",
+        "FAX\u756a\u53f7": "078-412-2034"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.270849",
+          "34.725541"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u672c\u5c71\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-411-3742",
+        "\u90f5\u4fbf\u756a\u53f7": "658-0072",
+        "\u65bd\u8a2dID": "843",
+        "\u7d4c\u5ea6": "135.270849",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u6771\u7058\u533a\u5ca1\u672c3-3-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u6771\u7058\u533a",
+        "\u7def\u5ea6": "34.725541",
+        "FAX\u756a\u53f7": "078-411-3743"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.258666",
+          "34.725885"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u4f4f\u5409\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-851-3752",
+        "\u90f5\u4fbf\u756a\u53f7": "658-0063",
+        "\u65bd\u8a2dID": "844",
+        "\u7d4c\u5ea6": "135.258666",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u6771\u7058\u533a\u4f4f\u5409\u5c71\u624b1-11-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u6771\u7058\u533a",
+        "\u7def\u5ea6": "34.725885",
+        "FAX\u756a\u53f7": "078-851-3225"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.253072",
+          "34.716059"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u5fa1\u5f71\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-841-2541",
+        "\u90f5\u4fbf\u756a\u53f7": "658-0054",
+        "\u65bd\u8a2dID": "845",
+        "\u7d4c\u5ea6": "135.253072",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u6771\u7058\u533a\u5fa1\u5f71\u4e2d\u753a5-1-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u6771\u7058\u533a",
+        "\u7def\u5ea6": "34.716059",
+        "FAX\u756a\u53f7": "078-841-2542"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.274358",
+          "34.69018"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u5411\u6d0b\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-857-2481",
+        "\u90f5\u4fbf\u756a\u53f7": "658-0032",
+        "\u65bd\u8a2dID": "846",
+        "\u7d4c\u5ea6": "135.274358",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u6771\u7058\u533a\u5411\u6d0b\u753a\u4e2d2",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u6771\u7058\u533a",
+        "\u7def\u5ea6": "34.69018",
+        "FAX\u756a\u53f7": "078-857-2482"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.243923",
+          "34.720378"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u9df9\u5320\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-841-0041",
+        "\u90f5\u4fbf\u756a\u53f7": "657-0025",
+        "\u65bd\u8a2dID": "847",
+        "\u7d4c\u5ea6": "135.243923",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u7058\u533a\u9ad8\u5fb3\u753a2-2-19",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u7058\u533a",
+        "\u7def\u5ea6": "34.720378",
+        "FAX\u756a\u53f7": "078-841-0042"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.237657",
+          "34.710657"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u70cf\u5e3d\u5b50\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-851-5777",
+        "\u90f5\u4fbf\u756a\u53f7": "657-0042",
+        "\u65bd\u8a2dID": "848",
+        "\u7d4c\u5ea6": "135.237657",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u7058\u533a\u70cf\u5e3d\u5b50\u753a1-2-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u7058\u533a",
+        "\u7def\u5ea6": "34.710657",
+        "FAX\u756a\u53f7": "078-851-5778"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.228747",
+          "34.707954"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u539f\u7530\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-861-0431",
+        "\u90f5\u4fbf\u756a\u53f7": "657-0842",
+        "\u65bd\u8a2dID": "849",
+        "\u7d4c\u5ea6": "135.228747",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u7058\u533a\u8239\u5bfa\u901a2-4-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u7058\u533a",
+        "\u7def\u5ea6": "34.707954",
+        "FAX\u756a\u53f7": "078-861-0432"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.222447",
+          "34.724713"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u9577\u5cf0\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-861-3781",
+        "\u90f5\u4fbf\u756a\u53f7": "657-0811",
+        "\u65bd\u8a2dID": "850",
+        "\u7d4c\u5ea6": "135.222447",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u7058\u533a\u9577\u5cf0\u53f02-2-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u7058\u533a",
+        "\u7def\u5ea6": "34.724713",
+        "FAX\u756a\u53f7": "078-861-3782"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.222843",
+          "34.71939"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u4e0a\u91ce\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-871-9681",
+        "\u90f5\u4fbf\u756a\u53f7": "657-0816",
+        "\u65bd\u8a2dID": "851",
+        "\u7d4c\u5ea6": "135.222843",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u7058\u533a\u56fd\u7389\u901a1-1-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u7058\u533a",
+        "\u7def\u5ea6": "34.71939",
+        "FAX\u756a\u53f7": "078-871-9682"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.21007",
+          "34.709315"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u7b52\u4e95\u53f0\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-241-3201",
+        "\u90f5\u4fbf\u756a\u53f7": "651-0054",
+        "\u65bd\u8a2dID": "852",
+        "\u7d4c\u5ea6": "135.21007",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u4e2d\u592e\u533a\u91ce\u5d0e\u901a1-1-3",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u4e2d\u592e\u533a",
+        "\u7def\u5ea6": "34.709315",
+        "FAX\u756a\u53f7": "078-241-3202"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.217398",
+          "34.700463"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u6e1a\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-242-4501",
+        "\u90f5\u4fbf\u756a\u53f7": "651-0073",
+        "\u65bd\u8a2dID": "853",
+        "\u7d4c\u5ea6": "135.217398",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u4e2d\u592e\u533a\u8107\u6d5c\u6d77\u5cb8\u901a2-1-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u4e2d\u592e\u533a",
+        "\u7def\u5ea6": "34.700463",
+        "FAX\u756a\u53f7": "078-242-4502"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.203257",
+          "34.706848"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u847a\u5408\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-241-0444",
+        "\u90f5\u4fbf\u756a\u53f7": "651-0056",
+        "\u65bd\u8a2dID": "854",
+        "\u7d4c\u5ea6": "135.203257",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u4e2d\u592e\u533a\u718a\u5185\u753a1-4-28",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u4e2d\u592e\u533a",
+        "\u7def\u5ea6": "34.706848",
+        "FAX\u756a\u53f7": "078-241-0445"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.199274",
+          "34.709456"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u5e03\u5f15\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-241-0010",
+        "\u90f5\u4fbf\u756a\u53f7": "651-0056",
+        "\u65bd\u8a2dID": "855",
+        "\u7d4c\u5ea6": "135.199274",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u4e2d\u592e\u533a\u718a\u5185\u753a6-7-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u4e2d\u592e\u533a",
+        "\u7def\u5ea6": "34.709456",
+        "FAX\u756a\u53f7": "078-241-0011"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.185376",
+          "34.6903"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u795e\u6238\u751f\u7530\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-334-1850",
+        "\u90f5\u4fbf\u756a\u53f7": "650-0012",
+        "\u65bd\u8a2dID": "856",
+        "\u7d4c\u5ea6": "135.185376",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u4e2d\u592e\u533a\u5317\u9577\u72ed\u901a4-10-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u4e2d\u592e\u533a",
+        "\u7def\u5ea6": "34.6903",
+        "FAX\u756a\u53f7": "078-334-1851"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.214102",
+          "34.669658"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u6e2f\u5cf6\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-302-1771",
+        "\u90f5\u4fbf\u756a\u53f7": "650-0046",
+        "\u65bd\u8a2dID": "858",
+        "\u7d4c\u5ea6": "135.214102",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u4e2d\u592e\u533a\u6e2f\u5cf6\u4e2d\u753a3-2-2",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u4e2d\u592e\u533a",
+        "\u7def\u5ea6": "34.669658",
+        "FAX\u756a\u53f7": "078-302-1772"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.167263",
+          "34.687869"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u6e4a\u7fd4\u6960\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-351-2152",
+        "\u90f5\u4fbf\u756a\u53f7": "650-0017",
+        "\u65bd\u8a2dID": "859",
+        "\u7d4c\u5ea6": "135.167263",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u4e2d\u592e\u533a\u6960\u753a4-2-5",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5175\u5eab\u533a",
+        "\u7def\u5ea6": "34.687869",
+        "FAX\u756a\u53f7": "078-351-2153"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.153554",
+          "34.684822"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u5922\u91ce\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-511-5555",
+        "\u90f5\u4fbf\u756a\u53f7": "652-0057",
+        "\u65bd\u8a2dID": "860",
+        "\u7d4c\u5ea6": "135.153554",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5175\u5eab\u533a\u9d6f\u8d8a\u753a10-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5175\u5eab\u533a",
+        "\u7def\u5ea6": "34.684822",
+        "FAX\u756a\u53f7": "078-511-5556"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.16413",
+          "34.679953"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u6e4a\u5ddd\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-521-4874",
+        "\u90f5\u4fbf\u756a\u53f7": "652-0045",
+        "\u65bd\u8a2dID": "861",
+        "\u7d4c\u5ea6": "135.16413",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5175\u5eab\u533a\u677e\u672c\u901a1-1-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5175\u5eab\u533a",
+        "\u7def\u5ea6": "34.679953",
+        "FAX\u756a\u53f7": "078-521-4875"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.170188",
+          "34.673382"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u5175\u5eab\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-577-0744",
+        "\u90f5\u4fbf\u756a\u53f7": "652-0816",
+        "\u65bd\u8a2dID": "862",
+        "\u7d4c\u5ea6": "135.170188",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5175\u5eab\u533a\u6c38\u6ca2\u753a4-3-36",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5175\u5eab\u533a",
+        "\u7def\u5ea6": "34.673382",
+        "FAX\u756a\u53f7": "078-577-0745"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.16925",
+          "34.673151"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u5175\u5eab\u4e2d\u5b66\u6821\u5317\u5206\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-577-4390",
+        "\u90f5\u4fbf\u756a\u53f7": "652-0816",
+        "\u65bd\u8a2dID": "863",
+        "\u7d4c\u5ea6": "135.16925",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5175\u5eab\u533a\u6c38\u6ca2\u753a4-3-18(\u5175\u5eab\u4e2d\u5b66\u6821\u5185)",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5175\u5eab\u533a",
+        "\u7def\u5ea6": "34.673151",
+        "FAX\u756a\u53f7": "078-577-4399"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.169744",
+          "34.66446"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u9808\u4f50\u91ce\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-671-4261",
+        "\u90f5\u4fbf\u756a\u53f7": "652-0881",
+        "\u65bd\u8a2dID": "864",
+        "\u7d4c\u5ea6": "135.169744",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5175\u5eab\u533a\u677e\u539f\u901a1-1-44",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5175\u5eab\u533a",
+        "\u7def\u5ea6": "34.66446",
+        "FAX\u756a\u53f7": "078-671-4262"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.17128",
+          "34.652542"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u5409\u7530\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-681-3545",
+        "\u90f5\u4fbf\u756a\u53f7": "652-0872",
+        "\u65bd\u8a2dID": "865",
+        "\u7d4c\u5ea6": "135.17128",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5175\u5eab\u533a\u5409\u7530\u753a1-5-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5175\u5eab\u533a",
+        "\u7def\u5ea6": "34.652542",
+        "FAX\u756a\u53f7": "078-681-3546"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.225866",
+          "34.80952"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u6709\u99ac\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-981-5101",
+        "\u90f5\u4fbf\u756a\u53f7": "651-1321",
+        "\u65bd\u8a2dID": "866",
+        "\u7d4c\u5ea6": "135.225866",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5317\u533a\u6709\u91ce\u53f07-18",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5317\u533a",
+        "\u7def\u5ea6": "34.80952",
+        "FAX\u756a\u53f7": "078-981-5548"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.214016",
+          "34.822118"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u6709\u91ce\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-982-2700",
+        "\u90f5\u4fbf\u756a\u53f7": "651-1302",
+        "\u65bd\u8a2dID": "867",
+        "\u7d4c\u5ea6": "135.214016",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5317\u533a\u85e4\u539f\u53f0\u4e2d\u753a5-2-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5317\u533a",
+        "\u7def\u5ea6": "34.822118",
+        "FAX\u756a\u53f7": "078-982-2701"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.223281",
+          "34.829878"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u6709\u91ce\u5317\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-987-3057",
+        "\u90f5\u4fbf\u756a\u53f7": "651-1301",
+        "\u65bd\u8a2dID": "868",
+        "\u7d4c\u5ea6": "135.223281",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5317\u533a\u85e4\u539f\u53f0\u5317\u753a6-4-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5317\u533a",
+        "\u7def\u5ea6": "34.829878",
+        "FAX\u756a\u53f7": "078-987-2677"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.211694",
+          "34.784944"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u5510\u6ac3\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-982-6461",
+        "\u90f5\u4fbf\u756a\u53f7": "651-1332",
+        "\u65bd\u8a2dID": "869",
+        "\u7d4c\u5ea6": "135.211694",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5317\u533a\u5510\u6ac3\u53f04-36-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5317\u533a",
+        "\u7def\u5ea6": "34.784944",
+        "FAX\u756a\u53f7": "078-982-6462"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.195785",
+          "34.772184"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u5927\u6c60\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-581-8034",
+        "\u90f5\u4fbf\u756a\u53f7": "651-1201",
+        "\u65bd\u8a2dID": "870",
+        "\u7d4c\u5ea6": "135.195785",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5317\u533a\u897f\u5927\u6c602-24-3",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5317\u533a",
+        "\u7def\u5ea6": "34.772184",
+        "FAX\u756a\u53f7": "078-581-8035"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.156531",
+          "34.76313"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u5c71\u7530\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-581-1068",
+        "\u90f5\u4fbf\u756a\u53f7": "651-1243",
+        "\u65bd\u8a2dID": "871",
+        "\u7d4c\u5ea6": "135.156531",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5317\u533a\u5c71\u7530\u753a\u4e0b\u8c37\u4e0a\u5b57\u5bae\u30ce\u524d15",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5317\u533a",
+        "\u7def\u5ea6": "34.76313",
+        "FAX\u756a\u53f7": "078-581-1069"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.169861",
+          "34.749522"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u5e83\u9675\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-583-1313",
+        "\u90f5\u4fbf\u756a\u53f7": "651-1211",
+        "\u65bd\u8a2dID": "872",
+        "\u7d4c\u5ea6": "135.169861",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5317\u533a\u5c0f\u5009\u53f05-1-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5317\u533a",
+        "\u7def\u5ea6": "34.749522",
+        "FAX\u756a\u53f7": "078-583-1314"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.159858",
+          "34.738122"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u685c\u306e\u5bae\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-593-8001",
+        "\u90f5\u4fbf\u756a\u53f7": "561-1144",
+        "\u65bd\u8a2dID": "873",
+        "\u7d4c\u5ea6": "135.159858",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5317\u533a\u5927\u8107\u53f06-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5317\u533a",
+        "\u7def\u5ea6": "34.738122",
+        "FAX\u756a\u53f7": "078-593-8002"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.155214",
+          "34.730447"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u5c0f\u90e8\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-592-1177",
+        "\u90f5\u4fbf\u756a\u53f7": "651-1101",
+        "\u65bd\u8a2dID": "874",
+        "\u7d4c\u5ea6": "135.155214",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5317\u533a\u5c71\u7530\u753a\u5c0f\u90e8\u5b57\u5411\u4e95\u8c3723-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5317\u533a",
+        "\u7def\u5ea6": "34.730447",
+        "FAX\u756a\u53f7": "078-592-1178"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.143814",
+          "34.745875"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u5927\u539f\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-581-6661",
+        "\u90f5\u4fbf\u756a\u53f7": "651-1222",
+        "\u65bd\u8a2dID": "875",
+        "\u7d4c\u5ea6": "135.143814",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5317\u533a\u5927\u539f1-19",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5317\u533a",
+        "\u7def\u5ea6": "34.745875",
+        "FAX\u756a\u53f7": "078-581-6662"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.132713",
+          "34.729314"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u9234\u862d\u53f0\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-591-4521",
+        "\u90f5\u4fbf\u756a\u53f7": "651-1131",
+        "\u65bd\u8a2dID": "876",
+        "\u7d4c\u5ea6": "135.132713",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5317\u533a\u5317\u4e94\u84492-10-32",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5317\u533a",
+        "\u7def\u5ea6": "34.729314",
+        "FAX\u756a\u53f7": "078-591-4523"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.128611",
+          "34.719119"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u661f\u548c\u53f0\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-593-8400",
+        "\u90f5\u4fbf\u756a\u53f7": "651-1121",
+        "\u65bd\u8a2dID": "877",
+        "\u7d4c\u5ea6": "135.128611",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5317\u533a\u661f\u548c\u53f01-6",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5317\u533a",
+        "\u7def\u5ea6": "34.719119",
+        "FAX\u756a\u53f7": "078-593-8302"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.119535",
+          "34.694189"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u9d6f\u53f0\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-743-0072",
+        "\u90f5\u4fbf\u756a\u53f7": "651-1123",
+        "\u65bd\u8a2dID": "878",
+        "\u7d4c\u5ea6": "135.119535",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5317\u533a\u3072\u3088\u3069\u308a\u53f01-15-31",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5317\u533a",
+        "\u7def\u5ea6": "34.694189",
+        "FAX\u756a\u53f7": "078-743-0073"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.222784",
+          "34.862956"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u5317\u795e\u6238\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-951-0821",
+        "\u90f5\u4fbf\u756a\u53f7": "651-1513",
+        "\u65bd\u8a2dID": "879",
+        "\u7d4c\u5ea6": "135.222784",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5317\u533a\u9e7f\u306e\u5b50\u53f0\u5317\u753a2-8-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5317\u533a",
+        "\u7def\u5ea6": "34.862956",
+        "FAX\u756a\u53f7": "078-952-0824"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.195315",
+          "34.822296"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u516b\u591a\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-982-0049",
+        "\u90f5\u4fbf\u756a\u53f7": "651-1343",
+        "\u65bd\u8a2dID": "880",
+        "\u7d4c\u5ea6": "135.195315",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5317\u533a\u516b\u591a\u753a\u9644\u7269876",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5317\u533a",
+        "\u7def\u5ea6": "34.822296",
+        "FAX\u756a\u53f7": "078-982-0053"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.165184",
+          "34.855076"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u5927\u6ca2\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-954-0142",
+        "\u90f5\u4fbf\u756a\u53f7": "651-1524",
+        "\u65bd\u8a2dID": "881",
+        "\u7d4c\u5ea6": "135.165184",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5317\u533a\u5927\u6ca2\u753a\u4e2d\u5927\u6ca2976",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5317\u533a",
+        "\u7def\u5ea6": "34.855076",
+        "FAX\u756a\u53f7": "078-954-0024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.12405",
+          "34.819545"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u6de1\u6cb3\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-958-0301",
+        "\u90f5\u4fbf\u756a\u53f7": "651-1613",
+        "\u65bd\u8a2dID": "882",
+        "\u7d4c\u5ea6": "135.12405",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5317\u533a\u6de1\u6cb3\u753a\u884c\u539f\u5b57\u4e2d\u6ca2179-2",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5317\u533a",
+        "\u7def\u5ea6": "34.819545",
+        "FAX\u756a\u53f7": "078-958-0304"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.134299",
+          "34.691546"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u96f2\u96c0\u4e18\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-631-8748",
+        "\u90f5\u4fbf\u756a\u53f7": "653-0879",
+        "\u65bd\u8a2dID": "883",
+        "\u7d4c\u5ea6": "135.134299",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u9577\u7530\u533a\u96f2\u96c0\u30f6\u4e181-1-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u9577\u7530\u533a",
+        "\u7def\u5ea6": "34.691546",
+        "FAX\u756a\u53f7": "078-631-8749"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.148779",
+          "34.678014"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u4e38\u5c71\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-691-0005",
+        "\u90f5\u4fbf\u756a\u53f7": "653-0806",
+        "\u65bd\u8a2dID": "884",
+        "\u7d4c\u5ea6": "135.148779",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u9577\u7530\u533a\u5927\u4e38\u753a2-17-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u9577\u7530\u533a",
+        "\u7def\u5ea6": "34.678014",
+        "FAX\u756a\u53f7": "078-691-0007"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.132775",
+          "34.657016"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u4e38\u5c71\u4e2d\u5b66\u6821\u897f\u91ce\u5206\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-736-2521",
+        "\u90f5\u4fbf\u756a\u53f7": "654-0022",
+        "\u65bd\u8a2dID": "885",
+        "\u7d4c\u5ea6": "135.132775",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u9808\u78e8\u533a\u9808\u78e8\u533a\u5927\u9ed2\u753a5-1-1(\u592a\u7530\u4e2d\u5b66\u6821\u5185)",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u9808\u78e8\u533a",
+        "\u7def\u5ea6": "34.657016",
+        "FAX\u756a\u53f7": "078-736-2541"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.13976",
+          "34.66826"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u897f\u4ee3\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-691-1521",
+        "\u90f5\u4fbf\u756a\u53f7": "653-0827",
+        "\u65bd\u8a2dID": "886",
+        "\u7d4c\u5ea6": "135.13976",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u9577\u7530\u533a\u4e0a\u6c60\u75302-4-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u9577\u7530\u533a",
+        "\u7def\u5ea6": "34.66826",
+        "FAX\u756a\u53f7": "078-691-1522"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.137238",
+          "34.671381"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u9ad8\u53d6\u53f0\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-611-6325",
+        "\u90f5\u4fbf\u756a\u53f7": "653-0856",
+        "\u65bd\u8a2dID": "887",
+        "\u7d4c\u5ea6": "135.137238",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u9577\u7530\u533a\u9ad8\u53d6\u5c71\u753a1-1-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u9577\u7530\u533a",
+        "\u7def\u5ea6": "34.671381",
+        "FAX\u756a\u53f7": "078-611-6326"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.153197",
+          "34.661323"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u9577\u7530\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-671-3757",
+        "\u90f5\u4fbf\u756a\u53f7": "653-0025",
+        "\u65bd\u8a2dID": "888",
+        "\u7d4c\u5ea6": "135.153197",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u9577\u7530\u533a\u771f\u91ce\u753a8-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u9577\u7530\u533a",
+        "\u7def\u5ea6": "34.661323",
+        "FAX\u756a\u53f7": "078-671-3758"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.143463",
+          "34.655138"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u99d2\u30b1\u6797\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-611-0082",
+        "\u90f5\u4fbf\u756a\u53f7": "653-0038",
+        "\u65bd\u8a2dID": "889",
+        "\u7d4c\u5ea6": "135.143463",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u9577\u7530\u533a\u82e5\u677e\u753a7-1-23",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u9577\u7530\u533a",
+        "\u7def\u5ea6": "34.655138",
+        "FAX\u756a\u53f7": "078-611-0083"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.132892",
+          "34.657683"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u592a\u7530\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-732-0854",
+        "\u90f5\u4fbf\u756a\u53f7": "654-0022",
+        "\u65bd\u8a2dID": "890",
+        "\u7d4c\u5ea6": "135.132892",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u9808\u78e8\u533a\u5927\u9ed2\u753a5-1-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u9808\u78e8\u533a",
+        "\u7def\u5ea6": "34.657683",
+        "FAX\u756a\u53f7": "078-732-0855"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.132606",
+          "34.647947"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u9df9\u53d6\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-731-0066",
+        "\u90f5\u4fbf\u756a\u53f7": "654-0038",
+        "\u65bd\u8a2dID": "891",
+        "\u7d4c\u5ea6": "135.132606",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u9808\u78e8\u533a\u9752\u8449\u753a3-1-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u9808\u78e8\u533a",
+        "\u7def\u5ea6": "34.647947",
+        "FAX\u756a\u53f7": "078-731-4778"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.125737",
+          "34.658277"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u98db\u677e\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-731-9494",
+        "\u90f5\u4fbf\u756a\u53f7": "654-0013",
+        "\u65bd\u8a2dID": "892",
+        "\u7d4c\u5ea6": "135.125737",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u9808\u78e8\u533a\u5927\u624b\u753a8-4-25",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u9808\u78e8\u533a",
+        "\u7def\u5ea6": "34.658277",
+        "FAX\u756a\u53f7": "078-731-9495"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.107439",
+          "34.653658"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u9ad8\u5009\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-733-1140",
+        "\u90f5\u4fbf\u756a\u53f7": "654-0081",
+        "\u65bd\u8a2dID": "893",
+        "\u7d4c\u5ea6": "135.107439",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u9808\u78e8\u533a\u9ad8\u5009\u53f01-8-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u9808\u78e8\u533a",
+        "\u7def\u5ea6": "34.653658",
+        "FAX\u756a\u53f7": "078-733-1173"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.115954",
+          "34.672837"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u6a2a\u5c3e\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-743-7322",
+        "\u90f5\u4fbf\u756a\u53f7": "654-0131",
+        "\u65bd\u8a2dID": "894",
+        "\u7d4c\u5ea6": "135.115954",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u9808\u78e8\u533a\u6a2a\u5c3e2-1-2",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u9808\u78e8\u533a",
+        "\u7def\u5ea6": "34.672837",
+        "FAX\u756a\u53f7": "078-743-7323"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.099347",
+          "34.673119"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u53cb\u304c\u4e18\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-792-5567",
+        "\u90f5\u4fbf\u756a\u53f7": "654-0142",
+        "\u65bd\u8a2dID": "895",
+        "\u7d4c\u5ea6": "135.099347",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u9808\u78e8\u533a\u53cb\u304c\u4e187-283-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u9808\u78e8\u533a",
+        "\u7def\u5ea6": "34.673119",
+        "FAX\u756a\u53f7": "078-792-5568"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.099453",
+          "34.682402"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u6771\u843d\u5408\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-792-5558",
+        "\u90f5\u4fbf\u756a\u53f7": "654-0152",
+        "\u65bd\u8a2dID": "896",
+        "\u7d4c\u5ea6": "135.099453",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u9808\u78e8\u533a\u6771\u843d\u54082-15-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u9808\u78e8\u533a",
+        "\u7def\u5ea6": "34.682402",
+        "FAX\u756a\u53f7": "078-792-5559"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.109919",
+          "34.691988"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u9808\u78e8\u5317\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-741-6465",
+        "\u90f5\u4fbf\u756a\u53f7": "654-0102",
+        "\u65bd\u8a2dID": "897",
+        "\u7d4c\u5ea6": "135.109919",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u9808\u78e8\u533a\u6771\u767d\u5ddd\u53f05-1-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u9808\u78e8\u533a",
+        "\u7def\u5ea6": "34.691988",
+        "FAX\u756a\u53f7": "078-741-6466"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.096454",
+          "34.69284"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u767d\u5ddd\u53f0\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-792-5711",
+        "\u90f5\u4fbf\u756a\u53f7": "654-0103",
+        "\u65bd\u8a2dID": "898",
+        "\u7d4c\u5ea6": "135.096454",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u9808\u78e8\u533a\u767d\u5ddd\u53f01-25-2",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u9808\u78e8\u533a",
+        "\u7def\u5ea6": "34.69284",
+        "FAX\u756a\u53f7": "078-792-7757"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.082463",
+          "34.685143"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u897f\u843d\u5408\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-791-8444",
+        "\u90f5\u4fbf\u756a\u53f7": "654-0155",
+        "\u65bd\u8a2dID": "899",
+        "\u7d4c\u5ea6": "135.082463",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u9808\u78e8\u533a\u897f\u843d\u54084-1-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u9808\u78e8\u533a",
+        "\u7def\u5ea6": "34.685143",
+        "FAX\u756a\u53f7": "078-791-8611"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.088491",
+          "34.675629"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u7adc\u304c\u53f0\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-791-0762",
+        "\u90f5\u4fbf\u756a\u53f7": "654-0141",
+        "\u65bd\u8a2dID": "900",
+        "\u7d4c\u5ea6": "135.088491",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u9808\u78e8\u533a\u7adc\u304c\u53f04-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u9808\u78e8\u533a",
+        "\u7def\u5ea6": "34.675629",
+        "FAX\u756a\u53f7": "078-791-1457"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.079685",
+          "34.657935"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u6843\u5c71\u53f0\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-752-1201",
+        "\u90f5\u4fbf\u756a\u53f7": "655-0854",
+        "\u65bd\u8a2dID": "901",
+        "\u7d4c\u5ea6": "135.079685",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5782\u6c34\u533a\u6843\u5c71\u53f04-8",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5782\u6c34\u533a",
+        "\u7def\u5ea6": "34.657935",
+        "FAX\u756a\u53f7": "078-752-1202"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.077258",
+          "34.644063"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u5869\u5c4b\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-753-2271",
+        "\u90f5\u4fbf\u756a\u53f7": "655-0872",
+        "\u65bd\u8a2dID": "902",
+        "\u7d4c\u5ea6": "135.077258",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5782\u6c34\u533a\u5869\u5c4b\u753a\u5b57\u5927\u8c37",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5782\u6c34\u533a",
+        "\u7def\u5ea6": "34.644063",
+        "FAX\u756a\u53f7": "078-753-7373"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.072293",
+          "34.640812"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u5782\u6c34\u6771\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-751-6139",
+        "\u90f5\u4fbf\u756a\u53f7": "655-0873",
+        "\u65bd\u8a2dID": "903",
+        "\u7d4c\u5ea6": "135.072293",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5782\u6c34\u533a\u9752\u5c71\u53f03-4-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5782\u6c34\u533a",
+        "\u7def\u5ea6": "34.640812",
+        "FAX\u756a\u53f7": "078-751-1836"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.060596",
+          "34.651779"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u798f\u7530\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-708-1670",
+        "\u90f5\u4fbf\u756a\u53f7": "655-0852",
+        "\u65bd\u8a2dID": "904",
+        "\u7d4c\u5ea6": "135.060596",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5782\u6c34\u533a\u540d\u8c37\u753a\u5b57\u733f\u5009254",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5782\u6c34\u533a",
+        "\u7def\u5ea6": "34.651779",
+        "FAX\u756a\u53f7": "078-708-1671"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.05173",
+          "34.640812"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u5782\u6c34\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-707-6363",
+        "\u90f5\u4fbf\u756a\u53f7": "655-0017",
+        "\u65bd\u8a2dID": "905",
+        "\u7d4c\u5ea6": "135.05173",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5782\u6c34\u533a\u4e0a\u9ad8\u4e381-4-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5782\u6c34\u533a",
+        "\u7def\u5ea6": "34.640812",
+        "FAX\u756a\u53f7": "078-709-5071"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.041028",
+          "34.636551"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u6b4c\u6577\u5c71\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-707-8864",
+        "\u90f5\u4fbf\u756a\u53f7": "655-0037",
+        "\u65bd\u8a2dID": "906",
+        "\u7d4c\u5ea6": "135.041028",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5782\u6c34\u533a\u6b4c\u6577\u5c712-4-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5782\u6c34\u533a",
+        "\u7def\u5ea6": "34.636551",
+        "FAX\u756a\u53f7": "078-707-8865"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.048372",
+          "34.646852"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u661f\u9675\u53f0\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-709-8810",
+        "\u90f5\u4fbf\u756a\u53f7": "655-0038",
+        "\u65bd\u8a2dID": "907",
+        "\u7d4c\u5ea6": "135.048372",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5782\u6c34\u533a\u661f\u9675\u53f04-3-3",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5782\u6c34\u533a",
+        "\u7def\u5ea6": "34.646852",
+        "FAX\u756a\u53f7": "078-709-8818"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.054227",
+          "34.654671"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u591a\u805e\u6771\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-783-5888",
+        "\u90f5\u4fbf\u756a\u53f7": "655-0004",
+        "\u65bd\u8a2dID": "908",
+        "\u7d4c\u5ea6": "135.054227",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5782\u6c34\u533a\u5b66\u304c\u4e183-1-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5782\u6c34\u533a",
+        "\u7def\u5ea6": "34.654671",
+        "FAX\u756a\u53f7": "078-783-6201"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.046086",
+          "34.656598"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u672c\u591a\u805e\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-784-6310",
+        "\u90f5\u4fbf\u756a\u53f7": "655-0006",
+        "\u65bd\u8a2dID": "909",
+        "\u7d4c\u5ea6": "135.046086",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5782\u6c34\u533a\u672c\u591a\u805e2-16-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5782\u6c34\u533a",
+        "\u7def\u5ea6": "34.656598",
+        "FAX\u756a\u53f7": "078-784-6340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.029609",
+          "34.649668"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u821e\u5b50\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-781-0001",
+        "\u90f5\u4fbf\u756a\u53f7": "655-0049",
+        "\u65bd\u8a2dID": "910",
+        "\u7d4c\u5ea6": "135.029609",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5782\u6c34\u533a\u72e9\u53e3\u53f03-1-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5782\u6c34\u533a",
+        "\u7def\u5ea6": "34.649668",
+        "FAX\u756a\u53f7": "078-781-0009"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.033067",
+          "34.660237"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u795e\u9675\u53f0\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-781-0700",
+        "\u90f5\u4fbf\u756a\u53f7": "655-0041",
+        "\u65bd\u8a2dID": "911",
+        "\u7d4c\u5ea6": "135.033067",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u5782\u6c34\u533a\u795e\u9675\u53f03-1-2",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u5782\u6c34\u533a",
+        "\u7def\u5ea6": "34.660237",
+        "FAX\u756a\u53f7": "078-781-0776"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.060577",
+          "34.684752"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u592a\u5c71\u5bfa\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-791-7090",
+        "\u90f5\u4fbf\u756a\u53f7": "651-2102",
+        "\u65bd\u8a2dID": "912",
+        "\u7d4c\u5ea6": "135.060577",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u897f\u533a\u5b66\u5712\u6771\u753a2-2",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u897f\u533a",
+        "\u7def\u5ea6": "34.684752",
+        "FAX\u756a\u53f7": "078-791-7091"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.03739",
+          "34.670728"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u9577\u5742\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-974-3830",
+        "\u90f5\u4fbf\u756a\u53f7": "651-2104",
+        "\u65bd\u8a2dID": "913",
+        "\u7d4c\u5ea6": "135.03739",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u897f\u533a\u4f0a\u5ddd\u8c37\u753a\u9577\u5742\u5b57\u8fbb\u30ce\u5185841-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u897f\u533a",
+        "\u7def\u5ea6": "34.670728",
+        "FAX\u756a\u53f7": "078-974-3889"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.030274",
+          "34.696924"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u4e95\u5439\u53f0\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-997-0850",
+        "\u90f5\u4fbf\u756a\u53f7": "651-2243",
+        "\u65bd\u8a2dID": "914",
+        "\u7d4c\u5ea6": "135.030274",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u897f\u533a\u4e95\u5439\u53f0\u897f\u753a2-3",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u897f\u533a",
+        "\u7def\u5ea6": "34.696924",
+        "FAX\u756a\u53f7": "078-997-0851"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.019271",
+          "34.67797"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u4f0a\u5ddd\u8c37\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-974-0005",
+        "\u90f5\u4fbf\u756a\u53f7": "651-2105",
+        "\u65bd\u8a2dID": "915",
+        "\u7d4c\u5ea6": "135.019271",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u897f\u533a\u4f0a\u5ddd\u8c37\u753a\u4e0a\u8107\u5b57\u9b3c\u795e\u5c711005-2",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u897f\u533a",
+        "\u7def\u5ea6": "34.67797",
+        "FAX\u756a\u53f7": "078-974-2630"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.028967",
+          "34.718027"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u6ae8\u8c37\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-991-0026",
+        "\u90f5\u4fbf\u756a\u53f7": "651-2273",
+        "\u65bd\u8a2dID": "916",
+        "\u7d4c\u5ea6": "135.028967",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u897f\u533a\u7cc0\u53f01-2",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u897f\u533a",
+        "\u7def\u5ea6": "34.718027",
+        "FAX\u756a\u53f7": "078-991-2512"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.061022",
+          "34.748473"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u685c\u304c\u4e18\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-994-8822",
+        "\u90f5\u4fbf\u756a\u53f7": "651-2225",
+        "\u65bd\u8a2dID": "917",
+        "\u7d4c\u5ea6": "135.061022",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u897f\u533a\u685c\u304c\u4e18\u6771\u753a2-11-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u897f\u533a",
+        "\u7def\u5ea6": "34.748473",
+        "FAX\u756a\u53f7": "078-994-8823"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.044332",
+          "34.75741"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u62bc\u90e8\u8c37\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-994-0013",
+        "\u90f5\u4fbf\u756a\u53f7": "651-2212",
+        "\u65bd\u8a2dID": "918",
+        "\u7d4c\u5ea6": "135.044332",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u897f\u533a\u62bc\u90e8\u8c37\u753a\u62bc\u90e8\u5b57\u5409\u8c37722",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u897f\u533a",
+        "\u7def\u5ea6": "34.75741",
+        "FAX\u756a\u53f7": "078-994-0031"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "134.992283",
+          "34.678309"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u7389\u6d25\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-918-2266",
+        "\u90f5\u4fbf\u756a\u53f7": "651-2128",
+        "\u65bd\u8a2dID": "919",
+        "\u7d4c\u5ea6": "134.992283",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u897f\u533a\u7389\u6d25\u753a\u4eca\u6d25\u5b57\u4e07\u9858\u5bfa364",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u897f\u533a",
+        "\u7def\u5ea6": "34.678309",
+        "FAX\u756a\u53f7": "078-918-2267"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "134.973544",
+          "34.674104"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u738b\u585a\u53f0\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-928-1277",
+        "\u90f5\u4fbf\u756a\u53f7": "651-2135",
+        "\u65bd\u8a2dID": "920",
+        "\u7d4c\u5ea6": "134.973544",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u897f\u533a\u738b\u585a\u53f04-58",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u897f\u533a",
+        "\u7def\u5ea6": "34.674104",
+        "FAX\u756a\u53f7": "078-928-1278"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "134.998141",
+          "34.709722"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u5e73\u91ce\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-961-0058",
+        "\u90f5\u4fbf\u756a\u53f7": "651-2276",
+        "\u65bd\u8a2dID": "921",
+        "\u7d4c\u5ea6": "134.998141",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u897f\u533a\u6625\u65e5\u53f02-20",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u897f\u533a",
+        "\u7def\u5ea6": "34.709722",
+        "FAX\u756a\u53f7": "078-961-2652"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.009655",
+          "34.714211"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u897f\u795e\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-992-2700",
+        "\u90f5\u4fbf\u756a\u53f7": "651-2274",
+        "\u65bd\u8a2dID": "922",
+        "\u7d4c\u5ea6": "135.009655",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u897f\u533a\u7af9\u306e\u53f05-21",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u897f\u533a",
+        "\u7def\u5ea6": "34.714211",
+        "FAX\u756a\u53f7": "078-992-2701"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "134.996446",
+          "34.754815"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u795e\u51fa\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-965-0025",
+        "\u90f5\u4fbf\u756a\u53f7": "651-2311",
+        "\u65bd\u8a2dID": "923",
+        "\u7d4c\u5ea6": "134.996446",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u897f\u533a\u795e\u51fa\u753a\u67711167",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u897f\u533a",
+        "\u7def\u5ea6": "34.754815",
+        "FAX\u756a\u53f7": "078-965-2245"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "134.943274",
+          "34.716274"
+        ]
+      },
+      "properties": {
+        "\u65bd\u8a2d\u540d": "\u5ca9\u5ca1\u4e2d\u5b66\u6821",
+        "\u96fb\u8a71\u756a\u53f7": "078-967-0016",
+        "\u90f5\u4fbf\u756a\u53f7": "651-2404",
+        "\u65bd\u8a2dID": "924",
+        "\u7d4c\u5ea6": "134.943274",
+        "\u65b9\u66f8": "",
+        "\u4f4f\u6240": "\u897f\u533a\u5ca9\u5ca1\u753a\u53e4\u90f7249-1",
+        "\u30ab\u30c6\u30b4\u30ea\u30ea\u30b9\u30c8": "\u4e2d\u5b66\u6821",
+        "\u884c\u653f\u533a\u30b3\u30fc\u30c9": "\u897f\u533a",
+        "\u7def\u5ea6": "34.716274",
+        "FAX\u756a\u53f7": "078-967-0026"
+      }
+    }
+  ]
+}
