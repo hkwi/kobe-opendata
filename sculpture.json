@@ -1,0 +1,775 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          "135.19391",
+          "34.699847"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "\u7def\u5ea6": "34.699847",
+        "\u30b5\u30a4\u30ba\uff08cm\uff09": "128\u00d748\u00d750",
+        "\u8a2d\u7f6e\u5e74": "1987",
+        "\u7d20\u6750": "\u30d6\u30ed\u30f3\u30ba",
+        "\u4f5c\u54c1\u540d": "\u306a\u307b",
+        "No": "1",
+        "\u8a2d\u7f6e\u5834\u6240": "\u52a0\u7d0d\u753a2\u4e01\u76ee",
+        "\u5099\u8003": "",
+        "\u7d4c\u5ea6": "135.19391",
+        "\u4f5c\u8005\u540d": "\u5ca9\u91ce\u3000\u52c7\u4e09"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "135.193782",
+          "34.698435"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "\u7def\u5ea6": "34.698435",
+        "\u30b5\u30a4\u30ba\uff08cm\uff09": "110\u00d725\u00d737",
+        "\u8a2d\u7f6e\u5e74": "1988",
+        "\u7d20\u6750": "\u30d6\u30ed\u30f3\u30ba",
+        "\u4f5c\u54c1\u540d": "\u5c11\u5973",
+        "No": "2",
+        "\u8a2d\u7f6e\u5834\u6240": "\u52a0\u7d0d\u753a3\u4e01\u76ee\u4ea4\u5dee\u70b9\u5317\u897f",
+        "\u5099\u8003": "",
+        "\u7d4c\u5ea6": "135.193782",
+        "\u4f5c\u8005\u540d": "\u5927\u6850\u3000\u570b\u5149"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "135.19369",
+          "34.697714"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "\u7def\u5ea6": "34.697714",
+        "\u30b5\u30a4\u30ba\uff08cm\uff09": "240\u00d7100\u00d7120",
+        "\u8a2d\u7f6e\u5e74": "1985",
+        "\u7d20\u6750": "\u30d6\u30ed\u30f3\u30ba\uff08\u30dd\u30ea\u30a8\u30b9\u30c6\u30eb\uff09",
+        "\u4f5c\u54c1\u540d": "\u5bb6\u65cf\uff08\u5973\u795e\u3068\u5929\u4f7f\u305d\u3057\u3066\u7537\uff09",
+        "No": "3",
+        "\u8a2d\u7f6e\u5834\u6240": "\u52a0\u7d0d\u753a3\u4e01\u76ee\u4ea4\u5dee\u70b9\u5357\u897f",
+        "\u5099\u8003": "",
+        "\u7d4c\u5ea6": "135.19369",
+        "\u4f5c\u8005\u540d": "\u677e\u672c \u96c4\u6cbb"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "135.194014",
+          "34.69692"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "\u7def\u5ea6": "34.69692",
+        "\u30b5\u30a4\u30ba\uff08cm\uff09": "150\u00d7100\u00d750",
+        "\u8a2d\u7f6e\u5e74": "1986",
+        "\u7d20\u6750": "\u30d6\u30ed\u30f3\u30ba",
+        "\u4f5c\u54c1\u540d": "WIND",
+        "No": "4",
+        "\u8a2d\u7f6e\u5834\u6240": "\u5e03\u5f15\u753a4\u4e01\u76ee",
+        "\u5099\u8003": "",
+        "\u7d4c\u5ea6": "135.194014",
+        "\u4f5c\u8005\u540d": "\u6d25\u91ce \u5145\u8061"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "135.193664",
+          "34.695883"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "\u7def\u5ea6": "34.695883",
+        "\u30b5\u30a4\u30ba\uff08cm\uff09": "-",
+        "\u8a2d\u7f6e\u5e74": "1990",
+        "\u7d20\u6750": "\u9ed2\u5fa1\u5f71\u77f3",
+        "\u4f5c\u54c1\u540d": "MEDETAI",
+        "No": "5",
+        "\u8a2d\u7f6e\u5834\u6240": "\u4ee3\u3005\u6728\u30bc\u30df\u30ca\u30fc\u30eb\u524d",
+        "\u5099\u8003": "\u4ee3\u3005\u6728\u30bc\u30df\u30ca\u30fc\u30eb\u8535",
+        "\u7d4c\u5ea6": "135.193664",
+        "\u4f5c\u8005\u540d": "\u6d41 \u653f\u4e4b"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "135.193637",
+          "34.69492"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "\u7def\u5ea6": "34.69492",
+        "\u30b5\u30a4\u30ba\uff08cm\uff09": "75\u00d745\u00d775",
+        "\u8a2d\u7f6e\u5e74": "1982",
+        "\u7d20\u6750": "\u30d6\u30ed\u30f3\u30ba",
+        "\u4f5c\u54c1\u540d": "\u9577\u3044\u5348\u5f8c",
+        "No": "6",
+        "\u8a2d\u7f6e\u5834\u6240": "\u30cb\u30c3\u30bb\u30a4\u4e09\u5bae\u30d3\u30eb\u524d",
+        "\u5099\u8003": "",
+        "\u7d4c\u5ea6": "135.193637",
+        "\u4f5c\u8005\u540d": "\u639b\u4e95 \u4e94\u90ce"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "135.194346",
+          "34.694777"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "\u7def\u5ea6": "34.694777",
+        "\u30b5\u30a4\u30ba\uff08cm\uff09": "250\u00d7350\u00d7100",
+        "\u8a2d\u7f6e\u5e74": "1982",
+        "\u7d20\u6750": "\u30b9\u30c6\u30f3\u30ec\u30b9\u30fb\u5fa1\u5f71\u77f3",
+        "\u4f5c\u54c1\u540d": "\u6d6e\u904a\u3059\u308b\u7269\u4f53",
+        "No": "7",
+        "\u8a2d\u7f6e\u5834\u6240": "JR\u4e09\u30ce\u5bae\u99c5\u5317",
+        "\u5099\u8003": "",
+        "\u7d4c\u5ea6": "135.194346",
+        "\u4f5c\u8005\u540d": "\u77f3\u9ed2 \u93d8\u4e8c"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "135.193497",
+          "34.694276"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "\u7def\u5ea6": "34.694276",
+        "\u30b5\u30a4\u30ba\uff08cm\uff09": "300\u00d780\u00d750",
+        "\u8a2d\u7f6e\u5e74": "2006",
+        "\u7d20\u6750": "\u30d6\u30ed\u30f3\u30ba",
+        "\u4f5c\u54c1\u540d": "AMORE",
+        "No": "8",
+        "\u8a2d\u7f6e\u5834\u6240": "\u3055\u3093\u304d\u305f\u30a2\u30e2\u30fc\u30ec\u5e83\u5834",
+        "\u5099\u8003": "",
+        "\u7d4c\u5ea6": "135.193497",
+        "\u4f5c\u8005\u540d": "\u65b0\u8c37 \u7407\u7d00"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "135.193655",
+          "34.694433"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "\u7def\u5ea6": "34.694433",
+        "\u30b5\u30a4\u30ba\uff08cm\uff09": "350\u00d7180\u00d7170",
+        "\u8a2d\u7f6e\u5e74": "1996",
+        "\u7d20\u6750": "\u8d64\u5fa1\u5f71\u77f3",
+        "\u4f5c\u54c1\u540d": "\u98a8\u306e\u6a19\u8b58No.45",
+        "No": "9",
+        "\u8a2d\u7f6e\u5834\u6240": "\u3055\u3093\u304d\u305f\u30a2\u30e2\u30fc\u30ec\u5e83\u5834",
+        "\u5099\u8003": "",
+        "\u7d4c\u5ea6": "135.193655",
+        "\u4f5c\u8005\u540d": "\u5927\u6210 \u6d69"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "135.19479",
+          "34.692229"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "\u7def\u5ea6": "34.692229",
+        "\u30b5\u30a4\u30ba\uff08cm\uff09": "185\u00d7120\u00d790",
+        "\u8a2d\u7f6e\u5e74": "2005",
+        "\u7d20\u6750": "\u30d6\u30ed\u30f3\u30ba",
+        "\u4f5c\u54c1\u540d": "\u96f2\u306e\u4e2d\u306e\u6d77",
+        "No": "10",
+        "\u8a2d\u7f6e\u5834\u6240": "\u4e09\u5bae\u30bb\u30f3\u30bf\u30fc\u8857\u5165\u53e3",
+        "\u5099\u8003": "\u4e09\u5bae\u30bb\u30f3\u30bf\u30fc\u88572\u4e01\u76ee\u5546\u5e97\u8857\u632f\u8208\u7d44\u5408\u8535",
+        "\u7d4c\u5ea6": "135.19479",
+        "\u4f5c\u8005\u540d": "\u5409\u7530 \u9686"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "135.195072",
+          "34.691715"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "\u7def\u5ea6": "34.691715",
+        "\u30b5\u30a4\u30ba\uff08cm\uff09": "110\u00d760\u00d7115",
+        "\u8a2d\u7f6e\u5e74": "1982",
+        "\u7d20\u6750": "\u30d6\u30ed\u30f3\u30ba",
+        "\u4f5c\u54c1\u540d": "\u30ec\u30c0",
+        "No": "11",
+        "\u8a2d\u7f6e\u5834\u6240": "\u795e\u6238F\u30d3\u30eb\u30c7\u30a3\u30f3\u30b0\u524d",
+        "\u5099\u8003": "",
+        "\u7d4c\u5ea6": "135.195072",
+        "\u4f5c\u8005\u540d": "\u685c\u4e95 \u7950\u4e00"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "135.195234",
+          "34.691334"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "\u7def\u5ea6": "34.691334",
+        "\u30b5\u30a4\u30ba\uff08cm\uff09": "25\u00d790\u00d735",
+        "\u8a2d\u7f6e\u5e74": "1982",
+        "\u7d20\u6750": "\u30d6\u30ed\u30f3\u30ba",
+        "\u4f5c\u54c1\u540d": "\u8ffd\u61b6",
+        "No": "12",
+        "\u8a2d\u7f6e\u5834\u6240": "\u91d1\u6ca2\u4e09\u5bae\u30d3\u30eb\u524d",
+        "\u5099\u8003": "",
+        "\u7d4c\u5ea6": "135.195234",
+        "\u4f5c\u8005\u540d": "\u5c71\u672c \u6b63\u9053"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "135.195265",
+          "34.690842"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "\u7def\u5ea6": "34.690842",
+        "\u30b5\u30a4\u30ba\uff08cm\uff09": "250\u00d7200\u00d7120",
+        "\u8a2d\u7f6e\u5e74": "1978",
+        "\u7d20\u6750": "\u30a2\u30eb\u30df\u30cb\u30a6\u30e0",
+        "\u4f5c\u54c1\u540d": "\u308f\u305f\u3057\u3068\u79c1",
+        "No": "13",
+        "\u8a2d\u7f6e\u5834\u6240": "\u82b1\u6642\u8a08\u524d",
+        "\u5099\u8003": "",
+        "\u7d4c\u5ea6": "135.195265",
+        "\u4f5c\u8005\u540d": "\u4e95\u4e0a \u73b2\u5b50"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "135.195536",
+          "34.691534"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "\u7def\u5ea6": "34.691534",
+        "\u30b5\u30a4\u30ba\uff08cm\uff09": "70\u00d7110\u00d745",
+        "\u8a2d\u7f6e\u5e74": "1981",
+        "\u7d20\u6750": "\u30d6\u30ed\u30f3\u30ba",
+        "\u4f5c\u54c1\u540d": "\u6e56\u98a8",
+        "No": "14",
+        "\u8a2d\u7f6e\u5834\u6240": "\u4e09\u5bae\u4e09\u548c\u6771\u6d0b\u30d3\u30eb\u524d",
+        "\u5099\u8003": "",
+        "\u7d4c\u5ea6": "135.195536",
+        "\u4f5c\u8005\u540d": "\u4e00\u8272 \u90a6\u5f66"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "135.19599",
+          "34.690657"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "\u7def\u5ea6": "34.690657",
+        "\u30b5\u30a4\u30ba\uff08cm\uff09": "118\u00d735\u00d740",
+        "\u8a2d\u7f6e\u5e74": "1981",
+        "\u7d20\u6750": "\u30d6\u30ed\u30f3\u30ba",
+        "\u4f5c\u54c1\u540d": "\u5e3d\u5b50\u30fb\u88f8\u5a66",
+        "No": "15",
+        "\u8a2d\u7f6e\u5834\u6240": "\u7b2c\u4e00\u5357\u30d3\u30eb\u524d",
+        "\u5099\u8003": "",
+        "\u7d4c\u5ea6": "135.19599",
+        "\u4f5c\u8005\u540d": "\u4f50\u85e4 \u5fe0\u826f"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "135.196146",
+          "34.690339"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "\u7def\u5ea6": "34.690339",
+        "\u30b5\u30a4\u30ba\uff08cm\uff09": "50\u00d774\u00d743",
+        "\u8a2d\u7f6e\u5e74": "1981",
+        "\u7d20\u6750": "\u30d6\u30ed\u30f3\u30ba",
+        "\u4f5c\u54c1\u540d": "\u9053\u6a19\u30fb\u9d09",
+        "No": "16",
+        "\u8a2d\u7f6e\u5834\u6240": "\u30d5\u30e9\u30ef\u30fc\u30ed\u30fc\u30c9\u30bf\u30a4\u30db\u2015\u30d3\u30eb\u524d",
+        "\u5099\u8003": "",
+        "\u7d4c\u5ea6": "135.196146",
+        "\u4f5c\u8005\u540d": "\u67f3\u539f \u7fa9\u9054"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "135.196469",
+          "34.689671"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "\u7def\u5ea6": "34.689671",
+        "\u30b5\u30a4\u30ba\uff08cm\uff09": "127\u00d750\u00d730",
+        "\u8a2d\u7f6e\u5e74": "1981",
+        "\u7d20\u6750": "\u30d6\u30ed\u30f3\u30ba",
+        "\u4f5c\u54c1\u540d": "WOMAN",
+        "No": "17",
+        "\u8a2d\u7f6e\u5834\u6240": "\u30d5\u30e9\u30ef\u30fc\u30ed\u30fc\u30c9\u6771\u5074",
+        "\u5099\u8003": "",
+        "\u7d4c\u5ea6": "135.196469",
+        "\u4f5c\u8005\u540d": "\u671d\u5009 \u97ff\u5b50"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "135.195824",
+          "34.68887"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "\u7def\u5ea6": "34.68887",
+        "\u30b5\u30a4\u30ba\uff08cm\uff09": "230\u00d755\u00d750",
+        "\u8a2d\u7f6e\u5e74": "1973",
+        "\u7d20\u6750": "\u30d6\u30ed\u30f3\u30ba",
+        "\u4f5c\u54c1\u540d": "\u30a8\u30fc\u30b2\u6d77\u306b\u6367\u3050",
+        "No": "18",
+        "\u8a2d\u7f6e\u5834\u6240": "\u6771\u904a\u5712\u5730\u5317\u5074",
+        "\u5099\u8003": "",
+        "\u7d4c\u5ea6": "135.195824",
+        "\u4f5c\u8005\u540d": "\u6728\u5185 \u514b"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "135.196031",
+          "34.688999"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "\u7def\u5ea6": "34.688999",
+        "\u30b5\u30a4\u30ba\uff08cm\uff09": "155\u00d7160\u00d770",
+        "\u8a2d\u7f6e\u5e74": "1976",
+        "\u7d20\u6750": "\u30d6\u30ed\u30f3\u30ba",
+        "\u4f5c\u54c1\u540d": "MARINA",
+        "No": "19",
+        "\u8a2d\u7f6e\u5834\u6240": "\u6771\u904a\u5712\u5730\u5317\u5074",
+        "\u5099\u8003": "",
+        "\u7d4c\u5ea6": "135.196031",
+        "\u4f5c\u8005\u540d": "\u65b0\u8c37 \u7407\u7d00"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "135.196171",
+          "34.68902"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "\u7def\u5ea6": "34.68902",
+        "\u30b5\u30a4\u30ba\uff08cm\uff09": "275\u00d7130\u00d7120",
+        "\u8a2d\u7f6e\u5e74": "1981",
+        "\u7d20\u6750": "\u9ed2\u5fa1\u5f71\u77f3",
+        "\u4f5c\u54c1\u540d": "\u30b9\u30d7\u30ea\u30f3\u30b0\u30fb\u30b9\u30c8\u30fc\u30f3",
+        "No": "20",
+        "\u8a2d\u7f6e\u5834\u6240": "\u30d5\u30e9\u30ef\u30fc\u30ed\u30fc\u30c9\u897f\u5074",
+        "\u5099\u8003": "",
+        "\u7d4c\u5ea6": "135.196171",
+        "\u4f5c\u8005\u540d": "\u74b0\u5883\u9020\u5f62Q"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "135.196415",
+          "34.688999"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "\u7def\u5ea6": "34.688999",
+        "\u30b5\u30a4\u30ba\uff08cm\uff09": "120\u00d732\u00d732",
+        "\u8a2d\u7f6e\u5e74": "1981",
+        "\u7d20\u6750": "\u30d6\u30ed\u30f3\u30ba",
+        "\u4f5c\u54c1\u540d": "\u30b7\u30aa\u30f3",
+        "No": "21",
+        "\u8a2d\u7f6e\u5834\u6240": "\u30d5\u30e9\u30ef\u30fc\u30ed\u30fc\u30c9\u897f\u5074",
+        "\u5099\u8003": "",
+        "\u7d4c\u5ea6": "135.196415",
+        "\u4f5c\u8005\u540d": "\u821f\u8d8a \u4fdd\u6b66"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "135.19632",
+          "34.688512"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "\u7def\u5ea6": "34.688512",
+        "\u30b5\u30a4\u30ba\uff08cm\uff09": "50\u00d7375\u00d7200\u307b\u304b",
+        "\u8a2d\u7f6e\u5e74": "1974",
+        "\u7d20\u6750": "\u5fa1\u5f71\u77f3",
+        "\u4f5c\u54c1\u540d": "\u65e5\u672c\u8fd1\u4ee3\u6d0b\u670d\u767a\u7965\u306e\u5730\u8a18\u5ff5\u5f6b\u523b",
+        "No": "22",
+        "\u8a2d\u7f6e\u5834\u6240": "\u6771\u904a\u5712\u5730\u30b9\u30c6\u30fc\u30b8\u6771\u5074",
+        "\u5099\u8003": "",
+        "\u7d4c\u5ea6": "135.19632",
+        "\u4f5c\u8005\u540d": "\u74b0\u5883\u9020\u5f62Q"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "135.196473",
+          "34.688695"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "\u7def\u5ea6": "34.688695",
+        "\u30b5\u30a4\u30ba\uff08cm\uff09": "45\u00d720\u00d720",
+        "\u8a2d\u7f6e\u5e74": "1981",
+        "\u7d20\u6750": "\u30d6\u30ed\u30f3\u30ba",
+        "\u4f5c\u54c1\u540d": "\u52a0\u7d0d\u5b97\u4e03\u50cf",
+        "No": "23",
+        "\u8a2d\u7f6e\u5834\u6240": "\u30d5\u30e9\u30ef\u30fc\u30ed\u30fc\u30c9\u897f\u5074",
+        "\u5099\u8003": "",
+        "\u7d4c\u5ea6": "135.196473",
+        "\u4f5c\u8005\u540d": "\u798f\u7530 \u9752\u967d"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "135.196748",
+          "34.689125"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "\u7def\u5ea6": "34.689125",
+        "\u30b5\u30a4\u30ba\uff08cm\uff09": "120\u00d750\u00d750",
+        "\u8a2d\u7f6e\u5e74": "1981",
+        "\u7d20\u6750": "\u5fa1\u5f71\u77f3",
+        "\u4f5c\u54c1\u540d": "\u56f0\u3063\u3066\u3044\u308b\u9053\u7956\u795e",
+        "No": "24",
+        "\u8a2d\u7f6e\u5834\u6240": "\u30d5\u30e9\u30ef\u30fc\u30ed\u30fc\u30c9\u6771\u5074",
+        "\u5099\u8003": "",
+        "\u7d4c\u5ea6": "135.196748",
+        "\u4f5c\u8005\u540d": "\u6728\u6751 \u8ce2\u592a\u90ce"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "135.196666",
+          "34.688442"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "\u7def\u5ea6": "34.688442",
+        "\u30b5\u30a4\u30ba\uff08cm\uff09": "200\u00d7200\u00d715",
+        "\u8a2d\u7f6e\u5e74": "1981",
+        "\u7d20\u6750": "\u30a2\u30af\u30ea\u30eb",
+        "\u4f5c\u54c1\u540d": "\u30b9\u30da\u30fc\u30b9\u30fb\u30a2\u30a4",
+        "No": "25",
+        "\u8a2d\u7f6e\u5834\u6240": "\u30d5\u30e9\u30ef\u30fc\u30ed\u30fc\u30c9\u897f\u5074",
+        "\u5099\u8003": "",
+        "\u7d4c\u5ea6": "135.196666",
+        "\u4f5c\u8005\u540d": "\u591a\u7530 \u7f8e\u6ce2"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "135.197003",
+          "34.688639"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "\u7def\u5ea6": "34.688639",
+        "\u30b5\u30a4\u30ba\uff08cm\uff09": "180\u00d7100\u00d7100",
+        "\u8a2d\u7f6e\u5e74": "1981",
+        "\u7d20\u6750": "\u30b9\u30c6\u30f3\u30ec\u30b9\u30fb\u5927\u7406\u77f3",
+        "\u4f5c\u54c1\u540d": "\u30de\u30b9\u30afA",
+        "No": "26",
+        "\u8a2d\u7f6e\u5834\u6240": "\u30d5\u30e9\u30ef\u30fc\u30ed\u30fc\u30c9\u6771\u5074",
+        "\u5099\u8003": "",
+        "\u7d4c\u5ea6": "135.197003",
+        "\u4f5c\u8005\u540d": "\u6e05\u6c34 \u4e5d\u5175\u885b"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "135.196829",
+          "34.688247"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "\u7def\u5ea6": "34.688247",
+        "\u30b5\u30a4\u30ba\uff08cm\uff09": "124\u00d750\u00d730",
+        "\u8a2d\u7f6e\u5e74": "1982",
+        "\u7d20\u6750": "\u30d6\u30ed\u30f3\u30ba",
+        "\u4f5c\u54c1\u540d": "\u8001\u4eba",
+        "No": "27",
+        "\u8a2d\u7f6e\u5834\u6240": "\u30d5\u30e9\u30ef\u30fc\u30ed\u30fc\u30c9\u897f\u5074",
+        "\u5099\u8003": "",
+        "\u7d4c\u5ea6": "135.196829",
+        "\u4f5c\u8005\u540d": "\u672c\u90f7 \u65b0"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "135.197196",
+          "34.688308"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "\u7def\u5ea6": "34.688308",
+        "\u30b5\u30a4\u30ba\uff08cm\uff09": "200\u00d7100\u00d7100",
+        "\u8a2d\u7f6e\u5e74": "1981",
+        "\u7d20\u6750": "\u9244\u30fb\u5fa1\u5f71\u77f3",
+        "\u4f5c\u54c1\u540d": "\u6b69\u304f\u9244",
+        "No": "28",
+        "\u8a2d\u7f6e\u5834\u6240": "\u30d5\u30e9\u30ef\u30fc\u30ed\u30fc\u30c9\u6771\u5074",
+        "\u5099\u8003": "",
+        "\u7d4c\u5ea6": "135.197196",
+        "\u4f5c\u8005\u540d": "\u571f\u8c37 \u6b66"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "135.196833",
+          "34.687985"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "\u7def\u5ea6": "34.687985",
+        "\u30b5\u30a4\u30ba\uff08cm\uff09": "150\u00d7140\u00d713",
+        "\u8a2d\u7f6e\u5e74": "1981",
+        "\u7d20\u6750": "\u30d6\u30ed\u30f3\u30ba\uff0814\u4f53\uff09",
+        "\u4f5c\u54c1\u540d": "\u3075\u308c\u3042\u3044\u306e\u6edd",
+        "No": "29",
+        "\u8a2d\u7f6e\u5834\u6240": "\u30d5\u30e9\u30ef\u30fc\u30ed\u30fc\u30c9\u897f\u5074",
+        "\u5099\u8003": "",
+        "\u7d4c\u5ea6": "135.196833",
+        "\u4f5c\u8005\u540d": "\u65b0\u8c37 \u82f1\u592b\u30fb\u7407\u7d00\u30fb\u6fa4\u5b50\u30fb\u82f1\u5b50"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "135.197236",
+          "34.687392"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "\u7def\u5ea6": "34.687392",
+        "\u30b5\u30a4\u30ba\uff08cm\uff09": "64\u00d7270\u00d7200",
+        "\u8a2d\u7f6e\u5e74": "1981",
+        "\u7d20\u6750": "\u9ed2\u5fa1\u5f71\u77f3",
+        "\u4f5c\u54c1\u540d": "\u8679\u306e\u77f3",
+        "No": "30",
+        "\u8a2d\u7f6e\u5834\u6240": "\u30d5\u30e9\u30ef\u30fc\u30ed\u30fc\u30c9\u897f\u5074",
+        "\u5099\u8003": "",
+        "\u7d4c\u5ea6": "135.197236",
+        "\u4f5c\u8005\u540d": "\u6cb3\u53e3\u9f8d\u592b"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "135.196116",
+          "34.687399"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "\u7def\u5ea6": "34.687399",
+        "\u30b5\u30a4\u30ba\uff08cm\uff09": "70\u00d760\u00d735",
+        "\u8a2d\u7f6e\u5e74": "1964",
+        "\u7d20\u6750": "\u30d6\u30ed\u30f3\u30ba",
+        "\u4f5c\u54c1\u540d": "W\u30fbJ\u30e2\u30e9\u30a8\u30b9\u7fc1\u50cf",
+        "No": "31",
+        "\u8a2d\u7f6e\u5834\u6240": "\u6771\u904a\u5712\u5730\u30b0\u30e9\u30a6\u30f3\u30c9\u5357\u897f",
+        "\u5099\u8003": "",
+        "\u7d4c\u5ea6": "135.196116",
+        "\u4f5c\u8005\u540d": "\u9577\u8c37\u5ddd \u96c5\u53f8"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "135.197706",
+          "34.687394"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "\u7def\u5ea6": "34.687394",
+        "\u30b5\u30a4\u30ba\uff08cm\uff09": "400\u00d7180\u00d7180",
+        "\u8a2d\u7f6e\u5e74": "1981",
+        "\u7d20\u6750": "\u30b9\u30c6\u30f3\u30ec\u30b9",
+        "\u4f5c\u54c1\u540d": "\u661f\u306e\u8096\u50cf",
+        "No": "32",
+        "\u8a2d\u7f6e\u5834\u6240": "\u30d5\u30e9\u30ef\u30fc\u30ed\u30fc\u30c9\u6771\u5074",
+        "\u5099\u8003": "",
+        "\u7d4c\u5ea6": "135.197706",
+        "\u4f5c\u8005\u540d": "\u65b0\u5bae \u664b"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "135.197424",
+          "34.687225"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "\u7def\u5ea6": "34.687225",
+        "\u30b5\u30a4\u30ba\uff08cm\uff09": "185\u00d7110\u00d7105",
+        "\u8a2d\u7f6e\u5e74": "1981",
+        "\u7d20\u6750": "\u30d6\u30ed\u30f3\u30ba",
+        "\u4f5c\u54c1\u540d": "\u6d77\u306e\u6804\u3048",
+        "No": "33",
+        "\u8a2d\u7f6e\u5834\u6240": "\u30d5\u30e9\u30ef\u30fc\u30ed\u30fc\u30c9\u897f\u5074",
+        "\u5099\u8003": "",
+        "\u7d4c\u5ea6": "135.197424",
+        "\u4f5c\u8005\u540d": "\u4e45\u4fdd \u6d69"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "135.197278",
+          "34.686737"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "\u7def\u5ea6": "34.686737",
+        "\u30b5\u30a4\u30ba\uff08cm\uff09": "210\u00d772\u00d7160",
+        "\u8a2d\u7f6e\u5e74": "1966",
+        "\u7d20\u6750": "\u30d6\u30ed\u30f3\u30ba",
+        "\u4f5c\u54c1\u540d": "\u611b\u300c\u4ed4\u99ac\u306e\u50cf\u300d",
+        "No": "34",
+        "\u8a2d\u7f6e\u5834\u6240": "\u6771\u904a\u5712\u5730\u5674\u6c34\u6771",
+        "\u5099\u8003": "",
+        "\u7d4c\u5ea6": "135.197278",
+        "\u4f5c\u8005\u540d": "\u67f3\u539f \u7fa9\u9054"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "135.197136",
+          "34.686394"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "\u7def\u5ea6": "34.686394",
+        "\u30b5\u30a4\u30ba\uff08cm\uff09": "25\u00d7612\u00d7105",
+        "\u8a2d\u7f6e\u5e74": "1971",
+        "\u7d20\u6750": "\u30b9\u30c6\u30f3\u30ec\u30b9",
+        "\u4f5c\u54c1\u540d": "KAWASAKI\u3078\u306e\u9053\uff08\u7791\u60f3\u306e\u305f\u3081\u306e\u5f6b\u523b\uff09",
+        "No": "35",
+        "\u8a2d\u7f6e\u5834\u6240": "\u6771\u904a\u5712\u5730\u5674\u6c34\u897f",
+        "\u5099\u8003": "",
+        "\u7d4c\u5ea6": "135.197136",
+        "\u4f5c\u8005\u540d": "\u30ab\u30fc\u30eb\u30fb\u30d7\u30e9\u30f3\u30c8\u30eb"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}
