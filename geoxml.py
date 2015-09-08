@@ -1,5 +1,6 @@
 # coding: UTF-8
 import xml.etree.ElementTree
+import collections
 import sys
 import codecs
 import json
@@ -12,7 +13,7 @@ def feature(m):
 		"type": "Feature",
 		"geometry": {
 			"type": "Point",
-			"coordinates": [row["lng"], row["lat"]],
+			"coordinates": [float(row["lng"]), float(row["lat"])],
 		},
 		"properties": row,
 	}
@@ -20,4 +21,4 @@ def feature(m):
 json.dump({
 	"type": "FeatureCollection",
 	"features": list(map(feature, xml.etree.ElementTree.parse(fname).iter("marker"))),
-}, sys.stdout, indent=2)
+}, sys.stdout, indent=2, sort_keys=True)
