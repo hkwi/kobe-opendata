@@ -1,0 +1,268 @@
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix cc:  <http://creativecommons.org/ns#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+<>
+      cc:attributionName "City of Kobe"@ja ;
+      cc:attributionURL <http://www.city.kobe.lg.jp/> ;
+      cc:license <http://creativecommons.org/licenses/by/3.0/deed.ja> .
+
+<http://linkdata.org/property/rdf1s2310i#nightview_spot>
+      rdf:type rdf:Property ;
+      rdfs:label "nightview_spot"@ja .
+<http://linkdata.org/property/rdf1s2310i#location>
+      rdf:type rdf:Property ;
+      rdfs:label "location"@ja .
+<http://linkdata.org/property/rdf1s2310i#caption>
+      rdf:type rdf:Property ;
+      rdfs:label "caption"@ja .
+<http://linkdata.org/property/rdf1s2310i#attribution_website>
+      rdf:type rdf:Property ;
+      rdfs:label "attribution_website"@ja .
+<http://linkdata.org/property/rdf1s2310i#images>
+      rdf:type rdf:Property ;
+      rdfs:label "images"@ja .
+
+<http://linkdata.org/resource/rdf1s2310i#1>
+      <http://www.w3.org/2000/01/rdf-schema#label> "1"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#nightview_spot> "高浜岸壁"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#location> "神戸市中央区東川崎町1"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#caption> "ポートタワーなどキャラクター性の高いあかりが並ぶ港夜景"@ja ;
+      <http://purl.org/dc/elements/1.1/description> "これぞ神戸という象徴的な夜景エリア。神戸ポートタワー、神戸海洋博物館、メリケンパークオリエンタルホテルなどのキャラクター性の高いあかりが並び、遊覧船などの船舶のあかりがそれらと重なり合い、みなと神戸らしい風景を形成して見ていて飽きない夜景である。"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#attribution_website> "こうべの夜景　～神戸都心夜景10選～"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#images> <http://www.city.kobe.lg.jp/information/project/urban/night/01Takahama.jpg> ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.679142"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.185357"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2310i#2>
+      <http://www.w3.org/2000/01/rdf-schema#label> "2"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#nightview_spot> "中突堤西側"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#location> "神戸市中央区波止場町"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#caption> "上品でまとまりのある低層部のあかりと光のエンターテイメント"@ja ;
+      <http://purl.org/dc/elements/1.1/description> "ベイエリアに広がる上質なあかりと、背景の高層ビル群のあかりが層をなして美しいビューをつくりだす様は、海外のベイエリアのような心地よさがある。施設前には遊覧船のデッキがあり、光に縁取りされた船のシルエットが加わると港の風情はさらに格別となる。観覧車は影絵での物語のある照明演出が行われ、上品さのある光のエンターテイメントを楽しむことができる。"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#attribution_website> "こうべの夜景　～神戸都心夜景10選～"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#images> <http://www.city.kobe.lg.jp/information/project/urban/night/02Nakatottei.jpg> ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.680531"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.187501"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2310i#3>
+      <http://www.w3.org/2000/01/rdf-schema#label> "3"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#nightview_spot> "元町商店街"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#location> "神戸市中央区元町通4"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#caption> "商店街の合間から突如出現する凛々しいポートタワー"@ja ;
+      <http://purl.org/dc/elements/1.1/description> "神戸の老舗「元町商店街」は、カーブしながら海岸を取り巻くように続いている。そのため、ある箇所から脇道を眺めた瞬間のみ、このような「知る人ぞ知る絶景」が出現する。港とは幾分はなれたところからふと路地を眺めると、そこに愛され続けているタワーが凛々しく灯っているこの景色、ぜひ探してみてはいかがでしょうか。"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#attribution_website> "こうべの夜景　～神戸都心夜景10選～"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#images> <http://www.city.kobe.lg.jp/information/project/urban/night/03Motomachi.jpg> ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.686675"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.183614"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2310i#4>
+      <http://www.w3.org/2000/01/rdf-schema#label> "4"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#nightview_spot> "西安門前"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#location> "神戸市中央区元町通2"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#caption> "門越しにみえるエネルギッシュな南京町のにぎわい"@ja ;
+      <http://purl.org/dc/elements/1.1/description> "南京町はランタンや店舗の中国風のあかりにより、個性的でエネルギッシュさをかもし出しており、神戸の夜景スポットとして欠かせない。特に西安門前からのビューは、ライトアップされた門の向こうに店舗や街路のあかりを連続して見通すことができ、訪ねる楽しさに満ちている。シックな大人のまちあかりが似合う神戸の中でもここだけは、派手さや元気さ・色とりどりの光が心地よい。"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#attribution_website> "こうべの夜景　～神戸都心夜景10選～"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#images> <http://www.city.kobe.lg.jp/information/project/urban/night/04Nankinmachi.jpg> ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.687737"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.186715"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2310i#5>
+      <http://www.w3.org/2000/01/rdf-schema#label> "5"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#nightview_spot> "乙仲通"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#location> "神戸市中央区栄町通2～5、海岸通2～5"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#caption> "ほっとする温かみのある個店と街灯のあかり"@ja ;
+      <http://purl.org/dc/elements/1.1/description> "様々な手づくり感のある個性的な店舗が増えてきたこのエリアは、神戸の新しい散策ポイントである。店舗のイメージを醸しだす素敵な電球色のあかりや手書き看板を照らす間接照明など、ゴージャスではないがほっとするあかりが心地よい。道路の照明もエリアのイメージにあっている。"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#attribution_website> "こうべの夜景　～神戸都心夜景10選～"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#images> <http://www.city.kobe.lg.jp/information/project/urban/night/05Otsunaka.jpg> ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.686506"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.187057"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2310i#6>
+      <http://www.w3.org/2000/01/rdf-schema#label> "6"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#nightview_spot> "明石町筋"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#location> "神戸市中央区明石町"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#caption> "近代洋風建築やガス灯など、歩くことが楽しい厚みのあるあかり"@ja ;
+      <http://purl.org/dc/elements/1.1/description> "近代洋風建築と新しい商業ビルが並ぶエリアでは、様々なあかりの工夫が重なる「通り」のビューが美しい。回廊のあかり、周辺のガス灯、近代洋風建築のライトアップなど、複数の照明手法のあかりが重なり合い、歩くのに楽しい厚みのある夜景となっている「通り」のビューをぜひ見て欲しい。"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#attribution_website> "こうべの夜景　～神戸都心夜景10選～"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#images> <http://www.city.kobe.lg.jp/information/project/urban/night/06Kyoryuchi.jpg> ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.688225"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.191020"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2310i#7>
+      <http://www.w3.org/2000/01/rdf-schema#label> "7"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#nightview_spot> "三宮センターサウス"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#location> "神戸市中央区三宮町2"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#caption> "個店と街灯が織り成す界わい性のある路地のあかり"@ja ;
+      <http://purl.org/dc/elements/1.1/description> "地域の人々による個別店舗のあかりに工夫がみられ、路地そのものに情緒のある近景である。目線に入ってくるあかりのバランスがよく、全体的に光のスケール感がいい。街灯も個別の店舗とイメージを合わせ低い色温度で整備され、小さいエリアながらもまとまった心地良さがあり、散策するのが楽しい。"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#attribution_website> "こうべの夜景　～神戸都心夜景10選～"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#images> <http://www.city.kobe.lg.jp/information/project/urban/night/07CenterS.jpg> ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.690554"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.191563"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2310i#8>
+      <http://www.w3.org/2000/01/rdf-schema#label> "8"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#nightview_spot> "神戸市役所１号館24階"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#location> "神戸市中央区加納町6"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#caption> "都心市街地からウォーターフロントにかけてのパノラマビュー"@ja ;
+      <http://purl.org/dc/elements/1.1/description> "都心市街地からウォーターフロントにかけての景色を180度以上の大パノラマで楽しむことができる。  また、天気の良い日には関西国際空港連絡橋をはじめとする大阪湾のあかりが、近景の神戸の市街地のあかりの背景として重なり、ダイナミックでランドマークを見つける楽しさのあるビューである。  夜間を含めて市民に開放された「市役所の上」というのも楽しい。"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#attribution_website> "こうべの夜景　～神戸都心夜景10選～"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#images> <http://www.city.kobe.lg.jp/information/project/08CityHall.jpg> ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.689467"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.195755"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2310i#9>
+      <http://www.w3.org/2000/01/rdf-schema#label> "9"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#nightview_spot> "北野坂"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#location> "神戸市中央区北野町2"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#caption> "街路樹のライトアップが連続するダイナミックな見通しのビュー"@ja ;
+      <http://purl.org/dc/elements/1.1/description> "異人館が立ち並ぶエリアの中心となる街路樹の道。海側の神戸市庁舎がアイストップとなるダイナミックな見通しのビューは、六甲山上からの神戸夜景とはまた異なる近景と中景のコンビネーションが心地よい。樹木はライトアップされ春から秋にかけてのそぞろ歩きが特におすすめである。"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#attribution_website> "こうべの夜景　～神戸都心夜景10選～"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#images> <http://www.city.kobe.lg.jp/information/project/09Kitanozaka.jpg> ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.700410"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.190184"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2310i#10>
+      <http://www.w3.org/2000/01/rdf-schema#label> "10"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#nightview_spot> "ポーアイしおさい公園"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#location> "神戸市中央区北港島1"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#caption> "山並みを背景とした神戸の夜景を海側から堪能する絶景ポイント"@ja ;
+      <http://purl.org/dc/elements/1.1/description> "神戸の夜景を海側から堪能する絶景ポイント。市章のイルミネーションも見える六甲山系の山並みを背景に、ポートタワーや観覧車など港のシンボルのあかりが煌き、素晴らしい遠景のビューといえる。遊覧船の航行もビューの楽しさをいっそう高めている。"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#attribution_website> "こうべの夜景　～神戸都心夜景10選～"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#images> <http://www.city.kobe.lg.jp/information/project/10ShiosaiPark.jpg> ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.672483"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.201711"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2310i#11>
+      <http://www.w3.org/2000/01/rdf-schema#label> "11"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#nightview_spot> "ビーナスブリッジ"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#location> "神戸市中央区諏訪山公園展望台"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#caption> "市街地の近くで気軽に楽しめる港と街の大パノラマ"@ja ;
+      <http://purl.org/dc/elements/1.1/description> "螺旋状のビーナスブリッジは、神戸の街と港を近くに望める人気のデートスポット。オフィスビルや高層マンションに灯る明かり、メリケンパークや神戸ハーバーランドなどの明かりが眼前に迫ってくる大パノラマを楽しめます。"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#attribution_website> "神戸夜景　KOBE Jewelry Box"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#images> <http://www.feel-kobe.jp/kobe-yakei/area/mountain/01/images/01.png> ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.697176"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.180686"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2310i#12>
+      <http://www.w3.org/2000/01/rdf-schema#label> "12"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#nightview_spot> "神戸布引ハーブ園 / ロープウェイ"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#location> "神戸市北野町1-4-3"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#caption> "ハーブの香り漂う、神戸夜景のビューポイント！"@ja ;
+      <http://purl.org/dc/elements/1.1/description> "ロープウェイ乗車中と展望スポットからの眺望。2つの楽しみ方ができる夜景ポイント。約200種75,000株のハーブや花が四季を通じて咲き誇る日本最大規模のハーブ園。ハーブをふんだんに使った料理が楽しめるレストランや、天気がよければ遠く和歌山まで見渡せる、絶景の神戸夜景が人気のスポット。"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#attribution_website> "神戸夜景　KOBE Jewelry Box"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#images> <http://www.feel-kobe.jp/kobe-yakei/area/mountain/02/images/01.png> ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.714377"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.191913"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2310i#13>
+      <http://www.w3.org/2000/01/rdf-schema#label> "13"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#nightview_spot> "まやビューライン　掬星台"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#location> "神戸市灘区摩耶山町2-2"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#caption> "日本三大夜景のダイナミックなきらめきを心に残して"@ja ;
+      <http://purl.org/dc/elements/1.1/description> "ケーブルとロープウェーを乗り継ぎ、日本三大夜景の掬星台へ。大阪方面から神戸市街のダイナミックな夜景を体感できます。日没から空が青々と染まり、埠頭や街にぽつぽつと明かりが灯り始める光模様が感動的。"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#attribution_website> "神戸夜景　KOBE Jewelry Box"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#images> <http://www.feel-kobe.jp/kobe-yakei/area/mountain/03/images/01.png> ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.734234"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.206355"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2310i#14>
+      <http://www.w3.org/2000/01/rdf-schema#label> "14"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#nightview_spot> "鉢巻天覧台"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#location> "神戸市灘区六甲山町南六甲"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#caption> "何度も通いたくなる、臨場感抜群の街のきらめき"@ja ;
+      <http://purl.org/dc/elements/1.1/description> "表六甲ドライブウェイにあり、六甲山の中腹に位置する展望スポット。六甲アイランドなど、神戸市街地の夜景に手が届きそうな臨場感が味わえます。何度も訪れるファンが多いのも納得。"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#attribution_website> "神戸夜景　KOBE Jewelry Box"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#images> <http://www.feel-kobe.jp/kobe-yakei/area/mountain/04/images/01.png> ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.748753"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.225077"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2310i#15>
+      <http://www.w3.org/2000/01/rdf-schema#label> "15"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#nightview_spot> "六甲ケーブル　天覧台"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#location> "神戸市灘区六甲山町一ヶ谷1-32"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#caption> "ロマンチックな車両に乗って、六甲山を象徴する夜景スポットへ"@ja ;
+      <http://purl.org/dc/elements/1.1/description> "六甲ケーブル下駅からレトロモダンな車両に乗って六甲山上駅へ。すぐそばにある天覧台は、昭和天皇の行幸でも有名な展望台。大阪平野や和歌山方面を中心にした光の粒が、圧倒的なスケール感で迫ってきます。"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#attribution_website> "神戸夜景　KOBE Jewelry Box"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#images> <http://www.feel-kobe.jp/kobe-yakei/area/mountain/05/images/01.png> ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.752017"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.237226"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2310i#16>
+      <http://www.w3.org/2000/01/rdf-schema#label> "16"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#nightview_spot> "六甲ガーデンテラス"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#location> "神戸市灘区六甲山町五介山1877-9"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#caption> "創作料理を味わいながら眼下に広がるワイドビューを満喫"@ja ;
+      <http://purl.org/dc/elements/1.1/description> "六甲山上の異国情緒漂うエリアには、それぞれ異なる表情が楽しめる夜景のビュースポットが充実。大阪方面がメインの見晴らしのデッキ、明石海峡から大阪方面まで、ワイドビューが広がる見晴らしの塔は一見の価値あり。"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#attribution_website> "神戸夜景　KOBE Jewelry Box"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#images> <http://www.feel-kobe.jp/kobe-yakei/area/mountain/06/images/01.png> ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.764400"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.246507"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2310i#17>
+      <http://www.w3.org/2000/01/rdf-schema#label> "17"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#nightview_spot> "旧居留地"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#location> "神戸市中央区明石町周辺"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#caption> "東洋一美しい、異国の街へタイムトリップ"@ja ;
+      <http://purl.org/dc/elements/1.1/description> "「東洋一美しい居留地」と称賛された神戸港界隈。レトロモダンな近代建築物は、レストランやカフェなどとしても使用され、店舗からこぼれる柔らかい灯りが、今もなお異国情緒あふれるお洒落な夜を演出してくれています。"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#attribution_website> "神戸夜景　KOBE Jewelry Box"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#images> <http://www.feel-kobe.jp/kobe-yakei/area/town/01/images/01.png> ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.688716"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.190447"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2310i#18>
+      <http://www.w3.org/2000/01/rdf-schema#label> "18"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#nightview_spot> "明石海峡大橋（パールブリッジ）"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#location> "神戸市垂水区東舞子町"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#caption> "レインボーに輝く、世界一のつり橋に出会えるかも！"@ja ;
+      <http://purl.org/dc/elements/1.1/description> "神戸市と淡路島を結ぶ全長3911ｍの世界一のつり橋「明石海峡大橋」。別名パールブリッジの愛称のとおり、真珠を連ねたような美しいライトアップは様々な色の組み合わせで28パターンあり、海の闇間に映えるイルミネーションは幻想的。1時間ごとの毎正時にあわせ虹色の輝きを見ることができます。"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#attribution_website> "神戸夜景　KOBE Jewelry Box"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#images> <http://www.feel-kobe.jp/kobe-yakei/area/sea_side/01/images/01.png> ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.631301"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.035766"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2310i#19>
+      <http://www.w3.org/2000/01/rdf-schema#label> "19"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#nightview_spot> "神戸ハーバーランド"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#location> "神戸市中央区東川崎町1丁目一帯"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#caption> "夜の港を照らすポップな色の光。観光船との光の競演も！"@ja ;
+      <http://purl.org/dc/elements/1.1/description> "ショッピング・グルメ・アミューズメント等の施設が揃う、人気の観光スポット。夜にはライトアップされた施設と黄金色に輝く観光船の光の競演が望めます。大観覧車から夜の港と街の光景を眺めるのもオススメ！"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#attribution_website> "神戸夜景　KOBE Jewelry Box"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#images> <http://www.feel-kobe.jp/kobe-yakei/area/sea_side/02/images/01.png> ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.678478"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.178638"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2310i#20>
+      <http://www.w3.org/2000/01/rdf-schema#label> "20"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#nightview_spot> "神戸ポートタワー・神戸海洋博物館 / カワサキワールド"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#location> "神戸市中央区波止場町"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#caption> "赤と白に輝く、ユニークなフォルムは港町のシンボル"@ja ;
+      <http://purl.org/dc/elements/1.1/description> "真っ赤な神戸ポートタワーと白い波をイメージした神戸海洋博物館。神戸ポートタワーは2010年春に約7000戸のLEDでリニューアルし様々な色で夜空を演出。展望室5階天井には光ファイバーを使った星空がひろがります。"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#attribution_website> "神戸夜景　KOBE Jewelry Box"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#images> <http://www.feel-kobe.jp/kobe-yakei/area/sea_side/03/images/01.png> ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.682759"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.187303"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2310i#21>
+      <http://www.w3.org/2000/01/rdf-schema#label> "21"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#nightview_spot> "ポートアイランド北公園"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#location> "神戸市中央区港島2-2北公園内"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#caption> "潮のBGMに、ゆったり過ごす極上の夜景タイム"@ja ;
+      <http://purl.org/dc/elements/1.1/description> "神戸の街並みと六甲山、神戸港を一望できる神戸有数の展望スポット。夜には、色とりどりのイルミネーションに包まれた神戸の夜景を見ることができ、行き交う船を眺めながらゆったりとした時間を過ごせます。"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#attribution_website> "神戸夜景　KOBE Jewelry Box"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#images> <http://www.feel-kobe.jp/kobe-yakei/area/sea_side/04/images/01.png> ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.676626"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.204618"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2310i#22>
+      <http://www.w3.org/2000/01/rdf-schema#label> "22"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#nightview_spot> "神戸空港マリンエア"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#location> "神戸市中央区神戸空港1"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#caption> "ライトアップされた夜の空港と真近に迫る飛行機を体感"@ja ;
+      <http://purl.org/dc/elements/1.1/description> "芝生やベンチで寛げる屋上庭園からは、北側に神戸市街、南側に滑走路が見渡せます。目の前で離発着する飛行機の臨場感はさすが！屋上階にある「明石浦正鮨」で食事をしながらの夜景鑑賞もオススメ。"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#attribution_website> "神戸夜景　KOBE Jewelry Box"@ja ;
+      <http://linkdata.org/property/rdf1s2310i#images> <http://www.feel-kobe.jp/kobe-yakei/area/sea_side/06/images/01.png> ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.636803"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.228703"^^xsd:float .
+

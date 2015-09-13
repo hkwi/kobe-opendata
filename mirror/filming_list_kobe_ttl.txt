@@ -1,0 +1,686 @@
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix cc:  <http://creativecommons.org/ns#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+<>
+      cc:attributionName "City of Kobe"@ja ;
+      cc:attributionURL <http://www.city.kobe.lg.jp/> ;
+      cc:license <http://creativecommons.org/licenses/by/3.0/deed.ja> .
+
+<http://linkdata.org/property/rdf1s2313i#title>
+      rdf:type rdf:Property ;
+      rdfs:label "title"@ja .
+<http://linkdata.org/property/rdf1s2313i#kana>
+      rdf:type rdf:Property ;
+      rdfs:label "kana"@ja .
+<http://linkdata.org/property/rdf1s2313i#directors>
+      rdf:type rdf:Property ;
+      rdfs:label "directors"@ja .
+<http://linkdata.org/property/rdf1s2313i#release_year>
+      rdf:type rdf:Property ;
+      rdfs:label "release_year"@ja .
+<http://linkdata.org/property/rdf1s2313i#distributed_by>
+      rdf:type rdf:Property ;
+      rdfs:label "distributed_by"@ja .
+<http://linkdata.org/property/rdf1s2313i#location1>
+      rdf:type rdf:Property ;
+      rdfs:label "location1"@ja .
+<http://linkdata.org/property/rdf1s2313i#location1_scene>
+      rdf:type rdf:Property ;
+      rdfs:label "location1_scene"@ja .
+<http://linkdata.org/property/rdf1s2313i#location2>
+      rdf:type rdf:Property ;
+      rdfs:label "location2"@ja .
+<http://linkdata.org/property/rdf1s2313i#location2_scene>
+      rdf:type rdf:Property ;
+      rdfs:label "location2_scene"@ja .
+<http://linkdata.org/property/rdf1s2313i#location3>
+      rdf:type rdf:Property ;
+      rdfs:label "location3"@ja .
+<http://linkdata.org/property/rdf1s2313i#location3_scene>
+      rdf:type rdf:Property ;
+      rdfs:label "location3_scene"@ja .
+<http://linkdata.org/property/rdf1s2313i#location4>
+      rdf:type rdf:Property ;
+      rdfs:label "location4"@ja .
+<http://linkdata.org/property/rdf1s2313i#location4_scene>
+      rdf:type rdf:Property ;
+      rdfs:label "location4_scene"@ja .
+<http://linkdata.org/property/rdf1s2313i#location5>
+      rdf:type rdf:Property ;
+      rdfs:label "location5"@ja .
+<http://linkdata.org/property/rdf1s2313i#location5_scene>
+      rdf:type rdf:Property ;
+      rdfs:label "location5_scene"@ja .
+<http://linkdata.org/property/rdf1s2313i#cast1>
+      rdf:type rdf:Property ;
+      rdfs:label "cast1"@ja .
+<http://linkdata.org/property/rdf1s2313i#cast2>
+      rdf:type rdf:Property ;
+      rdfs:label "cast2"@ja .
+<http://linkdata.org/property/rdf1s2313i#cast3>
+      rdf:type rdf:Property ;
+      rdfs:label "cast3"@ja .
+
+<http://linkdata.org/resource/rdf1s2313i#17>
+      <http://www.w3.org/2000/01/rdf-schema#label> "17"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#title> "少年H"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#kana> "しょうねんH"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#directors> "降旗康男"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#release_year> "2013"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#distributed_by> "東宝"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location1> "旧神戸居留地十五番館"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location1_scene> "少年Hと父親・盛夫がフランス料理屋のオーナーシェフを訪ねるシーン"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast1> "水谷豊"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast2> "伊藤蘭"@ja .
+
+<http://linkdata.org/resource/rdf1s2313i#18>
+      <http://www.w3.org/2000/01/rdf-schema#label> "18"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#title> "夏の終り"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#kana> "なつのおわり"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#directors> "熊切和嘉"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#release_year> "2013"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#distributed_by> "クロックワークス"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast1> "満島ひかり"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast2> "小林 薫"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast3> "綾野剛"@ja .
+
+<http://linkdata.org/resource/rdf1s2313i#19>
+      <http://www.w3.org/2000/01/rdf-schema#label> "19"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#title> "シャニダールの花"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#kana> "しゃにだーるのはな"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#directors> "石井岳龍"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#release_year> "2013"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#distributed_by> "ファントム・フィルム"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast1> "綾野剛"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast2> "黒木華"@ja .
+
+<http://linkdata.org/resource/rdf1s2313i#20>
+      <http://www.w3.org/2000/01/rdf-schema#label> "20"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#title> "アウトレイジ ビヨンド"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#kana> "あうとれいじびよんど"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#directors> "北野 武"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#release_year> "2012"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#distributed_by> "ワーナー・ブラザース映画、オフィス北野"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast1> "ビートたけし"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast2> "西田敏行"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast3> "三浦友和"@ja .
+
+<http://linkdata.org/resource/rdf1s2313i#21>
+      <http://www.w3.org/2000/01/rdf-schema#label> "21"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#title> "黄金を抱いて翔べ"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#kana> "おうごんをだいてとべ"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#directors> "井筒和幸"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#release_year> "2012"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#distributed_by> "松竹"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast1> "妻夫木聡"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast2> "浅野忠信"@ja .
+
+<http://linkdata.org/resource/rdf1s2313i#22>
+      <http://www.w3.org/2000/01/rdf-schema#label> "22"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#title> "BRAVE HEARTS　海猿"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#kana> "BRAVE HEARTS　うみざる"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#directors> "羽住英一郎"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#release_year> "2012"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#distributed_by> "東宝"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location1> "神戸空港"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location1_scene> "神戸空港の誘導灯を羽田空港の誘導灯に見立て、海上保安庁の巡視船が近づく姿をヘリで空撮"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast1> "伊藤英明"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast2> "加藤あい"@ja .
+
+<http://linkdata.org/resource/rdf1s2313i#23>
+      <http://www.w3.org/2000/01/rdf-schema#label> "23"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#title> "ALWAYS　三丁目の夕日'64"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#kana> "ALWAYS　さんちょうめのゆうひ'64"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#directors> "山崎貴"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#release_year> "2012"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#distributed_by> "東宝"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast1> "吉岡秀隆"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast2> "小雪"@ja .
+
+<http://linkdata.org/resource/rdf1s2313i#24>
+      <http://www.w3.org/2000/01/rdf-schema#label> "24"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#title> "わが母の記"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#kana> "わがははのき"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#directors> "原田眞人"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#release_year> "2012"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#distributed_by> "松竹"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location1> "神戸ポートターミナル"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location1_scene> "ハワイへ出る大型客船の見送りの歓声が響く岸壁に、洪作（役所広司）がやってくるシーン"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast1> "役所広司"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast2> "樹木希林"@ja .
+
+<http://linkdata.org/resource/rdf1s2313i#25>
+      <http://www.w3.org/2000/01/rdf-schema#label> "25"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#title> "DOG×POLICE「純白の絆」"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#kana> "DOG×POLICE「じゅんぱくのきずな」"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#directors> "七高剛"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#release_year> "2011"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#distributed_by> "東宝"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location1> "ポートアイランド市民広場"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location1_scene> "警備犬を扱う警察官（市原隼人さん、戸田恵梨香さん）らが、爆破予告された建物広場に集結し、大活躍"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast1> "市原隼人"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast2> "戸田恵梨香"@ja .
+
+<http://linkdata.org/resource/rdf1s2313i#26>
+      <http://www.w3.org/2000/01/rdf-schema#label> "26"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#title> "生きてるものはいないのか"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#kana> "いきてるものはいないのか"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#directors> "石井岳龍"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#release_year> "2012"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#distributed_by> "ファントム・フィルム"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast1> "染谷将太"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast2> "村上淳"@ja .
+
+<http://linkdata.org/resource/rdf1s2313i#27>
+      <http://www.w3.org/2000/01/rdf-schema#label> "27"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#title> "メモリーズ・コーナー"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#kana> "めもりーず・こーなー"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#directors> "オドレイ・フーシェ"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#release_year> "2013"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#distributed_by> "ディンゴ"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location1> "神戸布引ハーブ園／ロープウェイ"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location1_scene> "アダ（デボラ・フランソワさん）と、石田（阿部寛さん）が語り合うシーン"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast1> "デボラ・フランソワ"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast2> "西島秀俊"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast3> "阿部寛"@ja .
+
+<http://linkdata.org/resource/rdf1s2313i#28>
+      <http://www.w3.org/2000/01/rdf-schema#label> "28"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#title> "ミロクローゼ"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#kana> "みろくろーぜ"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#directors> "石橋義正"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#release_year> "2012"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#distributed_by> "ディーライツ"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location1> "三井アウトレットパーク　マリンピア神戸"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location1_scene> "子ども時代のオブレネリ・ブレネリギャー（下地幸多さん）が、ミロクローゼ（マイコさん）とデート"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location2> "新港貿易会館"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location2_scene> "青春悩み相談員熊谷ベッソン（山田孝之さん）の事務所。玄関や廊下でもダンス！"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast1> "山田孝之"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast2> "マイコ"@ja .
+
+<http://linkdata.org/resource/rdf1s2313i#29>
+      <http://www.w3.org/2000/01/rdf-schema#label> "29"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#title> "阪急電車～片道15分の奇跡～"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#kana> "はんきゅうでんしゃ〜かたみち15ふんのきせき〜"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#directors> "三宅喜重"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#release_year> "2011"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#distributed_by> "東宝"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location1> "カフェフィッシュ"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location1_scene> "ミサ（戸田恵梨香さん）が、マユミ（相武紗季さん）同席で彼氏と話し合ったカフェ"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location2> "三宮中央通り"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location2_scene> "翔子（中谷美紀さん）がビジネス街の人波の中、たたずんだ場所"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast1> "中谷美紀"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast2> "戸田恵梨香"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast3> "南果歩"@ja .
+
+<http://linkdata.org/resource/rdf1s2313i#30>
+      <http://www.w3.org/2000/01/rdf-schema#label> "30"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#title> "マイ・バック・ページ"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#kana> "まい・ばっく・ぺーじ"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#directors> "山下敦弘"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#release_year> "2011"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#distributed_by> "アスミック・エース"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location1> "デザイン・クリエイティブセンター神戸（KIITO）"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location1_scene> "新聞社と週刊誌編集部の屋内セットを建て込んでロケ"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast1> "妻夫木聡"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast2> "松山ケンイチ"@ja .
+
+<http://linkdata.org/resource/rdf1s2313i#31>
+      <http://www.w3.org/2000/01/rdf-schema#label> "31"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#title> "GANTZ"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#kana> "GANTZ"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#directors> "佐藤信介"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#release_year> "2011"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#distributed_by> "東宝"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast1> "二宮和也"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast2> "松山ケンイチ"@ja .
+
+<http://linkdata.org/resource/rdf1s2313i#32>
+      <http://www.w3.org/2000/01/rdf-schema#label> "32"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#title> "ふたたび　SWING ME AGAIN"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#kana> "ふたたび　SWING ME AGAIN"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#directors> "塩屋俊"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#release_year> "2010"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#distributed_by> "ギャガ"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast1> "鈴木亮平"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast2> "MINJI"@ja .
+
+<http://linkdata.org/resource/rdf1s2313i#33>
+      <http://www.w3.org/2000/01/rdf-schema#label> "33"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#title> "アウトレイジ"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#kana> "あうとれいじ"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#directors> "北野武"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#release_year> "2010"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#distributed_by> "ワーナーブラザース映画／オフィス北野"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location1> "神戸ポートピアホテル"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location1_scene> "本館2Fのバーで、グバナン大使がパーティを開催するシーン"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location2> "江戸町筋"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location2_scene> "「高砂ビル」が大友（ビートたけし）の組事務所に！"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast1> "ビートたけし"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast2> "他"@ja .
+
+<http://linkdata.org/resource/rdf1s2313i#34>
+      <http://www.w3.org/2000/01/rdf-schema#label> "34"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#title> "ノルウェイの森"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#kana> "のるうぇいのもり"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#directors> "トラン・アン・ユン"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#release_year> "2010"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#distributed_by> "東宝"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location1> "神戸大学学生寮"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location1_scene> "六甲学院"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location2> "神戸高校"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast1> "松山ケンイチ"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast2> "菊地凛子"@ja .
+
+<http://linkdata.org/resource/rdf1s2313i#35>
+      <http://www.w3.org/2000/01/rdf-schema#label> "35"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#title> "新宿インシデント"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#kana> "しんじゅくいんしでんと"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#directors> "イー・トンシン"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#release_year> "2009"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#distributed_by> "ショウゲート"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location1> "高浜岸壁・モザイク"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location1_scene> "鉄頭（ジャッキー・チェン）とリリー（ファン・ビンビン）が語り合っていたところに登場する北野刑事（竹中直人）。不穏な空気が…。"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location2> "東門街"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location2_scene> "鉄頭（ジャッキー・チェンさん）と江口（加藤雅也さん）が追手から逃げる"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location3> "南京町"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location3_scene> "チンピラに絡まれたリリー（ファン・ビンビン）を鉄頭（ジャッキー・チェン）が助け、ロマンスの始まりとなった"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location4> "ポートアイランド市民広場"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location4_scene> "阿傑（ダニエル・ウーさん）が幻覚に追われるシーン"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location5> "江戸町筋"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location5_scene> "暴対法反対デモのシーンは高砂ビル前。"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast1> "ジャッキー・チェン"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast2> "竹中直人"@ja .
+
+<http://linkdata.org/resource/rdf1s2313i#36>
+      <http://www.w3.org/2000/01/rdf-schema#label> "36"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#title> "悲しいボーイフレンド"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#kana> "かなしいぼーいふれんど"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#directors> "草野陽花"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#release_year> "2009"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#distributed_by> "ジョリーロジャー"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location1> "神戸インキュベーションオフィス"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location1_scene> "岩津（寺脇康文さん）が香奈（寺島咲さん）に高速バスに無理やり乗せられるシーン"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast1> "寺脇康文"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast2> "寺島咲"@ja .
+
+<http://linkdata.org/resource/rdf1s2313i#37>
+      <http://www.w3.org/2000/01/rdf-schema#label> "37"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#title> "ホームレス中学生"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#kana> "ほーむれすちゅうがくせい"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#directors> "古厩智之"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#release_year> "2008"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#distributed_by> "東宝"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location1> "須磨海岸"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location1_scene> "裕（小池徹平さん）が自転車で家出し、神戸の海岸にたどり着くシーン"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast1> "小池徹平"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast2> "池脇千鶴"@ja .
+
+<http://linkdata.org/resource/rdf1s2313i#38>
+      <http://www.w3.org/2000/01/rdf-schema#label> "38"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#title> "クリアネス"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#kana> "くりあねす"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#directors> "篠原哲雄"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#release_year> "2008"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#distributed_by> "ゼアリズエンタープライズ/ドーガ堂"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast1> "杉野希妃"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast2> "細田よしひこ"@ja .
+
+<http://linkdata.org/resource/rdf1s2313i#39>
+      <http://www.w3.org/2000/01/rdf-schema#label> "39"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#title> "火垂るの墓"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#kana> "ほたるのはか"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#directors> "日向寺太郎"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#release_year> "2008"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#distributed_by> "パル企画"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location1> "神戸大学（六甲台キャンパス）"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location1_scene> "清太（吉武怜朗さん）と父（高橋克明さん）が剣道の稽古をするシーン（剣道場にて）"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast1> "吉武怜朗"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast2> "松坂慶子"@ja .
+
+<http://linkdata.org/resource/rdf1s2313i#41>
+      <http://www.w3.org/2000/01/rdf-schema#label> "41"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#title> "神様のパズル"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#kana> "かみさまのぱずる"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#directors> "三池崇史"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#release_year> "2008"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#distributed_by> "東映"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location1> "神戸大学（六甲台キャンパス）"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location1_scene> "基一（市原隼人さん）と沙羅華（谷村美月さん）が通う大学。学校の庭、表のシーンが撮影された。"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast1> "市原隼人"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast2> "谷村美月"@ja .
+
+<http://linkdata.org/resource/rdf1s2313i#42>
+      <http://www.w3.org/2000/01/rdf-schema#label> "42"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#title> "Sweet Rain　死神の精度"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#kana> "Sweet Rain　しにがみのせいど"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#directors> "筧昌也"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#release_year> "2008"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#distributed_by> "ワーナー"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location1> "江戸町筋"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location1_scene> "「高砂ビル」は一恵の職場、千葉が通い詰めるレコード店は「ベルェベル美容専門学校」の設定で、連日雨を降らせながら撮影。映画用に作ったレコード店のセットが、ご近所で、新しいお店がオープンした？と話題に。"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location2> "東門街"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location2_scene> "一恵（小西真奈美さん）がストーカー？から逃げるシーン"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast1> "金城武"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast2> "小西真奈美"@ja .
+
+<http://linkdata.org/resource/rdf1s2313i#43>
+      <http://www.w3.org/2000/01/rdf-schema#label> "43"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#title> "クローズ　ZERO"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#kana> "くろーず　ZERO"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#directors> "三池崇史"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#release_year> "2008"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#distributed_by> "東宝"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location1> "六間道商店街"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location1_scene> "合コンに失敗した源治（小栗旬さん）、牧瀬（高橋努さん）らが語り合うシーン"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location2> "二葉34商店街"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location2_scene> "源治（小栗旬さん）らG・P・Sが雨の中最後の決戦に向かうシーン"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location3> "丸五市場"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location3_scene> "ルカ（黒木メイサさん）の実家の八百屋に源治（小栗旬さん）がたずねるシーン。名物「丸五丼」はロケ弁にも登場！"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location4> "湊川隧道（不定期公開）"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location4_scene> "源治（小栗旬さん）とルカ（黒木メイサさん）が町はずれに逃げ着くシーン"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast1> "小栗旬"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast2> "山田孝之"@ja .
+
+<http://linkdata.org/resource/rdf1s2313i#44>
+      <http://www.w3.org/2000/01/rdf-schema#label> "44"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#title> "ALWAYS　続・三丁目の夕日"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#kana> "ALWAYS　ぞく・さんちょうめのゆうひ"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#directors> "山崎貴"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#release_year> "2008"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#distributed_by> "東宝"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location1> "川崎重工業兵庫工場"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast1> "吉岡秀隆"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast2> "小雪"@ja .
+
+<http://linkdata.org/resource/rdf1s2313i#46>
+      <http://www.w3.org/2000/01/rdf-schema#label> "46"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#title> "僕の彼女はサイボーグ"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#kana> "ぼくのかのじょはさいぼーぐ"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#directors> "クァク・ジェヨン"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#release_year> "2008"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#distributed_by> "GAGAコミュニケーションズ"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location1> "旧神戸居留地十五番館"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location1_scene> "ジローと「彼女」が思い出のレストランで食事をし、出てくるシーンは「十五番館」で撮影（店内シーンは別場所セット）"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location2> "明石町筋"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location2_scene> "夜間封鎖して、未来から「彼女」が登場するカークラッシュシーンを撮影。閉店後の「大丸」店内でもジローや「彼女」のコミカルなシーンを撮影した。"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location3> "南京町"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location3_scene> "賑わう夜の南京町を、ジローと「彼女」が手をつないで駆け抜けた"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location4> "神戸大学（六甲台キャンパス）"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location4_scene> "ジロー（小出恵介さん）が通う大学（教室・学食）として登場。彼女（綾瀬はるかさん）がチキンを骨ごと食べるシーンも。"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location5> "神戸市立御影公会堂"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location5_scene> "彼女（綾瀬はるかさん）とジロー（小出恵介さん）が逃げ込んだ京劇会場"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast1> "綾瀬はるか"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast2> "小出恵介"@ja .
+
+<http://linkdata.org/resource/rdf1s2313i#47>
+      <http://www.w3.org/2000/01/rdf-schema#label> "47"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#title> "ゼロからの風"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#kana> "ぜろからのかぜ"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#directors> "塩屋俊"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#release_year> "2007"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#distributed_by> "制作上映委員会"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location1> "西神斎場"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast1> "田中好子"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast2> "杉浦太陽"@ja .
+
+<http://linkdata.org/resource/rdf1s2313i#48>
+      <http://www.w3.org/2000/01/rdf-schema#label> "48"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#title> "初雪の恋　～ヴァージン・スノー〜"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#kana> "はつゆきのこい　〜ゔぁーじん・すのー〜"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#directors> "ハン・サンヒ"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#release_year> "2007"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#distributed_by> "角川映画"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location1> "高浜岸壁・モザイク"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location1_scene> "七重（宮﨑あおいさん）と友人（森田彩香さん）が語り合うシーン"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast1> "イ・ジュンギ"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast2> "宮﨑あおい"@ja .
+
+<http://linkdata.org/resource/rdf1s2313i#49>
+      <http://www.w3.org/2000/01/rdf-schema#label> "49"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#title> "おばちゃんチップス"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#kana> "おばちゃんちっぷす"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#directors> "田中誠"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#release_year> "2006"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#distributed_by> "ファントム・フィルム"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast1> "船越英一郎"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast2> "misono"@ja .
+
+<http://linkdata.org/resource/rdf1s2313i#50>
+      <http://www.w3.org/2000/01/rdf-schema#label> "50"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#title> "ウルトラマンメビウス＆ウルトラ兄弟"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#kana> "うるとらまんめびうす＆うるとらきょうだい"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#directors> "小中和哉"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#release_year> "2006"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#distributed_by> "松竹"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location1> "ポートアイランド北公園"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location1_scene> "悩めるタカト（田中碧海さん）をミライが励ます名シーン"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location2> "神戸空港"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location2_scene> "物語りの冒頭、ヒビノ・ミライ（五十嵐隼士さん）はここに降り立った。"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location3> "神戸市立六甲山牧場"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location3_scene> "モロボシ・ダン（森次晃嗣さん）は牧場主として生活していた。"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location4> "神戸布引ハーブ園／ロープウェイ"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location4_scene> "ウルトラ兄弟の４名がGUYSガンウィンガーを見送った場所"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location5> "ポートアイランド市民広場"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location5_scene> "人々がニセメビウスの攻撃に逃げ惑う。"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast1> "五十嵐隼士"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast2> "黒部進"@ja .
+
+<http://linkdata.org/resource/rdf1s2313i#51>
+      <http://www.w3.org/2000/01/rdf-schema#label> "51"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#title> "ハリヨの夏"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#kana> "はりよのなつ"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#directors> "中村真夕"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#release_year> "2006"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#distributed_by> "葵プロモーション"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location1> "須磨海岸"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location1_scene> "瑞穂（於保佐代子さん）が母（風吹ジュンさん）らと旅行するシーン"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast1> "於保佐代子"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast2> "風吹ジュン"@ja .
+
+<http://linkdata.org/resource/rdf1s2313i#52>
+      <http://www.w3.org/2000/01/rdf-schema#label> "52"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#title> "天使の卵"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#kana> "てんしのたまご"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#directors> "富樫森"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#release_year> "2006"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#distributed_by> "松竹"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast1> "小西真奈美"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast2> "市川隼人"@ja .
+
+<http://linkdata.org/resource/rdf1s2313i#53>
+      <http://www.w3.org/2000/01/rdf-schema#label> "53"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#title> "ありがとう"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#kana> "ありがとう"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#directors> "万田邦敏"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#release_year> "2006"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#distributed_by> "東映"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location1> "長田港"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location1_scene> "60歳を目前に、ゴルフのプロテストを受けると奮起する古市（赤井英和）が、地元の人に励まされながらトレーニングをするシーンを撮影（港へは立入禁止）"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location2> "須磨海岸"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location2_scene> "妻を亡くした保繁（今福将雄さん）が海に向って歌うシーン"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location3> "神戸インキュベーションオフィス"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location3_scene> "忠雄（赤井英和さん）がプロテスト会場に出発するバスに乗り込むシーン"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast1> "赤井英和"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast2> "田中好子"@ja .
+
+<http://linkdata.org/resource/rdf1s2313i#54>
+      <http://www.w3.org/2000/01/rdf-schema#label> "54"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#title> "陽気なギャングが地球を回す"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#kana> "ようきなぎゃんぐがちきゅうをまわす"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#directors> "前田哲"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#release_year> "2006"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#distributed_by> "松竹"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location1> "フラワーロード"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location1_scene> "パレードのシーンは神戸まつりで撮影"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast1> "大沢たかお"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast2> "鈴木京香"@ja .
+
+<http://linkdata.org/resource/rdf1s2313i#55>
+      <http://www.w3.org/2000/01/rdf-schema#label> "55"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#title> "呉清源"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#kana> "ごせいげん"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#directors> "田壮壮"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#release_year> "2006"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#distributed_by> "エス ピー オー"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location1> "東灘区邸宅"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location2> "萬亀楼"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast1> "張震"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast2> "伊藤歩"@ja .
+
+<http://linkdata.org/resource/rdf1s2313i#56>
+      <http://www.w3.org/2000/01/rdf-schema#label> "56"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#title> "交渉人　真下正義"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#kana> "こうしょうにんましたまさよし"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#directors> "本広克行"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#release_year> "2005"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#distributed_by> "東宝"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast1> "ユースケサンタマリア"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast2> "寺島進"@ja .
+
+<http://linkdata.org/resource/rdf1s2313i#57>
+      <http://www.w3.org/2000/01/rdf-schema#label> "57"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#title> "みやび　三島由紀夫"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#kana> "みやびみしまゆきお"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#directors> "田中千世子"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#release_year> "2004"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#distributed_by> "パンドラ"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location1> "舞子公園"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast1> "平野啓一郎"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast2> "関根祥人"@ja .
+
+<http://linkdata.org/resource/rdf1s2313i#58>
+      <http://www.w3.org/2000/01/rdf-schema#label> "58"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#title> "ゴジラ　Final Wars"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#kana> "ごじら　Final Wars"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#directors> "北村龍平"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#release_year> "2004"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#distributed_by> "東宝"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location1> "神戸空港連絡橋"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location2> "兵庫県立美術館"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location3> "市営地下鉄御崎車輌基地"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast1> "松岡昌宏"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast2> "菊川怜"@ja .
+
+<http://linkdata.org/resource/rdf1s2313i#59>
+      <http://www.w3.org/2000/01/rdf-schema#label> "59"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#title> "あずみ２"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#kana> "あずみ２"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#directors> "金子修介"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#release_year> "2005"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#distributed_by> "東宝"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location1> "白水峡"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast1> "上戸彩"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast2> "石垣佑磨"@ja .
+
+<http://linkdata.org/resource/rdf1s2313i#60>
+      <http://www.w3.org/2000/01/rdf-schema#label> "60"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#title> "動・響・光"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#kana> "うごき・ひびき・ひかり"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#directors> "槌橋雅博"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#release_year> "2004"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#distributed_by> "自主製作"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast1> "中江絵美"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast2> "中村優子"@ja .
+
+<http://linkdata.org/resource/rdf1s2313i#61>
+      <http://www.w3.org/2000/01/rdf-schema#label> "61"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#title> "きょうのできごと"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#kana> "きょうのできごと"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#directors> "行定勲"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#release_year> "2004"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#distributed_by> "コムストック"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast1> "妻夫木聡"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast2> "田中麗奈"@ja .
+
+<http://linkdata.org/resource/rdf1s2313i#62>
+      <http://www.w3.org/2000/01/rdf-schema#label> "62"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#title> "あずみ"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#kana> "あずみ"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#directors> "北村龍平"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#release_year> "2003"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#distributed_by> "東宝"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#location1> "白水峡"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast1> "上戸彩"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast2> "竹中直人"@ja .
+
+<http://linkdata.org/resource/rdf1s2313i#63>
+      <http://www.w3.org/2000/01/rdf-schema#label> "63"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#title> "首領への道"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#kana> "どんへのみち"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#directors> "石原興"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#release_year> "2003"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#distributed_by> "松竹"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast1> "清水健太郎"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast2> "白竜"@ja .
+
+<http://linkdata.org/resource/rdf1s2313i#64>
+      <http://www.w3.org/2000/01/rdf-schema#label> "64"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#title> "GAIJIN 2"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#kana> "GAIJIN 2"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#directors> "山崎チヅカ"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#release_year> "2004"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#distributed_by> "MAM マルコンデス"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast1> "-"@ja .
+
+<http://linkdata.org/resource/rdf1s2313i#65>
+      <http://www.w3.org/2000/01/rdf-schema#label> "65"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#title> "Killers"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#kana> "Killers"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#directors> "辻本貴則"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#release_year> "2003"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#distributed_by> "東宝"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast1> "水玉れっぷう隊"@ja .
+
+<http://linkdata.org/resource/rdf1s2313i#66>
+      <http://www.w3.org/2000/01/rdf-schema#label> "66"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#title> "RUN 2 U"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#kana> "RUN 2 U"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#directors> "カン・ジョンス"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#release_year> "2003"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#distributed_by> "松竹"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast1> "チェ・ジョンアン"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast2> "高橋和也"@ja .
+
+<http://linkdata.org/resource/rdf1s2313i#67>
+      <http://www.w3.org/2000/01/rdf-schema#label> "67"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#title> "Returner"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#kana> "Returner"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#directors> "山崎貴"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#release_year> "2002"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#distributed_by> "東宝"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast1> "金城武"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast2> "鈴木杏"@ja .
+
+<http://linkdata.org/resource/rdf1s2313i#68>
+      <http://www.w3.org/2000/01/rdf-schema#label> "68"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#title> "GO"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#kana> "GO"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#directors> "行定勲"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#release_year> "2001"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#distributed_by> "東映"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast1> "窪塚洋介"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast2> "柴崎コウ"@ja .
+
+<http://linkdata.org/resource/rdf1s2313i#69>
+      <http://www.w3.org/2000/01/rdf-schema#label> "69"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#title> "走れ！イチロー"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#kana> "はしれ！いちろー"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#directors> "大森一樹"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#release_year> "2001"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#distributed_by> "東映"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast1> "中村雅俊"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast2> "浅野ゆう子"@ja .
+
+<http://linkdata.org/resource/rdf1s2313i#70>
+      <http://www.w3.org/2000/01/rdf-schema#label> "70"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#title> "バタフライ"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#kana> "ばたふらい"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#directors> "ムン・スンウク"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#release_year> "2001"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#distributed_by> "D－Production"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast1> "キム・ホジョン"@ja ;
+      <http://linkdata.org/property/rdf1s2313i#cast2> "カン・ヘジョン"@ja .
+

@@ -1,0 +1,402 @@
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix cc:  <http://creativecommons.org/ns#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+<>
+      cc:attributionName "City of Kobe"@ja ;
+      cc:attributionURL <http://www.city.kobe.lg.jp/> ;
+      cc:license <http://creativecommons.org/licenses/by/3.0/deed.ja> .
+
+<http://linkdata.org/property/rdf1s2311i#facilities>
+      rdf:type rdf:Property ;
+      rdfs:label "facilities"@ja .
+<http://linkdata.org/property/rdf1s2311i#location>
+      rdf:type rdf:Property ;
+      rdfs:label "location"@ja .
+
+<http://linkdata.org/resource/rdf1s2311i#1>
+      <http://www.w3.org/2000/01/rdf-schema#label> "1"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#facilities> "東灘第１低層配水池"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#location> "東灘区西岡本4丁目17"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.726438"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.262712"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2311i#2>
+      <http://www.w3.org/2000/01/rdf-schema#label> "2"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#facilities> "川井公園貯水槽"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#location> "東灘区魚崎北町2丁目7"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.718024"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.273985"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2311i#3>
+      <http://www.w3.org/2000/01/rdf-schema#label> "3"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#facilities> "六甲アイランド貯水槽"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#location> "東灘区向洋町中2丁目"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.6902"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.275192"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2311i#4>
+      <http://www.w3.org/2000/01/rdf-schema#label> "4"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#facilities> "本山南給水拠点"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#location> "東灘区本山南町8丁目3"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.722768"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.281822"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2311i#5>
+      <http://www.w3.org/2000/01/rdf-schema#label> "5"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#facilities> "本庄中央公園給水拠点"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#location> "東灘区青木5丁目18"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.719629"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.285473"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2311i#6>
+      <http://www.w3.org/2000/01/rdf-schema#label> "6"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#facilities> "住吉川給水拠点"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#location> "東灘区西岡本2丁目25"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.724121"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.264173"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2311i#7>
+      <http://www.w3.org/2000/01/rdf-schema#label> "7"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#facilities> "石屋川公園貯水槽"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#location> "灘区記田町1丁目1"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.715063"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.248914"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2311i#8>
+      <http://www.w3.org/2000/01/rdf-schema#label> "8"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#facilities> "篠原低層配水池"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#location> "灘区篠原中町5丁目2"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.71781"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.226824"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2311i#9>
+      <http://www.w3.org/2000/01/rdf-schema#label> "9"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#facilities> "灘中層配水池"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#location> "灘区薬師通1丁目1"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.720133"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.22305"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2311i#10>
+      <http://www.w3.org/2000/01/rdf-schema#label> "10"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#facilities> "六甲山町貯水槽"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#location> "灘区六甲山町字北六甲（記念碑台駐車場内）"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.757214"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.230329"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2311i#11>
+      <http://www.w3.org/2000/01/rdf-schema#label> "11"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#facilities> "HAT神戸貯水槽"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#location> "中央区脇浜海岸通1丁目2（なぎさ公園内）"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.696695"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.213649"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2311i#12>
+      <http://www.w3.org/2000/01/rdf-schema#label> "12"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#facilities> "北野中層配水池"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#location> "中央区北野町1丁目4"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.704131"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.192926"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2311i#13>
+      <http://www.w3.org/2000/01/rdf-schema#label> "13"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#facilities> "磯上公園貯水槽"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#location> "中央区八幡通2丁目1"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.691279"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.199103"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2311i#14>
+      <http://www.w3.org/2000/01/rdf-schema#label> "14"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#facilities> "中公園貯水槽"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#location> "中央区港島中町1丁目"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.673144"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.209137"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2311i#15>
+      <http://www.w3.org/2000/01/rdf-schema#label> "15"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#facilities> "奥平野調整池"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#location> "兵庫区楠谷町37-1"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.694071"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.174518"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2311i#16>
+      <http://www.w3.org/2000/01/rdf-schema#label> "16"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#facilities> "御崎公園貯水槽"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#location> "兵庫区御崎町1丁目1"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.655206"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.169599"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2311i#17>
+      <http://www.w3.org/2000/01/rdf-schema#label> "17"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#facilities> "会下山低層配水池"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#location> "長田区重池町2丁目3"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.677337"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.154554"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2311i#18>
+      <http://www.w3.org/2000/01/rdf-schema#label> "18"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#facilities> "海浜公園貯水槽"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#location> "須磨区若宮町1丁目3"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.644438"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.131383"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2311i#19>
+      <http://www.w3.org/2000/01/rdf-schema#label> "19"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#facilities> "須磨特１低区配水池"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#location> "須磨区高倉台5丁目7"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.658504"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.105473"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2311i#20>
+      <http://www.w3.org/2000/01/rdf-schema#label> "20"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#facilities> "東白川特２配水池"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#location> "須磨区東白川台5丁目地先"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.69428"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.112277"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2311i#21>
+      <http://www.w3.org/2000/01/rdf-schema#label> "21"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#facilities> "落合特１中区配水池"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#location> "須磨区北落合5丁目9"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.691243"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.091748"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2311i#22>
+      <http://www.w3.org/2000/01/rdf-schema#label> "22"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#facilities> "東垂水中層配水池"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#location> "垂水区青山台1丁目11"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.640049"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.074402"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2311i#23>
+      <http://www.w3.org/2000/01/rdf-schema#label> "23"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#facilities> "西舞子中層配水池"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#location> "垂水区南多聞台1丁目6"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.65692"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.03183"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2311i#24>
+      <http://www.w3.org/2000/01/rdf-schema#label> "24"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#facilities> "舞子中層配水池"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#location> "垂水区舞子坂2丁目7"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.645275"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.035491"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2311i#25>
+      <http://www.w3.org/2000/01/rdf-schema#label> "25"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#facilities> "西垂水第２高層配水池"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#location> "垂水区学が丘3丁目4"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.656682"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.05925"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2311i#26>
+      <http://www.w3.org/2000/01/rdf-schema#label> "26"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#facilities> "北神戸配水池"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#location> "北区赤松台2丁目4地先"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.87432"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.17606"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2311i#27>
+      <http://www.w3.org/2000/01/rdf-schema#label> "27"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#facilities> "北神戸ポンプ場"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#location> "北区上津台9丁目1"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.864531"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.20402"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2311i#28>
+      <http://www.w3.org/2000/01/rdf-schema#label> "28"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#facilities> "藤原ポンプ場"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#location> "北区藤原台北町7丁目20"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.833453"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.217758"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2311i#29>
+      <http://www.w3.org/2000/01/rdf-schema#label> "29"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#facilities> "藤原低区配水池"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#location> "北区藤原台中町7丁目地先"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.81394"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.216098"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2311i#30>
+      <http://www.w3.org/2000/01/rdf-schema#label> "30"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#facilities> "有野低区配水池"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#location> "北区有野台8丁目4418-8"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.808126"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.230399"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2311i#31>
+      <http://www.w3.org/2000/01/rdf-schema#label> "31"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#facilities> "有馬高区配水池"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#location> "北区有馬町歯朶が尾1758"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.795887"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.256811"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2311i#32>
+      <http://www.w3.org/2000/01/rdf-schema#label> "32"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#facilities> "唐櫃高区配水池"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#location> "北区唐櫃台4丁目18"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.784748"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.216315"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2311i#33>
+      <http://www.w3.org/2000/01/rdf-schema#label> "33"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#facilities> "花山台配水池"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#location> "北区大池見山台14-355"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.776509"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.190021"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2311i#34>
+      <http://www.w3.org/2000/01/rdf-schema#label> "34"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#facilities> "箕谷中区配水池"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#location> "北区日の峰1丁目60"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.758677"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.14805"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2311i#35>
+      <http://www.w3.org/2000/01/rdf-schema#label> "35"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#facilities> "下谷上高区配水池"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#location> "北区筑紫が丘9丁目地先"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.744226"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.171232"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2311i#36>
+      <http://www.w3.org/2000/01/rdf-schema#label> "36"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#facilities> "東小部配水池"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#location> "北区鈴蘭台東町7丁目6"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.725169"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.153709"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2311i#37>
+      <http://www.w3.org/2000/01/rdf-schema#label> "37"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#facilities> "西鈴蘭台配水池"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#location> "北区泉台6丁目3"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.735943"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.134215"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2311i#38>
+      <http://www.w3.org/2000/01/rdf-schema#label> "38"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#facilities> "ひよどり台特２高区配水池"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#location> "北区ひよどり北町1丁目2"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.703372"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.119176"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2311i#39>
+      <http://www.w3.org/2000/01/rdf-schema#label> "39"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#facilities> "淡河低区配水池"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#location> "北区淡河町萩原字野田1244-1"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.810231"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.108308"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2311i#40>
+      <http://www.w3.org/2000/01/rdf-schema#label> "40"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#facilities> "淡河高区配水池"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#location> "北区淡河町神田字鏡谷8-1"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.823215"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.167397"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2311i#41>
+      <http://www.w3.org/2000/01/rdf-schema#label> "41"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#facilities> "唐櫃低区配水池"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#location> "北区唐櫃台3丁目29"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.787182"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.215982"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2311i#42>
+      <http://www.w3.org/2000/01/rdf-schema#label> "42"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#facilities> "平田配水池"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#location> "北区道場町平田字東山978-3"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.849408"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.244156"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2311i#43>
+      <http://www.w3.org/2000/01/rdf-schema#label> "43"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#facilities> "淡河中区配水池"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#location> "北区淡河町中山字東片木544"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.811742"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.141948"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2311i#44>
+      <http://www.w3.org/2000/01/rdf-schema#label> "44"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#facilities> "栄特１中区配水池"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#location> "西区桜が丘西町5丁目848-692"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.739607"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.058864"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2311i#45>
+      <http://www.w3.org/2000/01/rdf-schema#label> "45"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#facilities> "押部谷特１配水池"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#location> "西区月が丘6丁目20"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.763011"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.051005"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2311i#46>
+      <http://www.w3.org/2000/01/rdf-schema#label> "46"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#facilities> "神出高層配水池"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#location> "西区神出町田井1867"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.741974"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "134.981096"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2311i#47>
+      <http://www.w3.org/2000/01/rdf-schema#label> "47"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#facilities> "岩岡中層配水池"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#location> "西区岩岡町岩岡612-1"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.712845"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "134.94829"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2311i#48>
+      <http://www.w3.org/2000/01/rdf-schema#label> "48"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#facilities> "学園特１配水池"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#location> "西区学園東町4丁目"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.687499"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.070177"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2311i#49>
+      <http://www.w3.org/2000/01/rdf-schema#label> "49"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#facilities> "西神南貯水槽"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#location> "西区井吹台北町2丁目（井吹思い出広場内）"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.703074"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.030269"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2311i#50>
+      <http://www.w3.org/2000/01/rdf-schema#label> "50"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#facilities> "狩場台特１高区配水池"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#location> "西区狩場台1丁目"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.727325"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.031124"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2311i#51>
+      <http://www.w3.org/2000/01/rdf-schema#label> "51"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#facilities> "竹の台公園貯水槽"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#location> "西区竹の台3丁目18"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.711914"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.008277"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2311i#52>
+      <http://www.w3.org/2000/01/rdf-schema#label> "52"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#facilities> "持子公園貯水槽"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#location> "西区持子1丁目12"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.670563"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "134.983279"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2311i#53>
+      <http://www.w3.org/2000/01/rdf-schema#label> "53"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#facilities> "福谷中層配水池"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#location> "西区櫨谷町福谷字城ケ谷748-1"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.719333"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.041939"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2311i#54>
+      <http://www.w3.org/2000/01/rdf-schema#label> "54"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#facilities> "池上中央公園貯水槽"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#location> "西区池上2丁目21"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.670951"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.027589"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2311i#55>
+      <http://www.w3.org/2000/01/rdf-schema#label> "55"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#facilities> "宮下公園貯水槽"@ja ;
+      <http://linkdata.org/property/rdf1s2311i#location> "西区宮下2丁目9"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.6908"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "134.977638"^^xsd:float .
+

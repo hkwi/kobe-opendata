@@ -1,0 +1,416 @@
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix cc:  <http://creativecommons.org/ns#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+<>
+      cc:attributionName "City of Kobe"@ja ;
+      cc:attributionURL <http://www.city.kobe.lg.jp/> ;
+      cc:license <http://creativecommons.org/licenses/by/3.0/deed.ja> .
+
+<http://linkdata.org/property/rdf1s2306i#title>
+      rdf:type rdf:Property ;
+      rdfs:label "title"@ja .
+<http://linkdata.org/property/rdf1s2306i#artists>
+      rdf:type rdf:Property ;
+      rdfs:label "artists"@ja .
+<http://linkdata.org/property/rdf1s2306i#medium>
+      rdf:type rdf:Property ;
+      rdfs:label "medium"@ja .
+<http://linkdata.org/property/rdf1s2306i#dimensions%28cm%29>
+      rdf:type rdf:Property ;
+      rdfs:label "dimensions(cm)"@ja .
+<http://linkdata.org/property/rdf1s2306i#date>
+      rdf:type rdf:Property ;
+      rdfs:label "date"@ja .
+<http://linkdata.org/property/rdf1s2306i#location>
+      rdf:type rdf:Property ;
+      rdfs:label "location"@ja .
+
+<http://linkdata.org/resource/rdf1s2306i#1>
+      <http://www.w3.org/2000/01/rdf-schema#label> "1"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#title> "なほ"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#artists> "岩野　勇三"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#medium> "ブロンズ"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#dimensions%28cm%29> "128×48×50"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#date> "1987"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#location> "加納町2丁目"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.699847"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.19391"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2306i#2>
+      <http://www.w3.org/2000/01/rdf-schema#label> "2"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#title> "少女"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#artists> "大桐　國光"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#medium> "ブロンズ"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#dimensions%28cm%29> "110×25×37"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#date> "1988"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#location> "加納町3丁目交差点北西"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.698435"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.193782"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2306i#3>
+      <http://www.w3.org/2000/01/rdf-schema#label> "3"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#title> "家族（女神と天使そして男）"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#artists> "松本 雄治"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#medium> "ブロンズ（ポリエステル）"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#dimensions%28cm%29> "240×100×120"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#date> "1985"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#location> "加納町3丁目交差点南西"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.697714"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.19369"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2306i#4>
+      <http://www.w3.org/2000/01/rdf-schema#label> "4"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#title> "WIND"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#artists> "津野 充聡"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#medium> "ブロンズ"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#dimensions%28cm%29> "150×100×50"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#date> "1986"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#location> "布引町4丁目"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.69692"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.194014"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2306i#5>
+      <http://www.w3.org/2000/01/rdf-schema#label> "5"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#title> "MEDETAI"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#artists> "流 政之"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#medium> "黒御影石"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#dimensions%28cm%29> "-"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#date> "1990"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#location> "代々木ゼミナール前"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.695883"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.193664"^^xsd:float ;
+      <http://purl.org/dc/elements/1.1/description> "代々木ゼミナール蔵"@ja .
+
+<http://linkdata.org/resource/rdf1s2306i#6>
+      <http://www.w3.org/2000/01/rdf-schema#label> "6"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#title> "長い午後"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#artists> "掛井 五郎"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#medium> "ブロンズ"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#dimensions%28cm%29> "75×45×75"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#date> "1982"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#location> "ニッセイ三宮ビル前"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.69492"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.193637"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2306i#7>
+      <http://www.w3.org/2000/01/rdf-schema#label> "7"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#title> "浮遊する物体"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#artists> "石黒 鏘二"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#medium> "ステンレス・御影石"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#dimensions%28cm%29> "250×350×100"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#date> "1982"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#location> "JR三ノ宮駅北"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.694777"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.194346"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2306i#8>
+      <http://www.w3.org/2000/01/rdf-schema#label> "8"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#title> "AMORE"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#artists> "新谷 琇紀"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#medium> "ブロンズ"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#dimensions%28cm%29> "300×80×50"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#date> "2006"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#location> "さんきたアモーレ広場"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.694276"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.193497"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2306i#9>
+      <http://www.w3.org/2000/01/rdf-schema#label> "9"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#title> "風の標識No.45"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#artists> "大成 浩"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#medium> "赤御影石"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#dimensions%28cm%29> "350×180×170"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#date> "1996"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#location> "さんきたアモーレ広場"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.694433"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.193655"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2306i#10>
+      <http://www.w3.org/2000/01/rdf-schema#label> "10"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#title> "雲の中の海"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#artists> "吉田 隆"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#medium> "ブロンズ"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#dimensions%28cm%29> "185×120×90"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#date> "2005"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#location> "三宮センター街入口"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.692229"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.19479"^^xsd:float ;
+      <http://purl.org/dc/elements/1.1/description> "三宮センター街2丁目商店街振興組合蔵"@ja .
+
+<http://linkdata.org/resource/rdf1s2306i#11>
+      <http://www.w3.org/2000/01/rdf-schema#label> "11"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#title> "レダ"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#artists> "桜井 祐一"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#medium> "ブロンズ"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#dimensions%28cm%29> "110×60×115"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#date> "1982"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#location> "神戸Fビルディング前"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.691715"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.195072"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2306i#12>
+      <http://www.w3.org/2000/01/rdf-schema#label> "12"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#title> "追憶"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#artists> "山本 正道"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#medium> "ブロンズ"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#dimensions%28cm%29> "25×90×35"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#date> "1982"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#location> "金沢三宮ビル前"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.691334"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.195234"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2306i#13>
+      <http://www.w3.org/2000/01/rdf-schema#label> "13"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#title> "わたしと私"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#artists> "井上 玲子"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#medium> "アルミニウム"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#dimensions%28cm%29> "250×200×120"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#date> "1978"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#location> "花時計前"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.690842"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.195265"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2306i#14>
+      <http://www.w3.org/2000/01/rdf-schema#label> "14"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#title> "湖風"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#artists> "一色 邦彦"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#medium> "ブロンズ"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#dimensions%28cm%29> "70×110×45"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#date> "1981"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#location> "三宮三和東洋ビル前"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.691534"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.195536"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2306i#15>
+      <http://www.w3.org/2000/01/rdf-schema#label> "15"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#title> "帽子・裸婦"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#artists> "佐藤 忠良"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#medium> "ブロンズ"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#dimensions%28cm%29> "118×35×40"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#date> "1981"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#location> "第一南ビル前"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.690657"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.19599"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2306i#16>
+      <http://www.w3.org/2000/01/rdf-schema#label> "16"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#title> "道標・鴉"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#artists> "柳原 義達"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#medium> "ブロンズ"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#dimensions%28cm%29> "50×74×43"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#date> "1981"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#location> "フラワーロードタイホ―ビル前"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.690339"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.196146"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2306i#17>
+      <http://www.w3.org/2000/01/rdf-schema#label> "17"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#title> "WOMAN"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#artists> "朝倉 響子"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#medium> "ブロンズ"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#dimensions%28cm%29> "127×50×30"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#date> "1981"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#location> "フラワーロード東側"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.689671"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.196469"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2306i#18>
+      <http://www.w3.org/2000/01/rdf-schema#label> "18"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#title> "エーゲ海に捧ぐ"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#artists> "木内 克"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#medium> "ブロンズ"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#dimensions%28cm%29> "230×55×50"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#date> "1973"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#location> "東遊園地北側"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.68887"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.195824"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2306i#19>
+      <http://www.w3.org/2000/01/rdf-schema#label> "19"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#title> "MARINA"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#artists> "新谷 琇紀"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#medium> "ブロンズ"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#dimensions%28cm%29> "155×160×70"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#date> "1976"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#location> "東遊園地北側"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.688999"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.196031"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2306i#20>
+      <http://www.w3.org/2000/01/rdf-schema#label> "20"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#title> "スプリング・ストーン"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#artists> "環境造形Q"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#medium> "黒御影石"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#dimensions%28cm%29> "275×130×120"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#date> "1981"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#location> "フラワーロード西側"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.68902"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.196171"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2306i#21>
+      <http://www.w3.org/2000/01/rdf-schema#label> "21"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#title> "シオン"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#artists> "舟越 保武"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#medium> "ブロンズ"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#dimensions%28cm%29> "120×32×32"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#date> "1981"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#location> "フラワーロード西側"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.688999"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.196415"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2306i#22>
+      <http://www.w3.org/2000/01/rdf-schema#label> "22"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#title> "日本近代洋服発祥の地記念彫刻"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#artists> "環境造形Q"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#medium> "御影石"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#dimensions%28cm%29> "50×375×200ほか"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#date> "1974"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#location> "東遊園地ステージ東側"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.688512"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.19632"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2306i#23>
+      <http://www.w3.org/2000/01/rdf-schema#label> "23"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#title> "加納宗七像"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#artists> "福田 青陽"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#medium> "ブロンズ"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#dimensions%28cm%29> "45×20×20"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#date> "1981"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#location> "フラワーロード西側"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.688695"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.196473"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2306i#24>
+      <http://www.w3.org/2000/01/rdf-schema#label> "24"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#title> "困っている道祖神"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#artists> "木村 賢太郎"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#medium> "御影石"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#dimensions%28cm%29> "120×50×50"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#date> "1981"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#location> "フラワーロード東側"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.689125"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.196748"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2306i#25>
+      <http://www.w3.org/2000/01/rdf-schema#label> "25"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#title> "スペース・アイ"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#artists> "多田 美波"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#medium> "アクリル"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#dimensions%28cm%29> "200×200×15"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#date> "1981"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#location> "フラワーロード西側"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.688442"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.196666"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2306i#26>
+      <http://www.w3.org/2000/01/rdf-schema#label> "26"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#title> "マスクA"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#artists> "清水 九兵衛"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#medium> "ステンレス・大理石"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#dimensions%28cm%29> "180×100×100"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#date> "1981"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#location> "フラワーロード東側"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.688639"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.197003"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2306i#27>
+      <http://www.w3.org/2000/01/rdf-schema#label> "27"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#title> "老人"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#artists> "本郷 新"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#medium> "ブロンズ"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#dimensions%28cm%29> "124×50×30"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#date> "1982"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#location> "フラワーロード西側"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.688247"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.196829"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2306i#28>
+      <http://www.w3.org/2000/01/rdf-schema#label> "28"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#title> "歩く鉄"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#artists> "土谷 武"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#medium> "鉄・御影石"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#dimensions%28cm%29> "200×100×100"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#date> "1981"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#location> "フラワーロード東側"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.688308"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.197196"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2306i#29>
+      <http://www.w3.org/2000/01/rdf-schema#label> "29"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#title> "ふれあいの滝"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#artists> "新谷 英夫・琇紀・澤子・英子"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#medium> "ブロンズ（14体）"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#dimensions%28cm%29> "150×140×13"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#date> "1981"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#location> "フラワーロード西側"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.687985"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.196833"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2306i#30>
+      <http://www.w3.org/2000/01/rdf-schema#label> "30"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#title> "虹の石"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#artists> "河口龍夫"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#medium> "黒御影石"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#dimensions%28cm%29> "64×270×200"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#date> "1981"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#location> "フラワーロード西側"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.687392"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.197236"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2306i#31>
+      <http://www.w3.org/2000/01/rdf-schema#label> "31"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#title> "W・Jモラエス翁像"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#artists> "長谷川 雅司"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#medium> "ブロンズ"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#dimensions%28cm%29> "70×60×35"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#date> "1964"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#location> "東遊園地グラウンド南西"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.687399"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.196116"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2306i#32>
+      <http://www.w3.org/2000/01/rdf-schema#label> "32"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#title> "星の肖像"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#artists> "新宮 晋"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#medium> "ステンレス"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#dimensions%28cm%29> "400×180×180"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#date> "1981"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#location> "フラワーロード東側"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.687394"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.197706"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2306i#33>
+      <http://www.w3.org/2000/01/rdf-schema#label> "33"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#title> "海の栄え"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#artists> "久保 浩"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#medium> "ブロンズ"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#dimensions%28cm%29> "185×110×105"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#date> "1981"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#location> "フラワーロード西側"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.687225"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.197424"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2306i#34>
+      <http://www.w3.org/2000/01/rdf-schema#label> "34"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#title> "愛「仔馬の像」"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#artists> "柳原 義達"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#medium> "ブロンズ"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#dimensions%28cm%29> "210×72×160"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#date> "1966"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#location> "東遊園地噴水東"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.686737"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.197278"^^xsd:float .
+
+<http://linkdata.org/resource/rdf1s2306i#35>
+      <http://www.w3.org/2000/01/rdf-schema#label> "35"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#title> "KAWASAKIへの道（瞑想のための彫刻）"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#artists> "カール・プラントル"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#medium> "ステンレス"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#dimensions%28cm%29> "25×612×105"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#date> "1971"@ja ;
+      <http://linkdata.org/property/rdf1s2306i#location> "東遊園地噴水西"@ja ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.686394"^^xsd:float ;
+      <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135.197136"^^xsd:float .
+
