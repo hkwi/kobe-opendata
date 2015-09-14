@@ -4,8 +4,8 @@ import sys
 import csv
 import lxml.html
 
-dout = csv.writer(codecs.open("opendata-index-download.csv","w", encoding="UTF-8"))
-pout = csv.writer(codecs.open("opendata-index-publish.csv","w", encoding="UTF-8"))
+dout = csv.writer(codecs.open("catalog-download.csv","w", encoding="UTF-8"))
+pout = csv.writer(codecs.open("catalog-publish.csv","w", encoding="UTF-8"))
 
 fields = None
 r = lxml.html.parse('http://www.city.kobe.lg.jp/information/opendata/catalogue.html').getroot()
