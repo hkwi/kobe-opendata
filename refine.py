@@ -2,12 +2,10 @@
 import csv
 import glob
 import nkf
+import sys
 import codecs
 import unicodedata
-try:
-	from io import StringIO
-except:
-	from StringIO import StringIO
+import io
 
 def is_blank_row(values):
 	return sum([1 for v in values if v]) == 0
@@ -25,8 +23,14 @@ def process_institution():
 				if len(row) > 1:
 					return row
 				return None
-	
-		for rd in [csv.reader(StringIO(data)), csv.reader(StringIO(data), dialect="excel-tab")]:
+		
+		if sys.version_info.major < 3:
+			data = data.encode("UTF-8")
+			readers = [csv.reader(io.BytesIO(data)), csv.reader(io.BytesIO(data), dialect="excel-tab")]
+		else:
+			readers = [csv.reader(io.StringIO(data)), csv.reader(io.StringIO(data), dialect="excel-tab")]
+		
+		for rd in readers:
 			fields = fetch_fields(rd)
 			if fields:
 				if institution_fields is None:
@@ -43,7 +47,12 @@ def process_institution():
 	ids = [r[0] for r in institution_rows]
 	assert len(ids) == len(set(ids))
 
-	out = csv.writer(codecs.open("refine/institution.csv", "wb", encoding="UTF-8"))
+	outname = "refine/institution.csv"
+	if sys.version_info.major < 3:
+		out = csv.writer(open(outname, "wb"))
+	else:
+		out = csv.writer(codecs.open(outname, "wb", encoding="UTF-8"))
+	
 	out.writerow(institution_fields)
 	[out.writerow(r) for r in institution_rows]
 
