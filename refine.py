@@ -6,9 +6,30 @@ import sys
 import codecs
 import unicodedata
 import io
+import xml.etree.ElementTree
 
 def is_blank_row(values):
 	return sum([1 for v in values if v]) == 0
+
+NBSP = chr(0xa0)
+
+def process_aed():
+	rows = [r for r in xml.etree.ElementTree.parse("import/catalog/aed--_kobe.xml").iter("marker")]
+	fields = ["number","name","zipcode","area","location","lat","lng"]
+	for row in rows:
+		for k in row.attrib.keys():
+			if k not in fields:
+				fields.append(k)
+	outname = "refine/aed.csv"
+	if sys.version_info.major < 3:
+		out = csv.writer(open(outname, "wb"))
+	else:
+		out = csv.writer(codecs.open(outname, "wb", encoding="UTF-8"))
+	
+	fields = list(fields)
+	out.writerow(fields)
+	for row in rows:
+		out.writerow([unicodedata.normalize("NFKC", row.attrib[f].replace(NBSP, "")) for f in fields])
 
 def process_institution():
 	institution_rows = []
@@ -59,3 +80,4 @@ def process_institution():
 
 if __name__=="__main__":
 	process_institution()
+	process_aed()
