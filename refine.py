@@ -11,7 +11,9 @@ import xml.etree.ElementTree
 def is_blank_row(values):
 	return sum([1 for v in values if v]) == 0
 
-NBSP = chr(0xa0)
+def normalize(data):
+	NBSP = chr(0xa0)
+	return unicodedata.normalize("NFKC", data.replace(NBSP, ""))
 
 def process_aed():
 	rows = [r for r in xml.etree.ElementTree.parse("import/catalog/aed--_kobe.xml").iter("marker")]
@@ -29,13 +31,13 @@ def process_aed():
 	fields = list(fields)
 	out.writerow(fields)
 	for row in rows:
-		out.writerow([unicodedata.normalize("NFKC", row.attrib[f].replace(NBSP, "")) for f in fields])
+		out.writerow([normalize(row.attrib[f]) for f in fields])
 
 def process_institution():
 	institution_rows = []
 	institution_fields = None
 	for f in glob.glob("import/catalog/institution*.csv"):
-		data = unicodedata.normalize("NFKC", nkf.nkf("-w", open(f, "rb").read()).decode("UTF-8"))
+		data = normalize(nkf.nkf("-w", open(f, "rb").read()).decode("UTF-8"))
 		for hyphen in [b"\xe2\x80\x90", b"\xe2\x88\x92"]:
 			data = data.replace(hyphen.decode("UTF-8"), "-")
 		
