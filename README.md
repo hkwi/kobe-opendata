@@ -30,3 +30,11 @@ refine
 import/catalog/institution* は、形式が同じなので 1 ファイルにまとめます。
 「カテゴリリスト」で種類別に分割すると元のファイルに戻ります。
 
+
+rdf
+---
+Linked opendata として使える語彙を使って整備したい。整備するにあたっては、具体的にどのデータセットとの結合ができるようにするかを仮定しないと始まらなさそう。
+
+import/stat/* は、http://www.statld.org/ を参考にしつつ [qb namespace](http://www.w3.org/TR/vocab-data-cube/) を使って対応していきたい。
+
+https://yorkdl.wordpress.com/category/openart/
