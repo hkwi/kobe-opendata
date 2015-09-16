@@ -5,21 +5,46 @@ import nkf
 import sys
 import codecs
 import unicodedata
+import zenhan
 import io
 import xml.etree.ElementTree
 
 def is_blank_row(values):
 	return sum([1 for v in values if v]) == 0
 
+def expect_unicode(func):
+	def w(data):
+		if isinstance(data, bytes):
+			return func(data.decode("UTF-8")).encode("UTF-8")
+		return func(data)
+	return w
+
+@expect_unicode
 def normalize(data):
-	NBSP = chr(0xa0)
-	return unicodedata.normalize("NFKC", data.replace(NBSP, ""))
+	NBSP = b"\xC2\xA0".decode("UTF-8")
+	return unicodedata.normalize("NFKC", zenhan.z2h(zenhan.h2z(data.replace(NBSP, ""))))
+
+def process_csv():
+	files = [("sculpture_kobecity_20141128.csv", "sculpture.csv")]
+	for fin,fout in files:
+		fin = "import/catalog/"+fin
+		fout = "refine/"+fout
+		if sys.version_info.major < 3:
+			input = open(fin)
+			output = open(fout, "wb")
+		else:
+			input = codecs.open(fin, encoding="UTF-8")
+			output = codecs.open(fout, "wb", encoding="UTF-8")
+		
+		output = csv.writer(output)
+		for row in csv.reader(input):
+			output.writerow(list(map(normalize, row)))
 
 def process_aed():
 	rows = [r for r in xml.etree.ElementTree.parse("import/catalog/aed--_kobe.xml").iter("marker")]
 	fields = ["number","name","zipcode","area","location","lat","lng"]
 	for row in rows:
-		for k in row.attrib.keys():
+		for k in sorted(row.attrib.keys()):
 			if k not in fields:
 				fields.append(k)
 	outname = "refine/aed.csv"
@@ -31,7 +56,12 @@ def process_aed():
 	fields = list(fields)
 	out.writerow(fields)
 	for row in rows:
-		out.writerow([normalize(row.attrib[f]) for f in fields])
+		def _py2_utf8(u):
+			if sys.version_info.major < 3:
+				return u.encode("UTF-8")
+			return u
+		
+		out.writerow([normalize(_py2_utf8(row.attrib[f])) for f in fields])
 
 def process_institution():
 	institution_rows = []
@@ -83,3 +113,4 @@ def process_institution():
 if __name__=="__main__":
 	process_institution()
 	process_aed()
+	process_csv()
