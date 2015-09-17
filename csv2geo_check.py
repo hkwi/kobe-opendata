@@ -51,8 +51,12 @@ if __name__ == "__main__":
 		for row in csv.DictReader(codecs.open(f, encoding="UTF-8")):
 			lat = [row[k] for k in ["lat", "緯度"] if k in row]
 			lng = [row[k] for k in ["long", "lng", "経度"] if k in row]
-			lat = float(lat[0])
-			lng = float(lng[0])
+			try:
+				lat = float(lat[0])
+				lng = float(lng[0])
+			except:
+				print("EGEO", row)
+				continue
 			
 			addr = [row[k] for k in ["location", "住所"] if k in row and row[k]]
 			zipc = [row[k] for k in ["zipcode", "郵便番号"] if k in row and row[k]]
