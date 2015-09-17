@@ -37,4 +37,5 @@ Linked opendata として使える語彙を使って整備したい。整備するにあたっては、具体的
 
 import/stat/* は、http://www.statld.org/ を参考にしつつ [qb namespace](http://www.w3.org/TR/vocab-data-cube/) を使って対応していきたい。
 
+sculpture* は他の芸術作品用のデータベースとの結合があるだろう。引き続き結合先の候補を探す。
 https://yorkdl.wordpress.com/category/openart/
