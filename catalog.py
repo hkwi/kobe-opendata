@@ -1,4 +1,8 @@
 # coding: UTF-8
+# 
+# http://www.city.kobe.lg.jp/information/opendata/catalogue.html
+# をスクレイピングして、一覧登録されているものを csv として抜き出します。
+# 
 import codecs
 import sys
 import csv
