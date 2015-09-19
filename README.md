@@ -28,6 +28,7 @@ refine
   * linked data にするところはスコープ外
 
 import/catalog/institution* は、形式が同じなので 1 ファイルにまとめます。
+http://www.ssl.city.kobe.lg.jp/map/shisetsumap.html のデータ相当のようです。
 「カテゴリリスト」で種類別に分割すると元のファイルに戻ります。
 
 
