@@ -40,7 +40,7 @@ def gmapdb_save():
 
 atexit.register(gmapdb_save)
 
-gmaps = googlemaps.Client(key=os.environ["GMAPS_API_KEY"])
+gmaps = googlemaps.Client(key=os.environ["GOOGLE_API_KEY"])
 def gmap(addr):
 	if addr not in gmapdb:
 		gmapdb[addr] = gmaps.geocode(addr)
