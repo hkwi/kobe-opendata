@@ -30,8 +30,7 @@
 ロケ地情報一覧（エリア別）,,観光,rdf,,,観光コンベンション協会,http://www.city.kobe.lg.jp/information/opendata/img/filming_location_kobe_ttl.txt
 野外彫刻作品一覧,,文化,csv,,市民参画推進局,文化交流部,http://www.city.kobe.lg.jp/information/opendata/img/sculpture_kobecity_20141128.csv
 野外彫刻作品一覧,,文化,rdf,,市民参画推進局,文化交流部,http://www.city.kobe.lg.jp/information/opendata/img/sculpture_kobe_ttl.txt
-こうべ・だれでもトイレ設置施設一覧,,観光,csv,,住宅都市局,まちのデザイン課,http://www.city.kobe.lg.jp/information/opendata/img/utoilet_kobe_20141128.csv
-こうべ・だれでもトイレ設置施設一覧,,観光,rdf,,住宅都市局,まちのデザイン課,http://www.city.kobe.lg.jp/information/opendata/img/utoilet_kobe_ttl.txt
+こうべ・だれでもトイレ設置施設一覧,,観光,xlsx,2015-08-12,住宅都市局,まちのデザイン課,http://www.city.kobe.lg.jp/information/project/universal/toshidukuri/toilet/itiran/UDseibisisetu.xlsx
 子育て関連行政サービス情報一覧,,子育て,csv,,子ども家庭局,総務課,http://www.city.kobe.lg.jp/information/opendata/img/mamahure_seido_20150221.csv
 子育て関連行政サービス情報一覧,,子育て,rdf,,子ども家庭局,総務課,http://www.city.kobe.lg.jp/information/opendata/img/mamahure_seido_20150221.ttl
 ごみ品目別収集区分一覧,,くらし,csv,2015-08-31,環境局,業務課,http://www.city.kobe.lg.jp/life/recycle/waketon/gomikubunn.csv
