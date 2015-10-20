@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:発達障害講演会（自閉症の支援）
+DESCRIPTION:日時は2月24日（月曜）14時～\n場所はピフレホール\n料金は無料\n申し込みはFAXで。先着順\n問い合わせは発達障害者支援センター（電話382-2760、FAX382-2766）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1401/info04.html#発達障害講演会（自閉症の支援）
+DTSTART:20140224T140000
+LOCATION:ピフレホール
+END:VEVENT
+END:VCALENDAR

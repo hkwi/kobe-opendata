@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:神戸ワインとキッシュを楽しむ夕べ
+DESCRIPTION:日時は11月12日（木曜）18時30分～\n場所は中央卸売市場本場\n料金は2\,500円\n申し込みは電話で同市場（電話652-5503）へ。10月30日（金曜）まで受付。抽選\n問い合わせはみのりの公社（電話991-3916、FAX991-3915）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1510/info04.html#神戸ワインとキッシュを楽しむ夕べ
+DTSTART:20151112T183000
+LOCATION:中央卸売市場本場
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:震災20年レスキューロボット講演
+DESCRIPTION:日時は1月18日（日曜）13時30分～\n場所は地域人材支援センター\n料金は無料\n申し込みは電話かFAXで。1月15日（木曜）まで受付\n問い合わせは工業課（電話322-5333、FAX322-6074）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info04.html#震災20年レスキューロボット講演
+DTSTART:20150118T133000
+LOCATION:地域人材支援センター
+END:VEVENT
+END:VCALENDAR

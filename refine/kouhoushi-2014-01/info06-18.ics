@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:須磨離宮公園（1）なかよし太鼓の演奏
+DESCRIPTION:（1）なかよし太鼓の演奏\n日時は1月12日（日曜）10時30分～。雨天中止\n料金は無料\n（2）新春もちつきとぜんざいのふるまい\n日時は1月12日（日曜）9時～。雨天中止\n料金は無料\n申し込みは当日先着順\n（3）バレンタイン&ホワイトデー展\n日時は1月25日（土曜）～3月12日（水曜）\n料金は無料（別途入園料等が必要）\n問い合わせは電話732-6688、FAX734-6022
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1401/info06.html#須磨離宮公園#1
+DTSTART:20140112T103000
+END:VEVENT
+END:VCALENDAR

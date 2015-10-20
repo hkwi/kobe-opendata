@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:市長杯しあわせ健康駅伝競走大会
+DESCRIPTION:対象は18歳以上（5人1組、1人は女性または65歳以上を含む）\n日時は12月6日（日曜）9時30分～\n場所は総合運動公園\n料金は1チーム（5人）13\,000円\n申し込みは大会申込用紙で市スポーツ教育協会（〒651-0083浜辺通5-1-14）へ。11月6日（金曜）消印有効。抽選\n問い合わせは電話261-3620、FAX261-8020\n\n  \n    \n\n\n
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1510/info05.html#市長杯しあわせ健康駅伝競走大会
+DTSTART:20151206T093000
+LOCATION:総合運動公園
+END:VEVENT
+END:VCALENDAR

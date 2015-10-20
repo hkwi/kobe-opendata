@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1401/info04.html#ママとパパの医療講座
+X-HINT-DTSTART:日時は2月8・22日・3月8日（土曜）10時30分～
+DTSTART:20140208T103000
+RDATE:20140222T103000
+RDATE:20140308T103000
+SUMMARY:ママとパパの医療講座
+DESCRIPTION:日時は2月8・22日・3月8日（土曜）10時30分～\n場所はこども初期急病センター\n料金は無料\n申し込みはFAXで。先着順\n問い合わせは電話862-6075、FAX862-6085
+LOCATION:こども初期急病センター
+END:VEVENT
+END:VCALENDAR

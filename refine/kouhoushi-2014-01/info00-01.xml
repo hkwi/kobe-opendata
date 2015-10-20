@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rdf:RDF xmlns:rdf="http://www.w3c.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:html="http://www.w3.org/1999/xhtml">
+<channel rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi-2014-01/info00-01.xml">
+<title>神戸市：広報紙ＫＯＢＥ1月号　9面 </title>
+<link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1401/info00-01.html</link>
+<description>
+</description>
+<items>
+ <rdf:Seq>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi-2014-01/info00-01.xml#4月から　市バスの乗り継ぎがICカードでお得に"/>
+ </rdf:Seq>
+</items>
+<item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi-2014-01/info00-01.xml#4月から　市バスの乗り継ぎがICカードでお得に">
+ <title>4月から　市バスの乗り継ぎがICカードでお得に</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1401/info00-01.html#4月から　市バスの乗り継ぎがICカードでお得に</link>
+ <description rdf:datatype="rdf:HTML"><html:div class="btnSocialBox clearfix">
+            <html:div class="btnSocialInnerBox">
+              <html:span>
+                  <html:a href="https://twitter.com/share" class="twitter-share-button">ツイート</html:a>
+                  
+                </html:span>
+              <html:span>
+                  
+                </html:span>
+              </html:div>
+          </html:div><html:dl class="lastUpdate"><html:dt>最終更新日</html:dt><html:dd>2013年12月24日</html:dd></html:dl><html:p>割引条件</html:p><html:p>ICカードによる市バスから市バスの乗り継ぎで、初めの降車から乗り継ぎ後の降車までが60分以内の場合</html:p><html:p>対象ICカード</html:p><html:p>PiTaPa・ICOCA・敬老パス</html:p><html:p>対象路線</html:p><html:p>市バス全路線</html:p><html:p>割引料金</html:p><html:p>上限210円（小児・敬老は上限110円）（※）</html:p><html:p>※現在、料金改定に向け認可申請中</html:p><html:p>注意</html:p><html:p>PiTaPaカードをお持ちでない人は、事前に手続きをお願いします</html:p><html:h2>問い合わせ</html:h2><html:p>交通局経営企画調整課（電話322-5965、FAX322-6180）</html:p></description>
+</item></channel>
+</rdf:RDF>

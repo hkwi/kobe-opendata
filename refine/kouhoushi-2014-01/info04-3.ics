@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1401/info04.html#婦人会館あじさい講座#2
+X-HINT-DTSTART:日時は1月16・30日（木曜）13時30分～
+DTSTART:20140116T133000
+RDATE:20140130T133000
+SUMMARY:婦人会館あじさい講座（2）健康ポックリ講座
+DESCRIPTION:（1）女子力アップ大作戦ほか\n日時は1月8日（水曜）～2月7日（金曜）\n料金は1講座500円\n申し込みは電話で。先着順\n（2）健康ポックリ講座\n日時は1月16・30日（木曜）13時30分～\n料金は無料\n申し込みは電話で。先着順\n問い合わせは電話351-0861、FAX351-0862
+END:VEVENT
+END:VCALENDAR

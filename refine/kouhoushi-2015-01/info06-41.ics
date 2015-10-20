@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:私立保育園による食生活フェア
+DESCRIPTION:日時は2月1日（日曜）10時30分～14時\n場所はこべっこランド\n料金は無料\n問い合わせはこども家庭局振興課（電話322-5216、FAX322-6042）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info06.html#私立保育園による食生活フェア
+DTSTART:20150201T103000
+DTEND:20150201T140000
+LOCATION:こべっこランド
+END:VEVENT
+END:VCALENDAR

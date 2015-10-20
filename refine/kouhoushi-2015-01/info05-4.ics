@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:スポーツイベント観戦情報（有料）（1）デウソン神戸VS名古屋オーシャンズ
+DESCRIPTION:（1）デウソン神戸VS名古屋オーシャンズ\n日時は1月11日（日曜）14時～\n場所はグリーンアリーナ\n（2）V・プレミアリーグ 久光製薬\n日時は1月18日（日曜）13時～\n場所はグリーンアリーナ\n問い合わせは市スポーツ教育協会（電話261-3620、FAX261-8020）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info05.html#スポーツイベント観戦情報（有料）#1
+DTSTART:20150111T140000
+LOCATION:グリーンアリーナ
+END:VEVENT
+END:VCALENDAR

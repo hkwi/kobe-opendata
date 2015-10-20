@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:減災講話シリーズ
+DESCRIPTION:日時は11月14日（土曜）10時30分～\n場所は危機管理センター\n料金は無料\n申し込みは電話かFAXで市総合コールセンター（電話333-3330、FAX333-3314）へ。先着順\n問い合わせは危機管理室（電話322-6239、FAX322-6031）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1510/info04.html#減災講話シリーズ
+DTSTART:20151114T103000
+LOCATION:危機管理センター
+END:VEVENT
+END:VCALENDAR

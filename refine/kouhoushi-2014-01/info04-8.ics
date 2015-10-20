@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:婦人大学体験講義（学生募集）
+DESCRIPTION:対象は67歳以下の女性（平成26年4月1日現在）\n日時は1月14日（火曜）・16日（木曜）13時～\n場所はあすてっぷKOBE\n料金は無料\n申し込みは電話かFAXか直接婦人大学（電話361-7138、FAX361-7165）へ。先着順\n問い合わせは男女共同参画課（電話322-5179、FAX322-6034）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1401/info04.html#婦人大学体験講義（学生募集）
+DTSTART:20140114T130000
+RRULE:FREQ=DAILY;BYMONTHDAY=16;COUNT=1
+LOCATION:あすてっぷKOBE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:兵庫・神戸IT業界就職フェア
+DESCRIPTION:対象は26・27年3月卒業予定の学生等\n日時は2月6日（木曜）13時～\n場所は産業振興センター\n料金は無料\n問い合わせは情報化推進部（電話322-5042、FAX322-6199）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1401/info06.html#兵庫・神戸IT業界就職フェア
+DTSTART:20140206T130000
+LOCATION:産業振興センター
+END:VEVENT
+END:VCALENDAR

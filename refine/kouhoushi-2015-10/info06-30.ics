@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:「こどもの健康週間」兵庫県大会
+DESCRIPTION:日時は10月18日（日曜）13時～\n場所はハーバーランドスペースシアター（中央区東川崎町1）\n料金は無料\n問い合わせはこども家庭支援課（電話322-6513、FAX322-6119）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1510/info06.html#「こどもの健康週間」兵庫県大会
+DTSTART:20151018T130000
+LOCATION:ハーバーランドスペースシアター（中央区東川崎町1）
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:企業セミナー
+DESCRIPTION:日時は10月23日（金曜）14時30分～\n場所はあすてっぷKOBE\n料金は無料\n申し込みは電話かFAXで。先着順\n問い合わせは男女共同参画課(電話322-5179、FAX322-6034)
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1510/info04.html#企業セミナー
+DTSTART:20151023T143000
+LOCATION:あすてっぷKOBE
+END:VEVENT
+END:VCALENDAR

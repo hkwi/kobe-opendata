@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:バトルデエッグ2次予選 公開審査
+DESCRIPTION:日時は1月19日（日曜）15時～19時\n場所はアートビレッジセンター\n料金は無料\n問い合わせは文化交流部（電話322-5166、FAX322-6137）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1401/info06.html#バトルデエッグ2次予選 公開審査
+DTSTART:20140119T150000
+DTEND:20140119T190000
+LOCATION:アートビレッジセンター
+END:VEVENT
+END:VCALENDAR

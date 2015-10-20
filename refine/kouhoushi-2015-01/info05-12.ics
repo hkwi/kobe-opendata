@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:市民山の会ハイキング 烏原～高取山
+DESCRIPTION:日時は1月18日（日曜）9時集合\n場所は神戸電鉄湊川公園駅\n料金は無料\n問い合わせは市総合コールセンター（電話333-3330、FAX333-3314）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info05.html#市民山の会ハイキング 烏原～高取山
+DTSTART:20150118T090000
+LOCATION:神戸電鉄湊川公園駅
+END:VEVENT
+END:VCALENDAR

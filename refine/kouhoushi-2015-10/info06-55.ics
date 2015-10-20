@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:市身連 ふれあい体験交流会
+DESCRIPTION:日時は11月11日（水曜）9時45分～\n場所は婦人会館\n料金は無料\n問い合わせは障害者支援課（電話322-6332、FAX322-6065）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1510/info06.html#市身連 ふれあい体験交流会
+DTSTART:20151111T094500
+LOCATION:婦人会館
+END:VEVENT
+END:VCALENDAR

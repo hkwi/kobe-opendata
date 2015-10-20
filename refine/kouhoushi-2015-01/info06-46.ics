@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:舞コンサート・マリンバとソプラノ
+DESCRIPTION:日時は2月7日（土曜）14時～\n場所は舞子ビラ\n料金は1\,000円\n問い合わせは市民文化振興財団（電話351-3597、FAX351-3121）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info06.html#舞コンサート・マリンバとソプラノ
+DTSTART:20150207T140000
+LOCATION:舞子ビラ
+END:VEVENT
+END:VCALENDAR

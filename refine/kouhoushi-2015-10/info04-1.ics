@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ユニティの講座（2）パソコン講座
+DESCRIPTION:（1）公開講座「スペイン語圏の食文化」\n日時は10月10・17・24日（土曜）14時～\n料金は1回1\,080円\n申し込みは電話で。先着順\n（2）パソコン講座\n日時は10月13日（火曜）～\n料金は有料\n申し込みは電話で。先着順\n（3）医科医療事務検定講座\n日時は10月17日～、土曜9時30分～12時40分。14回\n料金は36\,000円\n申し込みは電話で。先着順\n問い合わせは電話794-4970、FAX794-4910
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1510/info04.html#ユニティの講座#2
+DTSTART:20151013
+END:VEVENT
+END:VCALENDAR

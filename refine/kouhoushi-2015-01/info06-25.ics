@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:こべっこランド（2）指導者向け講習会（音楽あそび）
+DESCRIPTION:（1）カーモスペースアドベンチャー\n対象は17歳以下（就学前は保護者同伴）\n日時は1月17日（土曜）・18日（日曜）9時30分～16時\n料金は一部有料\n（2）指導者向け講習会（音楽あそび）\n日時は2月8日（日曜）13時30分～\n料金は無料\n申し込みはFAXか直接。先着順\n問い合わせは電話382-1300、FAX351-0684
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info06.html#こべっこランド#2
+DTSTART:20150208T133000
+END:VEVENT
+END:VCALENDAR

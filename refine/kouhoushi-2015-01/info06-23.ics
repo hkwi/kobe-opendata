@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info06.html#リーディング「あくびと風の威力」
+X-HINT-DTSTART:日時は1月17日（土曜）・18日（日曜）13時～・17時～
+DTSTART:20150117T130000
+RDATE:20150117T170000
+RDATE:20150118T130000
+RDATE:20150118T170000
+SUMMARY:リーディング「あくびと風の威力」
+DESCRIPTION:日時は1月17日（土曜）・18日（日曜）13時～・17時～\n場所はアートビレッジセンター\n料金は1\,500円\n申し込みは電話で。先着順\n問い合わせは電話512-5500、FAX512-5356
+LOCATION:アートビレッジセンター
+END:VEVENT
+END:VCALENDAR

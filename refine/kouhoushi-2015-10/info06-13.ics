@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1510/info06.html#スイスアルペンコンサート
+LOCATION:六甲山牧場
+DTSTART:20151018T113000
+RDATE:20151018T140000
+SUMMARY:スイスアルペンコンサート
+DESCRIPTION:日時は10月18日（日曜）11時30分～・14時～（雨天中止）\n場所は六甲山牧場\n料金は無料（別途入園料等が必要）\n問い合わせは電話891-0280、FAX891-0592
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:灘の酒と食を愉（たの）しむ会
+DESCRIPTION:対象は20歳以上\n日時は11月19日（木曜）18時30分～\n場所はポートピアホテル（中央区港島中町6）\n料金は7\,000円\n申し込みは往復はがきでファッション協会（〒650-0046港島中町6-1）へ。10月22日（木曜）必着。抽選\n問い合わせは電話303-3123、FAX303-3122
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1510/info06.html#灘の酒と食を愉（たの）しむ会
+DTSTART:20151119T183000
+LOCATION:ポートピアホテル（中央区港島中町6）
+END:VEVENT
+END:VCALENDAR

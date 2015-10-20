@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ファミリーウオーキング～神戸八社
+DESCRIPTION:日時は1月12日（日曜）10時集合。雨天決行\n場所はJR新神戸駅\n料金は無料\n問い合わせはスポーツ教育協会（電話261-3620、FAX261-8020）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1401/info05.html#ファミリーウオーキング～神戸八社
+DTSTART:20140112T100000
+LOCATION:JR新神戸駅
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:大寒釣り大会（1）須磨海づり公園
+DESCRIPTION:（1）須磨海づり公園\n日時は1月19日（日曜）7時～11時\n料金は大人1\,200円・小人700円\n問い合わせは電話735-2907、FAX735-2950\n（2）平磯海づり公園\n日時は1月19日（日曜）7時～11時\n料金は大人1\,000円・小人600円\n問い合わせは電話753-3973、FAX753-4873
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1401/info06.html#大寒釣り大会#1
+DTSTART:20140119T070000
+DTEND:20140119T110000
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:王子動物園（1）うらがわ探険隊
+DESCRIPTION:（1）うらがわ探険隊\n対象は小学3～6年生\n日時は10月17日（土曜）・18日（日曜）10時～\n料金は無料（別途入園料等が必要）\n申し込みは往復はがき（〒657-0838王子町3-1）で。10月8日（木曜）消印有効。抽選\n（2）動物の体重をはかる集い\n日時は11月1日（日曜）11時～\n料金は無料（別途入園料等が必要）\n問い合わせは電話861-5624、FAX861-5640
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1510/info06.html#王子動物園#1
+DTSTART:20151017T100000
+RRULE:FREQ=DAILY;BYMONTHDAY=18;COUNT=1
+END:VEVENT
+END:VCALENDAR

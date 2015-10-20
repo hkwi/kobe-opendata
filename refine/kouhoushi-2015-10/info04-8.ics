@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:目がかすむと思ったら
+DESCRIPTION:対象は中学生以上\n日時は10月10日（土曜）13時30分～\n場所は健康ライフプラザ\n料金は500円\n問い合わせは電話652-5202、FAX652-5211
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1510/info04.html#目がかすむと思ったら
+DTSTART:20151010T133000
+LOCATION:健康ライフプラザ
+END:VEVENT
+END:VCALENDAR

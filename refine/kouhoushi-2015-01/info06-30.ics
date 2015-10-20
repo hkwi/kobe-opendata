@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:Shall we music?
+DESCRIPTION:日時は1月18日（日曜）13時30分～\n場所は生田文化会館\n料金は無料\n問い合わせは電話382-0861、FAX361-4115
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info06.html#Shall we music?
+DTSTART:20150118T133000
+LOCATION:生田文化会館
+END:VEVENT
+END:VCALENDAR

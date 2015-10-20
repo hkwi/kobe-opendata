@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:区民センター等の催し（2）Shall we music?
+DESCRIPTION:（1）灘ニューイヤーオペラコンサート\n日時は1月13日（月曜・祝日）16時～\n場所は灘区民ホール\n料金は有料\n申し込みは電話か直接。先着順\n問い合わせは電話802-8555、FAX802-9811\n（2）Shall we music?\n日時は1月19日（日曜）14時～\n場所は生田文化会館\n料金は無料\n問い合わせは電話382-0861、FAX361-4115\n（3）韓国・朝鮮家庭料理\n日時は1月25日（土曜）10時～\n場所はピフレホール\n料金は2\,500円\n申し込みは電話か直接。先着順\n問い合わせは電話621-1120、FAX621-0914
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1401/info06.html#区民センター等の催し#2
+DTSTART:20140119T140000
+LOCATION:生田文化会館
+END:VEVENT
+END:VCALENDAR

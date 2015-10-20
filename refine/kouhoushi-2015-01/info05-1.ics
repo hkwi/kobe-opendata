@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:中央体育館（2）（冬季）硬式テニス（夜間B）中級
+DESCRIPTION:（1）（冬季）体育が得意になる～高学年\n対象は小学4～6年生\n日時は1月10日～、土曜15時20分～。8回\n料金は有料\n申し込みは電話か直接。先着順\n（2）（冬季）硬式テニス（夜間B）中級\n日時は1月14日～、水曜19時～。8回\n料金は有料\n申し込みは電話か直接。先着順\n（3）女性のための美BODYレッスン\n日時は1月25日・2月15日・3月15日（日曜）13時～\n料金は有料\n申し込みは電話か直接。先着順\n問い合わせは電話341-7971、FAX341-7974
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info05.html#中央体育館#2
+DTSTART:20150114T190000
+RRULE:FREQ=WEEKLY;COUNT=8
+END:VEVENT
+END:VCALENDAR

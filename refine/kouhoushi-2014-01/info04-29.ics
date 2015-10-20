@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1401/info04.html#ファミリー・サポート・センター#2
+X-HINT-DTSTART:日時は2月12日（水曜）～14日（金曜）10時～15時（12日は9時45分～）
+DTSTART:20140212T094500
+DTEND:20140212T150000
+RDATE;VALUE=PERIOD:20140213T100000/20140213T150000
+RDATE;VALUE=PERIOD:20140214T100000/20140214T150000
+SUMMARY:ファミリー・サポート・センター（2）協力会員・両方会員養成講習会
+DESCRIPTION:（1）子育て講演「目指せ！子叱り名人」\n日時は1月30日（木曜）10時～\n場所は市民福祉交流センター\n料金は無料\n申し込みは（1）は電話かFAXで、（2）は電話で。先着順\n（2）協力会員・両方会員養成講習会\n日時は2月12日（水曜）～14日（金曜）10時～15時（12日は9時45分～）\n場所は市民福祉交流センター\n料金は無料\n申し込みは（1）は電話かFAXで、（2）は電話で。先着順\n問い合わせは電話・FAX271-5545
+LOCATION:市民福祉交流センター
+END:VEVENT
+END:VCALENDAR

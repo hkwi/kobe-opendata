@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:RICエコアートカプセル
+DESCRIPTION:日時は10月18日（日曜）11時30分～16時30分\n場所はファッションプラザ（東灘区向洋町中2）\n料金は無料\n問い合わせは小磯記念美術館（電話857-5880、FAX857-3737）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1510/info06.html#RICエコアートカプセル
+DTSTART:20151018T113000
+DTEND:20151018T163000
+LOCATION:ファッションプラザ（東灘区向洋町中2）
+END:VEVENT
+END:VCALENDAR

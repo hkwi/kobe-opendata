@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:花と緑のまち推進センター（2）まちかど花緑ガーデナー
+DESCRIPTION:（1）グリーンフェスタこうべ\n日時は10月10日（土曜）10時～16時\n場所は総合運動公園\n料金は無料\n（2）まちかど花緑ガーデナー\n日時は12月8日～、火曜13時～17時30分。10回\n料金は有料\n申し込みははがき（応募動機も記入）かFAXで同センター（〒650-0006諏訪山町2-8）へ。11月6日（金曜）必着。抽選\n問い合わせは電話351-6756、FAX341-8710
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1510/info06.html#花と緑のまち推進センター#2
+DTSTART:20151208T130000
+DTEND:20151208T173000
+RRULE:FREQ=WEEKLY;COUNT=10
+END:VEVENT
+END:VCALENDAR

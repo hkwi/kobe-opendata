@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ウイング歌謡ショー
+DESCRIPTION:日時は10月17日（土曜）13時～\n場所はノエビアスタジアム神戸\n料金は一部有料\n問い合わせは電話652-5656、FAX652-5651
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1510/info06.html#ウイング歌謡ショー
+DTSTART:20151017T130000
+LOCATION:ノエビアスタジアム神戸
+END:VEVENT
+END:VCALENDAR

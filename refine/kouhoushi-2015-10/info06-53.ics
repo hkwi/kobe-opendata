@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:いきいきシニアライフフェア
+DESCRIPTION:日時は11月7日（土曜）11時～15時30分\n場所はデュオドーム（JR神戸駅南側地下）\n料金は無料\n問い合わせは市総合コールセンター（電話333-3330、FAX333-3314）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1510/info06.html#いきいきシニアライフフェア
+DTSTART:20151107T110000
+DTEND:20151107T153000
+LOCATION:デュオドーム（JR神戸駅南側地下）
+END:VEVENT
+END:VCALENDAR

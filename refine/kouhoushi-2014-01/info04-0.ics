@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:市民酒害セミナー
+DESCRIPTION:日時は1月13日（月曜・祝日）14時～\n場所はピフレホール\n料金は無料\n問い合わせは障害福祉課（電話322-5271、FAX322-6044）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1401/info04.html#市民酒害セミナー
+DTSTART:20140113T140000
+LOCATION:ピフレホール
+END:VEVENT
+END:VCALENDAR

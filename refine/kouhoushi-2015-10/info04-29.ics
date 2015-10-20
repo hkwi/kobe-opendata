@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:発達障害児の祖父母向け療育講座
+DESCRIPTION:対象は小学3年生以下の発達障害の孫がいる祖父母\n日時は11月13日～、金曜14時～。2回\n場所は発達障害者支援センター\n料金は無料\n申し込みはFAXで。先着順\n問い合わせは電話382-2760、FAX382-2766
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1510/info04.html#発達障害児の祖父母向け療育講座
+DTSTART:20151113T140000
+RRULE:FREQ=WEEKLY;COUNT=2
+LOCATION:発達障害者支援センター
+END:VEVENT
+END:VCALENDAR

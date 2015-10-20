@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1510/info06.html#ギャラリーツアー
+LOCATION:ゆかりの美術館
+DTSTART:20151010T133000
+RDATE:20151017T133000
+RDATE:20151024T133000
+SUMMARY:ギャラリーツアー
+DESCRIPTION:日時は10月10日～10月24日の土曜13時30分～\n場所はゆかりの美術館\n料金は無料（別途入園料等が必要）\n問い合わせは電話858-1520、FAX858-1522
+END:VEVENT
+END:VCALENDAR

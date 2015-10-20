@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1510/info06.html#ハーブ&スパイスカーニバル
+LOCATION:布引ハーブ園
+DTSTART;VALUE=DATE:20151017
+RDATE;VALUE=DATE:20151018
+SUMMARY:ハーブ&スパイスカーニバル
+DESCRIPTION:日時は10月17日（土曜）・18日（日曜）\n場所は布引ハーブ園\n料金は一部有料（別途入園料等が必要）\n問い合わせは電話271-1160、FAX271-1180
+END:VEVENT
+END:VCALENDAR

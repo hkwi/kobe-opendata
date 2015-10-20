@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:小説家 玉岡かおる氏講演会
+DESCRIPTION:日時は11月6日（金曜）14時～17時30分\n場所は神戸朝日ホール（中央区浪花町59）\n料金は無料\n申し込みは往復はがきでまちのデザイン課（〒650-8570住所不要）へ。10月16日（金曜）必着。抽選\n問い合わせは電話322-5484、FAX322-6096
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1510/info04.html#小説家 玉岡かおる氏講演会
+DTSTART:20151106T140000
+DTEND:20151106T173000
+LOCATION:神戸朝日ホール（中央区浪花町59）
+END:VEVENT
+END:VCALENDAR

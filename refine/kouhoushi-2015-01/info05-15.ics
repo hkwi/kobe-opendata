@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:アジアリーグアイスホッケー観戦会
+DESCRIPTION:対象は小・中学生と家族\n日時は1月22日（木曜）19時～\n場所はポートアイランドスポーツセンター\n料金は無料\n申し込みは往復はがき（4人以内）で市スポーツ教育協会（〒651-0083浜辺通5-1-14）へ。1月12日（月曜・祝日）必着。抽選\n問い合わせは電話261-3620、FAX261-8020
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info05.html#アジアリーグアイスホッケー観戦会
+DTSTART:20150122T190000
+LOCATION:ポートアイランドスポーツセンター
+END:VEVENT
+END:VCALENDAR

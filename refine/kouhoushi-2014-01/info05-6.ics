@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:スポーツイベント観戦情報（有料）（2）Vプレミアリーグ 久光製薬VS日立
+DESCRIPTION:（1）コベルコスティーラーズVS東芝\n日時は1月19日（日曜）13時～\n場所はノエビアスタジアム\n（2）Vプレミアリーグ 久光製薬VS日立\n日時は1月19日（日曜）15時～\n場所はグリーンアリーナ\n（3）兵庫ストークスVSリンク栃木\n日時は1月31日（金曜）19時～\n場所は県立文化体育館（長田区蓮池町1）\n問い合わせは市スポーツ教育協会（電話261-3620、FAX261-8020）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1401/info05.html#スポーツイベント観戦情報（有料）#2
+DTSTART:20140119T150000
+LOCATION:グリーンアリーナ
+END:VEVENT
+END:VCALENDAR

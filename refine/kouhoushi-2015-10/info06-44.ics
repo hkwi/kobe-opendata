@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:あいな里山まつり
+DESCRIPTION:日時は10月25日（日曜）10時～17時\n場所は国営明石海峡公園神戸地区（北区山田町藍那）\n料金は一部有料\n問い合わせは緑地課（電話322-5426、FAX322-6988）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1510/info06.html#あいな里山まつり
+DTSTART:20151025T100000
+DTEND:20151025T170000
+LOCATION:国営明石海峡公園神戸地区（北区山田町藍那）
+END:VEVENT
+END:VCALENDAR

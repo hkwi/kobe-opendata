@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1510/info06.html#こうべ花マルシェ
+LOCATION:デュオドーム（JR神戸駅南側地下）
+DTSTART:20151008T100000
+DTEND:20151008T190000
+RDATE:20151009T100000
+RDATE;VALUE=PERIOD:20151010T100000/20151010T180000
+SUMMARY:こうべ花マルシェ
+DESCRIPTION:日時は10月8日（木曜）～10日（土曜）10時～19時（10日（土曜）は～18時）\n場所はデュオドーム（JR神戸駅南側地下）\n料金は無料\n問い合わせは農水産課（電話322-5355、FAX322-6076）
+END:VEVENT
+END:VCALENDAR

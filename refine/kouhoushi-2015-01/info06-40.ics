@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:消費者フェスティバル
+DESCRIPTION:日時は1月28日（水曜）13時～\n場所は文化ホール\n料金は無料\n申し込みは電話で。先着順\n問い合わせは消費生活課（電話322-5185、FAX322-6036）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info06.html#消費者フェスティバル
+DTSTART:20150128T130000
+LOCATION:文化ホール
+END:VEVENT
+END:VCALENDAR

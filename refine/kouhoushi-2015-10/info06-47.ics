@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1510/info06.html#神戸空港管制塔・気象観測所見学会
+DTSTART:20151108T093000
+RDATE:20151108T104500
+RDATE:20151108T130000
+SUMMARY:神戸空港管制塔・気象観測所見学会
+DESCRIPTION:対象は小学4年生～高校生（保護者同伴）\n日時は11月8日（日曜）9時30分～・10時45分～・13時～\n料金は無料\n申し込みは往復はがき（3人以内）で空港事業部（〒650-8570住所不要）へ。10月9日（金曜）必着。抽選\n問い合わせは電話322-6378、FAX322-6011
+END:VEVENT
+END:VCALENDAR

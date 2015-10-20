@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:総合運動公園（1）3 on 3バスケットボール大会
+DESCRIPTION:（1）3 on 3バスケットボール大会\n対象は小学生以上\n日時は3月21日（土曜・祝日）12時～・17時～\n料金は1チーム5\,000円\n申し込みはFAXか直接。2月1日（日曜）～先着順\n（2）春休み　フットサルクリニック\n対象は小学生\n日時は3月25日（水曜）10時～\n料金は800円\n申し込みはFAXで。2月1日（日曜）～28日（土曜）必着。抽選\n問い合わせは電話796-1126、FAX796-1192
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info05.html#総合運動公園#1
+DTSTART:20150321T120000
+RRULE:FREQ=DAILY;BYHOUR=17;BYMINUTE=0;COUNT=1
+END:VEVENT
+END:VCALENDAR

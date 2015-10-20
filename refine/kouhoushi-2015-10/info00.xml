@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rdf:RDF xmlns:rdf="http://www.w3c.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:html="http://www.w3.org/1999/xhtml">
+<channel rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi-2015-10/info00.xml">
+<title>神戸市：広報紙ＫＯＢＥ10月号　10面 </title>
+<link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1510/info00.html</link>
+<description>
+</description>
+<items>
+ <rdf:Seq>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi-2015-10/info00.xml#神戸ジャズストリート"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi-2015-10/info00.xml#神戸空港JAZZライブ"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi-2015-10/info00.xml#ネクストジャズ決勝ライブご招待"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi-2015-10/info00.xml#JAZZの森ライブ in 森林植物園"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi-2015-10/info00.xml#旧居留地JAZZライブ"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi-2015-10/info00.xml#ジャズコンサート"/>
+ </rdf:Seq>
+</items>
+<item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi-2015-10/info00.xml#神戸ジャズストリート">
+ <title>神戸ジャズストリート</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1510/info00.html#神戸ジャズストリート</link>
+ <description rdf:datatype="rdf:HTML"><html:p>日時は10月10日（土曜）・11日（日曜）12時～17時<html:br/>場所は三宮・北野町・トアロード等<html:br/>料金は有料<html:br/>問い合わせは市民文化振興財団（電話351-3597、FAX351-3121）</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi-2015-10/info00-0.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi-2015-10/info00.xml#神戸空港JAZZライブ">
+ <title>神戸空港JAZZライブ</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1510/info00.html#神戸空港JAZZライブ</link>
+ <description rdf:datatype="rdf:HTML"><html:p>日時は10月17日（土曜）14時～<html:br/>料金は無料<html:br/>問い合わせは文化交流部（電話322-6598、FAX322-6136）</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi-2015-10/info00-1.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi-2015-10/info00.xml#ネクストジャズ決勝ライブご招待">
+ <title>ネクストジャズ決勝ライブご招待</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1510/info00.html#ネクストジャズ決勝ライブご招待</link>
+ <description rdf:datatype="rdf:HTML"><html:p>日時は10月18日（日曜）16時～<html:br/>場所は文化ホール<html:br/>申し込みははがきで市文化振興財団（〒650-0017楠町4-2-2）へ。10月8日（木曜）必着。抽選<html:br/>問い合わせは電話351-3597、FAX351-3121</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi-2015-10/info00-2.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi-2015-10/info00.xml#JAZZの森ライブ in 森林植物園">
+ <title>JAZZの森ライブ in 森林植物園</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1510/info00.html#JAZZの森ライブ in 森林植物園</link>
+ <description rdf:datatype="rdf:HTML"><html:p>日時は10月24日（土曜）・25日（日曜）12時～・13時30分～・14時30分～<html:br/>場所は森林植物園<html:br/>料金は無料（別途入園料等が必要）<html:br/>問い合わせは電話591-0253、FAX594-2324</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi-2015-10/info00-3.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi-2015-10/info00.xml#旧居留地JAZZライブ">
+ <title>旧居留地JAZZライブ</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1510/info00.html#旧居留地JAZZライブ</link>
+ <description rdf:datatype="rdf:HTML"><html:p>日時は10月31日（土曜）14時～<html:br/>場所は大丸神戸店（中央区明石町40）<html:br/>料金は無料<html:br/>問い合わせは文化交流部（電話322-6598、FAX322-6136）</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi-2015-10/info00-4.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi-2015-10/info00.xml#ジャズコンサート">
+ <title>ジャズコンサート</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1510/info00.html#ジャズコンサート</link>
+ <description rdf:datatype="rdf:HTML"><html:p>日時は11月1日（日曜）13時～<html:br/>場所は相楽園<html:br/>料金は無料（別途入園料等が必要）<html:br/>申し込みは当日先着順<html:br/>問い合わせは電話351-5155、FAX361-7307</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi-2015-10/info00-5.ics">カレンダー登録</html:a></html:p></description>
+</item></channel>
+</rdf:RDF>

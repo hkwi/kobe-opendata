@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:環境未来館の催し（1）冬の里山歩き隊バスツアー
+DESCRIPTION:（1）冬の里山歩き隊バスツアー\n対象は18歳以上\n日時は1月24日（金曜）9時～\n料金は無料\n申し込みは往復はがきで地球環境課（〒650-8570住所不要）へ。1月17日（金曜）必着。抽選\n（2）省エネすごろくと紙芝居\n対象は小学生と保護者\n日時は2月1日（土曜）10時30分～\n料金は無料\n申し込みははがきかFAXで地球環境課（〒650-8570住所不要）へ。1月17日（金曜）必着。抽選\n問い合わせは電話322-6678、FAX322-6068
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1401/info06.html#環境未来館の催し#1
+DTSTART:20140124T090000
+END:VEVENT
+END:VCALENDAR

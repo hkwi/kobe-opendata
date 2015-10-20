@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rdf:RDF xmlns:rdf="http://www.w3c.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:html="http://www.w3.org/1999/xhtml">
+<channel rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi-2014-01/info00-04.xml">
+<title>神戸市：広報紙ＫＯＢＥ1月号　13面 </title>
+<link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1401/info00-04.html</link>
+<description>
+</description>
+<items>
+ <rdf:Seq>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi-2014-01/info00-04.xml#あなたの”ご意見”をお寄せください"/>
+ </rdf:Seq>
+</items>
+<item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi-2014-01/info00-04.xml#あなたの”ご意見”をお寄せください">
+ <title>あなたの”ご意見”をお寄せください</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1401/info00-04.html#あなたの”ご意見”をお寄せください</link>
+ <description rdf:datatype="rdf:HTML"><html:div class="btnSocialBox clearfix">
+            <html:div class="btnSocialInnerBox">
+              <html:span>
+                  <html:a href="https://twitter.com/share" class="twitter-share-button">ツイート</html:a>
+                  
+                </html:span>
+              <html:span>
+                  
+                </html:span>
+              </html:div>
+          </html:div><html:dl class="lastUpdate"><html:dt>最終更新日</html:dt><html:dd>2013年12月24日</html:dd></html:dl><html:p>市は政策や規則等を定める過程で、皆さんのご意見を募集しています。</html:p><html:h3>神戸市ホームレスの自立の支援等に関する第3次実施計画（案）</html:h3><html:p>第2次実施計画が平成25年度で期間満了となるため、平成26年度以降に向けて新たに策定する「第3次実施計画」（案）について意見を募集します。</html:p><html:p>期間は1月16日（木曜）～2月14日（金曜）</html:p><html:p>問い合わせは保健福祉局保護課（電話322-5201、FAX322-6040）</html:p><html:h3>食品衛生監視指導計画</html:h3><html:p>食品衛生法の規定に基づき平成26年度に実施する食品衛生監視指導に関する基本的な計画について、皆さんの意見を募集します。</html:p><html:p>期間は1月15日（水曜）～2月14日（金曜）</html:p><html:p>問い合わせは生活衛生課（電話322-5262、FAX322-2725）</html:p><html:h3>建築物安全安心実施計画（案）</html:h3><html:p>建築物の安全性確保に取り組むため、違反建築対策等を定めた第4次計画（案）を作りましたので、ご意見をお寄せください。</html:p><html:p>期間は1月9日（木曜）～2月10日（月曜）</html:p><html:p>問い合わせは安全対策課（電話322-5596、FAX322-6116）</html:p><html:h3>神戸市教育振興基本計画（素案）</html:h3><html:p>神戸の教育の振興を目指して、今後5年間（平成26～30年度）の目標と取り組むべき具体的施策を定めた「第2期計画（素案）」を作成したので、皆さんの意見を募集します。</html:p><html:p>期間は1月30日（木曜）～2月28日（金曜）</html:p><html:p>問い合わせは教育企画課（電話322-5761、FAX322-6145）</html:p><html:h3>（仮称）神戸市生涯学習総合計画（素案）</html:h3><html:p>現行の「神戸市生涯学習推進計画」が平成25年度で期間満了となるため、平成26年度以降に向けて新たに策定する計画（素案）について意見を募集します。</html:p><html:p>期間は1月30日（木曜）～2月28日（金曜）</html:p><html:p>問い合わせは生涯学習課（電話322-5794、FAX322-6144）</html:p><html:h3>（仮称）第3次神戸市子供読書活動推進計画（素案）</html:h3><html:p>第2次推進計画が平成25年度で期間満了となるため、平成26年度以降に向けて新たに策定する第3次推進計画（素案）について意見を募集します。</html:p><html:p>期間は1月30日（木曜）～2月28日（金曜）</html:p><html:p>問い合わせは生涯学習課（電話322-5794、FAX322-6144）</html:p><html:h3>（仮称）神戸市いじめ防止基本方針（案）</html:h3><html:p>国が定める「いじめ防止基本方針」を受け、神戸市がいじめの防止等のための対策を総合的かつ効果的に推進するために定める方針（案）についての意見を募集します。</html:p><html:p>期間は1月6日（月曜）～2月4日（火曜）</html:p><html:p>問い合わせは指導課（電話322-5786、FAX322-6143）</html:p><html:h4>今後の意見募集の予定等、最新の情報は随時ホームページでお知らせしています</html:h4><html:ul class="link-list"><html:li><html:a href="http://www.city.kobe.lg.jp/information/public/comment/">ホームページ</html:a></html:li></html:ul></description>
+</item></channel>
+</rdf:RDF>

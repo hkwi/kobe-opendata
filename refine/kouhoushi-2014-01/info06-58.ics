@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:子どもの科学実験&お金の豆知識
+DESCRIPTION:対象は小学3～6年生\n日時は2月8日（土曜）14時～\n場所は青少年会館\n料金は250円\n申し込みは往復はがきで同館（〒651-0096雲井通5-1-2）へ。1月18日（土曜）必着。抽選\n問い合わせは電話232-4455、FAX242-2161
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1401/info06.html#子どもの科学実験&お金の豆知識
+DTSTART:20140208T140000
+LOCATION:青少年会館
+END:VEVENT
+END:VCALENDAR

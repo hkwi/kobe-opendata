@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:「川西英」生誕120周年記念パネル展
+DESCRIPTION:日時は1月25日（土曜）10時～17時\n場所は兵庫公会堂\n料金は無料\n問い合わせは兵庫区まちづくり課（電話511-2111、FAX511-5331）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1401/info06.html#「川西英」生誕120周年記念パネル展
+DTSTART:20140125T100000
+DTEND:20140125T170000
+LOCATION:兵庫公会堂
+END:VEVENT
+END:VCALENDAR

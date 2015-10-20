@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:市民後見人養成研修説明会
+DESCRIPTION:日時は2月19日（木曜）・20日（金曜）14時～\n場所は県中央労働センター（中央区下山手通6）\n料金は無料\n申し込みは電話かFAXで。先着順\n問い合わせは成年後見支援センター（電話271-5321、FAX271-2250）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info04.html#市民後見人養成研修説明会
+DTSTART:20150219T140000
+RRULE:FREQ=DAILY;BYMONTHDAY=20;COUNT=1
+LOCATION:県中央労働センター（中央区下山手通6）
+END:VEVENT
+END:VCALENDAR

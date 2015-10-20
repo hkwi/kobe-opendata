@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1510/info06.html#港をかく会
+LOCATION:ポートアイランド北公園
+DTSTART:20151010T100000
+SUMMARY:港をかく会
+DESCRIPTION:対象は3歳～高校生\n日時は10月10日（土曜）10時～（雨天時は11日（日曜））\n場所はポートアイランド北公園\n料金は無料\n問い合わせは指導課（電話322-6438、FAX322-6143）
+END:VEVENT
+END:VCALENDAR

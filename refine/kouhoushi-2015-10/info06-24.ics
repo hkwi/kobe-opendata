@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1510/info06.html#コスモスまつり
+LOCATION:総合運動公園
+DTSTART:20151017T100000
+DTEND:20151017T150000
+SUMMARY:コスモスまつり
+DESCRIPTION:日時は10月17日（土曜）10時～15時（雨天時は18日（日曜））\n場所は総合運動公園\n料金は無料\n問い合わせは電話795-5151、FAX792-3122
+END:VEVENT
+END:VCALENDAR

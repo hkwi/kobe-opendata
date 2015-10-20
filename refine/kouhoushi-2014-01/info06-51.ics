@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:小磯記念美術館（1）小磯の愛したモーツァルト
+DESCRIPTION:（1）小磯の愛したモーツァルト\n日時は2月1日（土曜）14時～\n料金は無料（別途入園料等が必要）\n（2）ドンゴロスに描いてみよう\n対象は小学生以上\n日時は2月8日（土曜）14時～\n料金は200円（別途入園料等が必要）\n申し込みは往復はがき（〒658-0032向洋町中5-7）で。1月23日（木曜）必着。抽選\n問い合わせは電話857-5880、FAX857-3737
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1401/info06.html#小磯記念美術館#1
+DTSTART:20140201T140000
+END:VEVENT
+END:VCALENDAR

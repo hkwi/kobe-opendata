@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:バトルデエッグ本選・表彰式
+DESCRIPTION:日時は1月18日（日曜）13時～18時\n場所はアートビレッジセンター\n料金は500円\n問い合わせは文化交流部（電話322-5166、FAX322-6137）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info06.html#バトルデエッグ本選・表彰式
+DTSTART:20150118T130000
+DTEND:20150118T180000
+LOCATION:アートビレッジセンター
+END:VEVENT
+END:VCALENDAR

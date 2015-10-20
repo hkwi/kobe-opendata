@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:着物から袱紗（小ふろしき）作り
+DESCRIPTION:日時は10月24日（土曜）10時～\n場所はリサイクル工房ほくしん\n料金は無料\n申し込みは電話かFAXで。10月9日（金曜）～先着順\n問い合わせは電話・FAX987-3144
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1510/info06.html#着物から袱紗（小ふろしき）作り
+DTSTART:20151024T100000
+LOCATION:リサイクル工房ほくしん
+END:VEVENT
+END:VCALENDAR

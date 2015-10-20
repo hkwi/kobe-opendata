@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:保育所就職支援セミナー
+DESCRIPTION:日時は1月24日（土曜）13時～17時\n場所は市教育会館\n料金は無料\n申し込みは電話かFAXか直接県保育士・保育所支援センター（電話242-4637、FAX242-4737）へ。1月19日（月曜）まで受付。抽選\n問い合わせはこども家庭局振興課（電話322-5216、FAX322-6042）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info04.html#保育所就職支援セミナー
+DTSTART:20150124T130000
+DTEND:20150124T170000
+LOCATION:市教育会館
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1510/info06.html#サイエンスキャンプ
+LOCATION:自然の家
+DTSTART;VALUE=DATE:20151205
+DTEND;VALUE=DATE:20151207
+SUMMARY:サイエンスキャンプ
+DESCRIPTION:日時は12月5日（土曜）～、1泊2日\n場所は自然の家\n料金は7\,500円\n申し込みは電話で。10月1日（木曜）～14日（水曜）まで受付。抽選\n問い合わせは電話891-0001、FAX891-0002
+END:VEVENT
+END:VCALENDAR

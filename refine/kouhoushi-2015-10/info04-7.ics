@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:西市民病院（3）禁煙教室
+DESCRIPTION:（1）糖尿病教室\n日時は10月9日（金曜）14時～\n料金は無料\n（2）市民公開講座\n日時は10月15日（木曜）14時～\n料金は無料\n申し込みは電話かFAXで。先着順\n（3）禁煙教室\n日時は10月22日（木曜）15時～\n料金は無料\n申し込みは電話かFAXで。先着順\n問い合わせは電話576-5251、FAX579-1920
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1510/info04.html#西市民病院#3
+DTSTART:20151022T150000
+END:VEVENT
+END:VCALENDAR

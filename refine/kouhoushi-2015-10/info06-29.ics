@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:新酒まつり
+DESCRIPTION:日時は10月24日（土曜）・25日（日曜）10時～16時\n場所は神戸ワイナリー（農業公園）\n問い合わせは電話991-3911、FAX991-3925
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1510/info06.html#新酒まつり
+DTSTART:20151024T100000
+DTEND:20151024T160000
+RRULE:FREQ=DAILY;BYMONTHDAY=25;COUNT=1
+LOCATION:神戸ワイナリー（農業公園）
+END:VEVENT
+END:VCALENDAR

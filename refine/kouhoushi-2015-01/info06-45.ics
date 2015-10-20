@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info06.html#自然の家#2
+X-HINT-DTSTART:日時は2月14・21日（土曜）～、1泊2日
+DTSTART;VALUE=DATE:20150214
+DTEND;VALUE=DATE:20150216
+RDATE;VALUE=DATE:20150221
+SUMMARY:自然の家（2）ファミリースキーキャンプ
+DESCRIPTION:（1）冬のわくわくキャンプ\n日時は2月7日（土曜）～、1泊2日\n料金は8\,000円\n申し込みは電話で。1月23日（金曜）まで受付。抽選\n（2）ファミリースキーキャンプ\n日時は2月14・21日（土曜）～、1泊2日\n料金は大人10\,000円・小人9\,000円\n申し込みは電話で。1月21日（水曜）まで受付。抽選\n問い合わせは電話891-0001、FAX891-0002
+END:VEVENT
+END:VCALENDAR

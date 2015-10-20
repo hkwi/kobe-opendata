@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:震災シンポジウム～阪神から東北へ
+DESCRIPTION:日時は1月16日（金曜）13時～\n場所はシルバーカレッジ\n料金は無料\n申し込みは当日先着順\n問い合わせは電話743-8101、FAX743-3830
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info04.html#震災シンポジウム～阪神から東北へ
+DTSTART:20150116T130000
+LOCATION:シルバーカレッジ
+END:VEVENT
+END:VCALENDAR

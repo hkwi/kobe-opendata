@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:市民福祉大学（2）英語点訳講座
+DESCRIPTION:（1）地域福祉活動を支える方法を考える\n日時は11月7日（土曜）13時30分～\n料金は無料\n場所は市民福祉交流センター\n申し込みははがき（〒651-0086磯上通3-1-32）か電話かFAXか直接。10月23日（金曜）必着。抽選\n（2）英語点訳講座\n日時は11月10日～、火曜14時～。14回\n料金は9\,160円\n場所は市民福祉交流センター\n申し込みは電話かFAXか直接。10月20日（火曜）必着。抽選\n（3）らくらく介護のコツ\n日時は11月20・27日、12月18日（金曜）13時30分～\n料金は3\,000円\n場所は市民福祉交流センター\n申し込みははがき（〒651-0086磯上通3-1-32）か電話かFAXか直接。11月6日（金曜）必着。抽選\n問い合わせは電話271-5300、FAX271-5365
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1510/info04.html#市民福祉大学#2
+DTSTART:20151110T140000
+RRULE:FREQ=WEEKLY;COUNT=14
+LOCATION:市民福祉交流センター
+END:VEVENT
+END:VCALENDAR

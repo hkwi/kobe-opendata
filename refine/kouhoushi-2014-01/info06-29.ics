@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:須磨海浜水族園（1）寒さを毛飛ばせ!毛深い生きもの展
+DESCRIPTION:（1）寒さを毛飛ばせ!毛深い生きもの展\n日時は1月16日（木曜）～2月18日（火曜）\n料金は無料（別途入園料等が必要）\n（2）クラゲの飼い方教室\n日時は1月18日（土曜）13時～\n料金は300円（別途入園料等が必要）\n申し込みは往復はがき（〒654-0049若宮町1-3-5）で。1月8日（水曜）必着。抽選\n（3）マッコウクジラの全身骨格標本展示\n日時は1月30日（木曜）～2月25日（火曜）\n料金は無料（別途入園料等が必要）\n問い合わせは電話731-7301、FAX733-6333
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1401/info06.html#須磨海浜水族園#1
+DTSTART:20140116
+DTEND:20140219
+END:VEVENT
+END:VCALENDAR

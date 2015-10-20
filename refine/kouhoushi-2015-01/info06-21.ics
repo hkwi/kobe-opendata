@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:クルーズ客船主な入港情報（1）ミネルバ
+DESCRIPTION:（1）ミネルバ\n日時は1月16日（金曜）7時入港・17日（土曜）19時出港\n場所は中突堤旅客ターミナル\n（2）エクスプローラー\n日時は1月29日（木曜）8時入港・31日（土曜）20時出港\n場所はポートターミナル\n問い合わせは市総合コールセンター（電話333-3330、FAX333-3314）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info06.html#クルーズ客船主な入港情報#1
+DTSTART:20150116T070000
+DTEND:20150117T190000
+LOCATION:中突堤旅客ターミナル
+END:VEVENT
+END:VCALENDAR

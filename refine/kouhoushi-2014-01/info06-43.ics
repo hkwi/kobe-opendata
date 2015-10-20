@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1401/info06.html#さかなの学校#1
+X-HINT-DTSTART:日時は1月26日（日曜）・2月2日（日曜）10時30分～
+DTSTART:20140126T103000
+RDATE:20140202T103000
+SUMMARY:さかなの学校（1）乾のりと巻き寿司づくり
+DESCRIPTION:（1）乾のりと巻き寿司づくり\n対象は5歳以上（小学生以下は保護者同伴）\n日時は1月26日（日曜）・2月2日（日曜）10時30分～\n料金は800円\n申し込みは往復はがき（〒655-0036海岸通12-4）かFAXで。1月分は1月14日（火曜）、2月分は1月23日（木曜）必着。抽選\n（2）ひなまつり飾りづくり\n日時は2月1日（土曜）～3月3日（月曜）\n料金は600円\n（3）カマボコとおにぎりづくり\n対象は5歳以上（小学生以下は保護者同伴）\n日時は2月16日（日曜）10時30分～\n料金は800円\n申し込みは往復はがきかFAXで。2月4日（火曜）必着。抽選\n問い合わせは電話706-5550、FAX706-5636
+END:VEVENT
+END:VCALENDAR

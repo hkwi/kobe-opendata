@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info06.html#阪神・淡路大震災関連文書企画展#2
+X-HINT-DTSTART:日時は1月20日（火曜）～28日（水曜）
+X-HINT-LOCATION:コミスタこうべ
+DTSTART:20150120
+RRULE:FREQ=DAILY;UNTIL=20150129
+LOCATION:コミスタこうべ
+SUMMARY:阪神・淡路大震災関連文書企画展
+DESCRIPTION:日時は1月9日（金曜）～18日（日曜）（火曜休）\n場所は地域人材センター\n料金は無料\n日時は1月20日（火曜）～28日（水曜）\n場所はコミスタこうべ\n料金は無料\n問い合わせは企画課（電話322-6917、FAX322-6008）
+END:VEVENT
+END:VCALENDAR

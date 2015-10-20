@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:講演 災害からの復興と文化
+DESCRIPTION:日時は1月28日（水曜）16時～\n場所はホテルオークラ（中央区波止場町2）\n料金は1\,000円（高校生以下無料）\n申し込みは往復はがきで文化交流部（〒650-8570住所不要）へ。1月13日（火曜）必着。抽選\n問い合わせは電話322-5165、FAX322-6137
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info04.html#講演 災害からの復興と文化
+DTSTART:20150128T160000
+LOCATION:ホテルオークラ（中央区波止場町2）
+END:VEVENT
+END:VCALENDAR
