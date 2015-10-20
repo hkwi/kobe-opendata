@@ -5,120 +5,358 @@
 # http://www.georss.org/w3c.html
 #
 from urllib.request import urlopen
+from urllib.parse import urlparse
 import nkf
 import re
+import lxml
+import lxml.etree
 import lxml.html
+import lxml.html.clean
 import datetime
 import logging
 import csv, codecs
 import collections
 from io import StringIO
-from functools import reduce
 import pical
+import hashlib
+import os.path
+import html
+import itertools
+import atexit
+import contextlib
 
 JST = datetime.timezone(datetime.timedelta(hours=9), "JST")
 WDAY = "月火水木金土日"
 
+NSMAP = dict(
+	rdf="http://www.w3c.org/1999/02/22-rdf-syntax-ns#",
+	x="http://purl.org/rss/1.0/")
+rss = '''<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3c.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:html="http://www.w3.org/1999/xhtml">
+<channel rdf:about="{url}">
+<title>{title}</title>
+<link>{link}</link>
+<description>
+</description>
+<items>
+ <rdf:Seq>
+ </rdf:Seq>
+</items>
+</channel>
+</rdf:RDF>'''
+rss_item = '''<item xmlns="{x}" xmlns:rdf="{rdf}" rdf:about="{url}">
+ <title>{title}</title>
+ <link>{link}</link>
+ <description rdf:datatype="rdf:HTML"></description>
+</item>
+'''
+
+html_escape_dict = lambda o: dict([(k,html.escape(v) if isinstance(v, str) else v) for k,v in o.items()])
+
+def remove_script(node):
+	for c in node.getchildren():
+		if c.tag == "script":
+			node.remove(c)
+		else:
+			remove_script(c)
+	return node
+
+class HintRequired(Exception):
+	def fill(self, ev):
+		for line in self.args:
+			p = re.match("(?P<name>[^:;]+)(?P<params>;[^:;]+)?:(?P<value>.*)$", line)
+			if not p:
+				raise Exception("Hint arg error {0}".format(line))
+			
+			info = p.groupdict()
+			if info["params"]:
+				raise Exception("unsupported line:{0}".format(line))
+			ev.properties.append((info["name"], info["value"], {}))
+
 class Page(object):
-	def __init__(self, doc, url):
+	doc = None # xml document
+	url = None # origin
+	year_month = ()
+	def __init__(self, doc, url, year_month=None):
 		self.doc = doc
 		self.url = url
-		
-		for bs in doc.xpath("//p[@id='breadcrumbsList']"):
-			for b in bs.xpath(".//a"):
-				ym = re.match("(\d+)年(\d+)月", b.text)
-				if ym:
-					self.page_year, self.page_month = map(int, ym.groups())
-					break
+		if year_month is None:
+			for bs in doc.xpath("//p[@id='breadcrumbsList']"):
+				for b in bs.xpath(".//a"):
+					ym = re.match("(\d+)年(\d+)月", b.text)
+					if ym:
+						self.year_month = tuple(map(int, ym.groups()))
+		else:
+			self.year_month = (None, None)
 
-class Partial(object):
+class PartialPage(object):
+	'''
+	ページのある一部領域を表現する
+	'''
+	page = None
 	head = None
-	children = None
+	elements = None
+	
+	def __init__(self, page, head=None):
+		self.page = page
+		self.head = head
+		self.elements = []
 	
 	def __str__(self):
 		txt = ""
 		if self.head and self.head.tail:
 			txt += self.head.tail
-		for c in self.children:
-			txt += lxml.etree.tostring(c, encoding="unicode")
+		for e in self.elements:
+			txt += lxml.etree.tostring(e, encoding="unicode")
 		return txt
 	
-	def plain_txt(self):
-		txt = []
+	def itertext(self):
 		if self.head.tail:
-			txt.append(self.head.tail)
-		for c in self.children:
-			txt.extend(list(c.itertext()))
-			if c.tail:
-				txt.append(c.tail)
-		return "\n".join(txt)
-
-class H2(Partial):
-	def __init__(self, page, h2):
-		self.page = page
-		self.head = h2
-		self.children = []
-	
-	def blocks(self):
-		bs = []
-		b = None
-		for e in self.children:
+			yield self.head.tail
+		
+		for e in self.elements:
 			for txt in e.itertext():
-				m = re.match("^（(?P<key>([a-z]|\d)+)）", txt)
-				if m:
-					k = m.groupdict()["key"]
-					if not b:
-						pass
-					elif re.match("\d+", k) and re.match("\d+", b.key):
-						pass
-					elif re.match("[a-z]+", k) and re.match("[a-z]+", b.key):
-						pass
-					else:
-						b = Block(self, None)
-						b.payload = reduce(lambda a,b:a+b, [list(ie.itertext()) for ie in self.children])
-						return [b]
-					
-					b = Block(self, k)
-					bs.append(b)
-				
-				if b:
-					b.payload.append(txt)
-		
-		if bs:
-			for com in ("日時は", "料金は", "場所は"):
-				check = True
-				for b in bs:
-					if "\n".join(b.payload).find(com) < 0:
-						check = False
-						break
-				
-				if check:
-					return bs
-		
-		b = Block(self, None)
-		b.payload = reduce(lambda a,b:a+b, [list(ie.itertext()) for ie in self.children])
+				yield txt
+			
+			if e.tail:
+				yield e.tail
+	
+	def plain_txt(self):
+		return "\n".join(list(self.itertext()))
+
+BLOCK_METHOD_NONE, BLOCK_METHOD_AUTO, BLOCK_METHOD_FILE = range(3)
+
+class KobeH1(PartialPage):
+	@property
+	def url(self):
+		return "{0}#{1}".format(self.page.url, self.fragment)
+	
+	@property
+	def fragment(self):
+		return self.head.text
+	
+	def blocks(self, hint):
+		b = Block(self)
+		b.title = self.head.text
 		return [b]
+
+class AutoBlock(Exception):
+	pass
+
+class KobeH2(PartialPage):
+	@property
+	def url(self):
+		return "{0}#{1}".format(self.page.url, self.fragment)
+	
+	@property
+	def fragment(self):
+		return self.head.text
+	
+	def blocks(self, hint):
+		'''
+		H2 の情報の中に複数の情報が列挙されているケースがあり、それを分割する。
+		分割を自動で判別できる場合が多いが、判別に失敗するケースもあり、それはヒントファイルで補う。
+		'''
+		block_method = BLOCK_METHOD_NONE
+		bs = []
+		try:
+			for e in self.elements:
+				if e.tag != "p":
+					raise AutoBlock()
+			
+			key = None
+			is_last = False
+			for e in self.elements:
+				for txt in e.itertext():
+					m = re.match("^（(?P<key>([a-z]|\d)+)）(?P<subtitle>.*)$", txt)
+					if m:
+						if is_last:
+							raise AutoBlock()
+						
+						info = m.groupdict()
+						nk = info["key"]
+						if key is None:
+							key = nk
+						elif re.match("\d+", key) and re.match("\d+", nk):
+							key = nk
+						elif re.match("[a-z]+", key) and re.match("[a-z]+", nk):
+							key = nk
+						else:
+							raise AutoBlock()
+						
+						b = Block(self)
+						b.key = key
+						b.title = self.head.text
+						b.subtitle = info["subtitle"]
+						b.html = [e]
+						bs.append(b)
+					else:
+						is_last = True
+						for b in bs:
+							b.html.append(e)
+					break
+			
+			if bs:
+				for com in ("日時は", "料金は", "場所は"):
+					check = True
+					for b in bs:
+						txt = itertools.chain(*[e.itertext() for e in b.html])
+						if "\n".join(list(txt)).find(com) < 0:
+							check = False
+							break
+					if check:
+						block_method = BLOCK_METHOD_AUTO
+						break
+		except AutoBlock:
+			pass
+		
+		if block_method == BLOCK_METHOD_NONE:
+			key2ev = {}
+			for ev in hints(*self.page.year_month).children:
+				url = ev.get("URL")
+				if ev.name == "VEVENT" and url and url.startswith(self.url):
+					key = None
+					if len(url) > len(self.url):
+						assert url[len(self.url)] == "#"
+						key = url[len(self.url)+1:]
+					if key in key2ev:
+						key2ev[key].append(ev)
+					else:
+						key2ev[key] = [ev]
+			
+			if key2ev:
+				block_method = BLOCK_METHOD_FILE
+				bs = []
+				for key, evs in key2ev.items():
+					b = Block(self)
+					b.key = key
+					b.title = self.head.text
+					b.html = self.elements
+					b.events = evs
+					bs.append(b)
+		
+		if block_method == BLOCK_METHOD_NONE:
+			b = Block(self)
+			b.title = self.head.text
+			b.html = self.elements
+			bs = [b]
+		
+		if block_method in (BLOCK_METHOD_NONE, BLOCK_METHOD_AUTO):
+			for b in bs:
+				b.events = []
+				for ev in hints(*self.page.year_month).children:
+					url = ev.get("URL")
+					if ev.name == "VEVENT" and url and url.startswith(b.url):
+						b.events.append(ev)
+				
+				if not b.events:
+					ev = pical.Component.factory("VEVENT", hint.tzdb)
+					b.events = [ev]
+		
+		for b in bs:
+			for ev in b.events:
+				if ev.get("SUMMARY"):
+					continue
+				
+				if b.subtitle:
+					ev.properties.append(("SUMMARY", "{:s}（{:s}）{:s}".format(b.title, b.key, b.subtitle), {}))
+				else:
+					ev.properties.append(("SUMMARY", b.title, {}))
+			
+			for ev in b.events:
+				if ev.get("DESCRIPTION"):
+					continue
+				ev.properties.append(("DESCRIPTION", b.h2.plain_txt(), {}))
+			
+			for ev in b.events:
+				if ev.get("URL"):
+					continue
+				ev.properties.append(("URL", b.url, {}))
+			
+			# DTSTART
+			hint_required = None
+			dt = []
+			try:
+				dt = b.dt()
+			except HintRequired as e:
+				hint_required = e
+			
+			resolved = 0
+			for ev in b.events:
+				if ev.get("DTSTART"):
+					resolved += 1
+					continue
+				if hint_required:
+					continue
+				for name,value,params in dt:
+					if name == "RRULE":
+						value = pical.Recur.parse(value, hint.tzdb)
+					ev.properties.append((name,value,params))
+			
+			if hint_required and (resolved == 0 or resolved != len(b.events)):
+				if not b.events:
+					ev = pical.Component.factory("VEVENT", hint.tzdb)
+					b.events = [ev]
+				
+				for ev in b.events:
+					hint_required.fill(ev)
+			
+			# LOCATION
+			hint_required = None
+			loc = None
+			try:
+				loc = b.loc()
+			except HintRequired as e:
+				hint_required = e
+			
+			resolved = 0
+			for ev in b.events:
+				if ev.get("LOCATION"):
+					resolved += 1
+					continue
+				if loc:
+					ev.properties.append(("LOCATION", loc, {}))
+			
+			if hint_required and (resolved == 0 or resolved != len(b.events)):
+				if not b.events:
+					ev = pical.Component.factory("VEVENT", hint.tzdb)
+					b.events = [ev]
+				
+				for ev in b.events:
+					hint_required.fill(ev)
+		
+		return bs
 
 
 class Block(object):
-	def __init__(self, h2, key):
+	key = None
+	title = None
+	subtitle = None
+	calendar = None
+	html = None
+	
+	def __init__(self, h2):
 		self.h2 = h2
-		self.key = key
-		self.payload = []
+		self.events = []
+		self.html = []
 	
 	@property
 	def url(self):
-		if self.key is None:
-			return "{0}#{1}".format(self.h2.page.url, self.h2.head.text)
-		else:
-			return "{0}#{1}#{2}".format(self.h2.page.url, self.h2.head.text, self.key)
+		if self.key:
+			return "{0}#{1}".format(self.h2.url, self.key)
+		return self.h2.url
+	
+	@property
+	def fragment(self):
+		if self.key:
+			return "{0}#{1}".format(self.h2.fragment, self.key)
+		return self.h2.fragment
 	
 	def dt(self):
-		page_year = self.h2.page.page_year
-		page_month = self.h2.page.page_month
+		page_year, page_month = self.h2.page.year_month
 		
 		dts = []
-		for txt in self.payload:
+		for txt in itertools.chain(*[e.itertext() for e in self.html]):
 			if not txt.startswith("日時は"):
 				continue
 			
@@ -133,6 +371,7 @@ class Block(object):
 			COUNT = "(?P<count>\d+)回"
 			OPT_DAY = "・(?P<day2>\d+)日"
 			END_DAY = "～(?P<day2>\d+)日"
+			TRAIL = "(?P<trail>（予約制）)?(。雨天中止)?"
 			
 			pat = re.match("日時は"+DATE+"（"+WEEKDAY+"）$", txt)
 			if not dt and pat:
@@ -148,14 +387,14 @@ class Block(object):
 				assert WDAY[tm.weekday()] == m["wday"], txt
 				dt = [("DTSTART", tm, {})]
 			
-			pat = re.match("日時は"+DATE+"（"+WEEKDAY+"）"+TIME+"～$", txt)
+			pat = re.match("日時は"+DATE+"（"+WEEKDAY+"）"+TIME+"～"+TRAIL+"$", txt)
 			if not dt and pat:
 				m = pat.groupdict("0")
 				tm = datetime.datetime(page_year, int(m["month"]), int(m["day"]), int(m["hour"]), int(m["minute"]))
 				assert WDAY[tm.weekday()] == m["wday"], txt
 				dt = [("DTSTART", tm, {})]
 			
-			pat = re.match("日時は"+DATE+"（"+WEEKDAY+"）"+TIME+"～"+TIME2+"$", txt)
+			pat = re.match("日時は"+DATE+"（"+WEEKDAY+"）"+TIME+"～"+TIME2+TRAIL+"$", txt)
 			if not dt and pat:
 				m = pat.groupdict("0")
 				tm1 = datetime.datetime(page_year, int(m["month"]), int(m["day"]), int(m["hour"]), int(m["minute"]))
@@ -273,92 +512,207 @@ class Block(object):
 			if dt:
 				dts.append(dt)
 			else:
-				logging.error(self.url)
-				logging.error(txt)
+				raise HintRequired("X-HINT-REQ-DTSTART:{0}".format(txt))
 		
 		if not dts:
-			logging.error("NO_DT {0}".format(self.url))
-			return []
+			raise HintRequired("X-HINT-REQ-DTSTART:NONE")
 		
 		return dts[0]
 
 	def loc(self):
 		locs = []
-		for txt in self.payload:
+		for txt in itertools.chain(*[e.itertext() for e in self.html]):
 			if not txt.startswith("場所は"):
 				continue
 			
 			rest = txt[3:].strip()
 			if rest.startswith("（"):
-				logging.error("location requires hint for {0}".format(self.url))
+				raise HintRequired("X-HINT-REQ-LOCATION:{0}".format(txt))
 			else:
 				locs.append(txt[3:])
 		
 		if len(locs) > 1:
-			logging.error("location requires hint for {0}".format(self.url))
+			raise HintRequired("X-HINT-REQ-LOCATION:{0}".format(repr(locs)))
 		elif len(locs) == 1:
 			return locs[0]
 		
 		return None
 
-def proc(url):
-	html = urlopen(url).read().decode("CP932")
-	doc = lxml.html.document_fromstring(html)
-	page = Page(doc, url)
+
+_hints = {}
+def hints(year, month):
+	filename = "kouhoushi_hint-{:04d}-{:02d}.ics".format(year, month)
+	if filename in _hints:
+		return _hints[filename]
+	
+	try:
+		txt = open(filename, "rb").read().decode("UTF-8")
+	except:
+		return pical.Calendar("VCALENDAR", None)
+	
+	ps = pical.parse(StringIO(txt))
+	assert len(ps) == 1
+	ret = ps[0]
+	_hints[filename] = ret
+	return ret
+
+
+_hint_writers = dict()
+
+@contextlib.contextmanager
+def hint_writer(filename):
+	if filename not in _hint_writers:
+		f = open(filename, "w")
+		_hint_writers[filename] = f
+		f.write("BEGIN:VCALENDAR\r\n")
+		def close():
+			f.write("END:VCALENDAR\r\n")
+			f.close()
+		atexit.register(close)
+	yield _hint_writers[filename]
+
+def proc(url, year_month=None):
+	html_txt = urlopen(url).read().decode("CP932")
+	html_txt = lxml.html.clean.Cleaner(javascript=True, frames=True, page_structure=False).clean_html(html_txt)
+	doc = lxml.html.document_fromstring(html_txt, base_url=url)
+	
+	page = Page(doc, url, year_month)
 	
 	contents = doc.xpath("//div[@id='contents']")[0]
+	h1list = contents.xpath(".//h1")
 	h2list = contents.xpath(".//h2")
 	
 	rows = []
-	for h2 in h2list:
-		item = H2(page, h2)
-		rows.append(item)
-		
-		for e in h2.xpath("./following-sibling::*"):
-			if e in h2list:
-				break
+	if re.search("\d{2}-\d{2}", os.path.basename(url)):
+		for h1 in h1list:
+			item = KobeH1(page, h1)
+			rows.append(item)
+			item.elements = h1.xpath("./following-sibling::*")
+	else:
+		for h2 in h2list:
+			item = KobeH2(page, h2)
+			rows.append(item)
 			
-			item.children.append(e)
+			for e in h2.xpath("./following-sibling::*"):
+				if e in h2list:
+					break
+				
+				item.elements.append(e)
 	
-	base = pical.Calendar("VCALENDAR", None)
-	try:
-		ps = pical.parse(codecs.open("kouhoushi_hint-{:04d}-{:02d}.ics".format(page.page_year, page.page_month), encoding="UTF-8"))
-		assert len(ps) == 1
-		base = ps[0]
-	except:
-		pass
+	baseurl = "http://hkwi.github.io/kobe-opendata"
+	dirname = 'refine/kouhoushi-{:04d}-{:02d}'.format(*page.year_month)
 	
-	output = pical.Calendar("VCALENDAR", base.tzdb)
-	output.properties.append(("VERSION", "2.0", {}))
-	output.properties.append(("PRODID", "github.com/hkwi/kobe-opendata/kouhoushi", {}))
+	os.makedirs(dirname, exist_ok=True)
+	rss_basename = re.sub(".html$", ".xml", os.path.basename(urlparse(url).path))
+	rss_doc = lxml.etree.fromstring(rss.format(**html_escape_dict(dict(
+		url = "{:s}/{:s}/{:s}".format(baseurl, dirname, rss_basename),
+		title = doc.xpath("//head/title")[0].text,
+		link = url,
+		))))
+	
+	ics_seq = 0
+	
+	base = hints(*page.year_month)
 	for row in rows:
-		bs = row.blocks()
-		for b in bs:
-			evs = [ev for ev in base.children if ev.get("URL").startswith(b.url)]
-			if not evs:
-				ev = pical.Component.factory("VEVENT", output.tzdb)
-				ev.properties.append(("URL", b.url, {}))
-				dt = b.dt()
-				for name,value,params in dt:
-					if name == "RRULE":
-						value = pical.Recur.parse(value, output.tzdb)
-					ev.properties.append((name,value,params))
-				
-				loc = b.loc()
-				if loc:
-					ev.properties.append(("LOCATION", loc, {}))
-				
-				evs.append(ev)
+		for b in row.blocks(base):
+			# emit rss item
+			parent = rss_doc.xpath(".//rdf:Seq", namespaces=NSMAP)[0]
+			li = lxml.etree.Element("{{{rdf}}}li".format(**NSMAP),
+				attrib = dict(
+					resource= "{0}/{1}/{2}#{3}".format(baseurl, dirname, rss_basename, b.fragment)
+				),
+				nsmap=NSMAP)
+			li.tail = "\n "
+			parent.append(li)
 			
-			for ev in evs:
-				ev.properties.append(("SUMMARY", b.h2.head.text, {}))
-				ev.properties.append(("DESCRIPTION", b.h2.plain_txt(), {}))
+			title = b.title
+			if b.subtitle:
+				title = "{:s}（{:s}）{:s}".format(b.title, b.key, b.subtitle)
 			
-			for ev in evs:
-				output.children.append(ev)
-	
-	for l in output.serialize():
-		print(l)
+			parent = rss_doc.xpath(".//x:channel", namespaces=NSMAP)[0]
+			rss_item_xml = rss_item.format(**html_escape_dict(dict(
+				url="{0}/{1}/{2}#{3}".format(baseurl, dirname, rss_basename, b.fragment),
+				link=b.url,
+				title=title,
+				**NSMAP)))
+			try:
+				rss_item_doc = lxml.etree.fromstring(rss_item_xml)
+			except:
+				print(rss_item_xml)
+				raise
+			
+			parent.append(rss_item_doc)
+			
+			parent = rss_item_doc.xpath(".//x:description", namespaces=NSMAP)[0]
+			if b.html:
+				for e in b.html:
+					e = lxml.etree.fromstring(lxml.etree.tostring(e)) # clone
+					lxml.html.html_to_xhtml(e)
+					parent.append(e) # set namespace for putting node directly in xml
+			else:
+				for e in b.h2.elements:
+					e = lxml.etree.fromstring(lxml.etree.tostring(e)) # clone
+					lxml.html.html_to_xhtml(e)
+					parent.append(e) # set namespace for putting node directly in xml
+			
+			enable_vevent = False
+			for ev in b.events:
+				if ev.get("DTSTART"):
+					enable_vevent = True
+			
+			if enable_vevent:
+				ics_basename = rss_basename.replace(".xml", "-{:d}.ics".format(ics_seq))
+				ics_seq += 1
+				# ics_basename = "{:s}.ics".format(hashlib.md5(b.url.encode("UTF-8")).hexdigest())
+				e = lxml.etree.fromstring('<p><a href="{0}/{1}/{2}">カレンダー登録</a></p>'.format(
+					baseurl,
+					dirname,
+					ics_basename))
+				lxml.html.html_to_xhtml(e)
+				parent.append(e)
+				
+				output = pical.Calendar("VCALENDAR", base.tzdb)
+				output.properties.append(("VERSION", "2.0", {}))
+				output.properties.append(("PRODID", "github.com/hkwi/kobe-opendata/kouhoushi", {}))
+				for ev in b.events:
+					output.children.append(ev)
+				
+				with open("{0}/{1}".format(dirname, ics_basename), "wb") as ics:
+					for l in output.serialize():
+						ics.write(l.encode("UTF-8"))
+						ics.write("\r\n".encode("UTF-8"))
+			
+			with open("{0}/{1}".format(dirname, rss_basename), "wb") as f:
+				lxml.etree.ElementTree(rss_doc).write(
+					f,
+					encoding="UTF-8",
+					pretty_print=True,
+					xml_declaration=True
+				)
+			
+			for ev in b.events:
+				req = False
+				for prop in ev.properties:
+					if prop[0] == "X-HINT-REQ-DTSTART" and prop[1]=="NONE":
+						continue
+					if prop[0].startswith("X-HINT-REQ-"):
+						req = True
+				if req:
+					with hint_writer("kouhoushi_req-{:04d}-{:02d}.ics".format(*page.year_month)) as f:
+						for l in ev.serialize():
+							if l.startswith("BEGIN:"):
+								f.write(l)
+								f.write("\r\n")
+							elif l.startswith("END:"):
+								f.write(l)
+								f.write("\r\n")
+							elif l.startswith("URL:"):
+								f.write(l)
+								f.write("\r\n")
+							elif l.startswith("X-HINT-REQ-"):
+								f.write(l.replace("X-HINT-REQ-","X-HINT-"))
+								f.write("\r\n")
 
-[proc(url.strip()) for url in open("kouhoushi_url.csv") if url.startswith("http://")]
+if __name__ == "__main__":
+	[proc(url.strip()) for url in open("kouhoushi_url.csv") if url.startswith("http://")]
 #proc_doc(lxml.html.document_fromstring(open("info04.html", "rb").read().decode("CP932")))
