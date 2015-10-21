@@ -1,0 +1,298 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rdf:RDF xmlns:rdf="http://www.w3c.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:html="http://www.w3.org/1999/xhtml">
+<channel rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml">
+<title>神戸市：広報紙KOBE2015年（平成27年）1月号 市政情報（講演・講習） </title>
+<link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info04.html</link>
+<description>
+</description>
+<items>
+ <rdf:Seq>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#婦人会館あじさい講座#1"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#婦人会館あじさい講座#2"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#メタボ予防の講演会・野口緑氏"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#健康ライフプラザ#1"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#健康ライフプラザ#2"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#イナガキ・タルホが居た神戸"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#婦人大学体験講義"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#市民酒害セミナー"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#KOBE創業塾（ビジネス最前線編）"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#西市民病院の講座#1"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#西市民病院の講座#2"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#震災シンポジウム～阪神から東北へ"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#中央卸売市場本場の料理教室#1"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#中央卸売市場本場の料理教室#2"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#中央卸売市場本場の料理教室#3"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#中央卸売市場本場の料理教室#4"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#中央卸売市場本場の料理教室#5"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#震災20年レスキューロボット講演"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#災害対策セミナーin神戸"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#保育所就職支援セミナー"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#プロップ パソコン講習会#1"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#プロップ パソコン講習会#2"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#プロップ パソコン講習会#3"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#プロップ パソコン講習会#4"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#東部市場の料理教室#1"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#東部市場の料理教室#2"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#歴史講演会 昭和のおもちゃ文化史"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#いきいき勤労財団の講座#1"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#いきいき勤労財団の講座#2"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#いきいき勤労財団の講座#3"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#講演 災害からの復興と文化"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#協力会員・両方会員養成講習会"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#グリーフケア連続講座"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#小児疾患に関する神戸大学公開講座"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#慢性腎臓病市民公開講座#1"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#慢性腎臓病市民公開講座#2"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#上手なお医者さんへのかかり方"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#コミスタこうべ#1"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#コミスタこうべ#2"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#あすてっぷKOBEの講座#1"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#あすてっぷKOBEの講座#2"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#ママとパパの医療講座"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#市民後見人養成研修説明会"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#発達障害児の祖父母向け療育講座"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#発達障害支援講演会「診断と就労」"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#声優・加藤みどり講演会"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#あじさい講座#1"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#あじさい講座#2"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#あじさい講座#3"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#あじさい講座#4"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#あじさい講座#5"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#あじさい講座#6"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#あじさい講座#7"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#あじさい講座#8"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#あじさい講座#9"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#勤労会館#1"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#勤労会館#2"/>
+ </rdf:Seq>
+</items>
+<item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#婦人会館あじさい講座#1">
+ <title>婦人会館あじさい講座（1）姿勢体幹バランスアップ</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info04.html#婦人会館あじさい講座#1</link>
+ <description rdf:datatype="rdf:HTML"><html:p>（1）姿勢体幹バランスアップ<html:br/>日時は1月8日（木曜）18時～<html:br/>料金は1講座500円<html:br/>申し込みは電話で。先着順</html:p><html:p>問い合わせは電話351-0861、FAX351-0862</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04-0.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#婦人会館あじさい講座#2">
+ <title>婦人会館あじさい講座（2）パソコン講座</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info04.html#婦人会館あじさい講座#2</link>
+ <description rdf:datatype="rdf:HTML"><html:p>（2）パソコン講座<html:br/>日時は1月9日（金曜）～27日（火曜）<html:br/>料金は1講座500円<html:br/>申し込みは電話で。先着順</html:p><html:p>問い合わせは電話351-0861、FAX351-0862</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04-1.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#メタボ予防の講演会・野口緑氏">
+ <title>メタボ予防の講演会・野口緑氏</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info04.html#メタボ予防の講演会・野口緑氏</link>
+ <description rdf:datatype="rdf:HTML"><html:p>日時は1月10日（土曜）13時10分～<html:br/>場所は国際会議場<html:br/>料金は無料<html:br/>申し込みはFAXで同事務局（FAX796-4528）へ。先着順<html:br/>問い合わせは国際会議場（電話302-5200、FAX302-6485）</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04-2.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#健康ライフプラザ#1">
+ <title>健康ライフプラザ（1）寿命は血管の老化から</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info04.html#健康ライフプラザ#1</link>
+ <description rdf:datatype="rdf:HTML"><html:p>（1）寿命は血管の老化から<html:br/>対象は中学生以上<html:br/>日時は1月10日（土曜）13時30分～<html:br/>料金は500円</html:p><html:p>問い合わせは電話652-5202、FAX652-5211</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04-3.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#健康ライフプラザ#2">
+ <title>健康ライフプラザ（2）関節リウマチは治せる病気に</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info04.html#健康ライフプラザ#2</link>
+ <description rdf:datatype="rdf:HTML"><html:p>（2）関節リウマチは治せる病気に<html:br/>対象は中学生以上<html:br/>日時は1月24日（土曜）13時30分～<html:br/>料金は500円</html:p><html:p>問い合わせは電話652-5202、FAX652-5211</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04-4.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#イナガキ・タルホが居た神戸">
+ <title>イナガキ・タルホが居た神戸</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info04.html#イナガキ・タルホが居た神戸</link>
+ <description rdf:datatype="rdf:HTML"><html:p>日時は1月10日（土曜）14時～<html:br/>場所は文学館<html:br/>料金は200円<html:br/>申し込みは電話かFAXか直接。先着順<html:br/>問い合わせは電話・FAX882-2028</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04-5.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#婦人大学体験講義">
+ <title>婦人大学体験講義</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info04.html#婦人大学体験講義</link>
+ <description rdf:datatype="rdf:HTML"><html:p>対象は67歳以下（27年4月1日現在）の女性<html:br/>日時は1月20日（火曜）10時～・1月29日（木曜）13時～<html:br/>場所はあすてっぷKOBE<html:br/>料金は無料<html:br/>申し込みは電話かFAXか直接婦人大学（電話361-7138、FAX361-7165）へ。先着順<html:br/>問い合わせは男女共同参画課（電話322-5179、FAX322-6034）</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04-6.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#市民酒害セミナー">
+ <title>市民酒害セミナー</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info04.html#市民酒害セミナー</link>
+ <description rdf:datatype="rdf:HTML"><html:p>日時は1月12日（月曜・祝日）14時～<html:br/>場所はピフレホール<html:br/>料金は無料<html:br/>問い合わせは障害福祉課（電話322-5271、FAX322-6044）</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04-7.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#KOBE創業塾（ビジネス最前線編）">
+ <title>KOBE創業塾（ビジネス最前線編）</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info04.html#KOBE創業塾（ビジネス最前線編）</link>
+ <description rdf:datatype="rdf:HTML"><html:p>日時は1月14日～、水曜18時～。4回<html:br/>場所は産業振興センター<html:br/>料金は有料（初回のみ無料）<html:br/>申し込みはFAXか直接。先着順<html:br/>問い合わせは産業振興財団（電話360-3202、FAX360-1419）</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04-8.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#西市民病院の講座#1">
+ <title>西市民病院の講座（1）市民公開講座</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info04.html#西市民病院の講座#1</link>
+ <description rdf:datatype="rdf:HTML"><html:p>（1）市民公開講座<html:br/>日時は1月15日（木曜）14時～<html:br/>料金は無料<html:br/>申し込みは電話かFAXで。先着順</html:p><html:p>問い合わせは電話576-5251、FAX579-1920</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04-9.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#西市民病院の講座#2">
+ <title>西市民病院の講座（2）禁煙教室</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info04.html#西市民病院の講座#2</link>
+ <description rdf:datatype="rdf:HTML"><html:p>（2）禁煙教室<html:br/>日時は1月15日（木曜）15時～<html:br/>料金は無料<html:br/>申し込みは電話かFAXで。先着順</html:p><html:p>問い合わせは電話576-5251、FAX579-1920</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04-10.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#震災シンポジウム～阪神から東北へ">
+ <title>震災シンポジウム～阪神から東北へ</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info04.html#震災シンポジウム～阪神から東北へ</link>
+ <description rdf:datatype="rdf:HTML"><html:p>日時は1月16日（金曜）13時～<html:br/>場所はシルバーカレッジ<html:br/>料金は無料<html:br/>申し込みは当日先着順<html:br/>問い合わせは電話743-8101、FAX743-3830</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04-11.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#中央卸売市場本場の料理教室#1">
+ <title>中央卸売市場本場の料理教室（1）キッズキッチン～あんこう</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info04.html#中央卸売市場本場の料理教室#1</link>
+ <description rdf:datatype="rdf:HTML"><html:p>（1）キッズキッチン～あんこう<html:br/>日時は1月17日（土曜）10時～<html:br/>料金は4,100円<html:br/>申し込みは電話で。1月8日（木曜）まで受付。抽選</html:p><html:p>問い合わせは電話652-5503、FAX681-3772</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04-12.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#中央卸売市場本場の料理教室#2">
+ <title>中央卸売市場本場の料理教室（2）初めての魚のさばき方</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info04.html#中央卸売市場本場の料理教室#2</link>
+ <description rdf:datatype="rdf:HTML"><html:p>（2）初めての魚のさばき方<html:br/>日時は1月19日（月曜）10時30分～<html:br/>料金は2,600円<html:br/>申し込みは電話で。開催日の10日前まで受付。抽選</html:p><html:p>問い合わせは電話652-5503、FAX681-3772</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04-13.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#中央卸売市場本場の料理教室#3">
+ <title>中央卸売市場本場の料理教室（3）旬の魚を学ぶ～イワシ</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info04.html#中央卸売市場本場の料理教室#3</link>
+ <description rdf:datatype="rdf:HTML"><html:p>（3）旬の魚を学ぶ～イワシ<html:br/>日時は1月26日（月曜）10時30分～<html:br/>料金は2,600円<html:br/>申し込みは電話で。開催日の10日前まで受付。抽選</html:p><html:p>問い合わせは電話652-5503、FAX681-3772</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04-14.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#中央卸売市場本場の料理教室#4">
+ <title>中央卸売市場本場の料理教室（4）料理人に学ぶ～有馬御馳走塾関所</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info04.html#中央卸売市場本場の料理教室#4</link>
+ <description rdf:datatype="rdf:HTML"><html:p>（4）料理人に学ぶ～有馬御馳走塾関所<html:br/>日時は1月27日（火曜）10時30分～<html:br/>料金は3,600円<html:br/>申し込みは電話で。開催日の10日前まで受付。抽選</html:p><html:p>問い合わせは電話652-5503、FAX681-3772</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04-15.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#中央卸売市場本場の料理教室#5">
+ <title>中央卸売市場本場の料理教室（5）本格的な魚のさばき方～ヒラメ</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info04.html#中央卸売市場本場の料理教室#5</link>
+ <description rdf:datatype="rdf:HTML"><html:p>（5）本格的な魚のさばき方～ヒラメ<html:br/>日時は2月9日（月曜）10時30分～<html:br/>料金は2,600円<html:br/>申し込みは電話で。開催日の10日前まで受付。抽選</html:p><html:p>問い合わせは電話652-5503、FAX681-3772</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04-16.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#震災20年レスキューロボット講演">
+ <title>震災20年レスキューロボット講演</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info04.html#震災20年レスキューロボット講演</link>
+ <description rdf:datatype="rdf:HTML"><html:p>日時は1月18日（日曜）13時30分～<html:br/>場所は地域人材支援センター<html:br/>料金は無料<html:br/>申し込みは電話かFAXで。1月15日（木曜）まで受付<html:br/>問い合わせは工業課（電話322-5333、FAX322-6074）</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04-17.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#災害対策セミナーin神戸">
+ <title>災害対策セミナーin神戸</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info04.html#災害対策セミナーin神戸</link>
+ <description rdf:datatype="rdf:HTML"><html:p>日時は1月22日（木曜）・23（金曜）10時～17時<html:br/>場所は国際会議場<html:br/>料金は無料<html:br/>問い合わせは危機管理室（電話322-6487、FAX322-6031）</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04-18.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#保育所就職支援セミナー">
+ <title>保育所就職支援セミナー</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info04.html#保育所就職支援セミナー</link>
+ <description rdf:datatype="rdf:HTML"><html:p>日時は1月24日（土曜）13時～17時<html:br/>場所は市教育会館<html:br/>料金は無料<html:br/>申し込みは電話かFAXか直接県保育士・保育所支援センター（電話242-4637、FAX242-4737）へ。1月19日（月曜）まで受付。抽選<html:br/>問い合わせはこども家庭局振興課（電話322-5216、FAX322-6042）</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04-19.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#プロップ パソコン講習会#1">
+ <title>プロップ パソコン講習会（1）楽しくはじめるワード＆エクセル</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info04.html#プロップ パソコン講習会#1</link>
+ <description rdf:datatype="rdf:HTML"><html:p>（1）楽しくはじめるワード＆エクセル<html:br/>日時は1月26日～、月曜13時～。10回<html:br/>場所はファッションマート（東灘区向洋町中6）<html:br/>料金は有料<html:br/>申し込みは電話かFAXで。プロップステーション（電話845-2263、FAX845-2918）へ。開催日の10日前まで受付。抽選</html:p><html:p>問い合わせは情報化推進部（電話322-5042、FAX322-6199）</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04-20.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#プロップ パソコン講習会#2">
+ <title>プロップ パソコン講習会（2）はじめてのWindows8・8.1</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info04.html#プロップ パソコン講習会#2</link>
+ <description rdf:datatype="rdf:HTML"><html:p>（2）はじめてのWindows8・8.1<html:br/>日時は1月26日～、月曜15時～。8回<html:br/>場所はファッションマート（東灘区向洋町中6）<html:br/>料金は有料<html:br/>申し込みは電話かFAXで。プロップステーション（電話845-2263、FAX845-2918）へ。開催日の10日前まで受付。抽選</html:p><html:p>問い合わせは情報化推進部（電話322-5042、FAX322-6199）</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04-21.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#プロップ パソコン講習会#3">
+ <title>プロップ パソコン講習会（3）フォトショップ応用</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info04.html#プロップ パソコン講習会#3</link>
+ <description rdf:datatype="rdf:HTML"><html:p>（3）フォトショップ応用<html:br/>日時は1月30日～、金曜13時～。8回<html:br/>場所はファッションマート（東灘区向洋町中6）<html:br/>料金は有料<html:br/>申し込みは電話かFAXで。プロップステーション（電話845-2263、FAX845-2918）へ。開催日の10日前まで受付。抽選</html:p><html:p>問い合わせは情報化推進部（電話322-5042、FAX322-6199）</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04-22.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#プロップ パソコン講習会#4">
+ <title>プロップ パソコン講習会（4）イラストレーター基礎</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info04.html#プロップ パソコン講習会#4</link>
+ <description rdf:datatype="rdf:HTML"><html:p>（4）イラストレーター基礎<html:br/>日時は1月30日～、金曜15時～。8回<html:br/>場所はファッションマート（東灘区向洋町中6）<html:br/>料金は有料<html:br/>申し込みは電話かFAXで。プロップステーション（電話845-2263、FAX845-2918）へ。開催日の10日前まで受付。抽選</html:p><html:p>問い合わせは情報化推進部（電話322-5042、FAX322-6199）</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04-23.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#東部市場の料理教室#1">
+ <title>東部市場の料理教室（1）ヘルシー和食料理教室</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info04.html#東部市場の料理教室#1</link>
+ <description rdf:datatype="rdf:HTML"><html:p>（1）ヘルシー和食料理教室<html:br/>日時は1月27日（火曜）10時～<html:br/>料金は1,500円<html:br/>申し込みははがき（〒658-0023深江浜町1-1）で。1月13日（火曜）必着。抽選</html:p><html:p>問い合わせは電話413-7076、FAX413-2156</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04-24.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#東部市場の料理教室#2">
+ <title>東部市場の料理教室（2）奥村彪生（おくむらあやお）の季節の楽々クッキング</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info04.html#東部市場の料理教室#2</link>
+ <description rdf:datatype="rdf:HTML"><html:p>（2）奥村彪生（おくむらあやお）の季節の楽々クッキング<html:br/>日時は2月5日（木曜）10時～<html:br/>料金は1,500円<html:br/>申し込みははがき（〒658-0023深江浜町1-1）で。1月22日（木曜）必着。抽選</html:p><html:p>問い合わせは電話413-7076、FAX413-2156</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04-25.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#歴史講演会 昭和のおもちゃ文化史">
+ <title>歴史講演会 昭和のおもちゃ文化史</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info04.html#歴史講演会 昭和のおもちゃ文化史</link>
+ <description rdf:datatype="rdf:HTML"><html:p>対象は16歳以上<html:br/>日時は1月31日（土曜）14時～<html:br/>場所は埋蔵文化財センター<html:br/>料金は無料<html:br/>申し込みは当日先着順<html:br/>問い合わせは電話992-0656、FAX992-5201</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04-26.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#いきいき勤労財団の講座#1">
+ <title>いきいき勤労財団の講座（1）生涯現役実現セミナー 健康のお話</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info04.html#いきいき勤労財団の講座#1</link>
+ <description rdf:datatype="rdf:HTML"><html:p>（1）生涯現役実現セミナー 健康のお話<html:br/>日時は2月6日（金曜）13時30分～<html:br/>場所は勤労会館<html:br/>料金は無料<html:br/>申し込みは電話かFAXで。先着順</html:p><html:p>問い合わせは電話251-5561、FAX252-9448</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04-27.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#いきいき勤労財団の講座#2">
+ <title>いきいき勤労財団の講座（2）資格取得支援セミナー</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info04.html#いきいき勤労財団の講座#2</link>
+ <description rdf:datatype="rdf:HTML"><html:p>（2）資格取得支援セミナー<html:br/>日時は2月9日（月曜）18時30分～<html:br/>場所は勤労会館<html:br/>料金は無料<html:br/>申し込みは電話かFAXで。先着順</html:p><html:p>問い合わせは電話251-5561、FAX252-9448</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04-28.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#いきいき勤労財団の講座#3">
+ <title>いきいき勤労財団の講座（3）退職準備セミナー</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info04.html#いきいき勤労財団の講座#3</link>
+ <description rdf:datatype="rdf:HTML"><html:p>（3）退職準備セミナー<html:br/>日時は2月21日（土曜）9時30分～16時45分<html:br/>場所は勤労会館<html:br/>料金は有料<html:br/>申し込みは電話かFAXか直接。先着順</html:p><html:p>問い合わせは電話251-5561、FAX252-9448</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04-29.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#講演 災害からの復興と文化">
+ <title>講演 災害からの復興と文化</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info04.html#講演 災害からの復興と文化</link>
+ <description rdf:datatype="rdf:HTML"><html:p>日時は1月28日（水曜）16時～<html:br/>場所はホテルオークラ（中央区波止場町2）<html:br/>料金は1,000円（高校生以下無料）<html:br/>申し込みは往復はがきで文化交流部（〒650-8570住所不要）へ。1月13日（火曜）必着。抽選<html:br/>問い合わせは電話322-5165、FAX322-6137</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04-30.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#協力会員・両方会員養成講習会">
+ <title>協力会員・両方会員養成講習会</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info04.html#協力会員・両方会員養成講習会</link>
+ <description rdf:datatype="rdf:HTML"><html:p>日時は2月3日（火曜）～5日（木曜）10時～15時<html:br/>場所は市民福祉交流センター<html:br/>料金は無料<html:br/>申し込みは電話で。先着順<html:br/>問い合わせはファミリー・サポート・センター（電話・FAX271-5545）</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04-31.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#グリーフケア連続講座">
+ <title>グリーフケア連続講座</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info04.html#グリーフケア連続講座</link>
+ <description rdf:datatype="rdf:HTML"><html:p>日時は2月6日～、金曜18時30分～。4回<html:br/>場所は勤労会館<html:br/>料金は無料<html:br/>申し込みははがきかFAXで危機管理室（〒650-8570住所不要）へ。1月12日（月曜・祝日）必着。抽選<html:br/>問い合わせは電話322-6238、FAX322-6031</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04-32.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#小児疾患に関する神戸大学公開講座">
+ <title>小児疾患に関する神戸大学公開講座</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info04.html#小児疾患に関する神戸大学公開講座</link>
+ <description rdf:datatype="rdf:HTML"><html:p>日時は2月7日（土曜）10時30分～<html:br/>場所はこども初期急病センター<html:br/>料金は無料<html:br/>問い合わせは地域医療室（電話322-5246、FAX322-6054）</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04-33.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#慢性腎臓病市民公開講座#1">
+ <title>慢性腎臓病市民公開講座（1）講演会</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info04.html#慢性腎臓病市民公開講座#1</link>
+ <description rdf:datatype="rdf:HTML"><html:p>（1）講演会<html:br/>日時は2月7日（土曜）13時～<html:br/>場所は臨床研究情報センター（中央区港島南町1）<html:br/>料金は無料<html:br/>申し込みはFAXでポーアイ健康・生活支援ステーション（FAX304-2713）へ。先着順</html:p><html:p>問い合わせは健康づくり支援課（電話322-6517、FAX322-6053）</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04-34.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#慢性腎臓病市民公開講座#2">
+ <title>慢性腎臓病市民公開講座（2）調理実習</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info04.html#慢性腎臓病市民公開講座#2</link>
+ <description rdf:datatype="rdf:HTML"><html:p>（2）調理実習<html:br/>日時は2月14日（土曜）10時～<html:br/>場所は神戸女子短期大学（中央区港島中町4）<html:br/>料金は500円<html:br/>申し込みはFAXでポーアイ健康・生活支援ステーション（FAX304-2713）へ。1月25日（日曜）必着。抽選</html:p><html:p>問い合わせは健康づくり支援課（電話322-6517、FAX322-6053）</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04-35.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#上手なお医者さんへのかかり方">
+ <title>上手なお医者さんへのかかり方</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info04.html#上手なお医者さんへのかかり方</link>
+ <description rdf:datatype="rdf:HTML"><html:p>対象は難病患者と家族<html:br/>日時は2月8日（日曜）13時～<html:br/>場所は勤労会館<html:br/>料金は無料<html:br/>申し込みは電話かFAXでNPO法人神戸市難病団体連絡協議会（電話322-1878、FAX322-1876）へ。先着順<html:br/>問い合わせは健康づくり支援課（電話322-6517、FAX322-6053）</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04-36.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#コミスタこうべ#1">
+ <title>コミスタこうべ（1）親子3B体操（子育て支援）</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info04.html#コミスタこうべ#1</link>
+ <description rdf:datatype="rdf:HTML"><html:p>（1）親子3B体操（子育て支援）<html:br/>日時は2月13日（金曜）10時～<html:br/>料金は100円<html:br/>申し込みは電話か直接。先着順</html:p><html:p>問い合わせは電話251-4731、FAX251-4733</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04-37.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#コミスタこうべ#2">
+ <title>コミスタこうべ（2）「世界の風俗習慣」講演会</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info04.html#コミスタこうべ#2</link>
+ <description rdf:datatype="rdf:HTML"><html:p>（2）「世界の風俗習慣」講演会<html:br/>日時は2月24日（火曜）14時～<html:br/>料金は無料<html:br/>申し込みは電話か直接。先着順</html:p><html:p>問い合わせは電話251-4731、FAX251-4733</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04-38.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#あすてっぷKOBEの講座#1">
+ <title>あすてっぷKOBEの講座（1）DV防止セミナー</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info04.html#あすてっぷKOBEの講座#1</link>
+ <description rdf:datatype="rdf:HTML"><html:p>（1）DV防止セミナー<html:br/>日時は2月28日（土曜）13時30分～<html:br/>料金は無料<html:br/>申し込みは電話かFAXか直接。先着順</html:p><html:p>問い合わせは電話361-6977、FAX361-6477</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04-39.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#あすてっぷKOBEの講座#2">
+ <title>あすてっぷKOBEの講座（2）男の生き方セミナー</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info04.html#あすてっぷKOBEの講座#2</link>
+ <description rdf:datatype="rdf:HTML"><html:p>（2）男の生き方セミナー<html:br/>日時は3月7日（土曜）14時30分～<html:br/>料金は無料<html:br/>申し込みは電話かFAXか直接。先着順</html:p><html:p>問い合わせは電話361-6977、FAX361-6477</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04-40.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#ママとパパの医療講座">
+ <title>ママとパパの医療講座</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info04.html#ママとパパの医療講座</link>
+ <description rdf:datatype="rdf:HTML"><html:p>対象は未就学児の保護者<html:br/>日時は2月14日～、土曜10時30分～。3回<html:br/>場所はこども初期急病センター<html:br/>料金は無料<html:br/>申し込みはFAXで。先着順<html:br/>問い合わせは電話862-6075、FAX862-6085</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04-41.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#市民後見人養成研修説明会">
+ <title>市民後見人養成研修説明会</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info04.html#市民後見人養成研修説明会</link>
+ <description rdf:datatype="rdf:HTML"><html:p>日時は2月19日（木曜）・20日（金曜）14時～<html:br/>場所は県中央労働センター（中央区下山手通6）<html:br/>料金は無料<html:br/>申し込みは電話かFAXで。先着順<html:br/>問い合わせは成年後見支援センター（電話271-5321、FAX271-2250）</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04-42.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#発達障害児の祖父母向け療育講座">
+ <title>発達障害児の祖父母向け療育講座</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info04.html#発達障害児の祖父母向け療育講座</link>
+ <description rdf:datatype="rdf:HTML"><html:p>対象は未就学の発達障害の孫を持つ祖父母<html:br/>日時は2月24日～、火曜14時～。2回<html:br/>場所は発達障害者支援センター<html:br/>料金は無料<html:br/>申し込みはFAXで。先着順<html:br/>問い合わせは電話382-2760、FAX382-2766</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04-43.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#発達障害支援講演会「診断と就労」">
+ <title>発達障害支援講演会「診断と就労」</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info04.html#発達障害支援講演会「診断と就労」</link>
+ <description rdf:datatype="rdf:HTML"><html:p>日時は2月26日（木曜）14時～<html:br/>場所はピフレホール<html:br/>料金は無料<html:br/>申し込みはFAXで。先着順<html:br/>問い合わせは発達障害者支援センター（電話382-2760、FAX382-2766）</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04-44.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#声優・加藤みどり講演会">
+ <title>声優・加藤みどり講演会</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info04.html#声優・加藤みどり講演会</link>
+ <description rdf:datatype="rdf:HTML"><html:p>日時は3月13日（金曜）13時30分～<html:br/>場所はピフレホール<html:br/>料金は無料<html:br/>申し込みは電話かFAXか直接市民福祉大学へ。2月20日（金曜）必着。抽選<html:br/>問い合わせは電話271-5300、FAX271-5365</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04-45.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#あじさい講座#1">
+ <title>あじさい講座（1）編み物・パッチワーク・洋裁</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info04.html#あじさい講座#1</link>
+ <description rdf:datatype="rdf:HTML"><html:p>（1）編み物・パッチワーク・洋裁<html:br/>場所は東灘区民センター<html:br/>料金は有料<html:br/>申し込みは電話か直接。先着順<html:br/>問い合わせは電話822-3431、FAX822-4103</html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#あじさい講座#2">
+ <title>あじさい講座（2）書道・ウクレレ・着物地小物</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info04.html#あじさい講座#2</link>
+ <description rdf:datatype="rdf:HTML"><html:p>（2）書道・ウクレレ・着物地小物<html:br/>場所は六甲道勤労市民センター<html:br/>料金は有料<html:br/>申し込みは電話かFAXか直接。先着順<html:br/>問い合わせは電話841-1796、FAX821-6913</html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#あじさい講座#3">
+ <title>あじさい講座（3）野菜（重ね煮）・ストレッチヨガ・シャドーボックス</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info04.html#あじさい講座#3</link>
+ <description rdf:datatype="rdf:HTML"><html:p>（3）野菜（重ね煮）・ストレッチヨガ・シャドーボックス<html:br/>場所は葺合文化センター<html:br/>料金は有料<html:br/>申し込みは電話か直接。先着順<html:br/>問い合わせは電話242-0417、FAX242-4731</html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#あじさい講座#4">
+ <title>あじさい講座（4）いけばな・和布の小物作り・書道</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info04.html#あじさい講座#4</link>
+ <description rdf:datatype="rdf:HTML"><html:p>（4）いけばな・和布の小物作り・書道<html:br/>場所は兵庫勤労市民センター<html:br/>料金は有料<html:br/>申し込みは電話かFAXか直接。先着順<html:br/>問い合わせは電話576-0938、FAX577-7004</html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#あじさい講座#5">
+ <title>あじさい講座（5）絵手紙・押し花アート・フラワーアレンジメント</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info04.html#あじさい講座#5</link>
+ <description rdf:datatype="rdf:HTML"><html:p>（5）絵手紙・押し花アート・フラワーアレンジメント<html:br/>場所は北区民センター<html:br/>料金は有料<html:br/>申し込みは電話かFAXか直接。先着順<html:br/>問い合わせは電話593-7455、FAX592-2415</html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#あじさい講座#6">
+ <title>あじさい講座（6）大正琴・紙人形・絵のあるハガキ</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info04.html#あじさい講座#6</link>
+ <description rdf:datatype="rdf:HTML"><html:p>（6）大正琴・紙人形・絵のあるハガキ<html:br/>場所は新長田勤労市民センター<html:br/>料金は有料<html:br/>申し込みは電話かFAXか直接。先着順<html:br/>問い合わせは電話643-2436、FAX643-0417</html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#あじさい講座#7">
+ <title>あじさい講座（7）洋裁とマルチソーイング・料理・民踊</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info04.html#あじさい講座#7</link>
+ <description rdf:datatype="rdf:HTML"><html:p>（7）洋裁とマルチソーイング・料理・民踊<html:br/>場所は須磨区民センター<html:br/>料金は有料<html:br/>申し込みは電話かFAXか直接。先着順<html:br/>問い合わせは電話735-7377、FAX735-1833</html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#あじさい講座#8">
+ <title>あじさい講座（8）つまみ絵・民踊・書道</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info04.html#あじさい講座#8</link>
+ <description rdf:datatype="rdf:HTML"><html:p>（8）つまみ絵・民踊・書道<html:br/>場所は垂水勤労市民センター<html:br/>料金は有料<html:br/>申し込みは電話か直接。先着順<html:br/>問い合わせは電話708-8027、FAX706-5895</html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#あじさい講座#9">
+ <title>あじさい講座（9）型染友禅・パン・料理</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info04.html#あじさい講座#9</link>
+ <description rdf:datatype="rdf:HTML"><html:p>（9）型染友禅・パン・料理<html:br/>場所は西区民センター<html:br/>料金は有料<html:br/>申し込みは電話か直接。先着順<html:br/>問い合わせは電話991-8325、FAX991-8001</html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#勤労会館#1">
+ <title>勤労会館（1）メンタルヘルス講演会</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info04.html#勤労会館#1</link>
+ <description rdf:datatype="rdf:HTML"><html:p>（1）メンタルヘルス講演会<html:br/>日時は2月18日（水曜）18時30分～<html:br/>料金は無料<html:br/>申し込みは電話か直接。先着順</html:p><html:p>問い合わせは電話232-1881、FAX232-1876</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04-46.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#勤労会館#2">
+ <title>勤労会館（2）中高年転職・再就職支援セミナー</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info04.html#勤労会館#2</link>
+ <description rdf:datatype="rdf:HTML"><html:p>（2）中高年転職・再就職支援セミナー<html:br/>日時は2月27日（金曜）10時～16時30分<html:br/>料金は無料<html:br/>申し込みは電話かFAXか直接。先着順</html:p><html:p>問い合わせは電話232-1881、FAX232-1876</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04-47.ics">カレンダー登録</html:a></html:p></description>
+</item></channel>
+</rdf:RDF>

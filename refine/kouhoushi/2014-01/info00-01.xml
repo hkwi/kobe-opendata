@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rdf:RDF xmlns:rdf="http://www.w3c.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:html="http://www.w3.org/1999/xhtml">
-<channel rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi-2014-01/info00-01.xml">
+<channel rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2014-01/info00-01.xml">
 <title>神戸市：広報紙ＫＯＢＥ1月号　9面 </title>
 <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1401/info00-01.html</link>
 <description>
 </description>
 <items>
  <rdf:Seq>
- <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi-2014-01/info00-01.xml#4月から　市バスの乗り継ぎがICカードでお得に"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2014-01/info00-01.xml#4月から　市バスの乗り継ぎがICカードでお得に"/>
  </rdf:Seq>
 </items>
-<item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi-2014-01/info00-01.xml#4月から　市バスの乗り継ぎがICカードでお得に">
+<item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2014-01/info00-01.xml#4月から　市バスの乗り継ぎがICカードでお得に">
  <title>4月から　市バスの乗り継ぎがICカードでお得に</title>
  <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1401/info00-01.html#4月から　市バスの乗り継ぎがICカードでお得に</link>
  <description rdf:datatype="rdf:HTML"><html:div class="btnSocialBox clearfix">

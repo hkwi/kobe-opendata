@@ -1,46 +1,46 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rdf:RDF xmlns:rdf="http://www.w3c.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:html="http://www.w3.org/1999/xhtml">
-<channel rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi-2014-01/info01.xml">
+<channel rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2014-01/info01.xml">
 <title>神戸市：広報紙KOBE2014年（平成26年）1月号 市政情報（職員などの募集） </title>
 <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1401/info01.html</link>
 <description>
 </description>
 <items>
  <rdf:Seq>
- <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi-2014-01/info01.xml#神戸市任期付短時間勤務職員"/>
- <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi-2014-01/info01.xml#市民病院職員"/>
- <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi-2014-01/info01.xml#先端医療センター病院看護師"/>
- <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi-2014-01/info01.xml#リハビリテーション病院看護師"/>
- <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi-2014-01/info01.xml#保育サービスコーディネーター"/>
- <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi-2014-01/info01.xml#西神戸医療センター職員"/>
- <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi-2014-01/info01.xml#救護員・指導補助員"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2014-01/info01.xml#神戸市任期付短時間勤務職員"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2014-01/info01.xml#市民病院職員"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2014-01/info01.xml#先端医療センター病院看護師"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2014-01/info01.xml#リハビリテーション病院看護師"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2014-01/info01.xml#保育サービスコーディネーター"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2014-01/info01.xml#西神戸医療センター職員"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2014-01/info01.xml#救護員・指導補助員"/>
  </rdf:Seq>
 </items>
-<item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi-2014-01/info01.xml#神戸市任期付短時間勤務職員">
+<item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2014-01/info01.xml#神戸市任期付短時間勤務職員">
  <title>神戸市任期付短時間勤務職員</title>
  <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1401/info01.html#神戸市任期付短時間勤務職員</link>
  <description rdf:datatype="rdf:HTML"><html:p>募集人数は事務（正規）…約25人<html:br/>採用予定は4月<html:br/>申し込みは1月8日（水曜）消印有効<html:br/>問い合わせは市総合コールセンター（電話333-3330、FAX333-3314）</html:p></description>
-</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi-2014-01/info01.xml#市民病院職員">
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2014-01/info01.xml#市民病院職員">
  <title>市民病院職員</title>
  <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1401/info01.html#市民病院職員</link>
  <description rdf:datatype="rdf:HTML"><html:p>募集人数は看護師・助産師（（1）（2）正規（3）パート）（4）事務職員…数人<html:br/>採用予定は（1）（4）4月（2）3月（3）随時<html:br/>申し込みは（1）（2）（4）1月14日（火曜）必着（3）随時<html:br/>問い合わせは市民病院機構（電話940-0155、FAX306-2870）</html:p></description>
-</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi-2014-01/info01.xml#先端医療センター病院看護師">
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2014-01/info01.xml#先端医療センター病院看護師">
  <title>先端医療センター病院看護師</title>
  <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1401/info01.html#先端医療センター病院看護師</link>
  <description rdf:datatype="rdf:HTML"><html:p>募集人数は若干名（正規）<html:br/>採用予定は4月<html:br/>申し込みは1月31日（金曜）必着<html:br/>問い合わせは先端医療振興財団（電話306-1700、FAX306-1708）</html:p></description>
-</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi-2014-01/info01.xml#リハビリテーション病院看護師">
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2014-01/info01.xml#リハビリテーション病院看護師">
  <title>リハビリテーション病院看護師</title>
  <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1401/info01.html#リハビリテーション病院看護師</link>
  <description rdf:datatype="rdf:HTML"><html:p>募集人数は看護師（正規）・夜勤専門看護師（パート）…若干名<html:br/>採用予定は2月<html:br/>申し込みは1月6日（月曜）～31日（金曜）消印有効<html:br/>問い合わせは電話743-8200、FAX743-8211</html:p></description>
-</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi-2014-01/info01.xml#保育サービスコーディネーター">
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2014-01/info01.xml#保育サービスコーディネーター">
  <title>保育サービスコーディネーター</title>
  <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1401/info01.html#保育サービスコーディネーター</link>
  <description rdf:datatype="rdf:HTML"><html:p>募集人数は9人以内（嘱託）<html:br/>採用予定は3月<html:br/>申し込みは1月6日（月曜）～20日（月曜）必着<html:br/>問い合わせはこども家庭局総務課（電話322-6856、FAX322-6119）</html:p></description>
-</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi-2014-01/info01.xml#西神戸医療センター職員">
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2014-01/info01.xml#西神戸医療センター職員">
  <title>西神戸医療センター職員</title>
  <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1401/info01.html#西神戸医療センター職員</link>
  <description rdf:datatype="rdf:HTML"><html:p>募集人数は（1）看護師・助産師（正規）…約90人（2）看護師・助産師（パート）…若干名（3）コメディカル職員（正規）…若干名（4）看護補助者（パート）…若干名<html:br/>採用予定は（1）（3）4月（2）（4）随時<html:br/>申し込みは（1）は1月9日（木曜）、（3）は1月17日（金曜）必着<html:br/>問い合わせは電話993-3706、FAX997-2220</html:p></description>
-</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi-2014-01/info01.xml#救護員・指導補助員">
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2014-01/info01.xml#救護員・指導補助員">
  <title>救護員・指導補助員</title>
  <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1401/info01.html#救護員・指導補助員</link>
  <description rdf:datatype="rdf:HTML"><html:p>募集人数は約20人<html:br/>登録予定は 3月<html:br/>申し込みは1月8日（水曜）～31日（金曜）必着<html:br/>問い合わせはスポーツ体育課（電話322-5804、FAX322-6149）</html:p></description>

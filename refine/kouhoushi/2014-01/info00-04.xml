@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rdf:RDF xmlns:rdf="http://www.w3c.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:html="http://www.w3.org/1999/xhtml">
-<channel rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi-2014-01/info00-04.xml">
+<channel rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2014-01/info00-04.xml">
 <title>神戸市：広報紙ＫＯＢＥ1月号　13面 </title>
 <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1401/info00-04.html</link>
 <description>
 </description>
 <items>
  <rdf:Seq>
- <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi-2014-01/info00-04.xml#あなたの”ご意見”をお寄せください"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2014-01/info00-04.xml#あなたの”ご意見”をお寄せください"/>
  </rdf:Seq>
 </items>
-<item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi-2014-01/info00-04.xml#あなたの”ご意見”をお寄せください">
+<item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2014-01/info00-04.xml#あなたの”ご意見”をお寄せください">
  <title>あなたの”ご意見”をお寄せください</title>
  <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1401/info00-04.html#あなたの”ご意見”をお寄せください</link>
  <description rdf:datatype="rdf:HTML"><html:div class="btnSocialBox clearfix">

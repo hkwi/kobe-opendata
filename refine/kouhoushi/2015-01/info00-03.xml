@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rdf:RDF xmlns:rdf="http://www.w3c.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:html="http://www.w3.org/1999/xhtml">
-<channel rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi-2015-01/info00-03.xml">
+<channel rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info00-03.xml">
 <title>神戸市：広報紙KOBE2015年（平成27年）1月号 13面 </title>
 <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info00-03.html</link>
 <description>
 </description>
 <items>
  <rdf:Seq>
- <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi-2015-01/info00-03.xml#新年を祝う　冬のおでかけ"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info00-03.xml#新年を祝う　冬のおでかけ"/>
  </rdf:Seq>
 </items>
-<item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi-2015-01/info00-03.xml#新年を祝う　冬のおでかけ">
+<item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info00-03.xml#新年を祝う　冬のおでかけ">
  <title>新年を祝う　冬のおでかけ</title>
  <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info00-03.html#新年を祝う　冬のおでかけ</link>
  <description rdf:datatype="rdf:HTML"><html:div class="btnSocialBox clearfix">
