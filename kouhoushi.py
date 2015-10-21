@@ -572,6 +572,8 @@ def hint_writer(filename):
 	yield _hint_writers[filename]
 
 def proc(url, year_month=None):
+	rss_injectors = []
+	
 	html_txt = urlopen(url).read().decode("CP932")
 	html_txt = lxml.html.clean.Cleaner(javascript=True, frames=True, page_structure=False).clean_html(html_txt)
 	doc = lxml.html.document_fromstring(html_txt, base_url=url)
@@ -600,7 +602,7 @@ def proc(url, year_month=None):
 				item.elements.append(e)
 	
 	baseurl = "http://hkwi.github.io/kobe-opendata"
-	dirname = 'refine/kouhoushi-{:04d}-{:02d}'.format(*page.year_month)
+	dirname = 'refine/kouhoushi/{:04d}-{:02d}'.format(*page.year_month)
 	
 	os.makedirs(dirname, exist_ok=True)
 	rss_basename = re.sub(".html$", ".xml", os.path.basename(urlparse(url).path))
@@ -615,61 +617,15 @@ def proc(url, year_month=None):
 	base = hints(*page.year_month)
 	for row in rows:
 		for b in row.blocks(base):
-			# emit rss item
-			parent = rss_doc.xpath(".//rdf:Seq", namespaces=NSMAP)[0]
-			li = lxml.etree.Element("{{{rdf}}}li".format(**NSMAP),
-				attrib = dict(
-					resource= "{0}/{1}/{2}#{3}".format(baseurl, dirname, rss_basename, b.fragment)
-				),
-				nsmap=NSMAP)
-			li.tail = "\n "
-			parent.append(li)
-			
-			title = b.title
-			if b.subtitle:
-				title = "{:s}（{:s}）{:s}".format(b.title, b.key, b.subtitle)
-			
-			parent = rss_doc.xpath(".//x:channel", namespaces=NSMAP)[0]
-			rss_item_xml = rss_item.format(**html_escape_dict(dict(
-				url="{0}/{1}/{2}#{3}".format(baseurl, dirname, rss_basename, b.fragment),
-				link=b.url,
-				title=title,
-				**NSMAP)))
-			try:
-				rss_item_doc = lxml.etree.fromstring(rss_item_xml)
-			except:
-				print(rss_item_xml)
-				raise
-			
-			parent.append(rss_item_doc)
-			
-			parent = rss_item_doc.xpath(".//x:description", namespaces=NSMAP)[0]
-			if b.html:
-				for e in b.html:
-					e = lxml.etree.fromstring(lxml.etree.tostring(e)) # clone
-					lxml.html.html_to_xhtml(e)
-					parent.append(e) # set namespace for putting node directly in xml
-			else:
-				for e in b.h2.elements:
-					e = lxml.etree.fromstring(lxml.etree.tostring(e)) # clone
-					lxml.html.html_to_xhtml(e)
-					parent.append(e) # set namespace for putting node directly in xml
-			
 			enable_vevent = False
 			for ev in b.events:
 				if ev.get("DTSTART"):
 					enable_vevent = True
 			
+			ics_basename = None
 			if enable_vevent:
 				ics_basename = rss_basename.replace(".xml", "-{:d}.ics".format(ics_seq))
 				ics_seq += 1
-				# ics_basename = "{:s}.ics".format(hashlib.md5(b.url.encode("UTF-8")).hexdigest())
-				e = lxml.etree.fromstring('<p><a href="{0}/{1}/{2}">カレンダー登録</a></p>'.format(
-					baseurl,
-					dirname,
-					ics_basename))
-				lxml.html.html_to_xhtml(e)
-				parent.append(e)
 				
 				output = pical.Calendar("VCALENDAR", base.tzdb)
 				output.properties.append(("VERSION", "2.0", {}))
@@ -682,13 +638,57 @@ def proc(url, year_month=None):
 						ics.write(l.encode("UTF-8"))
 						ics.write("\r\n".encode("UTF-8"))
 			
-			with open("{0}/{1}".format(dirname, rss_basename), "wb") as f:
-				lxml.etree.ElementTree(rss_doc).write(
-					f,
-					encoding="UTF-8",
-					pretty_print=True,
-					xml_declaration=True
-				)
+			def inject_block(rss_doc):
+				# emit rss item
+				parent = rss_doc.xpath(".//rdf:Seq", namespaces=NSMAP)[0]
+				li = lxml.etree.Element("{{{rdf}}}li".format(**NSMAP),
+					attrib = dict(
+						resource= "{0}/{1}/{2}#{3}".format(baseurl, dirname, rss_basename, b.fragment)
+					),
+					nsmap=NSMAP)
+				li.tail = "\n "
+				parent.append(li)
+			
+				title = b.title
+				if b.subtitle:
+					title = "{:s}（{:s}）{:s}".format(b.title, b.key, b.subtitle)
+			
+				parent = rss_doc.xpath(".//x:channel", namespaces=NSMAP)[0]
+				rss_item_xml = rss_item.format(**html_escape_dict(dict(
+					url="{0}/{1}/{2}#{3}".format(baseurl, dirname, rss_basename, b.fragment),
+					link=b.url,
+					title=title,
+					**NSMAP)))
+				try:
+					rss_item_doc = lxml.etree.fromstring(rss_item_xml)
+				except:
+					print(rss_item_xml)
+					raise
+			
+				parent.append(rss_item_doc)
+			
+				parent = rss_item_doc.xpath(".//x:description", namespaces=NSMAP)[0]
+				if b.html:
+					for e in b.html:
+						e = lxml.etree.fromstring(lxml.etree.tostring(e)) # clone
+						lxml.html.html_to_xhtml(e)
+						parent.append(e) # set namespace for putting node directly in xml
+				else:
+					for e in b.h2.elements:
+						e = lxml.etree.fromstring(lxml.etree.tostring(e)) # clone
+						lxml.html.html_to_xhtml(e)
+						parent.append(e) # set namespace for putting node directly in xml
+			
+				if enable_vevent:
+					e = lxml.etree.fromstring('<p><a href="{0}/{1}/{2}">カレンダー登録</a></p>'.format(
+						baseurl,
+						dirname,
+						ics_basename))
+					lxml.html.html_to_xhtml(e)
+					parent.append(e)
+			
+			inject_block(rss_doc)
+			rss_injectors.append(inject_block)
 			
 			for ev in b.events:
 				req = False
@@ -712,6 +712,16 @@ def proc(url, year_month=None):
 							elif l.startswith("X-HINT-REQ-"):
 								f.write(l.replace("X-HINT-REQ-","X-HINT-"))
 								f.write("\r\n")
+	
+	with open("{0}/{1}".format(dirname, rss_basename), "wb") as f:
+		lxml.etree.ElementTree(rss_doc).write(
+			f,
+			encoding="UTF-8",
+			pretty_print=True,
+			xml_declaration=True
+		)
+	
+	return rss_injectors
 
 if __name__ == "__main__":
 	[proc(url.strip()) for url in open("kouhoushi_url.csv") if url.startswith("http://")]
