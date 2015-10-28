@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info04.html#ひとり親家庭のための就業セミナー
+X-HINT-DTSTART:日時は11月21・28日、12月5日（土曜）10時～
+DTSTART:20151121T100000
+RDATE:20151128T100000
+RDATE:20151205T100000
+SUMMARY:ひとり親家庭のための就業セミナー
+DESCRIPTION:日時は11月21・28日、12月5日（土曜）10時～\n場所はあすてっぷKOBE\n料金は無料\n申し込みは電話かFAXでひとり親家庭支援センターへ。先着順\n問い合わせは電話341-4532、FAX371-6478
+LOCATION:あすてっぷKOBE
+END:VEVENT
+END:VCALENDAR

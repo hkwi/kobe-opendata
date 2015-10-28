@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:寄せ植え講習会
+DESCRIPTION:対象は18歳以上\n日時は12月4日（金曜）10時30分～・13時15分～\n場所は婦人会館\n料金は1\,000円\n申し込みははがきかFAX（障害の有無、障害名を記入）で市身体障害者団体連合会（〒650-0016橘通3-4-1、FAX341-7706）へ。11月16日（月曜）必着。抽選\n問い合わせは障害者支援課（電話322-6332、FAX322-6065）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info04.html#寄せ植え講習会
+DTSTART:20151204T103000
+RRULE:FREQ=DAILY;BYHOUR=13;BYMINUTE=15;COUNT=1
+LOCATION:婦人会館
+END:VEVENT
+END:VCALENDAR

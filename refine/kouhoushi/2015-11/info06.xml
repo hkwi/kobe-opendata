@@ -1,0 +1,303 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rdf:RDF xmlns:rdf="http://www.w3c.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:html="http://www.w3.org/1999/xhtml">
+<channel rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml">
+<title>神戸市：広報紙KOBE2015年（平成27年）11月号 市政情報（催し） </title>
+<link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html</link>
+<description>
+</description>
+<items>
+ <rdf:Seq>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#西区櫨谷町・押部谷町で柿狩り#1"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#西区櫨谷町・押部谷町で柿狩り#2"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#相楽園#1"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#相楽園#2"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#森林植物園#1"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#森林植物園#2"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#須磨離宮公園#1"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#須磨離宮公園#2"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#須磨離宮公園#3"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#神戸花物語（秋）"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#子供の家 親子ふれあいイベント"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#技能グランプリ&amp;フェスタ"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#小磯記念美術館#1"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#小磯記念美術館#2"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#ハーブ茶会～紅葉"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#呑吐（どんと）ダム探検隊"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#「メカライフの世界展」入館無料"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#森林整備事務所の催し#1"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#森林整備事務所の催し#2"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#クリスマスリース教室"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#ノエビアスタジアム神戸 見学会"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#フルーツ・フラワーパーク施設見学ツアー"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#漁業デー"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#発掘!こべっこジュラシックランド"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#帆船に乗ってみよう"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#総合運動公園#1"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#総合運動公園#2"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#道の駅「淡河」ふるさとまつり"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#「内田家住宅」表門の茅葺替公開"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#ひとり親家庭の修法ヶ原ハイキング"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#ファッション美術館#1"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#ファッション美術館#2"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#市指定文化財「旧乾邸」特別観覧"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#里山探索と植物のしおりづくり体験"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#神戸マイスターと創作おせち作り"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#サンタ・プロジェクト"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#ひのきたま湯"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#おはなしカーニバル"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#石を彫って、自分の印章をつくろう"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#絵本作家 永田萠さんと絵を描こう"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#食と農の祭典"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#塩づくりとバターづくり"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#クリスマス用の押し花の飾りもの"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#三菱重工と港の見学会"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#ヒューマンライツコンサート"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#こうべ地域のたべもの祭り"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#神戸ルミナリエハートフルデー"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#文化創生都市記念ジャズステージ"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#縄文土器をつくろう～成形と焼成"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#須磨海浜水族園#1"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#須磨海浜水族園#2"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#王子動物園周辺の近代化遺産を歩く"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#市ファミサポ市民交流会（ショー）"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#親子で里山のリース作り"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#自然の家#1"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#自然の家#2"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#サンタがお家にやってくる"/>
+ </rdf:Seq>
+</items>
+<item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#西区櫨谷町・押部谷町で柿狩り#1">
+ <title>西区櫨谷町・押部谷町で柿狩り（1）友清柿園（西区櫨谷町）</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#西区櫨谷町・押部谷町で柿狩り#1</link>
+ <description rdf:datatype="rdf:HTML"><html:p>（1）友清柿園（西区櫨谷町）<html:br/>日時は11月下旬まで<html:br/>料金は大人700円・小人400円<html:br/>申し込みは電話でJA兵庫六甲櫨谷支店（電話991-1055）へ</html:p><html:p>問い合わせは農水産課（電話322-5355、FAX322-6076）</html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#西区櫨谷町・押部谷町で柿狩り#2">
+ <title>西区櫨谷町・押部谷町で柿狩り（2）きづ柿狩り園（西区押部谷町）</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#西区櫨谷町・押部谷町で柿狩り#2</link>
+ <description rdf:datatype="rdf:HTML"><html:p>（2）きづ柿狩り園（西区押部谷町）<html:br/>日時は11月下旬まで<html:br/>料金は大人700円・小人400円<html:br/>申し込みは電話で同園（電話994-8888）へ</html:p><html:p>問い合わせは農水産課（電話322-5355、FAX322-6076）</html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#相楽園#1">
+ <title>相楽園（1）菊花展</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#相楽園#1</link>
+ <description rdf:datatype="rdf:HTML"><html:p>（1）菊花展<html:br/>日時は11月23日（月曜・祝日）まで<html:br/>料金は無料（別途入園料等が必要）</html:p><html:p>問い合わせは電話351-5155、FAX361-7307</html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#相楽園#2">
+ <title>相楽園（2）うたごえ～懐かしの曲を歌おう</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#相楽園#2</link>
+ <description rdf:datatype="rdf:HTML"><html:p>（2）うたごえ～懐かしの曲を歌おう<html:br/>日時は11月8日（日曜）14時～<html:br/>料金は無料（別途入園料等が必要）</html:p><html:p>問い合わせは電話351-5155、FAX361-7307</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06-0.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#森林植物園#1">
+ <title>森林植物園（1）世界の紅葉めぐり・森林もみじ散策</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#森林植物園#1</link>
+ <description rdf:datatype="rdf:HTML"><html:p>（1）世界の紅葉めぐり・森林もみじ散策<html:br/>日時は11月30日（月曜）まで<html:br/>料金は無料（別途入園料等が必要）</html:p><html:p>問い合わせは電話591-0253、FAX594-2324</html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#森林植物園#2">
+ <title>森林植物園（2）紅葉のライトアップ</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#森林植物園#2</link>
+ <description rdf:datatype="rdf:HTML"><html:p>（2）紅葉のライトアップ<html:br/>日時は11月7日（土曜）～30日（月曜）16時30分～<html:br/>料金は無料（別途入園料等が必要）</html:p><html:p>問い合わせは電話591-0253、FAX594-2324</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06-1.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#須磨離宮公園#1">
+ <title>須磨離宮公園（1）王侯貴族のバラボタニカルアート展</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#須磨離宮公園#1</link>
+ <description rdf:datatype="rdf:HTML"><html:p>（1）王侯貴族のバラボタニカルアート展<html:br/>日時は10月31日（土曜）～11月15日（日曜）10時～16時<html:br/>料金は無料（別途入園料等が必要）</html:p><html:p>問い合わせは電話732-6688、FAX734-6022</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06-2.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#須磨離宮公園#2">
+ <title>須磨離宮公園（2）もみじ鑑賞会</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#須磨離宮公園#2</link>
+ <description rdf:datatype="rdf:HTML"><html:p>（2）もみじ鑑賞会<html:br/>日時は11月14日（土曜）～29日（日曜）9時～19時<html:br/>料金は無料（別途入園料等が必要）</html:p><html:p>問い合わせは電話732-6688、FAX734-6022</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06-3.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#須磨離宮公園#3">
+ <title>須磨離宮公園（3）もみじ茶会</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#須磨離宮公園#3</link>
+ <description rdf:datatype="rdf:HTML"><html:p>（3）もみじ茶会<html:br/>日時は11月22日（日曜）10時～<html:br/>料金は400円（別途入園料等が必要）<html:br/>申し込みは当日先着順</html:p><html:p>問い合わせは電話732-6688、FAX734-6022</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06-4.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#神戸花物語（秋）">
+ <title>神戸花物語（秋）</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#神戸花物語（秋）</link>
+ <description rdf:datatype="rdf:HTML"><html:p>日時は11月6日（金曜）～15日（日曜）<html:br/>場所はハーバーランド高浜岸壁等<html:br/>料金は無料<html:br/>問い合わせは農水産課（電話322-5355、FAX322-6076）</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06-5.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#子供の家 親子ふれあいイベント">
+ <title>子供の家 親子ふれあいイベント</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#子供の家 親子ふれあいイベント</link>
+ <description rdf:datatype="rdf:HTML"><html:p>対象は3歳以下と保護者<html:br/>日時は11月10日（火曜）10時30分～<html:br/>料金は無料<html:br/>問い合わせは電話783-7137、FAX783-7138</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06-6.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#技能グランプリ&amp;フェスタ">
+ <title>技能グランプリ&amp;フェスタ</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#技能グランプリ&amp;フェスタ</link>
+ <description rdf:datatype="rdf:HTML"><html:p>日時は11月7日（土曜）・8日（日曜）10時～16時30分（8日は～16時）<html:br/>場所は国際展示場<html:br/>料金は一部有料<html:br/>問い合わせは勤労市民課（電話322-5177、FAX322-6033）</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06-7.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#小磯記念美術館#1">
+ <title>小磯記念美術館（1）特別展「野田弘志展」</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#小磯記念美術館#1</link>
+ <description rdf:datatype="rdf:HTML"><html:p>（1）特別展「野田弘志展」<html:br/>日時は11月14日（土曜）～28年1月31日（日曜）<html:br/>料金は800円</html:p><html:p>問い合わせは電話857-5880、FAX857-3737</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06-8.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#小磯記念美術館#2">
+ <title>小磯記念美術館（2）特別展「野田弘志展」記念講演会</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#小磯記念美術館#2</link>
+ <description rdf:datatype="rdf:HTML"><html:p>（2）特別展「野田弘志展」記念講演会<html:br/>日時は11月14日（土曜）14時～<html:br/>料金は無料（別途入園料等が必要）</html:p><html:p>問い合わせは電話857-5880、FAX857-3737</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06-9.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#ハーブ茶会～紅葉">
+ <title>ハーブ茶会～紅葉</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#ハーブ茶会～紅葉</link>
+ <description rdf:datatype="rdf:HTML"><html:p>日時は11月14日（土曜）・15日（日曜）・21日（土曜）～23日（月曜・祝日）<html:br/>場所は布引ハーブ園<html:br/>料金は有料（別途入園料等が必要）<html:br/>問い合わせは電話271-1160、FAX271-1180</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06-10.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#呑吐（どんと）ダム探検隊">
+ <title>呑吐（どんと）ダム探検隊</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#呑吐（どんと）ダム探検隊</link>
+ <description rdf:datatype="rdf:HTML"><html:p>対象は小学生以下は保護者同伴<html:br/>日時は11月14日（土曜）9時～<html:br/>場所は呑吐ダム（三木市志染町三津田）<html:br/>料金は無料<html:br/>問い合わせは産業振興局計画課（電話322-5361、FAX322-6079）</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06-11.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#「メカライフの世界展」入館無料">
+ <title>「メカライフの世界展」入館無料</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#「メカライフの世界展」入館無料</link>
+ <description rdf:datatype="rdf:HTML"><html:p>対象は小・中学生と保護者<html:br/>日時は11月14日（土曜）・15日（日曜）10時～17時（15日は～16時30分）<html:br/>場所はバンドー神戸青少年科学館<html:br/>問い合わせは電話302-5177、FAX302-4816</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06-12.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#森林整備事務所の催し#1">
+ <title>森林整備事務所の催し（1）こうべ森の学校・森の手入れと観察</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#森林整備事務所の催し#1</link>
+ <description rdf:datatype="rdf:HTML"><html:p>（1）こうべ森の学校・森の手入れと観察<html:br/>対象は小学4年生以上<html:br/>日時は11月14日（土曜）10時30分～15時<html:br/>場所は再度公園<html:br/>料金は無料</html:p><html:p>問い合わせは電話371-5937、FAX371-1087</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06-13.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#森林整備事務所の催し#2">
+ <title>森林整備事務所の催し（2）市立外国人墓地一般公開</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#森林整備事務所の催し#2</link>
+ <description rdf:datatype="rdf:HTML"><html:p>（2）市立外国人墓地一般公開<html:br/>日時は11月22日（日曜）10時30分～・13時30分～<html:br/>場所は再度公園<html:br/>料金は無料<html:br/>申し込みは往復はがき（北区山田町下谷上字中一里山4-1）で。11月10日（火曜）消印有効。抽選</html:p><html:p>問い合わせは電話371-5937、FAX371-1087</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06-14.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#クリスマスリース教室">
+ <title>クリスマスリース教室</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#クリスマスリース教室</link>
+ <description rdf:datatype="rdf:HTML"><html:p>日時は11月14日（土曜）・15日（日曜）10時30分～15時<html:br/>場所は六甲山牧場<html:br/>料金は有料（別途入園料等が必要）<html:br/>問い合わせは電話891-0280、FAX891-0592</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06-15.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#ノエビアスタジアム神戸 見学会">
+ <title>ノエビアスタジアム神戸 見学会</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#ノエビアスタジアム神戸 見学会</link>
+ <description rdf:datatype="rdf:HTML"><html:p>日時は11月15日、12月6日（日曜）11時～14時30分<html:br/>料金は無料<html:br/>問い合わせは電話652-5656、FAX652-5651</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06-16.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#フルーツ・フラワーパーク施設見学ツアー">
+ <title>フルーツ・フラワーパーク施設見学ツアー</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#フルーツ・フラワーパーク施設見学ツアー</link>
+ <description rdf:datatype="rdf:HTML"><html:p>日時は11月20日（金曜）10時～<html:br/>場所はフルーツ・フラワーパーク<html:br/>料金は無料<html:br/>申し込みははがきかFAXでみのりの公社（〒651-1522大沢町上大沢2150、FAX954-1015）へ。11月10日（火曜）消印有効。抽選<html:br/>問い合わせは農水産課（電話322-5366、FAX322-6076）</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06-17.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#漁業デー">
+ <title>漁業デー</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#漁業デー</link>
+ <description rdf:datatype="rdf:HTML"><html:p>日時は11月18日、12月2日（水曜）13時30分～<html:br/>場所は水産会館<html:br/>問い合わせは農水産課（電話322-5358、FAX322-6076）</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06-18.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#発掘!こべっこジュラシックランド">
+ <title>発掘!こべっこジュラシックランド</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#発掘!こべっこジュラシックランド</link>
+ <description rdf:datatype="rdf:HTML"><html:p>対象は17歳以下（就学前は保護者同伴）<html:br/>日時は11月21日（土曜）・22日（日曜）10時～16時<html:br/>場所はこべっこランド<html:br/>料金は無料<html:br/>問い合わせは電話382-1300、FAX351-0684</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06-19.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#帆船に乗ってみよう">
+ <title>帆船に乗ってみよう</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#帆船に乗ってみよう</link>
+ <description rdf:datatype="rdf:HTML"><html:p>対象は小学4年～中学2年生（小学生は保護者同伴）<html:br/>日時は11月28日（土曜）13時～17時<html:br/>場所は中突堤中央ターミナル<html:br/>料金は無料<html:br/>申し込みはFAXでみなと総局振興課へ。11月12日（木曜）必着。抽選<html:br/>問い合わせは電話322-5670、FAX322-6121</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06-20.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#総合運動公園#1">
+ <title>総合運動公園（1）野鳥観察</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#総合運動公園#1</link>
+ <description rdf:datatype="rdf:HTML"><html:p>（1）野鳥観察<html:br/>日時は11月21日（土曜）9時30分～<html:br/>料金は無料<html:br/>申し込みは電話かFAXか直接。11月8日（日曜）～先着順</html:p><html:p>問い合わせは電話795-5151、FAX792-3122</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06-21.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#総合運動公園#2">
+ <title>総合運動公園（2）ちりめんで作るクリスマス飾り</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#総合運動公園#2</link>
+ <description rdf:datatype="rdf:HTML"><html:p>（2）ちりめんで作るクリスマス飾り<html:br/>日時は12月3日（木曜）10時～<html:br/>料金は800円<html:br/>申し込みは往復はがき（〒654-0163緑台）で。11月23日（月曜・祝日）必着。抽選</html:p><html:p>問い合わせは電話795-5151、FAX792-3122</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06-22.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#道の駅「淡河」ふるさとまつり">
+ <title>道の駅「淡河」ふるさとまつり</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#道の駅「淡河」ふるさとまつり</link>
+ <description rdf:datatype="rdf:HTML"><html:p>日時は11月21日（土曜）10時～14時<html:br/>問い合わせは農業振興センター（電話975-6845、FAX975-6828）</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06-23.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#「内田家住宅」表門の茅葺替公開">
+ <title>「内田家住宅」表門の茅葺替公開</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#「内田家住宅」表門の茅葺替公開</link>
+ <description rdf:datatype="rdf:HTML"><html:p>日時は11月21日（土曜）14時～<html:br/>場所は内田家住宅（北区鈴蘭台西町6）<html:br/>料金は無料<html:br/>問い合わせは文化財課（電話322-5798、FAX322-6148）</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06-24.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#ひとり親家庭の修法ヶ原ハイキング">
+ <title>ひとり親家庭の修法ヶ原ハイキング</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#ひとり親家庭の修法ヶ原ハイキング</link>
+ <description rdf:datatype="rdf:HTML"><html:p>日時は11月22日（日曜）9時45分集合<html:br/>場所はJR新神戸駅<html:br/>料金は無料<html:br/>申し込みは電話かFAXでひとり親家庭支援センター（電話341-4532、FAX371-6478）へ。先着順<html:br/>問い合わせはこども家庭支援課（電話322-5211、FAX322-6119）</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06-25.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#ファッション美術館#1">
+ <title>ファッション美術館（1）落語家と行く!こども美術館ツアー</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#ファッション美術館#1</link>
+ <description rdf:datatype="rdf:HTML"><html:p>（1）落語家と行く!こども美術館ツアー<html:br/>対象は小・中学生<html:br/>日時は11月23日（月曜・祝日）11時～<html:br/>料金は無料（別途入園料等が必要）<html:br/>申し込みは当日先着順</html:p><html:p>問い合わせは電話858-0070、FAX858-0058</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06-26.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#ファッション美術館#2">
+ <title>ファッション美術館（2）自然のアクセサリーづくり</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#ファッション美術館#2</link>
+ <description rdf:datatype="rdf:HTML"><html:p>（2）自然のアクセサリーづくり<html:br/>対象は小学生と保護者<html:br/>日時は11月29日（日曜）10時30分～・13時30分～<html:br/>料金は無料（別途入園料等が必要）<html:br/>申し込みは往復はがき（〒658-0032向洋町中2-9-1）かFAXで。11月20日（金曜）必着。抽選</html:p><html:p>問い合わせは電話858-0070、FAX858-0058</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06-27.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#市指定文化財「旧乾邸」特別観覧">
+ <title>市指定文化財「旧乾邸」特別観覧</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#市指定文化財「旧乾邸」特別観覧</link>
+ <description rdf:datatype="rdf:HTML"><html:p>日時は11月26日（木曜）～29日（日曜）<html:br/>料金は無料<html:br/>申し込みは電話で特別観覧受付係（電話842-0610）へ。11月19日（木曜）～先着順<html:br/>問い合わせは文化交流部（電話322-5165、FAX322-6137）</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06-28.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#里山探索と植物のしおりづくり体験">
+ <title>里山探索と植物のしおりづくり体験</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#里山探索と植物のしおりづくり体験</link>
+ <description rdf:datatype="rdf:HTML"><html:p>対象は中学生以上<html:br/>日時は11月27日（金曜）13時30分～<html:br/>場所は環境未来館<html:br/>料金は無料<html:br/>申し込みははがきかFAXで同館（〒651-2228見津が丘1-9、FAX995-3192）へ。11月13日（金曜）必着。抽選<html:br/>問い合わせは地球環境課（電話322-6678、FAX322-6982）</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06-29.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#神戸マイスターと創作おせち作り">
+ <title>神戸マイスターと創作おせち作り</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#神戸マイスターと創作おせち作り</link>
+ <description rdf:datatype="rdf:HTML"><html:p>日時は11月28日（土曜）10時～14時<html:br/>場所は中央卸売市場本場<html:br/>料金は無料<html:br/>申し込みは往復はがき（2人以内）で産業振興財団（〒650-0044東川崎町1-8-4）へ。11月18日（水曜）必着。抽選<html:br/>問い合わせは電話360-3209、FAX360-1419</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06-30.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#サンタ・プロジェクト">
+ <title>サンタ・プロジェクト</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#サンタ・プロジェクト</link>
+ <description rdf:datatype="rdf:HTML"><html:p>対象は小学3年生以下と保護者<html:br/>日時は11月28日（土曜）14時～<html:br/>場所は神戸学院大学（中央区港島1）<html:br/>料金は無料<html:br/>申し込みは当日先着順<html:br/>問い合わせは総合計画課（電話322-5029、FAX322-6009）</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06-31.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#ひのきたま湯">
+ <title>ひのきたま湯</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#ひのきたま湯</link>
+ <description rdf:datatype="rdf:HTML"><html:p>日時は11月29日（日曜）<html:br/>場所は有馬温泉 金の湯<html:br/>問い合わせは国際観光コンベンション協会（電話904-0680、FAX907-3370）</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06-32.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#おはなしカーニバル">
+ <title>おはなしカーニバル</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#おはなしカーニバル</link>
+ <description rdf:datatype="rdf:HTML"><html:p>対象は小学生以下と保護者<html:br/>日時は11月29日（日曜）13時～<html:br/>場所はしあわせの村<html:br/>料金は無料<html:br/>問い合わせは電話743-8092、FAX743-8180</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06-33.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#石を彫って、自分の印章をつくろう">
+ <title>石を彫って、自分の印章をつくろう</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#石を彫って、自分の印章をつくろう</link>
+ <description rdf:datatype="rdf:HTML"><html:p>対象は小学4年～中学生<html:br/>日時は11月28日（土曜）14時～<html:br/>場所は市立博物館<html:br/>料金は500円<html:br/>申し込みは往復はがき（〒650-0034京町24）で。11月13日（金曜）消印有効。抽選<html:br/>問い合わせは電話391-0035、FAX392-7054</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06-34.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#絵本作家 永田萠さんと絵を描こう">
+ <title>絵本作家 永田萠さんと絵を描こう</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#絵本作家 永田萠さんと絵を描こう</link>
+ <description rdf:datatype="rdf:HTML"><html:p>対象は3歳～小学生<html:br/>日時は11月29日（日曜）9時30分～15時<html:br/>場所は王子動物園<html:br/>料金は無料（別途入園料等が必要）<html:br/>申し込みは往復はがき（〒657-0838王子町3-1）か神戸市　募集情報（http://www.city.kobe.lg.jp/information/recruit/）で。11月13日（金曜）消印有効。抽選<html:br/>問い合わせは電話861-5624、FAX861-5640</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06-35.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#食と農の祭典">
+ <title>食と農の祭典</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#食と農の祭典</link>
+ <description rdf:datatype="rdf:HTML"><html:p>日時は11月29日（日曜）10時～15時<html:br/>場所はJA兵庫六甲市場館「農野花」（北区有野中町3）<html:br/>問い合わせは農業振興センター（電話975-6894、FAX975-6828）</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06-36.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#塩づくりとバターづくり">
+ <title>塩づくりとバターづくり</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#塩づくりとバターづくり</link>
+ <description rdf:datatype="rdf:HTML"><html:p>対象は小学生以上（小学生は保護者同伴）<html:br/>日時は11月29日（日曜）10時30分～<html:br/>場所はさかなの学校<html:br/>料金は1,000円<html:br/>申し込みは往復はがき（〒655-0036海岸通12-4）かFAXで。11月16日（月曜）消印有効。抽選<html:br/>問い合わせは電話706-5550、FAX706-5636</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06-37.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#クリスマス用の押し花の飾りもの">
+ <title>クリスマス用の押し花の飾りもの</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#クリスマス用の押し花の飾りもの</link>
+ <description rdf:datatype="rdf:HTML"><html:p>日時は11月29日（日曜）13時30分～<html:br/>場所は花と緑のまち推進センター<html:br/>料金は1,500円<html:br/>申し込みは電話か直接。先着順<html:br/>問い合わせは電話351-6756、FAX341-8710</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06-38.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#三菱重工と港の見学会">
+ <title>三菱重工と港の見学会</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#三菱重工と港の見学会</link>
+ <description rdf:datatype="rdf:HTML"><html:p>日時は11月30日（月曜）13時～16時30分<html:br/>場所は中突堤中央ターミナル<html:br/>料金は無料<html:br/>申し込みは往復はがき（2人以内）で神戸港振興協会（〒650-0042波止場町2-2）へ。11月9日（月曜）必着。抽選<html:br/>問い合わせは電話327-8982、FAX332-4739</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06-39.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#ヒューマンライツコンサート">
+ <title>ヒューマンライツコンサート</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#ヒューマンライツコンサート</link>
+ <description rdf:datatype="rdf:HTML"><html:p>日時は12月4日（金曜）14時30分～<html:br/>場所は長田公民館<html:br/>料金は無料<html:br/>申し込みは電話で市総合コールセンター（電話333-3330）へ。先着順<html:br/>問い合わせは生涯学習課（電話322-6295、FAX322-6144）</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06-40.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#こうべ地域のたべもの祭り">
+ <title>こうべ地域のたべもの祭り</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#こうべ地域のたべもの祭り</link>
+ <description rdf:datatype="rdf:HTML"><html:p>日時は12月5日（土曜）10時～15時<html:br/>場所は神戸ワイナリー（農業公園）<html:br/>問い合わせは農水産課（電話322-5355、FAX322-6076）</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06-41.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#神戸ルミナリエハートフルデー">
+ <title>神戸ルミナリエハートフルデー</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#神戸ルミナリエハートフルデー</link>
+ <description rdf:datatype="rdf:HTML"><html:p>対象は障害のある人や介助の必要な高齢者と介助者<html:br/>日時は12月2日（水曜）18時30分～<html:br/>場所は東遊園地<html:br/>料金は無料<html:br/>問い合わせは国際観光コンベンション協会（電話303-0038、FAX302-2946）</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06-42.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#文化創生都市記念ジャズステージ">
+ <title>文化創生都市記念ジャズステージ</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#文化創生都市記念ジャズステージ</link>
+ <description rdf:datatype="rdf:HTML"><html:p>日時は12月6日（日曜）13時～・15時～・16時30分～<html:br/>場所はデュオドーム（JR神戸駅南側地下）<html:br/>料金は無料<html:br/>問い合わせは文化交流部（電話322-6598、FAX322-6136）</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06-43.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#縄文土器をつくろう～成形と焼成">
+ <title>縄文土器をつくろう～成形と焼成</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#縄文土器をつくろう～成形と焼成</link>
+ <description rdf:datatype="rdf:HTML"><html:p>対象は小学4年生以上（小学生は保護者同伴）<html:br/>日時は12月6日（日曜）10時～、28年1月31日（日曜）10時～15時<html:br/>場所は埋蔵文化財センター<html:br/>料金は1,000円<html:br/>申し込みは往復はがき（〒651-2273糀台6-1）かFAXで。11月21日（土曜）必着。抽選<html:br/>問い合わせは電話992-0656、FAX992-5201</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06-44.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#須磨海浜水族園#1">
+ <title>須磨海浜水族園（1）工作「クリスマスリースやツリー作り」</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#須磨海浜水族園#1</link>
+ <description rdf:datatype="rdf:HTML"><html:p>（1）工作「クリスマスリースやツリー作り」<html:br/>日時は12月6日（日曜）13時～<html:br/>料金は500円<html:br/>申し込みは当日先着順</html:p><html:p>問い合わせは電話731-7301、FAX733-6333</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06-45.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#須磨海浜水族園#2">
+ <title>須磨海浜水族園（2）施設点検のため休園</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#須磨海浜水族園#2</link>
+ <description rdf:datatype="rdf:HTML"><html:p>（2）施設点検のため休園<html:br/>日時は12月1日（火曜）～3日（木曜）</html:p><html:p>問い合わせは電話731-7301、FAX733-6333</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06-46.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#王子動物園周辺の近代化遺産を歩く">
+ <title>王子動物園周辺の近代化遺産を歩く</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#王子動物園周辺の近代化遺産を歩く</link>
+ <description rdf:datatype="rdf:HTML"><html:p>日時は12月10日（木曜）13時15分集合<html:br/>場所は旧ハンター住宅（灘区青谷町1）<html:br/>料金は無料（別途入園料等が必要）<html:br/>申し込みははがきで文化財課（〒650-8570住所不要）へ。11月19日（木曜）消印有効。抽選<html:br/>問い合わせは電話322-5798、FAX322-6148</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06-47.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#市ファミサポ市民交流会（ショー）">
+ <title>市ファミサポ市民交流会（ショー）</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#市ファミサポ市民交流会（ショー）</link>
+ <description rdf:datatype="rdf:HTML"><html:p>日時は12月13日（日曜）10時～<html:br/>場所はこべっこランド<html:br/>料金は無料<html:br/>申し込みは往復はがきでファミリー・サポート・センター（〒650-0044東川崎町1-3-1）へ。11月20日（金曜）必着。抽選<html:br/>問い合わせは電話335-6100、FAX335-6101</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06-48.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#親子で里山のリース作り">
+ <title>親子で里山のリース作り</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#親子で里山のリース作り</link>
+ <description rdf:datatype="rdf:HTML"><html:p>対象は小学生と保護者<html:br/>日時は12月13日（日曜）10時～<html:br/>場所はリサイクル工房あづま<html:br/>料金は無料<html:br/>申し込みは電話かFAXか直接。11月17日（火曜）～先着順<html:br/>問い合わせは電話・FAX221-3144</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06-49.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#自然の家#1">
+ <title>自然の家（1）クリスマス・お正月キャンプ</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#自然の家#1</link>
+ <description rdf:datatype="rdf:HTML"><html:p>（1）クリスマス・お正月キャンプ<html:br/>対象は3歳以上の子と保護者<html:br/>日時は12月19日（土曜）～、1泊2日<html:br/>料金は大人5,500円・小人4,500円<html:br/>申し込みは電話で。11月1日（日曜）～14日（土曜）まで受付。抽選</html:p><html:p>問い合わせは電話891-0001、FAX891-0002</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06-50.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#自然の家#2">
+ <title>自然の家（2）森のようちえんクリスマス</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#自然の家#2</link>
+ <description rdf:datatype="rdf:HTML"><html:p>（2）森のようちえんクリスマス<html:br/>対象は3～6歳<html:br/>日時は12月23日（水曜・祝日）10時～<html:br/>料金は2,000円<html:br/>申し込みは電話で。11月1日（日曜）～14日（土曜）まで受付。抽選</html:p><html:p>問い合わせは電話891-0001、FAX891-0002</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06-51.ics">カレンダー登録</html:a></html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06.xml#サンタがお家にやってくる">
+ <title>サンタがお家にやってくる</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#サンタがお家にやってくる</link>
+ <description rdf:datatype="rdf:HTML"><html:p>対象は4歳～小学2年生の子がいる家庭<html:br/>日時は12月23日（水曜・祝日）17時～<html:br/>料金は無料<html:br/>申し込みははがきで青少年会館（〒651-0096雲井通5-1-2）へ。11月30日（月曜）必着。抽選<html:br/>問い合わせは電話232-4455、FAX242-2161</html:p>
+  
+    
+
+
+<html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info06-52.ics">カレンダー登録</html:a></html:p></description>
+</item></channel>
+</rdf:RDF>

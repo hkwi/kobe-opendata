@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:発掘!こべっこジュラシックランド
+DESCRIPTION:対象は17歳以下（就学前は保護者同伴）\n日時は11月21日（土曜）・22日（日曜）10時～16時\n場所はこべっこランド\n料金は無料\n問い合わせは電話382-1300、FAX351-0684
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#発掘!こべっこジュラシックランド
+DTSTART:20151121T100000
+DTEND:20151121T160000
+RRULE:FREQ=DAILY;BYMONTHDAY=22;COUNT=1
+LOCATION:こべっこランド
+END:VEVENT
+END:VCALENDAR

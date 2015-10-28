@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:道の駅「淡河」ふるさとまつり
+DESCRIPTION:日時は11月21日（土曜）10時～14時\n問い合わせは農業振興センター（電話975-6845、FAX975-6828）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#道の駅「淡河」ふるさとまつり
+DTSTART:20151121T100000
+DTEND:20151121T140000
+END:VEVENT
+END:VCALENDAR

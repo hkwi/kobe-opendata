@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ラグビー神戸製鋼ファミリー応援デー
+DESCRIPTION:対象は小・中学生と家族\n日時は11月29日（日曜）14時～\n場所はユニバー記念競技場\n料金は無料\n申し込みは往復はがきで市スポーツ教育協会（〒651-0083浜辺通5-1-14）へ。11月10日（火曜）必着。抽選\n問い合わせは電話261-3620、FAX261-8020
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info05.html#ラグビー神戸製鋼ファミリー応援デー
+DTSTART:20151129T140000
+LOCATION:ユニバー記念競技場
+END:VEVENT
+END:VCALENDAR

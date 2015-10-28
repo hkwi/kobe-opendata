@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#縄文土器をつくろう～成形と焼成
+X-HINT-DTSTART:日時は12月6日（日曜）10時～、28年1月31日（日曜）10時～15時
+DTSTART:20151206T100000
+RDATE;VALUE=PERIOD:20160131T100000/20160131T150000
+SUMMARY:縄文土器をつくろう～成形と焼成
+DESCRIPTION:対象は小学4年生以上（小学生は保護者同伴）\n日時は12月6日（日曜）10時～、28年1月31日（日曜）10時～15時\n場所は埋蔵文化財センター\n料金は1\,000円\n申し込みは往復はがき（〒651-2273糀台6-1）かFAXで。11月21日（土曜）必着。抽選\n問い合わせは電話992-0656、FAX992-5201
+LOCATION:埋蔵文化財センター
+END:VEVENT
+END:VCALENDAR

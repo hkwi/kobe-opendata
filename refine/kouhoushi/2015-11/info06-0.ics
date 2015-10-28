@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:相楽園（2）うたごえ～懐かしの曲を歌おう
+DESCRIPTION:（1）菊花展\n日時は11月23日（月曜・祝日）まで\n料金は無料（別途入園料等が必要）\n（2）うたごえ～懐かしの曲を歌おう\n日時は11月8日（日曜）14時～\n料金は無料（別途入園料等が必要）\n問い合わせは電話351-5155、FAX361-7307
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#相楽園#2
+DTSTART:20151108T140000
+END:VEVENT
+END:VCALENDAR

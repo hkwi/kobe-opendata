@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ヒューマンライツコンサート
+DESCRIPTION:日時は12月4日（金曜）14時30分～\n場所は長田公民館\n料金は無料\n申し込みは電話で市総合コールセンター（電話333-3330）へ。先着順\n問い合わせは生涯学習課（電話322-6295、FAX322-6144）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#ヒューマンライツコンサート
+DTSTART:20151204T143000
+LOCATION:長田公民館
+END:VEVENT
+END:VCALENDAR

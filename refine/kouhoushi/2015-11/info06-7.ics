@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#技能グランプリ&フェスタ
+X-HINT-DTSTART:日時は11月7日（土曜）・8日（日曜）10時～16時30分（8日は～16時）
+DTSTART;VALUE=DATE:20151107
+DTEND:20151114T190000
+RRULE:FREQ=DAILY;UNTIL=20151130
+SUMMARY:技能グランプリ&フェスタ
+DESCRIPTION:日時は11月7日（土曜）・8日（日曜）10時～16時30分（8日は～16時）\n場所は国際展示場\n料金は一部有料\n問い合わせは勤労市民課（電話322-5177、FAX322-6033）
+LOCATION:国際展示場
+END:VEVENT
+END:VCALENDAR

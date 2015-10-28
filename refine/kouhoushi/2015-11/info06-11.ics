@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:呑吐（どんと）ダム探検隊
+DESCRIPTION:対象は小学生以下は保護者同伴\n日時は11月14日（土曜）9時～\n場所は呑吐ダム（三木市志染町三津田）\n料金は無料\n問い合わせは産業振興局計画課（電話322-5361、FAX322-6079）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#呑吐（どんと）ダム探検隊
+DTSTART:20151114T090000
+LOCATION:呑吐ダム（三木市志染町三津田）
+END:VEVENT
+END:VCALENDAR

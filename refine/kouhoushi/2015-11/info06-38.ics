@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:クリスマス用の押し花の飾りもの
+DESCRIPTION:日時は11月29日（日曜）13時30分～\n場所は花と緑のまち推進センター\n料金は1\,500円\n申し込みは電話か直接。先着順\n問い合わせは電話351-6756、FAX341-8710
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#クリスマス用の押し花の飾りもの
+DTSTART:20151129T133000
+LOCATION:花と緑のまち推進センター
+END:VEVENT
+END:VCALENDAR

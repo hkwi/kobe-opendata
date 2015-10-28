@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:がん市民フォーラム
+DESCRIPTION:日時は11月28日（土曜）10時～\n場所は野村證券（中央区御幸通8）\n料金は無料\n申し込みは電話で市総合コールセンター（電話333-3330）へ。先着順\n問い合わせは中央市民病院（電話302-4321、FAX302-4424）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info04.html#がん市民フォーラム
+DTSTART:20151128T100000
+LOCATION:野村證券（中央区御幸通8）
+END:VEVENT
+END:VCALENDAR

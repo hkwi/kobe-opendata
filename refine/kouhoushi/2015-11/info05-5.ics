@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:市民山の会ハイキング（2）横尾～高取山
+DESCRIPTION:（1）須磨縦断\n日時は11月15日（日曜）9時集合\n場所は地下鉄妙法寺駅\n料金は無料\n（2）横尾～高取山\n日時は12月6日（日曜）9時集合\n場所は山陽電鉄板宿駅\n料金は無料\n問い合わせは市総合コールセンター（電話333-3330、FAX333-3314）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info05.html#市民山の会ハイキング#2
+DTSTART:20151206T090000
+LOCATION:山陽電鉄板宿駅
+END:VEVENT
+END:VCALENDAR

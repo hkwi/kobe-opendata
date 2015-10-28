@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#「メカライフの世界展」入館無料
+X-HINT-DTSTART:日時は11月14日（土曜）・15日（日曜）10時～17時（15日は～16時30分）
+DTSTART:20151114T100000
+DTEND:20151115T170000
+RDATE;VALUE=PERIOD:20151115T100000/20151115T163000
+SUMMARY:「メカライフの世界展」入館無料
+DESCRIPTION:対象は小・中学生と保護者\n日時は11月14日（土曜）・15日（日曜）10時～17時（15日は～16時30分）\n場所はバンドー神戸青少年科学館\n問い合わせは電話302-5177、FAX302-4816
+LOCATION:バンドー神戸青少年科学館
+END:VEVENT
+END:VCALENDAR

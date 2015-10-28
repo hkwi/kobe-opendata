@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#ノエビアスタジアム神戸 見学会
+X-HINT-DTSTART:日時は11月15日、12月6日（日曜）11時～14時30分
+DTSTART:20151115T110000
+DTEND:20151115T143000
+RDATE:20151206T110000
+SUMMARY:ノエビアスタジアム神戸 見学会
+DESCRIPTION:日時は11月15日、12月6日（日曜）11時～14時30分\n料金は無料\n問い合わせは電話652-5656、FAX652-5651
+END:VEVENT
+END:VCALENDAR

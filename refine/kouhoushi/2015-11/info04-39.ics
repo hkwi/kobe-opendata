@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info04.html#PCサポートボランティア入門講座
+X-HINT-DTSTART:日時は28年1月8日（金曜）～。3回
+DTSTART;VALUE=DATE:20160108
+RRULE:FREQ=WEEKLY;COUNT=3
+SUMMARY:PCサポートボランティア入門講座
+DESCRIPTION:日時は28年1月8日（金曜）～。3回\n場所は市民福祉交流センター\n料金は1\,500円\n申し込みははがきか電話かFAXか直接市民福祉大学（〒651-0086磯上通3-1-32）へ。12月11日（金曜）必着。抽選\n問い合わせは電話271-5300、FAX271-5365
+LOCATION:市民福祉交流センター
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:計量講演会
+DESCRIPTION:日時は11月19日（木曜）13時20分～16時25分\n場所はたちばな職員研修センター\n料金は無料\n申し込みはFAXで消費生活課へ。先着順\n問い合わせは電話322-5186、FAX322-6036
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info04.html#計量講演会
+DTSTART:20151119T132000
+DTEND:20151119T162500
+LOCATION:たちばな職員研修センター
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:須磨海浜水族園（1）工作「クリスマスリースやツリー作り」
+DESCRIPTION:（1）工作「クリスマスリースやツリー作り」\n日時は12月6日（日曜）13時～\n料金は500円\n申し込みは当日先着順\n（2）施設点検のため休園\n日時は12月1日（火曜）～3日（木曜）\n問い合わせは電話731-7301、FAX733-6333
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#須磨海浜水族園#1
+DTSTART:20151206T130000
+END:VEVENT
+END:VCALENDAR

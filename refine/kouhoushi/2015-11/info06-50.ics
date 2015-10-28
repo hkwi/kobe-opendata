@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#自然の家#1
+X-HINT-DTSTART:日時は12月19日（土曜）～、1泊2日
+DTSTART;VALUE=DATE:20151219
+DTEND;VALUE=DATE:20151221
+SUMMARY:自然の家（1）クリスマス・お正月キャンプ
+DESCRIPTION:（1）クリスマス・お正月キャンプ\n対象は3歳以上の子と保護者\n日時は12月19日（土曜）～、1泊2日\n料金は大人5\,500円・小人4\,500円\n申し込みは電話で。11月1日（日曜）～14日（土曜）まで受付。抽選\n（2）森のようちえんクリスマス\n対象は3～6歳\n日時は12月23日（水曜・祝日）10時～\n料金は2\,000円\n申し込みは電話で。11月1日（日曜）～14日（土曜）まで受付。抽選\n問い合わせは電話891-0001、FAX891-0002
+END:VEVENT
+END:VCALENDAR

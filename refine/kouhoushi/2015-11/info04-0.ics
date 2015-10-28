@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:婦人会館あじさい講座（1）大人のための美バレエ
+DESCRIPTION:（1）大人のための美バレエ\n日時は11月12日（木曜）10時30分～\n料金は1講座1\,000円\n申し込みは電話か直接。先着順\n（2）つまようじセラピー\n日時は11月28日（土曜）13時30分～\n料金は1講座1\,000円\n申し込みは電話か直接。先着順\n問い合わせは電話351-0861、FAX351-0862
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info04.html#婦人会館あじさい講座#1
+DTSTART:20151112T103000
+END:VEVENT
+END:VCALENDAR

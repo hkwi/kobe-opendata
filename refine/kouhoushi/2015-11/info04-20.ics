@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:子育て講座「子どもの育ちにくさ」
+DESCRIPTION:日時は11月27日（金曜）13時30分～\n場所は産業振興センター\n料金は無料\n申し込みは往復はがきかFAXでこども家庭センター（〒650-0044東川崎町1-3-1）へ。11月16日（月曜）必着。抽選\n問い合わせは電話382-2277、FAX362-0415
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info04.html#子育て講座「子どもの育ちにくさ」
+DTSTART:20151127T133000
+LOCATION:産業振興センター
+END:VEVENT
+END:VCALENDAR

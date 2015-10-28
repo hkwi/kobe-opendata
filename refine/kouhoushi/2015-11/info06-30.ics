@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:神戸マイスターと創作おせち作り
+DESCRIPTION:日時は11月28日（土曜）10時～14時\n場所は中央卸売市場本場\n料金は無料\n申し込みは往復はがき（2人以内）で産業振興財団（〒650-0044東川崎町1-8-4）へ。11月18日（水曜）必着。抽選\n問い合わせは電話360-3209、FAX360-1419
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#神戸マイスターと創作おせち作り
+DTSTART:20151128T100000
+DTEND:20151128T140000
+LOCATION:中央卸売市場本場
+END:VEVENT
+END:VCALENDAR

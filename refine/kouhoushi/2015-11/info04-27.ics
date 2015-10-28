@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:勤労会館（1）特別展「野田弘志展を楽しむ」講座
+DESCRIPTION:（1）特別展「野田弘志展を楽しむ」講座\n日時は11月28日（土曜）10時～\n料金は無料\n申し込みは電話かFAXか直接。先着順\n（2）命の門番 ゲートキーパー養成講座\n日時は12月9日（水曜）14時～\n料金は無料\n申し込みは電話かFAXか直接。先着順\n（3）いきいき仕事セミナー\n日時は12月19日（土曜）14時～\n料金は無料\n申し込みは電話かFAXか直接。先着順\n問い合わせは電話232-1881、FAX232-1876
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info04.html#勤労会館#1
+DTSTART:20151128T100000
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info03.html#仕事と子育て両立カウンセリング
+X-HINT-DTSTART:日時は11月18日（水曜）、12月20日（日曜）、28年1月20日（水曜）（予約制）
+DTSTART;VALUE=DATE:20151118
+RDATE;VALUE=DATE:20151120
+RDATE;VALUE=DATE:20160120
+SUMMARY:仕事と子育て両立カウンセリング
+DESCRIPTION:日時は11月18日（水曜）、12月20日（日曜）、28年1月20日（水曜）（予約制）\n場所は神戸RICステーション（東灘区向洋町中2）\n料金は無料\n問い合わせは男女共同参画課（電話322-5179、FAX322-6034）
+LOCATION:神戸RICステーション（東灘区向洋町中2）
+END:VEVENT
+END:VCALENDAR

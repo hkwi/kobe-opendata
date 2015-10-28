@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#文化創生都市記念ジャズステージ
+X-HINT-DTSTART:日時は12月6日（日曜）13時～・15時～・16時30分～
+DTSTART:20151206T130000
+RDATE:20151206T150000
+RDATE:20151206T163000
+SUMMARY:文化創生都市記念ジャズステージ
+DESCRIPTION:日時は12月6日（日曜）13時～・15時～・16時30分～\n場所はデュオドーム（JR神戸駅南側地下）\n料金は無料\n問い合わせは文化交流部（電話322-6598、FAX322-6136）
+LOCATION:デュオドーム（JR神戸駅南側地下）
+END:VEVENT
+END:VCALENDAR

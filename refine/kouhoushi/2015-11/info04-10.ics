@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info04.html#中央体育館#1
+X-HINT-DTSTART:日時は11月14日、12月5日（土曜）10時～
+DTSTART:20151114T100000
+RDATE:20151205T100000
+SUMMARY:中央体育館（1）民踊初心者講習会
+DESCRIPTION:（1）民踊初心者講習会\n日時は11月14日、12月5日（土曜）10時～\n料金は500円\n（2）フォークダンス～年末のつどい\n日時は12月6日（日曜）10時～15時\n料金は500円\n問い合わせは市スポーツ教育協会（電話261-3620、FAX261-8020）
+END:VEVENT
+END:VCALENDAR

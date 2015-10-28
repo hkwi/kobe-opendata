@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:神戸里山暮らし相談会
+DESCRIPTION:日時は11月12日（木曜）13時～\n場所はカフェ野の花（北区淡河町萩原）\n料金は無料\n問い合わせは産業振興局計画課（電話322-5353、FAX322-6079）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info03.html#神戸里山暮らし相談会
+DTSTART:20151112T130000
+LOCATION:カフェ野の花（北区淡河町萩原）
+END:VEVENT
+END:VCALENDAR

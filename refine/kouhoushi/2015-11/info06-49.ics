@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:親子で里山のリース作り
+DESCRIPTION:対象は小学生と保護者\n日時は12月13日（日曜）10時～\n場所はリサイクル工房あづま\n料金は無料\n申し込みは電話かFAXか直接。11月17日（火曜）～先着順\n問い合わせは電話・FAX221-3144
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#親子で里山のリース作り
+DTSTART:20151213T100000
+LOCATION:リサイクル工房あづま
+END:VEVENT
+END:VCALENDAR

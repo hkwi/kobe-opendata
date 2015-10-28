@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:シンポジウム～地域での看取り
+DESCRIPTION:日時は11月29日（日曜）13時～16時50分\n場所は市看護大学\n料金は無料\n申し込みはFAXで。先着順\n問い合わせは電話794-8080、FAX794-8086
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info04.html#シンポジウム～地域での看取り
+DTSTART:20151129T130000
+DTEND:20151129T165000
+LOCATION:市看護大学
+END:VEVENT
+END:VCALENDAR

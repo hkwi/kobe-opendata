@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:学校支援ボランティア講演会・交流会
+DESCRIPTION:日時は12月6日（日曜）14時～\n場所は教育・地域連携センター\n料金は無料\n申し込みははがき（〒653-0042二葉町7-1-18）かFAXで。11月27日（金曜）必着。抽選\n問い合わせは電話641-5013、FAX641-5015
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info04.html#学校支援ボランティア講演会・交流会
+DTSTART:20151206T140000
+LOCATION:教育・地域連携センター
+END:VEVENT
+END:VCALENDAR

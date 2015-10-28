@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:帆船に乗ってみよう
+DESCRIPTION:対象は小学4年～中学2年生（小学生は保護者同伴）\n日時は11月28日（土曜）13時～17時\n場所は中突堤中央ターミナル\n料金は無料\n申し込みはFAXでみなと総局振興課へ。11月12日（木曜）必着。抽選\n問い合わせは電話322-5670、FAX322-6121
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info06.html#帆船に乗ってみよう
+DTSTART:20151128T130000
+DTEND:20151128T170000
+LOCATION:中突堤中央ターミナル
+END:VEVENT
+END:VCALENDAR

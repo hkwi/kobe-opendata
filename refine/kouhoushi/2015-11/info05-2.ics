@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:スポーツイベント観戦情報（有料）（2）ラグビー神戸製鋼VSキヤノン
+DESCRIPTION:（1）デウソン神戸VSエスポラーダ北海道\n日時は11月14日（土曜）16時30分～\n場所はグリーンアリーナ\n（2）ラグビー神戸製鋼VSキヤノン\n日時は11月15日（日曜）13時～\n場所はユニバー記念競技場\n問い合わせは市スポーツ教育協会（電話261-3620、FAX261-8020）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info05.html#スポーツイベント観戦情報（有料）#2
+DTSTART:20151115T130000
+LOCATION:ユニバー記念競技場
+END:VEVENT
+END:VCALENDAR
