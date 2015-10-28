@@ -113,6 +113,11 @@
 </item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2014-01/info03.xml#すまいに関する何でも相談">
  <title>すまいに関する何でも相談</title>
  <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1401/info03.html#すまいに関する何でも相談</link>
- <description rdf:datatype="rdf:HTML"><html:p>日時は10時～17時（水曜休）<html:br/>場所はすまいるネット（サンパル4階）<html:br/>料金は無料<html:br/>問い合わせは電話222-0005、FAX222-0106</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2014-01/info03-19.ics">カレンダー登録</html:a></html:p></description>
+ <description rdf:datatype="rdf:HTML"><html:p>日時は10時～17時（水曜休）<html:br/>場所はすまいるネット（サンパル4階）<html:br/>料金は無料<html:br/>問い合わせは電話222-0005、FAX222-0106</html:p>
+  
+    
+
+
+<html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2014-01/info03-19.ics">カレンダー登録</html:a></html:p></description>
 </item></channel>
 </rdf:RDF>

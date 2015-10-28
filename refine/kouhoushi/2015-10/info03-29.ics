@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1510/info03.html#民事・家事調停無料相談
+X-HINT-DTSTART:日時は10月8日（木曜）10時～16時（受付は15時30分まで）
+DTSTART:20151008T100000
+DTEND:20151008T160000
+SUMMARY:民事・家事調停無料相談
+DESCRIPTION:日時は10月8日（木曜）10時～16時（受付は15時30分まで）\n場所は勤労会館、垂水勤労市民センター\n問い合わせは市民相談室（電話322-5175、FAX322-6014）
+LOCATION:勤労会館、垂水勤労市民センター
+END:VEVENT
+END:VCALENDAR

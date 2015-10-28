@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rdf:RDF xmlns:rdf="http://www.w3c.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:html="http://www.w3.org/1999/xhtml">
+<channel rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info00-01.xml">
+<title>神戸市：広報紙KOBE2015年（平成27年）1月号 16面 </title>
+<link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info00-01.html</link>
+<description>
+</description>
+<items>
+ <rdf:Seq>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info00-01.xml#神戸市会議員選挙立候補予定者への説明会"/>
+ </rdf:Seq>
+</items>
+<item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info00-01.xml#神戸市会議員選挙立候補予定者への説明会">
+ <title>神戸市会議員選挙立候補予定者への説明会</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info00-01.html#神戸市会議員選挙立候補予定者への説明会</link>
+ <description rdf:datatype="rdf:HTML"><html:div class="btnSocialBox clearfix">
+            <html:div class="btnSocialInnerBox">
+              <html:span>
+                  <html:a href="https://twitter.com/share" class="twitter-share-button">ツイート</html:a>
+                  
+                </html:span>
+              <html:span>
+                  
+                </html:span>
+              </html:div>
+          </html:div>
+        
+<html:dl class="lastUpdate"><html:dt>最終更新日</html:dt><html:dd>2014年12月24日</html:dd></html:dl><html:p>神戸市会議員選挙の告示を4月3日（金曜）に、投票・開票を4月12日（日曜）に行います。これに先立ち、立候補を予定する皆さんを対象に説明会を実施します。</html:p><html:p>日時は2月10日（火曜）13時30分～</html:p><html:p>場所は勤労会館</html:p><html:p>対象者は立候補予定者とその関係者（1候補者につき原則2人以内）</html:p><html:p>立候補できるのは、平成2年4月13日までに生まれた人で、日本国籍を持ち、平成27年１月12日までに神戸市内に住民登録し、4月12日現在、神戸市の住民基本台帳に記録されている人</html:p><html:p>申し込みは電話で各区選挙管理委員会（下記参照）へ。2月4日（水曜）まで受け付け</html:p><html:p>※後日、入場整理券を送付しますので、説明会当日に持参してください</html:p><html:h2>問い合わせ</html:h2><html:p>市選挙管理委員会（電話322-5816、FAX322-6150）</html:p><html:table><html:tbody><html:tr><html:td colspan="2">区役所・支所・出張所の電話番号</html:td></html:tr><html:tr><html:td>東灘</html:td><html:td>電話 841－4131（代）</html:td></html:tr><html:tr><html:td>灘</html:td><html:td>電話 843－7001（代）</html:td></html:tr><html:tr><html:td>中央</html:td><html:td>電話 232－4411（代）</html:td></html:tr><html:tr><html:td>兵庫</html:td><html:td>電話 511－2111（代）</html:td></html:tr><html:tr><html:td>北</html:td><html:td>電話 593－1111（代）</html:td></html:tr><html:tr><html:td>北神出張所</html:td><html:td>電話 981－5377</html:td></html:tr><html:tr><html:td>　同保健福祉課</html:td><html:td>電話 981－8870</html:td></html:tr><html:tr><html:td>長田</html:td><html:td>電話 579－2311（代）</html:td></html:tr><html:tr><html:td>須磨</html:td><html:td>電話 731－4341（代）</html:td></html:tr><html:tr><html:td>北須磨支所市民課</html:td><html:td>電話 793－1212</html:td></html:tr><html:tr><html:td>　同保健福祉課</html:td><html:td>電話 793－1313</html:td></html:tr><html:tr><html:td>垂水</html:td><html:td>電話 708－5151（代）</html:td></html:tr><html:tr><html:td>西</html:td><html:td>電話 929－0001（代）</html:td></html:tr><html:tr><html:td>西神中央出張所</html:td><html:td>電話 992－8100</html:td></html:tr><html:tr><html:td>同保健福祉サービス窓口</html:td><html:td>電話 990－0201</html:td></html:tr></html:tbody></html:table>
+  
+    
+
+
+</description>
+</item></channel>
+</rdf:RDF>

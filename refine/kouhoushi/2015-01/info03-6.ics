@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ひとり親家庭のための就業相談（5）長田区役所
+DESCRIPTION:（1）ひとり親家庭支援センター\n日時は第1・2・4月曜（祝日の場合翌日）・第4水曜10時～16時、第2土曜10時～15時（予約制）\n料金は無料\n（2）垂水区役所\n日時は1月14日（水曜）10時～16時（予約制）\n料金は無料\n（3）須磨区役所\n日時は1月19日（月曜）10時～16時（予約制）\n料金は無料\n（4）北区役所\n日時は1月21日（水曜）10時～16時（予約制）\n料金は無料\n（5）長田区役所\n日時は1月27日（火曜）10時～16時（予約制）\n料金は無料\n（6）西区役所\n日時は2月4日（水曜）10時～16時（予約制）\n料金は無料\n問い合わせは電話341-4532、FAX371-6478
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info03.html#ひとり親家庭のための就業相談#5
+DTSTART:20150127T100000
+DTEND:20150127T160000
+END:VEVENT
+END:VCALENDAR

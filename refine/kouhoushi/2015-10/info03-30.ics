@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1510/info03.html#仕事と子育て両立カウンセリング
+X-HINT-DTSTART:日時は10月31日（土曜）（予約制）
+DTSTART;VALUE=DATE:20151031
+SUMMARY:仕事と子育て両立カウンセリング
+DESCRIPTION:日時は10月31日（土曜）（予約制）\n場所は西区民センター\n料金は無料\n問い合わせは男女共同参画課（電話322-5179、FAX322-6034）\n\n  \n    \n\n\n
+LOCATION:西区民センター
+END:VEVENT
+END:VCALENDAR

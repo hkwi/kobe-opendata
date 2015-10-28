@@ -298,6 +298,11 @@
 </item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-10/info06.xml#勤労感謝のつどい">
  <title>勤労感謝のつどい</title>
  <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1510/info06.html#勤労感謝のつどい</link>
- <description rdf:datatype="rdf:HTML"><html:p>日時は11月28日（土曜）10時～14時<html:br/>場所は産業振興センター<html:br/>料金は2,000円<html:br/>申し込みははがきかFAXで勤労市民課（〒650-8570住所不要）へ。10月30日（金曜）必着。抽選<html:br/>問い合わせは電話322-5177、FAX322-6033</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-10/info06-57.ics">カレンダー登録</html:a></html:p></description>
+ <description rdf:datatype="rdf:HTML"><html:p>日時は11月28日（土曜）10時～14時<html:br/>場所は産業振興センター<html:br/>料金は2,000円<html:br/>申し込みははがきかFAXで勤労市民課（〒650-8570住所不要）へ。10月30日（金曜）必着。抽選<html:br/>問い合わせは電話322-5177、FAX322-6033</html:p>
+  
+    
+
+
+<html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-10/info06-57.ics">カレンダー登録</html:a></html:p></description>
 </item></channel>
 </rdf:RDF>

@@ -38,6 +38,11 @@
 </item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-10/info00.xml#ジャズコンサート">
  <title>ジャズコンサート</title>
  <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1510/info00.html#ジャズコンサート</link>
- <description rdf:datatype="rdf:HTML"><html:p>日時は11月1日（日曜）13時～<html:br/>場所は相楽園<html:br/>料金は無料（別途入園料等が必要）<html:br/>申し込みは当日先着順<html:br/>問い合わせは電話351-5155、FAX361-7307</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-10/info00-5.ics">カレンダー登録</html:a></html:p></description>
+ <description rdf:datatype="rdf:HTML"><html:p>日時は11月1日（日曜）13時～<html:br/>場所は相楽園<html:br/>料金は無料（別途入園料等が必要）<html:br/>申し込みは当日先着順<html:br/>問い合わせは電話351-5155、FAX361-7307</html:p>
+  
+    
+
+
+<html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-10/info00-5.ics">カレンダー登録</html:a></html:p></description>
 </item></channel>
 </rdf:RDF>

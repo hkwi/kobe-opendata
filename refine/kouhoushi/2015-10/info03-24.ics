@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1510/info03.html#無料消費生活相談（電話・面談）#1
+X-HINT-DTSTART:日時は月～金曜（祝日休）8時45分～17時30分
+DTSTART:20151001T084500
+DTEND:20151001T173000
+RRULE:FREQ=DAILY;BYDAY=MO,TU,WE,TH,FR;UNTIL=20151101
+EXDATE:20151012T084500
+SUMMARY:無料消費生活相談（電話・面談）（1）電話による相談（電話371-1221）
+DESCRIPTION:（1）電話による相談（電話371-1221）\n日時は月～金曜（祝日休）8時45分～17時30分\n（2）面談（生活情報センター）\n日時は月～金曜（祝日休）8時45分～17時30分（受付は17時まで）\n問い合わせは電話371-1221、FAX351-5556
+END:VEVENT
+END:VCALENDAR

@@ -108,6 +108,11 @@
 </item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info05.xml#兵庫ストークス観戦会（リンク栃木戦）">
  <title>兵庫ストークス観戦会（リンク栃木戦）</title>
  <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info05.html#兵庫ストークス観戦会（リンク栃木戦）</link>
- <description rdf:datatype="rdf:HTML"><html:p>対象は親子（大人1人、小・中学生1人）<html:br/>日時は2月21日（土曜）14時～<html:br/>場所は中央体育館<html:br/>料金は無料<html:br/>申し込みは往復はがきで市スポーツ教育協会（〒651-0083浜辺通5-1-14）へ。1月26日（月曜）消印有効。抽選<html:br/>問い合わせは電話261-3620、FAX261-8020</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info05-19.ics">カレンダー登録</html:a></html:p></description>
+ <description rdf:datatype="rdf:HTML"><html:p>対象は親子（大人1人、小・中学生1人）<html:br/>日時は2月21日（土曜）14時～<html:br/>場所は中央体育館<html:br/>料金は無料<html:br/>申し込みは往復はがきで市スポーツ教育協会（〒651-0083浜辺通5-1-14）へ。1月26日（月曜）消印有効。抽選<html:br/>問い合わせは電話261-3620、FAX261-8020</html:p>
+  
+    
+
+
+<html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info05-19.ics">カレンダー登録</html:a></html:p></description>
 </item></channel>
 </rdf:RDF>

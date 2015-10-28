@@ -289,10 +289,20 @@
 </item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#勤労会館#1">
  <title>勤労会館（1）メンタルヘルス講演会</title>
  <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info04.html#勤労会館#1</link>
- <description rdf:datatype="rdf:HTML"><html:p>（1）メンタルヘルス講演会<html:br/>日時は2月18日（水曜）18時30分～<html:br/>料金は無料<html:br/>申し込みは電話か直接。先着順</html:p><html:p>問い合わせは電話232-1881、FAX232-1876</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04-46.ics">カレンダー登録</html:a></html:p></description>
+ <description rdf:datatype="rdf:HTML"><html:p>（1）メンタルヘルス講演会<html:br/>日時は2月18日（水曜）18時30分～<html:br/>料金は無料<html:br/>申し込みは電話か直接。先着順</html:p><html:p>問い合わせは電話232-1881、FAX232-1876</html:p>
+  
+    
+
+
+<html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04-46.ics">カレンダー登録</html:a></html:p></description>
 </item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04.xml#勤労会館#2">
  <title>勤労会館（2）中高年転職・再就職支援セミナー</title>
  <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info04.html#勤労会館#2</link>
- <description rdf:datatype="rdf:HTML"><html:p>（2）中高年転職・再就職支援セミナー<html:br/>日時は2月27日（金曜）10時～16時30分<html:br/>料金は無料<html:br/>申し込みは電話かFAXか直接。先着順</html:p><html:p>問い合わせは電話232-1881、FAX232-1876</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04-47.ics">カレンダー登録</html:a></html:p></description>
+ <description rdf:datatype="rdf:HTML"><html:p>（2）中高年転職・再就職支援セミナー<html:br/>日時は2月27日（金曜）10時～16時30分<html:br/>料金は無料<html:br/>申し込みは電話かFAXか直接。先着順</html:p><html:p>問い合わせは電話232-1881、FAX232-1876</html:p>
+  
+    
+
+
+<html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info04-47.ics">カレンダー登録</html:a></html:p></description>
 </item></channel>
 </rdf:RDF>

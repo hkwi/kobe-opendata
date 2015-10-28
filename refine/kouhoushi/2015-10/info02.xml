@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rdf:RDF xmlns:rdf="http://www.w3c.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:html="http://www.w3.org/1999/xhtml">
+<channel rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-10/info02.xml">
+<title>神戸市：広報紙KOBE2015年（平成27年）10月号 市政情報（お知らせ） </title>
+<link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1510/info02.html</link>
+<description>
+</description>
+<items>
+ <rdf:Seq>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-10/info02.xml#市民税・県民税納期（第3期）"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-10/info02.xml#エイズ・性感染症無料検査"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-10/info02.xml#飼い猫（メス）の不妊手術助成"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-10/info02.xml#看護師等の届け出制度が始まります"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-10/info02.xml#自転車保険への加入義務化"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-10/info02.xml#神戸ビエンナーレ2015開催中"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-10/info02.xml#国民健康保険証の更新について"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-10/info02.xml#いきいき健康長寿の集い～食と運動"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-10/info02.xml#生物多様性シンポジウム出展者募集"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-10/info02.xml#兵庫県最低賃金の改正"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-10/info02.xml#合同企業説明会"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-10/info02.xml#有馬温泉銀の湯の営業を再開します"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-10/info02.xml#山麓バイパス東行き夜間通行止め"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-10/info02.xml#すまいの耐震化を進めましょう"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-10/info02.xml#高齢者のバリアフリー化工事を応援"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-10/info02.xml#ベイ・シャトル往復割引の継続実施"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-10/info02.xml#大英博物館展・地下鉄1日乗車券"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-10/info02.xml#学園都市駅エレベーターの使用停止"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-10/info02.xml#小学校入学予定者健康診断"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-10/info02.xml#生活支援員養成研修 事前説明会"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-10/info02.xml#28年度市立幼稚園園児募集"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-10/info02.xml#三宮証明サービスコーナー・自動交付機休業日"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-10/info02.xml#創業希望者のための神戸大創業者祭"/>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-10/info02.xml#総合運動公園P3駐車場料金変更"/>
+ </rdf:Seq>
+</items>
+<item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-10/info02.xml#市民税・県民税納期（第3期）">
+ <title>市民税・県民税納期（第3期）</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1510/info02.html#市民税・県民税納期（第3期）</link>
+ <description rdf:datatype="rdf:HTML"><html:p>納期限は11月2日（月曜）です<html:br/>問い合わせは各区役所内市税事務所</html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-10/info02.xml#エイズ・性感染症無料検査">
+ <title>エイズ・性感染症無料検査</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1510/info02.html#エイズ・性感染症無料検査</link>
+ <description rdf:datatype="rdf:HTML"><html:p>センタープラザ西館6階で。夜間（エイズ・性感染症）水曜18時～20時、当日受付。即日（エイズ・B型肝炎）11月14日（土曜）13時～14時<html:br/>申し込みは検査日の1カ月前～先着順<html:br/>問い合わせは市保健所（電話322-6789、FAX322-6763）</html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-10/info02.xml#飼い猫（メス）の不妊手術助成">
+ <title>飼い猫（メス）の不妊手術助成</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1510/info02.html#飼い猫（メス）の不妊手術助成</link>
+ <description rdf:datatype="rdf:HTML"><html:p>生後6カ月以上のメスの飼い猫。手術料金の1割を助成（上限2,500円）。1年間に1人1匹限り。応募要領は市ホームページ等で<html:br/>申し込みは10月1日（木曜）～20日（火曜）消印有効<html:br/>問い合わせは生活衛生課（電話322-5264、FAX322-2725）</html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-10/info02.xml#看護師等の届け出制度が始まります">
+ <title>看護師等の届け出制度が始まります</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1510/info02.html#看護師等の届け出制度が始まります</link>
+ <description rdf:datatype="rdf:HTML"><html:p>10月から、離職中および離職する看護師等は、ナースセンターへインターネットまたは書面で届け出ることが努力義務に<html:br/>問い合わせは地域医療課（電話322-5246、FAX322-6054）</html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-10/info02.xml#自転車保険への加入義務化">
+ <title>自転車保険への加入義務化</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1510/info02.html#自転車保険への加入義務化</link>
+ <description rdf:datatype="rdf:HTML"><html:p>10月1日（木曜）から自転車保険への加入が義務化されます。加入していない人は、自分に合った保険を選択して加入しましょう<html:br/>問い合わせは危機管理室（電話322-5171、FAX322-6031）</html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-10/info02.xml#神戸ビエンナーレ2015開催中">
+ <title>神戸ビエンナーレ2015開催中</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1510/info02.html#神戸ビエンナーレ2015開催中</link>
+ <description rdf:datatype="rdf:HTML"><html:p>メリケンパーク会場、夜の東遊園地会場を中心に神戸ビエンナーレを開催しています。詳細はビエンナーレホームページで<html:br/>問い合わせは文化交流部（電話322-6598、FAX322-6136）</html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-10/info02.xml#国民健康保険証の更新について">
+ <title>国民健康保険証の更新について</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1510/info02.html#国民健康保険証の更新について</link>
+ <description rdf:datatype="rdf:HTML"><html:p>新しい保険証（もえぎ色）を世帯主に10月末ごろ送付。保険料未納や、所得照会未回答の世帯は区役所・支所での手続きが必要<html:br/>問い合わせは国保年金医療課（電話322-5206、FAX322-6041）</html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-10/info02.xml#いきいき健康長寿の集い～食と運動">
+ <title>いきいき健康長寿の集い～食と運動</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1510/info02.html#いきいき健康長寿の集い～食と運動</link>
+ <description rdf:datatype="rdf:HTML"><html:p>11月7日（土曜）開催。健康チェックや栄養相談、市民講座等イベントが盛りだくさん。詳細は「ワールドハートデー」ホームページで<html:br/>申し込みは10月30日（金曜）必着<html:br/>問い合わせは地域保健課（電話322-5256、FAX322-6052）</html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-10/info02.xml#生物多様性シンポジウム出展者募集">
+ <title>生物多様性シンポジウム出展者募集</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1510/info02.html#生物多様性シンポジウム出展者募集</link>
+ <description rdf:datatype="rdf:HTML"><html:p>市民団体の生物多様性に係る取り組み等を紹介するパネル展への出展団体を募集<html:br/>申し込みは10月9日（金曜）まで受付<html:br/>問い合わせは自然環境共生課（電話322-5316、FAX322-6069）</html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-10/info02.xml#兵庫県最低賃金の改正">
+ <title>兵庫県最低賃金の改正</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1510/info02.html#兵庫県最低賃金の改正</link>
+ <description rdf:datatype="rdf:HTML"><html:p>10月1日（木曜）から時間額794円に。パート、アルバイト等全ての労働者に適用。詳細は、兵庫労働局（電話367-9154）へ<html:br/>問い合わせは経済企画課（電話322-5323、FAX322-6073）</html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-10/info02.xml#合同企業説明会">
+ <title>合同企業説明会</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1510/info02.html#合同企業説明会</link>
+ <description rdf:datatype="rdf:HTML"><html:p>28年3月大学・短大等卒業予定者、既卒若年求職者対象。10月16日（金曜）13時～。神戸商工会議所会館で。無料。当日受け付け<html:br/>問い合わせは経済企画課（電話322-5323、FAX322-6073）</html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-10/info02.xml#有馬温泉銀の湯の営業を再開します">
+ <title>有馬温泉銀の湯の営業を再開します</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1510/info02.html#有馬温泉銀の湯の営業を再開します</link>
+ <description rdf:datatype="rdf:HTML"><html:p>銀の湯では浴室屋根等の工事が完了しましたので、10月1日（木曜）より営業を再開します<html:br/>問い合わせは国際観光コンベンション協会（電話904-0256、FAX907-3370）</html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-10/info02.xml#山麓バイパス東行き夜間通行止め">
+ <title>山麓バイパス東行き夜間通行止め</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1510/info02.html#山麓バイパス東行き夜間通行止め</link>
+ <description rdf:datatype="rdf:HTML"><html:p>10月19日（月曜）～23日（金曜）山麓バイパス東行きは、防災設備点検整備のため夜間通行止めを行います。各日23時～翌5時まで<html:br/>問い合わせは市道路公社（電話583-0234、FAX583-0667）</html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-10/info02.xml#すまいの耐震化を進めましょう">
+ <title>すまいの耐震化を進めましょう</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1510/info02.html#すまいの耐震化を進めましょう</link>
+ <description rdf:datatype="rdf:HTML"><html:p>身近な耐震化の取り組みは、無料耐震診断の受診から。昭和56年以前着工の住宅にお住まいの人。詳細はお問い合わせください<html:br/>問い合わせは耐震推進課（電話322-6608、FAX322-6094）</html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-10/info02.xml#高齢者のバリアフリー化工事を応援">
+ <title>高齢者のバリアフリー化工事を応援</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1510/info02.html#高齢者のバリアフリー化工事を応援</link>
+ <description rdf:datatype="rdf:HTML"><html:p>要支援・要介護認定を受けていない高齢者がいる世帯の住まいを対象に、手すり設置や段差解消等の工事費の一部を補助します<html:br/>申し込みは随時（先着順）<html:br/>問い合わせはすまいるネット（電話222-0186、FAX222-0106）</html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-10/info02.xml#ベイ・シャトル往復割引の継続実施">
+ <title>ベイ・シャトル往復割引の継続実施</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1510/info02.html#ベイ・シャトル往復割引の継続実施</link>
+ <description rdf:datatype="rdf:HTML"><html:p>神戸-関空ベイ・シャトルでは、往復割引キャンペーンを28年3月31日（木曜）まで延長します。ぜひご利用ください<html:br/>問い合わせはみなと総局総務課（電話322-5656、FAX322-6120）</html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-10/info02.xml#大英博物館展・地下鉄1日乗車券">
+ <title>大英博物館展・地下鉄1日乗車券</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1510/info02.html#大英博物館展・地下鉄1日乗車券</link>
+ <description rdf:datatype="rdf:HTML"><html:p>市立博物館で開催の特別展がデザインされた1日券（820円）。地下鉄各駅売店、地下鉄定期券発売所などで発売中。お得な優待あり<html:br/>問い合わせは営業推進課（電話322-5994、FAX322-6183）</html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-10/info02.xml#学園都市駅エレベーターの使用停止">
+ <title>学園都市駅エレベーターの使用停止</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1510/info02.html#学園都市駅エレベーターの使用停止</link>
+ <description rdf:datatype="rdf:HTML"><html:p>市営地下鉄学園都市駅で改札内エレベーター2基の更新工事を実施します。詳細は交通局ホームページで<html:br/>期間は10月8日（木曜）～12月中旬<html:br/>問い合わせは施設管理課（電話322-5993、FAX322-6190）</html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-10/info02.xml#小学校入学予定者健康診断">
+ <title>小学校入学予定者健康診断</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1510/info02.html#小学校入学予定者健康診断</link>
+ <description rdf:datatype="rdf:HTML"><html:p>21年4月2日～22年4月1日生まれの児童の保護者に郵送で通知。市立学校入学希望の外国人は区役所・支所へ<html:br/>問い合わせは教育委員会総務課（電話322-5763、FAX322-6145）</html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-10/info02.xml#生活支援員養成研修 事前説明会">
+ <title>生活支援員養成研修 事前説明会</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1510/info02.html#生活支援員養成研修 事前説明会</link>
+ <description rdf:datatype="rdf:HTML"><html:p>高齢者・障害者の日常生活費のお届けなどをする生活支援員の養成研修事前説明会を11月17日（火曜）・18日（水曜）の午後に開催<html:br/>申し込みは先着順<html:br/>問い合わせはこうべ安心サポートセンター（電話271-5358、FAX271-2250）</html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-10/info02.xml#28年度市立幼稚園園児募集">
+ <title>28年度市立幼稚園園児募集</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1510/info02.html#28年度市立幼稚園園児募集</link>
+ <description rdf:datatype="rdf:HTML"><html:p>10月14日（水曜）～21日（水曜）に各園で配布する申込書に記入し、受付期間内に各園へ直接申し込み。定員あり<html:br/>申し込みは10月22日（木曜）～30日（金曜）（24日（土曜）・25日（日曜）・27日（火曜）・28日（水曜）除く）<html:br/>問い合わせは教育委員会総務課（電話322-5763、FAX322-6145）</html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-10/info02.xml#三宮証明サービスコーナー・自動交付機休業日">
+ <title>三宮証明サービスコーナー・自動交付機休業日</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1510/info02.html#三宮証明サービスコーナー・自動交付機休業日</link>
+ <description rdf:datatype="rdf:HTML"><html:p>（1）三宮証明サービスコーナー<html:br/>10月3日（土曜）・4日（日曜）休業</html:p><html:p>（2）証明書自動交付機<html:br/>10月4日（日曜）休業</html:p><html:p>問い合わせは市総合コールセンター（電話333-3330、FAX333-3314）</html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-10/info02.xml#創業希望者のための神戸大創業者祭">
+ <title>創業希望者のための神戸大創業者祭</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1510/info02.html#創業希望者のための神戸大創業者祭</link>
+ <description rdf:datatype="rdf:HTML"><html:p>クラウドによる資金調達や創業体験の講演と交流会。10月29日（木曜）14時～18時30分。参加費2,000円<html:br/>申し込みは先着順<html:br/>問い合わせは産業振興財団（電話360-3202、FAX360-1419）</html:p></description>
+</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-10/info02.xml#総合運動公園P3駐車場料金変更">
+ <title>総合運動公園P3駐車場料金変更</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1510/info02.html#総合運動公園P3駐車場料金変更</link>
+ <description rdf:datatype="rdf:HTML"><html:p>10月1日（木曜）よりP3駐車場の料金を1時間200円に変更します。詳細は総合運動公園ホームページで<html:br/>問い合わせは電話795-5151、FAX792-3122</html:p>
+  
+    
+
+
+</description>
+</item></channel>
+</rdf:RDF>
