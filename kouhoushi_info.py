@@ -23,6 +23,7 @@ import os.path
 import html
 import itertools
 import atexit
+import functools
 import contextlib
 
 JST = datetime.timezone(datetime.timedelta(hours=9), "JST")
@@ -81,13 +82,14 @@ class Page(object):
 		self.doc = doc
 		self.url = url
 		if year_month is None:
+			self.year_month = (None, None)
 			for bs in doc.xpath("//p[@id='breadcrumbsList']"):
 				for b in bs.xpath(".//a"):
 					ym = re.match("(\d+)年(\d+)月", b.text)
 					if ym:
 						self.year_month = tuple(map(int, ym.groups()))
 		else:
-			self.year_month = (None, None)
+			self.year_month = year_month
 
 class PartialPage(object):
 	'''
@@ -371,27 +373,30 @@ class Block(object):
 			COUNT = "(?P<count>\d+)回"
 			OPT_DAY = "・(?P<day2>\d+)日"
 			END_DAY = "～(?P<day2>\d+)日"
-			TRAIL = "(?P<trail>（予約制）)?(。雨天中止)?"
+			TRAIL = "(?P<trail>（((面接・)?予約制|荒天中止|雨天中止)）)?(。雨天中止)?"
 			
 			pat = re.match("日時は"+DATE+"（"+WEEKDAY+"）$", txt)
 			if not dt and pat:
 				m = pat.groupdict("0")
 				tm = datetime.date(page_year, int(m["month"]), int(m["day"]))
-				assert WDAY[tm.weekday()] == m["wday"], txt
+				if WDAY[tm.weekday()] != m["wday"]:
+					raise HintRequired("X-HINT-REQ-DTSTART:wday;{0}".format(txt))
 				dt = [("DTSTART", tm, {})]
 			
 			pat = re.match("日時は"+DATE+"（"+WEEKDAY+"）～$", txt)
 			if not dt and pat:
 				m = pat.groupdict("0")
 				tm = datetime.date(page_year, int(m["month"]), int(m["day"]))
-				assert WDAY[tm.weekday()] == m["wday"], txt
+				if WDAY[tm.weekday()] != m["wday"]:
+					raise HintRequired("X-HINT-REQ-DTSTART:wday;{0}".format(txt))
 				dt = [("DTSTART", tm, {})]
 			
 			pat = re.match("日時は"+DATE+"（"+WEEKDAY+"）"+TIME+"～"+TRAIL+"$", txt)
 			if not dt and pat:
 				m = pat.groupdict("0")
 				tm = datetime.datetime(page_year, int(m["month"]), int(m["day"]), int(m["hour"]), int(m["minute"]))
-				assert WDAY[tm.weekday()] == m["wday"], txt
+				if WDAY[tm.weekday()] != m["wday"]:
+					raise HintRequired("X-HINT-REQ-DTSTART:wday;{0}".format(txt))
 				dt = [("DTSTART", tm, {})]
 			
 			pat = re.match("日時は"+DATE+"（"+WEEKDAY+"）"+TIME+"～"+TIME2+TRAIL+"$", txt)
@@ -399,7 +404,8 @@ class Block(object):
 				m = pat.groupdict("0")
 				tm1 = datetime.datetime(page_year, int(m["month"]), int(m["day"]), int(m["hour"]), int(m["minute"]))
 				tm2 = datetime.datetime(page_year, int(m["month"]), int(m["day"]), int(m["hour2"]), int(m["minute2"]))
-				assert WDAY[tm1.weekday()] == m["wday"], txt
+				if WDAY[tm1.weekday()] != m["wday"]:
+					raise HintRequired("X-HINT-REQ-DTSTART:wday;{0}".format(txt))
 				dt = [
 					("DTSTART", tm1, {}),
 					("DTEND", tm2, {}),
@@ -409,7 +415,8 @@ class Block(object):
 			if not dt and pat:
 				m = pat.groupdict("0")
 				tm = datetime.datetime(page_year, int(m["month"]), int(m["day"]), int(m["hour"]), int(m["minute"]))
-				assert WDAY[tm.weekday()] == m["wday"], txt
+				if WDAY[tm.weekday()] != m["wday"]:
+					raise HintRequired("X-HINT-REQ-DTSTART:wday;{0}".format(txt))
 				dt = [
 					("DTSTART", tm, {}),
 					("RRULE", "FREQ=WEEKLY;COUNT={0}".format(m["count"]), {}),
@@ -419,7 +426,8 @@ class Block(object):
 			if not dt and pat:
 				m = pat.groupdict("0")
 				tm = datetime.datetime(page_year, int(m["month"]), int(m["day"]), int(m["hour"]), int(m["minute"]))
-				assert WDAY[tm.weekday()] == m["wday"], txt
+				if WDAY[tm.weekday()] != m["wday"]:
+					raise HintRequired("X-HINT-REQ-DTSTART:wday;{0}".format(txt))
 				tme = datetime.datetime(page_year, int(m["month"]), int(m["day"]), int(m["hour2"]), int(m["minute2"]))
 				dt = [
 					("DTSTART", tm, {}),
@@ -431,9 +439,11 @@ class Block(object):
 			if not dt and pat:
 				m = pat.groupdict("0")
 				tm = datetime.date(page_year, int(m["month"]), int(m["day"]))
-				assert WDAY[tm.weekday()] == m["wday"], txt
+				if WDAY[tm.weekday()] != m["wday"]:
+					raise HintRequired("X-HINT-REQ-DTSTART:wday;{0}".format(txt))
 				tm2 = datetime.date(page_year, int(m["month2"]), int(m["day2"]))
-				assert WDAY[tm2.weekday()] == m["wday2"], txt
+				if WDAY[tm2.weekday()] != m["wday2"]:
+					raise HintRequired("X-HINT-REQ-DTSTART:wday2;{0}".format(txt))
 				dt = [
 					("DTSTART", tm, {}),
 					("DTEND", tm2+datetime.timedelta(days=1), {}), # dtend is exclusive
@@ -453,9 +463,11 @@ class Block(object):
 			if not dt and pat:
 				m = pat.groupdict("0")
 				tm = datetime.datetime(page_year, int(m["month"]), int(m["day"]), int(m["hour"]), int(m["minute"]))
-				assert WDAY[tm.weekday()] == m["wday"], txt
+				if WDAY[tm.weekday()] != m["wday"]:
+					raise HintRequired("X-HINT-REQ-DTSTART:wday;{0}".format(txt))
 				tm2 = datetime.datetime(page_year, int(m["month"]), int(m["day2"]), int(m["hour"]), int(m["minute"]))
-				assert WDAY[tm2.weekday()] == m["wday2"], txt
+				if WDAY[tm2.weekday()] != m["wday2"]:
+					raise HintRequired("X-HINT-REQ-DTSTART:wday2;{0}".format(txt))
 				dt = [
 					("DTSTART", tm, {}),
 					("RRULE", "FREQ=DAILY;BYMONTHDAY={day2};COUNT=1".format(**m), {}),
@@ -466,7 +478,8 @@ class Block(object):
 				m = pat.groupdict("0")
 				tm = datetime.datetime(page_year, int(m["month"]), int(m["day"]), int(m["hour"]), int(m["minute"]))
 				tm2 = datetime.datetime(page_year, int(m["month"]), int(m["day"]), int(m["hour2"]), int(m["minute2"]))
-				assert WDAY[tm.weekday()] == m["wday"], txt
+				if WDAY[tm.weekday()] != m["wday"]:
+					raise HintRequired("X-HINT-REQ-DTSTART:wday;{0}".format(txt))
 				dt = [
 					("DTSTART", tm, {}),
 					("DTEND", tm2, {}),
@@ -477,9 +490,11 @@ class Block(object):
 			if not dt and pat:
 				m = pat.groupdict("0")
 				tm = datetime.date(page_year, int(m["month"]), int(m["day"]))
-				assert WDAY[tm.weekday()] == m["wday"], txt
+				if WDAY[tm.weekday()] != m["wday"]:
+					raise HintRequired("X-HINT-REQ-DTSTART:wday;{0}".format(txt))
 				tm2 = datetime.date(page_year, int(m["month"]), int(m["day2"]))
-				assert WDAY[tm2.weekday()] == m["wday2"], txt
+				if WDAY[tm2.weekday()] != m["wday2"]:
+					raise HintRequired("X-HINT-REQ-DTSTART:wday2;{0}".format(txt))
 				dt = [
 					("DTSTART", tm, {}),
 					("DTEND", tm2+datetime.timedelta(days=1), {}), # dtend is exclusive
@@ -489,14 +504,16 @@ class Block(object):
 			if not dt and pat:
 				m = pat.groupdict("0")
 				tm = datetime.datetime(page_year, int(m["month"]), int(m["day"]), int(m["hour"]), int(m["minute"]))
-				assert WDAY[tm.weekday()] == m["wday"], txt
+				if WDAY[tm.weekday()] != m["wday"]:
+					raise HintRequired("X-HINT-REQ-DTSTART:wday;{0}".format(txt))
 				dt = [("DTSTART", tm, {})]
 			
 			pat = re.match("日時は"+DATE+"（"+WEEKDAY+"）まで", txt)
 			if not dt and pat:
 				m = pat.groupdict("0")
 				tm = datetime.date(page_year, int(m["month"]), int(m["day"]))
-				assert WDAY[tm.weekday()] == m["wday"], txt
+				if WDAY[tm.weekday()] != m["wday"]:
+					raise HintRequired("X-HINT-REQ-DTSTART:wday;{0}".format(txt))
 				dt = [("DTEND", tm+datetime.timedelta(days=1), {})] # dtend is exclusive
 			
 			pat = re.match("日時は"+DATE+"（"+WEEKDAY+"）"+TIME+"入港"+OPT_DAY+"（"+WEEKDAY2+"）"+TIME2+"出港", txt)
@@ -638,7 +655,7 @@ def proc(url, year_month=None):
 						ics.write(l.encode("UTF-8"))
 						ics.write("\r\n".encode("UTF-8"))
 			
-			def inject_block(rss_doc):
+			def inject_block(b, enable_vevent, rss_doc):
 				# emit rss item
 				parent = rss_doc.xpath(".//rdf:Seq", namespaces=NSMAP)[0]
 				li = lxml.etree.Element("{{{rdf}}}li".format(**NSMAP),
@@ -669,15 +686,21 @@ def proc(url, year_month=None):
 			
 				parent = rss_item_doc.xpath(".//x:description", namespaces=NSMAP)[0]
 				if b.html:
-					for e in b.html:
-						e = lxml.etree.fromstring(lxml.etree.tostring(e)) # clone
-						lxml.html.html_to_xhtml(e)
-						parent.append(e) # set namespace for putting node directly in xml
+					c = "".join([lxml.html.tostring(e, encoding="unicode") for e in b.html])
+					d = lxml.html.fragment_fromstring("<div>"+c+"</div>")
+					lxml.html.html_to_xhtml(d)
+					for e in d.xpath("./*"):
+						parent.append(e)
+# 					for e in b.html:
+# 						e = lxml.etree.fromstring(lxml.etree.tostring(e)) # clone
+# 						lxml.html.html_to_xhtml(e)
+# 						parent.append(e) # set namespace for putting node directly in xml
 				else:
-					for e in b.h2.elements:
-						e = lxml.etree.fromstring(lxml.etree.tostring(e)) # clone
-						lxml.html.html_to_xhtml(e)
-						parent.append(e) # set namespace for putting node directly in xml
+					c = "".join([lxml.html.tostring(e, encoding="unicode") for e in b.h2.elements])
+					d = lxml.html.fragment_fromstring("<div>"+c+"</div>")
+					lxml.html.html_to_xhtml(d)
+					for e in d.xpath("./*"):
+						parent.append(e)
 			
 				if enable_vevent:
 					e = lxml.etree.fromstring('<p><a href="{0}/{1}/{2}">カレンダー登録</a></p>'.format(
@@ -687,8 +710,8 @@ def proc(url, year_month=None):
 					lxml.html.html_to_xhtml(e)
 					parent.append(e)
 			
-			inject_block(rss_doc)
-			rss_injectors.append(inject_block)
+			inject_block(b, enable_vevent, rss_doc)
+			rss_injectors.append(functools.partial(inject_block, b, enable_vevent))
 			
 			for ev in b.events:
 				req = False
