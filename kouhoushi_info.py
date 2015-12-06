@@ -356,6 +356,10 @@ class Block(object):
 	
 	def dt(self):
 		page_year, page_month = self.h2.page.year_month
+		def year(month):
+			if month < page_month-2:
+				return page_year+1
+			return page_year
 		
 		dts = []
 		for txt in itertools.chain(*[e.itertext() for e in self.html]):
@@ -378,7 +382,7 @@ class Block(object):
 			pat = re.match("日時は"+DATE+"（"+WEEKDAY+"）$", txt)
 			if not dt and pat:
 				m = pat.groupdict("0")
-				tm = datetime.date(page_year, int(m["month"]), int(m["day"]))
+				tm = datetime.date(year(int(m["month"])), int(m["month"]), int(m["day"]))
 				if WDAY[tm.weekday()] != m["wday"]:
 					raise HintRequired("X-HINT-REQ-DTSTART:wday;{0}".format(txt))
 				dt = [("DTSTART", tm, {})]
@@ -386,7 +390,7 @@ class Block(object):
 			pat = re.match("日時は"+DATE+"（"+WEEKDAY+"）～$", txt)
 			if not dt and pat:
 				m = pat.groupdict("0")
-				tm = datetime.date(page_year, int(m["month"]), int(m["day"]))
+				tm = datetime.date(year(int(m["month"])), int(m["month"]), int(m["day"]))
 				if WDAY[tm.weekday()] != m["wday"]:
 					raise HintRequired("X-HINT-REQ-DTSTART:wday;{0}".format(txt))
 				dt = [("DTSTART", tm, {})]
@@ -394,7 +398,7 @@ class Block(object):
 			pat = re.match("日時は"+DATE+"（"+WEEKDAY+"）"+TIME+"～"+TRAIL+"$", txt)
 			if not dt and pat:
 				m = pat.groupdict("0")
-				tm = datetime.datetime(page_year, int(m["month"]), int(m["day"]), int(m["hour"]), int(m["minute"]))
+				tm = datetime.datetime(year(int(m["month"])), int(m["month"]), int(m["day"]), int(m["hour"]), int(m["minute"]))
 				if WDAY[tm.weekday()] != m["wday"]:
 					raise HintRequired("X-HINT-REQ-DTSTART:wday;{0}".format(txt))
 				dt = [("DTSTART", tm, {})]
@@ -402,8 +406,8 @@ class Block(object):
 			pat = re.match("日時は"+DATE+"（"+WEEKDAY+"）"+TIME+"～"+TIME2+TRAIL+"$", txt)
 			if not dt and pat:
 				m = pat.groupdict("0")
-				tm1 = datetime.datetime(page_year, int(m["month"]), int(m["day"]), int(m["hour"]), int(m["minute"]))
-				tm2 = datetime.datetime(page_year, int(m["month"]), int(m["day"]), int(m["hour2"]), int(m["minute2"]))
+				tm1 = datetime.datetime(year(int(m["month"])), int(m["month"]), int(m["day"]), int(m["hour"]), int(m["minute"]))
+				tm2 = datetime.datetime(year(int(m["month"])), int(m["month"]), int(m["day"]), int(m["hour2"]), int(m["minute2"]))
 				if WDAY[tm1.weekday()] != m["wday"]:
 					raise HintRequired("X-HINT-REQ-DTSTART:wday;{0}".format(txt))
 				dt = [
@@ -414,7 +418,7 @@ class Block(object):
 			pat = re.match("日時は"+DATE+"～、"+WEEKDAY+TIME+"～。"+COUNT+"$", txt)
 			if not dt and pat:
 				m = pat.groupdict("0")
-				tm = datetime.datetime(page_year, int(m["month"]), int(m["day"]), int(m["hour"]), int(m["minute"]))
+				tm = datetime.datetime(year(int(m["month"])), int(m["month"]), int(m["day"]), int(m["hour"]), int(m["minute"]))
 				if WDAY[tm.weekday()] != m["wday"]:
 					raise HintRequired("X-HINT-REQ-DTSTART:wday;{0}".format(txt))
 				dt = [
@@ -425,10 +429,10 @@ class Block(object):
 			pat = re.match("日時は"+DATE+"～、"+WEEKDAY+TIME+"～"+TIME2+"。"+COUNT+"$", txt)
 			if not dt and pat:
 				m = pat.groupdict("0")
-				tm = datetime.datetime(page_year, int(m["month"]), int(m["day"]), int(m["hour"]), int(m["minute"]))
+				tm = datetime.datetime(year(int(m["month"])), int(m["month"]), int(m["day"]), int(m["hour"]), int(m["minute"]))
 				if WDAY[tm.weekday()] != m["wday"]:
 					raise HintRequired("X-HINT-REQ-DTSTART:wday;{0}".format(txt))
-				tme = datetime.datetime(page_year, int(m["month"]), int(m["day"]), int(m["hour2"]), int(m["minute2"]))
+				tme = datetime.datetime(year(int(m["month"])), int(m["month"]), int(m["day"]), int(m["hour2"]), int(m["minute2"]))
 				dt = [
 					("DTSTART", tm, {}),
 					("DTEND", tme, {}),
@@ -438,10 +442,10 @@ class Block(object):
 			pat = re.match("日時は"+DATE+"（"+WEEKDAY+"）～"+DATE2+"（"+WEEKDAY2+"）$", txt)
 			if not dt and pat:
 				m = pat.groupdict("0")
-				tm = datetime.date(page_year, int(m["month"]), int(m["day"]))
+				tm = datetime.date(year(int(m["month"])), int(m["month"]), int(m["day"]))
 				if WDAY[tm.weekday()] != m["wday"]:
 					raise HintRequired("X-HINT-REQ-DTSTART:wday;{0}".format(txt))
-				tm2 = datetime.date(page_year, int(m["month2"]), int(m["day2"]))
+				tm2 = datetime.date(year(int(m["month2"])), int(m["month2"]), int(m["day2"]))
 				if WDAY[tm2.weekday()] != m["wday2"]:
 					raise HintRequired("X-HINT-REQ-DTSTART:wday2;{0}".format(txt))
 				dt = [
@@ -452,7 +456,7 @@ class Block(object):
 			pat = re.match("日時は"+DATE+"（"+WEEKDAY+"）"+TIME+"～・"+TIME2+"～$", txt)
 			if not dt and pat:
 				m = pat.groupdict("0")
-				tm = datetime.datetime(page_year, int(m["month"]), int(m["day"]), int(m["hour"]), int(m["minute"]))
+				tm = datetime.datetime(year(int(m["month"])), int(m["month"]), int(m["day"]), int(m["hour"]), int(m["minute"]))
 				assert WDAY[tm.weekday()] == m["wday"], txt
 				dt = [
 					("DTSTART", tm, {}),
@@ -462,10 +466,10 @@ class Block(object):
 			pat = re.match("日時は"+DATE+"（"+WEEKDAY+"）"+OPT_DAY+"（"+WEEKDAY2+"）"+TIME+"～$", txt)
 			if not dt and pat:
 				m = pat.groupdict("0")
-				tm = datetime.datetime(page_year, int(m["month"]), int(m["day"]), int(m["hour"]), int(m["minute"]))
+				tm = datetime.datetime(year(int(m["month"])), int(m["month"]), int(m["day"]), int(m["hour"]), int(m["minute"]))
 				if WDAY[tm.weekday()] != m["wday"]:
 					raise HintRequired("X-HINT-REQ-DTSTART:wday;{0}".format(txt))
-				tm2 = datetime.datetime(page_year, int(m["month"]), int(m["day2"]), int(m["hour"]), int(m["minute"]))
+				tm2 = datetime.datetime(year(int(m["month"])), int(m["month"]), int(m["day2"]), int(m["hour"]), int(m["minute"]))
 				if WDAY[tm2.weekday()] != m["wday2"]:
 					raise HintRequired("X-HINT-REQ-DTSTART:wday2;{0}".format(txt))
 				dt = [
@@ -476,8 +480,8 @@ class Block(object):
 			pat = re.match("日時は"+DATE+"（"+WEEKDAY+"）"+OPT_DAY+"（"+WEEKDAY2+"）"+TIME+"～"+TIME2+"$", txt)
 			if not dt and pat:
 				m = pat.groupdict("0")
-				tm = datetime.datetime(page_year, int(m["month"]), int(m["day"]), int(m["hour"]), int(m["minute"]))
-				tm2 = datetime.datetime(page_year, int(m["month"]), int(m["day"]), int(m["hour2"]), int(m["minute2"]))
+				tm = datetime.datetime(year(int(m["month"])), int(m["month"]), int(m["day"]), int(m["hour"]), int(m["minute"]))
+				tm2 = datetime.datetime(year(int(m["month"])), int(m["month"]), int(m["day"]), int(m["hour2"]), int(m["minute2"]))
 				if WDAY[tm.weekday()] != m["wday"]:
 					raise HintRequired("X-HINT-REQ-DTSTART:wday;{0}".format(txt))
 				dt = [
@@ -489,10 +493,10 @@ class Block(object):
 			pat = re.match("日時は"+DATE+"（"+WEEKDAY+"）"+END_DAY+"（"+WEEKDAY2+"）$", txt)
 			if not dt and pat:
 				m = pat.groupdict("0")
-				tm = datetime.date(page_year, int(m["month"]), int(m["day"]))
+				tm = datetime.date(year(int(m["month"])), int(m["month"]), int(m["day"]))
 				if WDAY[tm.weekday()] != m["wday"]:
 					raise HintRequired("X-HINT-REQ-DTSTART:wday;{0}".format(txt))
-				tm2 = datetime.date(page_year, int(m["month"]), int(m["day2"]))
+				tm2 = datetime.date(year(int(m["month"])), int(m["month"]), int(m["day2"]))
 				if WDAY[tm2.weekday()] != m["wday2"]:
 					raise HintRequired("X-HINT-REQ-DTSTART:wday2;{0}".format(txt))
 				dt = [
@@ -503,7 +507,7 @@ class Block(object):
 			pat = re.match("日時は"+DATE+"（"+WEEKDAY+"）"+TIME+"集合", txt)
 			if not dt and pat:
 				m = pat.groupdict("0")
-				tm = datetime.datetime(page_year, int(m["month"]), int(m["day"]), int(m["hour"]), int(m["minute"]))
+				tm = datetime.datetime(year(int(m["month"])), int(m["month"]), int(m["day"]), int(m["hour"]), int(m["minute"]))
 				if WDAY[tm.weekday()] != m["wday"]:
 					raise HintRequired("X-HINT-REQ-DTSTART:wday;{0}".format(txt))
 				dt = [("DTSTART", tm, {})]
@@ -511,7 +515,7 @@ class Block(object):
 			pat = re.match("日時は"+DATE+"（"+WEEKDAY+"）まで", txt)
 			if not dt and pat:
 				m = pat.groupdict("0")
-				tm = datetime.date(page_year, int(m["month"]), int(m["day"]))
+				tm = datetime.date(year(int(m["month"])), int(m["month"]), int(m["day"]))
 				if WDAY[tm.weekday()] != m["wday"]:
 					raise HintRequired("X-HINT-REQ-DTSTART:wday;{0}".format(txt))
 				dt = [("DTEND", tm+datetime.timedelta(days=1), {})] # dtend is exclusive
@@ -519,8 +523,8 @@ class Block(object):
 			pat = re.match("日時は"+DATE+"（"+WEEKDAY+"）"+TIME+"入港"+OPT_DAY+"（"+WEEKDAY2+"）"+TIME2+"出港", txt)
 			if not dt and pat:
 				m = pat.groupdict("0")
-				tm = datetime.datetime(page_year, int(m["month"]), int(m["day"]), int(m["hour"]), int(m["minute"]))
-				tm2 = datetime.datetime(page_year, int(m["month"]), int(m["day2"]), int(m["hour2"]), int(m["minute2"]))
+				tm = datetime.datetime(year(int(m["month"])), int(m["month"]), int(m["day"]), int(m["hour"]), int(m["minute"]))
+				tm2 = datetime.datetime(year(int(m["month"])), int(m["month"]), int(m["day2"]), int(m["hour2"]), int(m["minute2"]))
 				dt = [
 					("DTSTART", tm, {}),
 					("DTEND", tm2, {}),
