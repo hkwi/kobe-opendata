@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ラグビートップリーグ市民観戦会（2）神戸製鋼VSトヨタ自動車
+DESCRIPTION:（1）神戸製鋼VSコカ・コーラ\n日時は12月12日（土曜）13時～\n場所はノエビアスタジアム神戸\n料金は500円\n申し込みは当日先着順\n（2）神戸製鋼VSトヨタ自動車\n日時は12月26日（土曜）13時～\n場所はノエビアスタジアム神戸\n料金は500円\n申し込みは当日先着順\n問い合わせはスポーツ体育課（電話322-6995、FAX322-6149）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1512/info05.html#ラグビートップリーグ市民観戦会#2
+DTSTART:20151226T130000
+LOCATION:ノエビアスタジアム神戸
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:師 小磯良平の愛した音楽
+DESCRIPTION:日時は12月19日（土曜）14時～\n場所は小磯記念美術館\n料金は無料（別途入園料等が必要）\n問い合わせは電話857-5880、FAX857-3737
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1512/info06.html#師 小磯良平の愛した音楽
+DTSTART:20151219T140000
+LOCATION:小磯記念美術館
+END:VEVENT
+END:VCALENDAR

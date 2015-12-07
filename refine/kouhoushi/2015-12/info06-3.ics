@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:レディースデー（割引あり）
+DESCRIPTION:対象は中学生以上の女性\n日時は12月9日（水曜）\n場所は有馬温泉 金の湯・銀の湯\n問い合わせは電話904-0680、FAX907-3370
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1512/info06.html#レディースデー（割引あり）
+DTSTART:20151209
+LOCATION:有馬温泉 金の湯・銀の湯
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:看護師復職・就職支援セミナー
+DESCRIPTION:日時は12月19日（土曜）13時～\n場所はサンボーホール（中央区浜辺通5）\n料金は無料\n問い合わせは市総合コールセンター（電話333-3330、FAX333-3314）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1512/info04.html#看護師復職・就職支援セミナー
+DTSTART:20151219T130000
+LOCATION:サンボーホール（中央区浜辺通5）
+END:VEVENT
+END:VCALENDAR

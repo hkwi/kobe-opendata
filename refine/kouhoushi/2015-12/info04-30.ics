@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:あすてっぷKOBEの講座（3）女性のためのからだセミナー
+DESCRIPTION:（1）女性のための自己表現セミナー\n日時は2月6日（土曜）13時30分～\n料金は無料\n申し込みは電話かFAXか直接。先着順\n（2）女性のための法律セミナー\n日時は2月18日（木曜）13時30分～\n料金は無料\n申し込みは電話かFAXか直接。先着順\n（3）女性のためのからだセミナー\n日時は2月20日（土曜）13時30分～\n料金は無料\n申し込みは電話かFAXか直接。先着順\n問い合わせは電話361-6977、FAX361-6477
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1512/info04.html#あすてっぷKOBEの講座#3
+DTSTART:20160220T133000
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rdf:RDF xmlns:rdf="http://www.w3c.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:html="http://www.w3.org/1999/xhtml">
+<channel rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info00-03.xml">
+<title>神戸市：広報紙ＫＯＢＥ12月号　10面 </title>
+<link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1512/info00-03.html</link>
+<description>
+</description>
+<items>
+ <rdf:Seq>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info00-03.xml#KOBE Stylish DAY"/>
+ </rdf:Seq>
+</items>
+<item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info00-03.xml#KOBE Stylish DAY">
+ <title>KOBE Stylish DAY</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1512/info00-03.html#KOBE Stylish DAY</link>
+ <description rdf:datatype="rdf:HTML"><html:div class="btnSocialBox clearfix">
+            <html:div class="btnSocialInnerBox">
+              <html:span>
+                  <html:a href="https://twitter.com/share" class="twitter-share-button">ツイート</html:a>
+                  
+                </html:span>
+              <html:span>
+                  
+                </html:span>
+              </html:div>
+          </html:div>
+        
+<html:dl class="lastUpdate"><html:dt>最終更新日</html:dt><html:dd>2015年11月25日</html:dd></html:dl><html:ul class="link-list"><html:li class="doc-other"><html:a href="/information/public/kouhoushi/2015/1512/img/stylish_12_big.jpg" rel="external">今月のスナップ</html:a></html:li></html:ul><html:p>「できるだけ大切に長く着られるもの」を選ぶよう意識しているそう。シンプルな中にもトレンドのスパイスが光ります。</html:p><html:p>大丸神戸店 販売促進担当　吉本 有希さん</html:p><html:p>神戸スタイリッシュデーは、月曜日に少しだけおしゃれに気を配って「かっこいい大人」を目指しましょうというユニークな活動です</html:p><html:p>神戸スタイリッシュデー</html:p><html:ul class="link-list"><html:li class="doc-other"><html:a href="http://kfo.or.jp/40th_ani/stylishday/" rel="external">ホームページ（外部リンク）</html:a></html:li></html:ul><html:h2>問い合わせ</html:h2><html:p>ファッション産業課（電話322-5332、FAX322-6007）</html:p>
+  
+    
+
+
+</description>
+</item></channel>
+</rdf:RDF>

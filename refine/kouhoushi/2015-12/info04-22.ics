@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1512/info04.html#古武術に学ぶ無理ナイ介護術
+X-HINT-DTSTART:日時は1月21・28日（木曜）13時30分～
+DTSTART:20160121T133000
+RDATE:20160128T133000
+SUMMARY:古武術に学ぶ無理ナイ介護術
+DESCRIPTION:日時は1月21・28日（木曜）13時30分～\n場所は市民福祉交流センター\n料金は3\,000円\n申し込みははがきか電話かFAXか直接市民福祉大学（〒651-0086磯上通3-1-32）へ。1月6日（水曜）必着。抽選\n問い合わせは電話271-5300、FAX271-5365
+LOCATION:市民福祉交流センター
+END:VEVENT
+END:VCALENDAR

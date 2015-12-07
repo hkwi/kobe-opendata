@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:バンドー神戸青少年科学館
+DESCRIPTION:（1）親子で楽しむプラネコンサート\n日時は12月12日（土曜）・23日（水曜・祝日）18時30分～\n料金は600円\n申し込みは電話で。先着順\n（2）年末年始の休館日\n12月28日（月曜）～1月4日（月曜）は休館日です\n問い合わせは電話302-5177、FAX302-4816
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1512/info06.html#バンドー神戸青少年科学館
+DTSTART:20151212T183000
+RRULE:FREQ=DAILY;BYMONTHDAY=23;COUNT=1
+END:VEVENT
+END:VCALENDAR

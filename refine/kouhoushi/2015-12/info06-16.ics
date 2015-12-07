@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1512/info06.html#シルバーカレッジオープンキャンパス
+X-HINT-DTSTART:日時は12月14日（月曜）・15日（火曜）10時30分～・13時～
+DTSTART:20151214T103000
+RDATE:20151214T130000
+RDATE:20151215T103000
+RDATE:20151215T130000
+SUMMARY:シルバーカレッジオープンキャンパス
+DESCRIPTION:日時は12月14日（月曜）・15日（火曜）10時30分～・13時～\n料金は無料\n問い合わせは同事務局（電話743-8100、FAX743-8103）
+END:VEVENT
+END:VCALENDAR

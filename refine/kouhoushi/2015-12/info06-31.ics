@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ハーブ園から初日の出を見よう
+DESCRIPTION:日時は1月1日（金曜・祝日）\n場所は布引ハーブ園\n料金は有料\n問い合わせは電話271-1160、FAX271-1180
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1512/info06.html#ハーブ園から初日の出を見よう
+DTSTART:20160101
+LOCATION:布引ハーブ園
+END:VEVENT
+END:VCALENDAR

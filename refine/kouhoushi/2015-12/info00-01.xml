@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rdf:RDF xmlns:rdf="http://www.w3c.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:html="http://www.w3.org/1999/xhtml">
+<channel rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info00-01.xml">
+<title>神戸市：広報紙ＫＯＢＥ12月号　13面 </title>
+<link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1512/info00-01.html</link>
+<description>
+</description>
+<items>
+ <rdf:Seq>
+ <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info00-01.xml#あなたのご意見をお寄せください"/>
+ </rdf:Seq>
+</items>
+<item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info00-01.xml#あなたのご意見をお寄せください">
+ <title>あなたのご意見をお寄せください</title>
+ <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1512/info00-01.html#あなたのご意見をお寄せください</link>
+ <description rdf:datatype="rdf:HTML"><html:div class="btnSocialBox clearfix">
+            <html:div class="btnSocialInnerBox">
+              <html:span>
+                  <html:a href="https://twitter.com/share" class="twitter-share-button">ツイート</html:a>
+                  
+                </html:span>
+              <html:span>
+                  
+                </html:span>
+              </html:div>
+          </html:div>
+        
+<html:dl class="lastUpdate"><html:dt>最終更新日</html:dt><html:dd>2015年11月25日</html:dd></html:dl><html:p>市は政策や規則等を定める過程で、皆さんのご意見を募集しています。</html:p><html:h3>地域コミュニティ施策基本指針素案</html:h3><html:p>「神戸市地域コミュニティ施策の基本指針」の素案がまとまりましたので、皆さんの意見を募集します</html:p><html:p>期間は12月8日（火曜）～1月15日（金曜）</html:p><html:p>問い合わせは市民協働推進課（電話322-5189、FAX322-6115）</html:p><html:h3>新・神戸っ子すこやかプラン（案）</html:h3><html:p>現在の「次世代育成支援対策推進行動計画（後期計画）」の後継計画（～31年度）について、皆さんの意見を募集します</html:p><html:p>期間は12月14日（月曜）～1月13日（水曜）消印有効</html:p><html:p>問い合わせはこども家庭局総務課（電話322-6844、FAX322-6119）</html:p><html:h3>人と自然との共生ゾーン条例の改正</html:h3><html:p>人と自然との共生ゾーン条例の改正について、皆さんの意見を募集します</html:p><html:p>期間は12月8日（火曜）～1月12日（火曜）必着</html:p><html:p>問い合わせは産業振興局計画課（電話322-5353、FAX322-6079）</html:p><html:h3>里づくり拠点施設ほか立地基準改正</html:h3><html:p>市街化調整区域での開発許可基準の一部改正（里づくりの拠点施設、地域型保育施設）について皆さんの意見を募集します</html:p><html:p>期間は12月8日（火曜）～1月12日（火曜）必着</html:p><html:p>問い合わせは宅地開発指導課（電話322-5411、FAX322-6082）</html:p><html:h4>最新の情報は随時ホームページでお知らせしています</html:h4><html:ul class="link-list"><html:li><html:a href="http://www.city.kobe.lg.jp/information/public/comment/">ホームページ</html:a></html:li></html:ul>
+  
+    
+
+
+</description>
+</item></channel>
+</rdf:RDF>

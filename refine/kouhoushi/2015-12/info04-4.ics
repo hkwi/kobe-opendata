@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:大人の美術講座「細密画に挑戦」
+DESCRIPTION:日時は12月12日（土曜）13時～17時\n場所は小磯記念美術館\n料金は無料\n申し込みは往復はがき（〒658-0032向洋町中5-7）かFAXで。12月8日（火曜）消印有効。抽選\n問い合わせは電話857-5880、FAX857-3737
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1512/info04.html#大人の美術講座「細密画に挑戦」
+DTSTART:20151212T130000
+DTEND:20151212T170000
+LOCATION:小磯記念美術館
+END:VEVENT
+END:VCALENDAR

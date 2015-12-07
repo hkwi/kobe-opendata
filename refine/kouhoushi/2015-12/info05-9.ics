@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ユニバーで走り初め
+DESCRIPTION:日時は1月10日（日曜）13時30分～\n場所はユニバー記念競技場\n料金は無料\n問い合わせは総合運動公園（電話795-5151、FAX792-3122）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1512/info05.html#ユニバーで走り初め
+DTSTART:20160110T133000
+LOCATION:ユニバー記念競技場
+END:VEVENT
+END:VCALENDAR

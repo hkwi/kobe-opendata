@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:懐かしの名曲カバーライブ
+DESCRIPTION:日時は12月13日（日曜）14時～\n場所は相楽園\n料金は無料（別途入園料等が必要）\n申し込みは当日先着順\n問い合わせは電話351-5155、FAX361-7307
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1512/info06.html#懐かしの名曲カバーライブ
+DTSTART:20151213T140000
+LOCATION:相楽園
+END:VEVENT
+END:VCALENDAR

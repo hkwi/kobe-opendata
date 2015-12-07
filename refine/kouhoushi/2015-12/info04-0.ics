@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1512/info04.html#パソコンで描く水彩画講座初学者用
+X-HINT-DTSTART:日時は12月11日～、火・金曜9時30分～。5回
+DTSTART:20151211T093000
+RRULE:FREQ=DAILY;DAYS=TU,FR;COUNT=5
+SUMMARY:パソコンで描く水彩画講座初学者用
+DESCRIPTION:日時は12月11日～、火・金曜9時30分～。5回\n場所はユニティ\n料金は15\,000円\n申し込みは電話で。先着順\n問い合わせは電話794-4970、FAX794-4910
+LOCATION:ユニティ
+END:VEVENT
+END:VCALENDAR

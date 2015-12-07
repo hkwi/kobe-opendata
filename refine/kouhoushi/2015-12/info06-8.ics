@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:神戸オリニマダン
+DESCRIPTION:日時は12月13日（日曜）10時～15時\n場所は蓮池小学校\n料金は無料\n問い合わせは人権教育課（電話322-5809、FAX322-6139）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1512/info06.html#神戸オリニマダン
+DTSTART:20151213T100000
+DTEND:20151213T150000
+LOCATION:蓮池小学校
+END:VEVENT
+END:VCALENDAR

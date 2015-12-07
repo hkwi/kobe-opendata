@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:市民新年連合登山～三社参り
+DESCRIPTION:日時は1月3日（日曜）9時集合\n場所は長田神社（長田区長田町3）\n料金は無料\n問い合わせは市総合コールセンター（電話333-3330、FAX333-3314）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1512/info05.html#市民新年連合登山～三社参り
+DTSTART:20160103T090000
+LOCATION:長田神社（長田区長田町3）
+END:VEVENT
+END:VCALENDAR
