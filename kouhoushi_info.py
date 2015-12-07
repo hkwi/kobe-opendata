@@ -213,7 +213,7 @@ class KobeH2(PartialPage):
 			pass
 		
 		if block_method == BLOCK_METHOD_NONE:
-			key2ev = {}
+			key2ev = collections.OrderedDict()
 			for ev in hints(*self.page.year_month).children:
 				url = ev.get("URL")
 				if ev.name == "VEVENT" and url and url.startswith(self.url):
