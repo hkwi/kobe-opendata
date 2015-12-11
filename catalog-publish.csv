@@ -15,8 +15,7 @@
 野外彫刻作品一覧,,文化,csv,,市民参画推進局,文化交流部,http://www.city.kobe.lg.jp/culture/leisure/sculpture/
 野外彫刻作品一覧,,文化,rdf,,市民参画推進局,文化交流部,http://www.city.kobe.lg.jp/culture/leisure/sculpture/
 こうべ・だれでもトイレ設置施設一覧,,観光,xlsx,2015-08-12,住宅都市局,まちのデザイン課,http://www.city.kobe.lg.jp/information/project/universal/toshidukuri/toilet/itiran/index.html
-子育て関連行政サービス情報一覧,,子育て,csv,,子ども家庭局,総務課,http://kobe-city.mamafre.jp/
-子育て関連行政サービス情報一覧,,子育て,rdf,,子ども家庭局,総務課,http://kobe-city.mamafre.jp/
+子育て関連行政サービス情報一覧,,子育て,csv,2015-12-01,子ども家庭局,総務課,http://kobe-city.mamafre.jp/
 ごみ品目別収集区分一覧,,くらし,csv,2015-08-31,環境局,業務課,http://www.city.kobe.lg.jp/life/recycle/waketon/opendeta.html
 ごみの排出区分、排出曜日、住所地,,くらし,csv,2015-08-31,環境局,業務課,http://www.city.kobe.lg.jp/life/recycle/waketon/opendeta.html
 神戸市営地下鉄の時刻表と各駅の所在地,,くらし,csv,2015-09-03,交通局,地下鉄運輸サービス課,http://www.city.kobe.lg.jp/life/access/transport/subway/opendeta.html

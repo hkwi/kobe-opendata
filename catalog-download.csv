@@ -31,8 +31,7 @@
 野外彫刻作品一覧,,文化,csv,,市民参画推進局,文化交流部,http://www.city.kobe.lg.jp/information/opendata/img/sculpture_kobecity_20141128.csv
 野外彫刻作品一覧,,文化,rdf,,市民参画推進局,文化交流部,http://www.city.kobe.lg.jp/information/opendata/img/sculpture_kobe_ttl.txt
 こうべ・だれでもトイレ設置施設一覧,,観光,xlsx,2015-08-12,住宅都市局,まちのデザイン課,http://www.city.kobe.lg.jp/information/project/universal/toshidukuri/toilet/itiran/UDseibisisetu.xlsx
-子育て関連行政サービス情報一覧,,子育て,csv,,子ども家庭局,総務課,http://www.city.kobe.lg.jp/information/opendata/img/mamahure_seido_20150221.csv
-子育て関連行政サービス情報一覧,,子育て,rdf,,子ども家庭局,総務課,http://www.city.kobe.lg.jp/information/opendata/img/mamahure_seido_20150221.ttl
+子育て関連行政サービス情報一覧,,子育て,csv,2015-12-01,子ども家庭局,総務課,http://www.city.kobe.lg.jp/information/opendata/img/mamahure_seido.csv
 ごみ品目別収集区分一覧,,くらし,csv,2015-08-31,環境局,業務課,http://www.city.kobe.lg.jp/life/recycle/waketon/gomikubunn.csv
 ごみの排出区分、排出曜日、住所地,,くらし,csv,2015-08-31,環境局,業務課,http://www.city.kobe.lg.jp/life/recycle/waketon/gomihaisutu.csv
 マイナンバーFAQ一覧,,市政,xlsx,2015-09-03,企画調整局,情報化推進部,http://www.city.kobe.lg.jp/information/opendata/img/20150903_mynumber_faq.xlsx
