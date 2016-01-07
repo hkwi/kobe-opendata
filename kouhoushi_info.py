@@ -29,38 +29,23 @@ import contextlib
 JST = datetime.timezone(datetime.timedelta(hours=9), "JST")
 WDAY = "月火水木金土日"
 
-NSMAP = dict(
-	rdf="http://www.w3c.org/1999/02/22-rdf-syntax-ns#",
-	x="http://purl.org/rss/1.0/")
 rss = '''<?xml version="1.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3c.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:html="http://www.w3.org/1999/xhtml">
-<channel rdf:about="{url}">
+<rss version="2.0">
+<channel>
 <title>{title}</title>
 <link>{link}</link>
 <description>
 </description>
-<items>
- <rdf:Seq>
- </rdf:Seq>
-</items>
 </channel>
-</rdf:RDF>'''
-rss_item = '''<item xmlns="{x}" xmlns:rdf="{rdf}" rdf:about="{url}">
+</rss>'''
+rss_item = '''<item>
  <title>{title}</title>
  <link>{link}</link>
- <description rdf:datatype="rdf:HTML"></description>
+ <description></description>
 </item>
 '''
 
 html_escape_dict = lambda o: dict([(k,html.escape(v) if isinstance(v, str) else v) for k,v in o.items()])
-
-def remove_script(node):
-	for c in node.getchildren():
-		if c.tag == "script":
-			node.remove(c)
-		else:
-			remove_script(c)
-	return node
 
 class HintRequired(Exception):
 	def fill(self, ev):
@@ -661,58 +646,43 @@ def proc(url, year_month=None):
 			
 			def inject_block(b, enable_vevent, rss_doc):
 				# emit rss item
-				parent = rss_doc.xpath(".//rdf:Seq", namespaces=NSMAP)[0]
-				li = lxml.etree.Element("{{{rdf}}}li".format(**NSMAP),
-					attrib = dict(
-						resource= "{0}/{1}/{2}#{3}".format(baseurl, dirname, rss_basename, b.fragment)
-					),
-					nsmap=NSMAP)
-				li.tail = "\n "
-				parent.append(li)
-			
 				title = b.title
 				if b.subtitle:
 					title = "{:s}（{:s}）{:s}".format(b.title, b.key, b.subtitle)
 			
-				parent = rss_doc.xpath(".//x:channel", namespaces=NSMAP)[0]
+				parent = rss_doc.xpath(".//channel")[0]
 				rss_item_xml = rss_item.format(**html_escape_dict(dict(
 					url="{0}/{1}/{2}#{3}".format(baseurl, dirname, rss_basename, b.fragment),
 					link=b.url,
 					title=title,
-					**NSMAP)))
+					)))
 				try:
 					rss_item_doc = lxml.etree.fromstring(rss_item_xml)
+					rss_item_doc.tail = "\n"
 				except:
 					print(rss_item_xml)
 					raise
 			
 				parent.append(rss_item_doc)
 			
-				parent = rss_item_doc.xpath(".//x:description", namespaces=NSMAP)[0]
+				parent = rss_item_doc.xpath(".//description")[0]
 				if b.html:
 					c = "".join([lxml.html.tostring(e, encoding="unicode") for e in b.html])
-					d = lxml.html.fragment_fromstring("<div>"+c+"</div>")
-					lxml.html.html_to_xhtml(d)
-					for e in d.xpath("./*"):
-						parent.append(e)
-# 					for e in b.html:
-# 						e = lxml.etree.fromstring(lxml.etree.tostring(e)) # clone
-# 						lxml.html.html_to_xhtml(e)
-# 						parent.append(e) # set namespace for putting node directly in xml
+					parent.text = lxml.etree.CDATA(c)
 				else:
 					c = "".join([lxml.html.tostring(e, encoding="unicode") for e in b.h2.elements])
-					d = lxml.html.fragment_fromstring("<div>"+c+"</div>")
-					lxml.html.html_to_xhtml(d)
-					for e in d.xpath("./*"):
-						parent.append(e)
+					parent.text = lxml.etree.CDATA(c)
 			
 				if enable_vevent:
-					e = lxml.etree.fromstring('<p><a href="{0}/{1}/{2}">カレンダー登録</a></p>'.format(
+					e = lxml.etree.fromstring('<enclosure url="{0}/{1}/{2}" type="text/calendar"/>'.format(
 						baseurl,
 						dirname,
 						ics_basename))
-					lxml.html.html_to_xhtml(e)
-					parent.append(e)
+					if parent.tail is None:
+						parent.tail = ""
+					parent.tail += " "
+					e.tail = "\n"
+					rss_item_doc.append(e)
 			
 			inject_block(b, enable_vevent, rss_doc)
 			rss_injectors.append(functools.partial(inject_block, b, enable_vevent))

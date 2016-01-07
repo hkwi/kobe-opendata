@@ -1,35 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rdf:RDF xmlns:rdf="http://www.w3c.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:html="http://www.w3.org/1999/xhtml">
-<channel rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info00-02.xml">
+<rss version="2.0">
+<channel>
 <title>神戸市：広報紙ＫＯＢＥ12月号　13面 </title>
 <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1512/info00-02.html</link>
 <description>
 </description>
-<items>
- <rdf:Seq>
- <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info00-02.xml#マイナンバーの「通知カード」を受け取ったら"/>
- </rdf:Seq>
-</items>
-<item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info00-02.xml#マイナンバーの「通知カード」を受け取ったら">
+<item>
  <title>マイナンバーの「通知カード」を受け取ったら</title>
  <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1512/info00-02.html#マイナンバーの「通知カード」を受け取ったら</link>
- <description rdf:datatype="rdf:HTML"><html:div class="btnSocialBox clearfix">
-            <html:div class="btnSocialInnerBox">
-              <html:span>
-                  <html:a href="https://twitter.com/share" class="twitter-share-button">ツイート</html:a>
+ <description><![CDATA[<div class="btnSocialBox clearfix">
+            <div class="btnSocialInnerBox">
+              <span>
+                  <a href="https://twitter.com/share" class="twitter-share-button">ツイート</a>
                   
-                </html:span>
-              <html:span>
+                </span>
+              <span>
                   
-                </html:span>
-              </html:div>
-          </html:div>
+                </span>
+              </div>
+          </div>
         
-<html:dl class="lastUpdate"><html:dt>最終更新日</html:dt><html:dd>2015年11月25日</html:dd></html:dl><html:p>一生使う番号ですので、大切に保管しましょう。「個人番号カード」の取得を希望する場合は、申請が必要です。マイナンバーについてのお問い合わせは電話0120-810-178（ハイ マイナンバー）まで。</html:p><html:h2>問い合わせ</html:h2><html:p>情報化推進部（電話322-6945、FAX322-6017）</html:p>
+<dl class="lastUpdate"><dt>最終更新日</dt><dd>2015年11月25日</dd></dl><p>一生使う番号ですので、大切に保管しましょう。「個人番号カード」の取得を希望する場合は、申請が必要です。マイナンバーについてのお問い合わせは電話0120-810-178（ハイ マイナンバー）まで。</p><h2>問い合わせ</h2><p>情報化推進部（電話322-6945、FAX322-6017）</p>
   
     
 
 
-</description>
-</item></channel>
-</rdf:RDF>
+]]></description>
+</item>
+</channel>
+</rss>

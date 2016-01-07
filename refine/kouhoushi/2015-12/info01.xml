@@ -1,58 +1,54 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rdf:RDF xmlns:rdf="http://www.w3c.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:html="http://www.w3.org/1999/xhtml">
-<channel rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info01.xml">
+<rss version="2.0">
+<channel>
 <title>神戸市：広報紙KOBE2015年（平成27年）12月号 市政情報（職員などの募集） </title>
 <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1512/info01.html</link>
 <description>
 </description>
-<items>
- <rdf:Seq>
- <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info01.xml#市育児休業代替任期付労務職員"/>
- <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info01.xml#市任期付短時間勤務労務職員"/>
- <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info01.xml#西神戸医療センター職員"/>
- <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info01.xml#市民病院職員等"/>
- <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info01.xml#リハビリテーション病院看護師"/>
- <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info01.xml#介護保険認定調査員"/>
- <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info01.xml#こども初期急病センター看護師"/>
- <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info01.xml#公立保育所アルバイト等登録"/>
- </rdf:Seq>
-</items>
-<item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info01.xml#市育児休業代替任期付労務職員">
+<item>
  <title>市育児休業代替任期付労務職員</title>
  <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1512/info01.html#市育児休業代替任期付労務職員</link>
- <description rdf:datatype="rdf:HTML"><html:p>募集人数は調理士（正規）…若干名<html:br/>採用予定は28年4月以降<html:br/>申し込みは11月24日（火曜）～12月8日（火曜）消印有効<html:br/>問い合わせはこども家庭局総務課（電話322-6342、FAX322-6119）</html:p></description>
-</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info01.xml#市任期付短時間勤務労務職員">
+ <description><![CDATA[<p>募集人数は調理士（正規）…若干名<br>採用予定は28年4月以降<br>申し込みは11月24日（火曜）～12月8日（火曜）消印有効<br>問い合わせはこども家庭局総務課（電話322-6342、FAX322-6119）</p>]]></description>
+</item>
+<item>
  <title>市任期付短時間勤務労務職員</title>
  <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1512/info01.html#市任期付短時間勤務労務職員</link>
- <description rdf:datatype="rdf:HTML"><html:p>募集人数は調理士（正規）…約25人<html:br/>採用予定は28年4月<html:br/>申し込みは12月24日（木曜）消印有効<html:br/>問い合わせは教職員課（電話322-5767、FAX322-6146）</html:p></description>
-</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info01.xml#西神戸医療センター職員">
+ <description><![CDATA[<p>募集人数は調理士（正規）…約25人<br>採用予定は28年4月<br>申し込みは12月24日（木曜）消印有効<br>問い合わせは教職員課（電話322-5767、FAX322-6146）</p>]]></description>
+</item>
+<item>
  <title>西神戸医療センター職員</title>
  <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1512/info01.html#西神戸医療センター職員</link>
- <description rdf:datatype="rdf:HTML"><html:p>募集人数は（1）看護師・助産師（正規）…約60人（2）看護師・看護補助者（パート）…若干名<html:br/>採用予定は（1）28年4月（2）随時<html:br/>申し込みは（1）は28年1月7日（木曜）必着<html:br/>問い合わせは電話993-3706、FAX997-2220</html:p></description>
-</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info01.xml#市民病院職員等">
+ <description><![CDATA[<p>募集人数は（1）看護師・助産師（正規）…約60人（2）看護師・看護補助者（パート）…若干名<br>採用予定は（1）28年4月（2）随時<br>申し込みは（1）は28年1月7日（木曜）必着<br>問い合わせは電話993-3706、FAX997-2220</p>]]></description>
+</item>
+<item>
  <title>市民病院職員等</title>
  <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1512/info01.html#市民病院職員等</link>
- <description rdf:datatype="rdf:HTML"><html:p>募集人数は（1）看護師・助産師（正規）…数人（2）看護師・助産師（正規）…200人（3）事務職（正規）…若干名（4）歯科衛生士（正規）…1人（5）看護師・助産師・病院業務員（パート）…数人<html:br/>採用予定は（1）28年2月（2）～（4）28年4月（5）随時<html:br/>申し込みは（1）（2）は12月10日（木曜）、（3）は12月22日（火曜）、（4）は12月9日（水曜）必着<html:br/>問い合わせは電話940-0155、FAX306-2870</html:p></description>
-</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info01.xml#リハビリテーション病院看護師">
+ <description><![CDATA[<p>募集人数は（1）看護師・助産師（正規）…数人（2）看護師・助産師（正規）…200人（3）事務職（正規）…若干名（4）歯科衛生士（正規）…1人（5）看護師・助産師・病院業務員（パート）…数人<br>採用予定は（1）28年2月（2）～（4）28年4月（5）随時<br>申し込みは（1）（2）は12月10日（木曜）、（3）は12月22日（火曜）、（4）は12月9日（水曜）必着<br>問い合わせは電話940-0155、FAX306-2870</p>]]></description>
+</item>
+<item>
  <title>リハビリテーション病院看護師</title>
  <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1512/info01.html#リハビリテーション病院看護師</link>
- <description rdf:datatype="rdf:HTML"><html:p>募集人数は正規…3人、夜勤専従（パート）…1人<html:br/>採用予定は28年1月<html:br/>申し込みは12月1日（火曜）～28日（月曜）消印有効<html:br/>問い合わせは電話743-8200、FAX743-8211</html:p></description>
-</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info01.xml#介護保険認定調査員">
+ <description><![CDATA[<p>募集人数は正規…3人、夜勤専従（パート）…1人<br>採用予定は28年1月<br>申し込みは12月1日（火曜）～28日（月曜）消印有効<br>問い合わせは電話743-8200、FAX743-8211</p>]]></description>
+</item>
+<item>
  <title>介護保険認定調査員</title>
  <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1512/info01.html#介護保険認定調査員</link>
- <description rdf:datatype="rdf:HTML"><html:p>募集人数は介護支援専門員（パート）…若干名<html:br/>採用予定は28年2・4月<html:br/>申し込みは12月18日（金曜）必着<html:br/>問い合わせは市民福祉振興協会（電話271-5356、FAX251-9632）</html:p></description>
-</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info01.xml#こども初期急病センター看護師">
+ <description><![CDATA[<p>募集人数は介護支援専門員（パート）…若干名<br>採用予定は28年2・4月<br>申し込みは12月18日（金曜）必着<br>問い合わせは市民福祉振興協会（電話271-5356、FAX251-9632）</p>]]></description>
+</item>
+<item>
  <title>こども初期急病センター看護師</title>
  <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1512/info01.html#こども初期急病センター看護師</link>
- <description rdf:datatype="rdf:HTML"><html:p>募集人数は2・3人（パート）<html:br/>採用予定は28年1月<html:br/>申し込みは12月1日（火曜）～10日（木曜）消印有効<html:br/>問い合わせは電話862-6075、FAX862-6085</html:p></description>
-</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info01.xml#公立保育所アルバイト等登録">
+ <description><![CDATA[<p>募集人数は2・3人（パート）<br>採用予定は28年1月<br>申し込みは12月1日（火曜）～10日（木曜）消印有効<br>問い合わせは電話862-6075、FAX862-6085</p>]]></description>
+</item>
+<item>
  <title>公立保育所アルバイト等登録</title>
  <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1512/info01.html#公立保育所アルバイト等登録</link>
- <description rdf:datatype="rdf:HTML"><html:p>採用予定は随時（保育士・調理士）<html:br/>問い合わせはこども家庭局振興課（電話322-5215、FAX322-6897）</html:p>
+ <description><![CDATA[<p>採用予定は随時（保育士・調理士）<br>問い合わせはこども家庭局振興課（電話322-5215、FAX322-6897）</p>
   
     
 
 
-</description>
-</item></channel>
-</rdf:RDF>
+]]></description>
+</item>
+</channel>
+</rss>

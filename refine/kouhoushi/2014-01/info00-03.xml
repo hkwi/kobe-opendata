@@ -1,35 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rdf:RDF xmlns:rdf="http://www.w3c.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:html="http://www.w3.org/1999/xhtml">
-<channel rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2014-01/info00-03.xml">
+<rss version="2.0">
+<channel>
 <title>神戸市：広報紙ＫＯＢＥ1月号　12面 </title>
 <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1401/info00-03.html</link>
 <description>
 </description>
-<items>
- <rdf:Seq>
- <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2014-01/info00-03.xml#ブランクがある・・・でも復職したい"/>
- </rdf:Seq>
-</items>
-<item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2014-01/info00-03.xml#ブランクがある・・・でも復職したい">
+<item>
  <title>ブランクがある・・・でも復職したい</title>
  <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1401/info00-03.html#ブランクがある・・・でも復職したい</link>
- <description rdf:datatype="rdf:HTML"><html:div class="btnSocialBox clearfix">
-            <html:div class="btnSocialInnerBox">
-              <html:span>
-                  <html:a href="https://twitter.com/share" class="twitter-share-button">ツイート</html:a>
+ <description><![CDATA[<div class="btnSocialBox clearfix">
+            <div class="btnSocialInnerBox">
+              <span>
+                  <a href="https://twitter.com/share" class="twitter-share-button">ツイート</a>
                   
-                </html:span>
-              <html:span>
+                </span>
+              <span>
                   
-                </html:span>
-              </html:div>
-          </html:div>
+                </span>
+              </div>
+          </div>
         
-<html:dl class="lastUpdate"><html:dt>最終更新日</html:dt><html:dd>2013年12月24日</html:dd></html:dl><html:p>復職を希望する人を対象に、下記の施設で、最近の医療・看護の動向や点滴・吸引などの演習を盛り込んだ研修会やセミナーを開催します。</html:p><html:p>●一般財団法人 甲南会</html:p><html:p>●神戸市立医療センター 中央市民病院</html:p><html:p>●神戸市立医療センター 西市民病院</html:p><html:p>●神戸逓信病院</html:p><html:p>●神戸徳洲会病院</html:p><html:p>●社会保険神戸中央病院</html:p><html:p>●先端医療センター</html:p><html:p>●西神戸医療センター</html:p><html:p>●野瀬病院</html:p><html:p>●東神戸病院</html:p><html:p>●兵庫県看護協会</html:p><html:p>●真星病院</html:p><html:p>●みどり病院</html:p><html:p>●宮地病院</html:p><html:h3>開催日、申し込み方法など詳細は、市総合コールセンター（電話333-3330、FAX333-3314）か市ホームページへ</html:h3><html:p>神戸市　復職支援研修</html:p><html:ul class="link-list"><html:li><html:a href="http://www.city.kobe.lg.jp/life/health/nurse/returntraining.html">ホームページ</html:a></html:li></html:ul><html:h2>問い合わせ</html:h2><html:p>地域医療室（電話322-5246、FAX322-6054）</html:p>
+<dl class="lastUpdate"><dt>最終更新日</dt><dd>2013年12月24日</dd></dl><p>復職を希望する人を対象に、下記の施設で、最近の医療・看護の動向や点滴・吸引などの演習を盛り込んだ研修会やセミナーを開催します。</p><p>●一般財団法人 甲南会</p><p>●神戸市立医療センター 中央市民病院</p><p>●神戸市立医療センター 西市民病院</p><p>●神戸逓信病院</p><p>●神戸徳洲会病院</p><p>●社会保険神戸中央病院</p><p>●先端医療センター</p><p>●西神戸医療センター</p><p>●野瀬病院</p><p>●東神戸病院</p><p>●兵庫県看護協会</p><p>●真星病院</p><p>●みどり病院</p><p>●宮地病院</p><h3>開催日、申し込み方法など詳細は、市総合コールセンター（電話333-3330、FAX333-3314）か市ホームページへ</h3><p>神戸市　復職支援研修</p><ul class="link-list"><li><a href="http://www.city.kobe.lg.jp/life/health/nurse/returntraining.html">ホームページ</a></li></ul><h2>問い合わせ</h2><p>地域医療室（電話322-5246、FAX322-6054）</p>
   
     
 
 
-</description>
-</item></channel>
-</rdf:RDF>
+]]></description>
+</item>
+</channel>
+</rss>

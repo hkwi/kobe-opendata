@@ -1,88 +1,97 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rdf:RDF xmlns:rdf="http://www.w3c.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:html="http://www.w3.org/1999/xhtml">
-<channel rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info05.xml">
+<rss version="2.0">
+<channel>
 <title>神戸市：広報紙KOBE2015年（平成27年）12月号 市政情報（スポーツ） </title>
 <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1512/info05.html</link>
 <description>
 </description>
-<items>
- <rdf:Seq>
- <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info05.xml#ラグビートップリーグ市民観戦会#1"/>
- <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info05.xml#ラグビートップリーグ市民観戦会#2"/>
- <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info05.xml#フットサル デウソン神戸VS仙台"/>
- <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info05.xml#ポートアイランドスポーツセンター"/>
- <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info05.xml#市民新年連合登山～三社参り"/>
- <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info05.xml#障害者スポーツ教室#1"/>
- <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info05.xml#障害者スポーツ教室#2"/>
- <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info05.xml#障害者スポーツ教室#3"/>
- <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info05.xml#（冬季）太極拳"/>
- <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info05.xml#ユニバーで走り初め"/>
- <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info05.xml#スロージョギングで健康生活"/>
- <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info05.xml#王子スポーツセンター#1"/>
- <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info05.xml#王子スポーツセンター#2"/>
- </rdf:Seq>
-</items>
-<item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info05.xml#ラグビートップリーグ市民観戦会#1">
+<item>
  <title>ラグビートップリーグ市民観戦会（1）神戸製鋼VSコカ・コーラ</title>
  <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1512/info05.html#ラグビートップリーグ市民観戦会#1</link>
- <description rdf:datatype="rdf:HTML"><html:p>（1）神戸製鋼VSコカ・コーラ<html:br/>日時は12月12日（土曜）13時～<html:br/>場所はノエビアスタジアム神戸<html:br/>料金は500円<html:br/>申し込みは当日先着順</html:p><html:p>問い合わせはスポーツ体育課（電話322-6995、FAX322-6149）</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info05-0.ics">カレンダー登録</html:a></html:p></description>
-</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info05.xml#ラグビートップリーグ市民観戦会#2">
+ <description><![CDATA[<p>（1）神戸製鋼VSコカ・コーラ<br>日時は12月12日（土曜）13時～<br>場所はノエビアスタジアム神戸<br>料金は500円<br>申し込みは当日先着順</p><p>問い合わせはスポーツ体育課（電話322-6995、FAX322-6149）</p>]]></description>
+ <enclosure url="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info05-0.ics" type="text/calendar"/>
+</item>
+<item>
  <title>ラグビートップリーグ市民観戦会（2）神戸製鋼VSトヨタ自動車</title>
  <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1512/info05.html#ラグビートップリーグ市民観戦会#2</link>
- <description rdf:datatype="rdf:HTML"><html:p>（2）神戸製鋼VSトヨタ自動車<html:br/>日時は12月26日（土曜）13時～<html:br/>場所はノエビアスタジアム神戸<html:br/>料金は500円<html:br/>申し込みは当日先着順</html:p><html:p>問い合わせはスポーツ体育課（電話322-6995、FAX322-6149）</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info05-1.ics">カレンダー登録</html:a></html:p></description>
-</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info05.xml#フットサル デウソン神戸VS仙台">
+ <description><![CDATA[<p>（2）神戸製鋼VSトヨタ自動車<br>日時は12月26日（土曜）13時～<br>場所はノエビアスタジアム神戸<br>料金は500円<br>申し込みは当日先着順</p><p>問い合わせはスポーツ体育課（電話322-6995、FAX322-6149）</p>]]></description>
+ <enclosure url="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info05-1.ics" type="text/calendar"/>
+</item>
+<item>
  <title>フットサル デウソン神戸VS仙台</title>
  <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1512/info05.html#フットサル デウソン神戸VS仙台</link>
- <description rdf:datatype="rdf:HTML"><html:p>日時は12月13日（日曜）14時～<html:br/>場所はグリーンアリーナ<html:br/>料金は有料<html:br/>問い合わせは市スポーツ教育協会（電話261-3620、FAX261-8020）</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info05-2.ics">カレンダー登録</html:a></html:p></description>
-</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info05.xml#ポートアイランドスポーツセンター">
+ <description><![CDATA[<p>日時は12月13日（日曜）14時～<br>場所はグリーンアリーナ<br>料金は有料<br>問い合わせは市スポーツ教育協会（電話261-3620、FAX261-8020）</p>]]></description>
+ <enclosure url="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info05-2.ics" type="text/calendar"/>
+</item>
+<item>
  <title>ポートアイランドスポーツセンター</title>
  <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1512/info05.html#ポートアイランドスポーツセンター</link>
- <description rdf:datatype="rdf:HTML"><html:p>（1）冬休み・1月スケート教室<html:br/>日時は12月23日（水曜・祝日）～2月7日（日曜）<html:br/>料金は有料<html:br/>申し込みははがき（〒650-0046港島中町6-12-1）で。12月8日（火曜）消印有効。抽選</html:p><html:p>（2）スケート短縮営業日<html:br/>12月19日（土曜）は16時まで、28日（月曜）・29日（火曜）は17時まで</html:p><html:p>（3）臨時休業日<html:br/>12月30日（水曜）・31日（木曜）</html:p><html:p>問い合わせは電話302-1031、FAX302-1032</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info05-3.ics">カレンダー登録</html:a></html:p></description>
-</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info05.xml#市民新年連合登山～三社参り">
+ <description><![CDATA[<p>（1）冬休み・1月スケート教室<br>日時は12月23日（水曜・祝日）～2月7日（日曜）<br>料金は有料<br>申し込みははがき（〒650-0046港島中町6-12-1）で。12月8日（火曜）消印有効。抽選</p><p>（2）スケート短縮営業日<br>12月19日（土曜）は16時まで、28日（月曜）・29日（火曜）は17時まで</p><p>（3）臨時休業日<br>12月30日（水曜）・31日（木曜）</p><p>問い合わせは電話302-1031、FAX302-1032</p>]]></description>
+ <enclosure url="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info05-3.ics" type="text/calendar"/>
+</item>
+<item>
  <title>市民新年連合登山～三社参り</title>
  <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1512/info05.html#市民新年連合登山～三社参り</link>
- <description rdf:datatype="rdf:HTML"><html:p>日時は1月3日（日曜）9時集合<html:br/>場所は長田神社（長田区長田町3）<html:br/>料金は無料<html:br/>問い合わせは市総合コールセンター（電話333-3330、FAX333-3314）</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info05-4.ics">カレンダー登録</html:a></html:p></description>
-</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info05.xml#障害者スポーツ教室#1">
+ <description><![CDATA[<p>日時は1月3日（日曜）9時集合<br>場所は長田神社（長田区長田町3）<br>料金は無料<br>問い合わせは市総合コールセンター（電話333-3330、FAX333-3314）</p>]]></description>
+ <enclosure url="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info05-4.ics" type="text/calendar"/>
+</item>
+<item>
  <title>障害者スポーツ教室（1）身体障害児・者水泳教室</title>
  <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1512/info05.html#障害者スポーツ教室#1</link>
- <description rdf:datatype="rdf:HTML"><html:p>（1）身体障害児・者水泳教室<html:br/>対象は障害者手帳所持者<html:br/>日時は1月8日（金曜）～3月25日（金曜）<html:br/>場所はオージースポーツ神戸福祉スポーツセンター<html:br/>料金は有料<html:br/>申し込みは往復はがきで障害者スポーツ振興センター（〒651-0086磯上通3-1-32）へ。12月15日（火曜）消印有効。抽選</html:p><html:p>問い合わせは電話271-5330、FAX271-5367</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info05-5.ics">カレンダー登録</html:a></html:p></description>
-</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info05.xml#障害者スポーツ教室#2">
+ <description><![CDATA[<p>（1）身体障害児・者水泳教室<br>対象は障害者手帳所持者<br>日時は1月8日（金曜）～3月25日（金曜）<br>場所はオージースポーツ神戸福祉スポーツセンター<br>料金は有料<br>申し込みは往復はがきで障害者スポーツ振興センター（〒651-0086磯上通3-1-32）へ。12月15日（火曜）消印有効。抽選</p><p>問い合わせは電話271-5330、FAX271-5367</p>]]></description>
+ <enclosure url="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info05-5.ics" type="text/calendar"/>
+</item>
+<item>
  <title>障害者スポーツ教室（2）知的障害児水泳教室</title>
  <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1512/info05.html#障害者スポーツ教室#2</link>
- <description rdf:datatype="rdf:HTML"><html:p>（2）知的障害児水泳教室<html:br/>対象は障害者手帳所持者<html:br/>日時は1月9日（土曜）～3月22日（火曜）<html:br/>場所はオージースポーツ神戸福祉スポーツセンター<html:br/>料金は有料<html:br/>申し込みは往復はがきで障害者スポーツ振興センター（〒651-0086磯上通3-1-32）へ。12月15日（火曜）消印有効。抽選</html:p><html:p>問い合わせは電話271-5330、FAX271-5367</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info05-6.ics">カレンダー登録</html:a></html:p></description>
-</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info05.xml#障害者スポーツ教室#3">
+ <description><![CDATA[<p>（2）知的障害児水泳教室<br>対象は障害者手帳所持者<br>日時は1月9日（土曜）～3月22日（火曜）<br>場所はオージースポーツ神戸福祉スポーツセンター<br>料金は有料<br>申し込みは往復はがきで障害者スポーツ振興センター（〒651-0086磯上通3-1-32）へ。12月15日（火曜）消印有効。抽選</p><p>問い合わせは電話271-5330、FAX271-5367</p>]]></description>
+ <enclosure url="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info05-6.ics" type="text/calendar"/>
+</item>
+<item>
  <title>障害者スポーツ教室（3）脳血管障害者体操教室（16歳以上）</title>
  <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1512/info05.html#障害者スポーツ教室#3</link>
- <description rdf:datatype="rdf:HTML"><html:p>（3）脳血管障害者体操教室（16歳以上）<html:br/>対象は障害者手帳所持者<html:br/>日時は1月13日～、水曜10時～・13時15分～。10回<html:br/>場所はオージースポーツ神戸福祉スポーツセンター<html:br/>料金は有料<html:br/>申し込みは往復はがきで障害者スポーツ振興センター（〒651-0086磯上通3-1-32）へ。12月15日（火曜）消印有効。抽選</html:p><html:p>問い合わせは電話271-5330、FAX271-5367</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info05-7.ics">カレンダー登録</html:a></html:p></description>
-</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info05.xml#（冬季）太極拳">
+ <description><![CDATA[<p>（3）脳血管障害者体操教室（16歳以上）<br>対象は障害者手帳所持者<br>日時は1月13日～、水曜10時～・13時15分～。10回<br>場所はオージースポーツ神戸福祉スポーツセンター<br>料金は有料<br>申し込みは往復はがきで障害者スポーツ振興センター（〒651-0086磯上通3-1-32）へ。12月15日（火曜）消印有効。抽選</p><p>問い合わせは電話271-5330、FAX271-5367</p>]]></description>
+ <enclosure url="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info05-7.ics" type="text/calendar"/>
+</item>
+<item>
  <title>（冬季）太極拳</title>
  <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1512/info05.html#（冬季）太極拳</link>
- <description rdf:datatype="rdf:HTML"><html:p>日時は1月8日～、金曜10時～。9回<html:br/>場所は中央体育館<html:br/>料金は有料<html:br/>申し込みは電話か直接。先着順<html:br/>問い合わせは電話341-7971、FAX341-7974</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info05-8.ics">カレンダー登録</html:a></html:p></description>
-</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info05.xml#ユニバーで走り初め">
+ <description><![CDATA[<p>日時は1月8日～、金曜10時～。9回<br>場所は中央体育館<br>料金は有料<br>申し込みは電話か直接。先着順<br>問い合わせは電話341-7971、FAX341-7974</p>]]></description>
+ <enclosure url="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info05-8.ics" type="text/calendar"/>
+</item>
+<item>
  <title>ユニバーで走り初め</title>
  <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1512/info05.html#ユニバーで走り初め</link>
- <description rdf:datatype="rdf:HTML"><html:p>日時は1月10日（日曜）13時30分～<html:br/>場所はユニバー記念競技場<html:br/>料金は無料<html:br/>問い合わせは総合運動公園（電話795-5151、FAX792-3122）</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info05-9.ics">カレンダー登録</html:a></html:p></description>
-</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info05.xml#スロージョギングで健康生活">
+ <description><![CDATA[<p>日時は1月10日（日曜）13時30分～<br>場所はユニバー記念競技場<br>料金は無料<br>問い合わせは総合運動公園（電話795-5151、FAX792-3122）</p>]]></description>
+ <enclosure url="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info05-9.ics" type="text/calendar"/>
+</item>
+<item>
  <title>スロージョギングで健康生活</title>
  <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1512/info05.html#スロージョギングで健康生活</link>
- <description rdf:datatype="rdf:HTML"><html:p>日時は1月16日（土曜）13時30分～<html:br/>場所はコミスタこうべ<html:br/>料金は無料<html:br/>申し込みは電話か直接。先着順<html:br/>問い合わせは電話251-4731、FAX251-4733</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info05-10.ics">カレンダー登録</html:a></html:p></description>
-</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info05.xml#王子スポーツセンター#1">
+ <description><![CDATA[<p>日時は1月16日（土曜）13時30分～<br>場所はコミスタこうべ<br>料金は無料<br>申し込みは電話か直接。先着順<br>問い合わせは電話251-4731、FAX251-4733</p>]]></description>
+ <enclosure url="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info05-10.ics" type="text/calendar"/>
+</item>
+<item>
  <title>王子スポーツセンター（1）小学生冬休み短期スポーツ教室</title>
  <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1512/info05.html#王子スポーツセンター#1</link>
- <description rdf:datatype="rdf:HTML"><html:p>（1）小学生冬休み短期スポーツ教室<html:br/>日時は12月23日（水曜・祝日）～28日（月曜）<html:br/>料金は有料<html:br/>申し込みははがき（〒657-0805青谷町1-1-1）かFAXか直接。12月8日（火曜）消印有効。抽選</html:p><html:p>問い合わせは電話802-0223、FAX861-5628</html:p>
+ <description><![CDATA[<p>（1）小学生冬休み短期スポーツ教室<br>日時は12月23日（水曜・祝日）～28日（月曜）<br>料金は有料<br>申し込みははがき（〒657-0805青谷町1-1-1）かFAXか直接。12月8日（火曜）消印有効。抽選</p><p>問い合わせは電話802-0223、FAX861-5628</p>
   
     
 
 
-<html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info05-11.ics">カレンダー登録</html:a></html:p></description>
-</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info05.xml#王子スポーツセンター#2">
+]]></description>
+ <enclosure url="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info05-11.ics" type="text/calendar"/>
+</item>
+<item>
  <title>王子スポーツセンター（2）定期スポーツ教室</title>
  <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1512/info05.html#王子スポーツセンター#2</link>
- <description rdf:datatype="rdf:HTML"><html:p>（2）定期スポーツ教室<html:br/>日時は1月5日（火曜）～3月31日（木曜）<html:br/>料金は有料<html:br/>申し込みははがき（〒657-0805青谷町1-1-1）かFAXか直接。12月8日（火曜）消印有効。抽選</html:p><html:p>問い合わせは電話802-0223、FAX861-5628</html:p>
+ <description><![CDATA[<p>（2）定期スポーツ教室<br>日時は1月5日（火曜）～3月31日（木曜）<br>料金は有料<br>申し込みははがき（〒657-0805青谷町1-1-1）かFAXか直接。12月8日（火曜）消印有効。抽選</p><p>問い合わせは電話802-0223、FAX861-5628</p>
   
     
 
 
-<html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info05-12.ics">カレンダー登録</html:a></html:p></description>
-</item></channel>
-</rdf:RDF>
+]]></description>
+ <enclosure url="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-12/info05-12.ics" type="text/calendar"/>
+</item>
+</channel>
+</rss>
