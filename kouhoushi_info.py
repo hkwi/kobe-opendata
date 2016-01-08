@@ -556,7 +556,11 @@ def hints(year, month):
 	except:
 		return pical.Calendar("VCALENDAR", None)
 	
-	ps = pical.parse(StringIO(txt))
+	try:
+		ps = pical.parse(StringIO(txt))
+	except Exception as e:
+		raise Exception("filename=%s, %s" % (filename, e))
+	
 	assert len(ps) == 1
 	ret = ps[0]
 	_hints[filename] = ret

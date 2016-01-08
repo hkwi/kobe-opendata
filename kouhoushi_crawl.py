@@ -7,22 +7,18 @@ import lxml.html
 import kouhoushi_info
 
 rss = '''<?xml version="1.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3c.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:html="http://www.w3.org/1999/xhtml">
-<channel rdf:about="{url}">
+<rss version="2.0">
+<channel>
 <title>{title}</title>
 <link>{link}</link>
 <description>
 </description>
-<items>
- <rdf:Seq>
- </rdf:Seq>
-</items>
 </channel>
-</rdf:RDF>'''
-rss_item = '''<item xmlns="{x}" xmlns:rdf="{rdf}" rdf:about="{url}">
+</rss>'''
+rss_item = '''<item>
  <title>{title}</title>
  <link>{link}</link>
- <description rdf:datatype="rdf:HTML"></description>
+ <description></description>
 </item>
 '''
 
