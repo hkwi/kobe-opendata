@@ -87,7 +87,7 @@ if __name__=="__main__":
 	channel = rss_doc.xpath("//channel")[0]
 	
 	import glob
-	for f in reversed(glob.glob("refine/kouhoushi/*/*.xml")):
+	for f in reversed(glob.glob("refine/kouhoushi/*/info*.xml")):
 		if f.find("2015-09") > 0:
 			break
 		print(f)
