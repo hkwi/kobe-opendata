@@ -1,13 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rdf:RDF xmlns:rdf="http://www.w3c.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:html="http://www.w3.org/1999/xhtml">
-<channel rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-01/info00.xml">
+<rss version="2.0">
+<channel>
 <title>神戸市：広報紙ＫＯＢＥ1月号　17面 </title>
 <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info00.html</link>
 <description>
 </description>
-<items>
- <rdf:Seq>
- </rdf:Seq>
-</items>
 </channel>
-</rdf:RDF>
+</rss>

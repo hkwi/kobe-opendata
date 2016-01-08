@@ -27,6 +27,7 @@ import itertools
 import atexit
 import functools
 import contextlib
+import email.utils
 
 JST = datetime.timezone(datetime.timedelta(hours=9), "JST")
 WDAY = "月火水木金土日"
@@ -36,6 +37,7 @@ rss = '''<?xml version="1.0"?>
 <channel>
 <title>{title}</title>
 <link>{link}</link>
+<pubDate>{pubDate}</pubDate>
 <description>
 </description>
 </channel>
@@ -591,13 +593,18 @@ def proc(url, year_month=None):
 	doc = lxml.html.document_fromstring(html_txt, base_url=url)
 	
 	page = Page(doc, url, year_month)
+	lastUpdate = re.match("(\\d{4})年(\\d+)月(\\d+)日", doc.xpath("//dl[@class='lastUpdate']")[0].xpath("./dd")[0].text)
+	if lastUpdate:
+		nums = list(map(int, lastUpdate.groups()))
+		page.lastUpdate = datetime.datetime(*nums, tzinfo=JST)
 	
 	contents = doc.xpath("//div[@id='contents']")[0]
 	h1list = contents.xpath(".//h1")
 	h2list = contents.xpath(".//h2")
 	
 	rows = []
-	if re.search("\d{2}-\d{2}", os.path.basename(url)):
+#	if re.search("\d{2}-\d{2}", os.path.basename(url)):
+	if len(h2list) < 2:
 		for h1 in h1list:
 			item = KobeH1(page, h1)
 			rows.append(item)
@@ -622,6 +629,7 @@ def proc(url, year_month=None):
 		url = "{:s}/{:s}/{:s}".format(baseurl, dirname, rss_basename),
 		title = doc.xpath("//head/title")[0].text,
 		link = url,
+		pubDate = email.utils.format_datetime(page.lastUpdate),
 		))))
 	
 	ics_seq = 0
