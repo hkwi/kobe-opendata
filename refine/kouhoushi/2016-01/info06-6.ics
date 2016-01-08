@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:子供の家（2）絵本シアター
+DESCRIPTION:（1）子育てサロン\n対象は3歳以下と保護者\n日時は1月8日～、火・金曜10時30分～\n料金は無料\n（2）絵本シアター\n対象は3歳以下と保護者\n日時は1月12日（火曜）10時30分～\n料金は無料\n問い合わせは電話783-7137、FAX783-7138
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1601/info06.html#子供の家#2
+DTSTART:20160112T103000
+END:VEVENT
+END:VCALENDAR

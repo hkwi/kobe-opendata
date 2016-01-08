@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:市民福祉大学（2）メディアタレント立原啓裕氏講演会
+DESCRIPTION:（1）コミュニティ・ビジネス入門講座\n日時は1月19日（火曜）13時30分～\n場所は市民福祉交流センター\n料金は500円\n申し込みは電話かFAXかはがき（〒651-0086磯上通3-1-32）か直接同大学へ。1月12日（火曜）必着。抽選\n（2）メディアタレント立原啓裕氏講演会\n日時は3月7日（月曜）13時30分～\n場所はピフレホール\n料金は無料\n申し込みは電話かFAXか直接同大学へ。2月10日（水曜）必着。抽選\n問い合わせは電話271-5300、FAX271-5365
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1601/info04.html#市民福祉大学#2
+DTSTART:20160307T133000
+LOCATION:ピフレホール
+END:VEVENT
+END:VCALENDAR

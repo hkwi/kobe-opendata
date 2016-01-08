@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ぜん息・COPD講演会
+DESCRIPTION:日時は2月6日（土曜）14時20分～\n場所は勤労会館\n料金は無料\n申し込みは電話で市総合コールセンター（電話333-3330）へ。先着順\n問い合わせは健康づくり支援課（電話322-5248、FAX322-6053）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1601/info04.html#ぜん息・COPD講演会
+DTSTART:20160206T142000
+LOCATION:勤労会館
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1601/info04.html#ファミサポ協力・両方会員養成講習会
+X-HINT-DTSTART:日時は2月16日（火曜）～18日（木曜）10時～15時（16日は9時45分～）
+DTSTART:20160216T094500
+DTEND:20160216T150000
+RDATE;VALUE=PERIOD:20160217T100000/20160217T150000
+RDATE;VALUE=PERIOD:20160218T100000/20160218T150000
+SUMMARY:ファミサポ協力・両方会員養成講習会
+DESCRIPTION:日時は2月16日（火曜）～18日（木曜）10時～15時（16日は9時45分～）\n場所はこべっこランド\n料金は無料\n申し込みは電話で。2月9日（火曜）まで受付。先着順\n問い合わせは電話335-6100、FAX335-6101
+LOCATION:こべっこランド
+END:VEVENT
+END:VCALENDAR

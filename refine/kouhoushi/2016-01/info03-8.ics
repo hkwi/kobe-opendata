@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1601/info03.html#女性のためのDV相談室
+X-HINT-DTSTART:日時は9時～17時（12月28日（月曜）～1月4日（月曜）休）
+DTSTART:20160105T090000
+DTEND:20160105T170000
+RRULE:FREQ=DAILY;UNTIL=20160201
+SUMMARY:女性のためのDV相談室
+DESCRIPTION:電話382-0037\n日時は9時～17時（12月28日（月曜）～1月4日（月曜）休）\n料金は無料
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:中央体育館（2）サプリメントの摂取方法
+DESCRIPTION:（1）ライフステージごとの栄養の摂り方\n日時は2月28日（日曜）13時～\n料金は2\,000円\n申し込みはFAXで。先着順\n（2）サプリメントの摂取方法\n日時は2月28日（日曜）14時50分～\n料金は2\,000円\n申し込みはFAXで。先着順\n問い合わせは電話341-7971、FAX341-7974
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1601/info05.html#中央体育館#2
+DTSTART:20160228T145000
+END:VEVENT
+END:VCALENDAR

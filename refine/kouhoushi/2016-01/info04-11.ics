@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:はじめての手話講座
+DESCRIPTION:日時は1月23日（土曜）13時30分～\n場所は県民会館（中央区下山手通4）\n料金は無料\n申し込みは電話かFAXで県立聴覚障害者情報センター（電話805-4175、FAX805-4192）へ。先着順\n問い合わせは障害者支援課（電話322-6332、FAX322-6065）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1601/info04.html#はじめての手話講座
+DTSTART:20160123T133000
+LOCATION:県民会館（中央区下山手通4）
+END:VEVENT
+END:VCALENDAR

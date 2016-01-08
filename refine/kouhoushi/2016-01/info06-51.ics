@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1601/info06.html#自然の家#1
+X-HINT-DTSTART:日時は2月13・20日（土曜）～、1泊2日
+DTSTART;VALUE=DATE:20160213
+DTEND;VALUE=DATE:20160215
+RDATE;VALUE=DATE:20160220
+SUMMARY:自然の家（1）ファミリースキー
+DESCRIPTION:（1）ファミリースキー\n対象は3歳以上と保護者\n日時は2月13・20日（土曜）～、1泊2日\n料金は大人10\,000円・小人9\,000円\n申し込みは電話で。1月21日（木曜）まで受付。抽選\n（2）6年生卒業キャンプ\n対象は小学6年生\n日時は3月12日（土曜）～、1泊2日\n料金は8\,000円\n申し込みは電話で。1月21日（木曜）まで受付。抽選\n問い合わせは電話891-0001、FAX891-0002
+END:VEVENT
+END:VCALENDAR

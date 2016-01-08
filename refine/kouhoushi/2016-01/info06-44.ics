@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:邸宅美術館の夢～須磨・住友家別邸
+DESCRIPTION:日時は2月7日（日曜）14時～\n場所は市立博物館\n料金は無料（別途入園料等が必要）\n申し込みは当日先着順\n問い合わせは電話391-0035、FAX392-7054
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1601/info06.html#邸宅美術館の夢～須磨・住友家別邸
+DTSTART:20160207T140000
+LOCATION:市立博物館
+END:VEVENT
+END:VCALENDAR

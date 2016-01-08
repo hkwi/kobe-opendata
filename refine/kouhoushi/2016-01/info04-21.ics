@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:学術セミナー
+DESCRIPTION:日時は1月26日（火曜）16時～\n場所はポートピアホテル（中央区港島中町6）\n料金は1\,000円\n申し込みは往復はがきで文化交流部（〒650-8570住所不要）へ。1月13日（水曜）必着。抽選\n問い合わせは電話322-5165、FAX322-6137
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1601/info04.html#学術セミナー
+DTSTART:20160126T160000
+LOCATION:ポートピアホテル（中央区港島中町6）
+END:VEVENT
+END:VCALENDAR

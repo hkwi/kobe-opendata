@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ロコモ対策で克服する慢性腎臓病（2）調理実習
+DESCRIPTION:（1）講演会\n日時は2月6日（土曜）13時～\n場所は臨床研究情報センター（中央区港島南町1）\n料金は無料\n申し込みははがきかFAXでポーアイ健康・生活支援ステーション（〒650-8530港島1-3-6、FAX304-2713）へ。1月24日（日曜）必着。抽選\n（2）調理実習\n日時は2月13日（土曜）10時～\n場所は神戸女子短期大学（中央区港島中町4）\n料金は500円\n申し込みははがきかFAXでポーアイ健康・生活支援ステーション（〒650-8530港島1-3-6、FAX304-2713）へ。1月24日（日曜）必着。抽選\n問い合わせは健康づくり支援課（電話322-6517、FAX322-6053）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1601/info04.html#ロコモ対策で克服する慢性腎臓病#2
+DTSTART:20160213T100000
+LOCATION:神戸女子短期大学（中央区港島中町4）
+END:VEVENT
+END:VCALENDAR

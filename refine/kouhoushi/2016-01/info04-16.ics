@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:グリーフケア連続講座
+DESCRIPTION:日時は2月3日～、水曜18時30分～。4回\n場所は勤労会館\n料金は無料\n申し込みははがきかFAXで危機管理室（〒650-8570住所不要）へ。1月25日（月曜）まで受付\n問い合わせは電話322-6238、FAX322-6031
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1601/info04.html#グリーフケア連続講座
+DTSTART:20160203T183000
+RRULE:FREQ=WEEKLY;COUNT=4
+LOCATION:勤労会館
+END:VEVENT
+END:VCALENDAR

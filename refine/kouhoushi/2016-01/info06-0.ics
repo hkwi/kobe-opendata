@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1601/info06.html#かがくかんお正月まつり
+X-HINT-DTSTART:日時は1月9日（土曜）～11日（月曜・祝日）10時～17時
+DTSTART:20160109T100000
+DTEND:20160109T170000
+RDATE:20160110T100000
+RDATE:20160111T100000
+SUMMARY:かがくかんお正月まつり
+DESCRIPTION:対象は小・中学生と保護者\n日時は1月9日（土曜）～11日（月曜・祝日）10時～17時\n場所はバンドー神戸青少年科学館\n料金は無料（別途入園料等が必要）\n問い合わせは電話302-5177、FAX302-4816
+LOCATION:バンドー神戸青少年科学館
+END:VEVENT
+END:VCALENDAR

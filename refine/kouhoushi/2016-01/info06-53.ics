@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:エコバスツアー 太陽光と草木染
+DESCRIPTION:対象は中学生以上\n日時は2月26日（金曜）10時集合\n場所は市役所3号館前\n料金は300円\n申し込みは往復はがきで地球環境課（〒650-8570住所不要）へ。2月17日（水曜）必着。抽選\n問い合わせは電話322-6678、FAX322-6982\n\n  \n    \n\n\n
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1601/info06.html#エコバスツアー 太陽光と草木染
+DTSTART:20160226T100000
+LOCATION:市役所3号館前
+END:VEVENT
+END:VCALENDAR

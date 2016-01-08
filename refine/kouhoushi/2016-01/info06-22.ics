@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:消防出初式で新年を祝おう
+DESCRIPTION:日時は1月10日（日曜）10時～\n場所はメリケンパーク\n料金は無料\n問い合わせは警防課（電話333-0119、FAX325-8529）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1601/info06.html#消防出初式で新年を祝おう
+DTSTART:20160110T100000
+LOCATION:メリケンパーク
+END:VEVENT
+END:VCALENDAR

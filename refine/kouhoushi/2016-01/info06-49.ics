@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:花と緑のまち推進センター（2）苔玉作り
+DESCRIPTION:（1）冬バラの剪定\n日時は2月7日（日曜）13時30分～\n料金は100円\n申し込みは電話か直接。先着順\n（2）苔玉作り\n日時は2月21日（日曜）13時30分～\n料金は1\,000円\n申し込みは電話か直接。先着順\n問い合わせは電話351-6756、FAX341-8710
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1601/info06.html#花と緑のまち推進センター#2
+DTSTART:20160221T133000
+END:VEVENT
+END:VCALENDAR

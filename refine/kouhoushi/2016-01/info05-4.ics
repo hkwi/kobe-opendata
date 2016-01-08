@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:スポーツイベント観戦情報（有料）（2）バレーボール女子 久光製薬VS東レ他
+DESCRIPTION:（1）全日本高校女子サッカー選手権決勝\n日時は1月10日（日曜）14時15分～\n場所はノエビアスタジアム神戸\n（2）バレーボール女子 久光製薬VS東レ他\n日時は1月17日（日曜）13時5分～\n場所はグリーンアリーナ\n（3）バスケットボール 西宮VSトヨタ東京\n日時は2月6日（土曜）・7日（日曜）15時～\n場所は中央体育館\n問い合わせは市スポーツ教育協会（電話261-3620、FAX261-8020）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1601/info05.html#スポーツイベント観戦情報（有料）#2
+DTSTART:20160117T130500
+LOCATION:グリーンアリーナ
+END:VEVENT
+END:VCALENDAR

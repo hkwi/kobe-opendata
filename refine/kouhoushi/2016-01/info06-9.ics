@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:いちご狩りプレオープン
+DESCRIPTION:日時は1月9日（土曜）～3月10日（木曜）\n場所は北区有野町・大沢町・長尾町・淡河町\n料金は有料\n申し込みは電話で各園へ\n問い合わせは農水産課（電話322-5355、FAX322-6076）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1601/info06.html#いちご狩りプレオープン
+DTSTART:20160109
+DTEND:20160311
+LOCATION:北区有野町・大沢町・長尾町・淡河町
+END:VEVENT
+END:VCALENDAR
