@@ -24,7 +24,7 @@ rss_item = '''<item>
 
 def fetch(url):
 	# Not using lxml.html.parse(), because we want to use (true) CP932 instead of
-	# (declared false) Shift_JIS, as some chars like "Å`" will be differently coded in Unicode.
+	# (declared false) Shift_JIS, as some chars like "ÔΩû" will be differently coded in Unicode.
 	txt = urllib.request.urlopen(url).read().decode("CP932")
 	return lxml.html.document_fromstring(txt, base_url=url)
 

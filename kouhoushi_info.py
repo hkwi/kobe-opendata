@@ -45,6 +45,7 @@ rss = '''<?xml version="1.0"?>
 rss_item = '''<item>
  <title>{title}</title>
  <link>{link}</link>
+ <pubDate>{pubDate}</pubDate>
  <description></description>
 </item>
 '''
@@ -129,6 +130,7 @@ class KobeH1(PartialPage):
 	def blocks(self, hint):
 		b = Block(self)
 		b.title = self.head.text
+		b.lastUpdate = self.page.lastUpdate
 		return [b]
 
 class AutoBlock(Exception):
@@ -180,6 +182,7 @@ class KobeH2(PartialPage):
 						b.title = self.head.text
 						b.subtitle = info["subtitle"]
 						b.html = [e]
+						b.lastUpdate = self.page.lastUpdate
 						bs.append(b)
 					else:
 						is_last = True
@@ -223,6 +226,7 @@ class KobeH2(PartialPage):
 					b.key = key
 					b.title = self.head.text
 					b.html = self.elements
+					b.lastUpdate = self.page.lastUpdate
 					b.events = evs
 					bs.append(b)
 		
@@ -230,6 +234,7 @@ class KobeH2(PartialPage):
 			b = Block(self)
 			b.title = self.head.text
 			b.html = self.elements
+			b.lastUpdate = self.page.lastUpdate
 			bs = [b]
 		
 		if block_method in (BLOCK_METHOD_NONE, BLOCK_METHOD_AUTO):
@@ -669,6 +674,7 @@ def proc(url, year_month=None):
 					url="{0}/{1}/{2}#{3}".format(baseurl, dirname, rss_basename, b.fragment),
 					link=b.url,
 					title=title,
+					pubDate = email.utils.format_datetime(b.lastUpdate),
 					)))
 				try:
 					rss_item_doc = lxml.etree.fromstring(rss_item_xml)
