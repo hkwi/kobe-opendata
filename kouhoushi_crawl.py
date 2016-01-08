@@ -72,4 +72,31 @@ def kouhoushi_year_month(url, year_month):
 		)
 
 if __name__=="__main__":
-	kouhoushi("http://www.city.kobe.lg.jp/information/public/kouhoushi/")
+	root = "http://www.city.kobe.lg.jp/information/public/kouhoushi/"
+#	kouhoushi(root)
+	
+	doc = fetch(root)
+	baseurl = "http://hkwi.github.io/kobe-opendata"
+	dirname = 'refine/kouhoushi'
+	rss_basename = "index.xml"
+	rss_doc = lxml.etree.fromstring(rss.format(**html_escape_dict(dict(
+		url = "{:s}/{:s}/{:s}".format(baseurl, dirname, rss_basename),
+		title = doc.xpath("//head/title")[0].text,
+		link = root,
+		))))
+	channel = rss_doc.xpath("//channel")[0]
+	
+	import glob
+	for f in reversed(glob.glob("refine/kouhoushi/*/index.xml")):
+		if f.find("2015-09") > 0:
+			break
+		for i in lxml.etree.parse(f).xpath("//item"):
+			channel.append(i)
+	
+	with open("{0}/{1}".format(dirname, rss_basename), "wb") as f:
+		lxml.etree.ElementTree(rss_doc).write(
+			f,
+			encoding="UTF-8",
+			pretty_print=True,
+			xml_declaration=True
+		)

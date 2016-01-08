@@ -1,8 +1,10 @@
 # coding: UTF-8
-# http://www.city.kobe.lg.jp/information/public/kouhoushi/
+# 
+# kouhoushi_url.csv の URL を読み込んで、解析し、
+# refine 以下に RSS と ICS ファイルを出力します。
 #
-# http://www.w3.org/2003/01/geo/
-# http://www.georss.org/w3c.html
+# また同時に、解釈に不足していたヒント情報を
+# カレントディレクトリに出力します。
 #
 from urllib.request import urlopen
 from urllib.parse import urlparse
