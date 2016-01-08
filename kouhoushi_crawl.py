@@ -87,9 +87,10 @@ if __name__=="__main__":
 	channel = rss_doc.xpath("//channel")[0]
 	
 	import glob
-	for f in reversed(glob.glob("refine/kouhoushi/*/index.xml")):
+	for f in reversed(glob.glob("refine/kouhoushi/*/*.xml")):
 		if f.find("2015-09") > 0:
 			break
+		print(f)
 		for i in lxml.etree.parse(f).xpath("//item"):
 			channel.append(i)
 	
