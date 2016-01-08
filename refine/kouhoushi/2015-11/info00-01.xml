@@ -1,35 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rdf:RDF xmlns:rdf="http://www.w3c.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:html="http://www.w3.org/1999/xhtml">
-<channel rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info00-01.xml">
+<rss version="2.0">
+<channel>
 <title>神戸市：広報紙ＫＯＢＥ11月号　13面 </title>
 <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info00-01.html</link>
 <description>
 </description>
-<items>
- <rdf:Seq>
- <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info00-01.xml#あなたのご意見をお寄せください"/>
- </rdf:Seq>
-</items>
-<item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info00-01.xml#あなたのご意見をお寄せください">
+<item>
  <title>あなたのご意見をお寄せください</title>
  <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info00-01.html#あなたのご意見をお寄せください</link>
- <description rdf:datatype="rdf:HTML"><html:div class="btnSocialBox clearfix">
-            <html:div class="btnSocialInnerBox">
-              <html:span>
-                  <html:a href="https://twitter.com/share" class="twitter-share-button">ツイート</html:a>
+ <description><![CDATA[<div class="btnSocialBox clearfix">
+            <div class="btnSocialInnerBox">
+              <span>
+                  <a href="https://twitter.com/share" class="twitter-share-button">ツイート</a>
                   
-                </html:span>
-              <html:span>
+                </span>
+              <span>
                   
-                </html:span>
-              </html:div>
-          </html:div>
+                </span>
+              </div>
+          </div>
         
-<html:dl class="lastUpdate"><html:dt>最終更新日</html:dt><html:dd>2015年10月27日</html:dd></html:dl><html:p>市は政策や規則等を定める過程で、皆さんのご意見を募集しています。</html:p><html:h3>HACCP基準に関する要綱の改正</html:h3><html:p>飲食店等のHACCP導入に係る基準や届出に関係する要綱の一部改正案を作成しましたので、皆さんの意見を募集します</html:p><html:p>期間は11月16日（月曜）～12月15日（火曜）必着</html:p><html:p>問い合わせは生活衛生課（電話322-5262、FAX322-2725）</html:p><html:h4>最新の情報は随時ホームページでお知らせしています</html:h4><html:ul class="link-list"><html:li><html:a href="http://www.city.kobe.lg.jp/information/public/comment/">ホームページ</html:a></html:li></html:ul>
+<dl class="lastUpdate"><dt>最終更新日</dt><dd>2015年10月27日</dd></dl><p>市は政策や規則等を定める過程で、皆さんのご意見を募集しています。</p><h3>HACCP基準に関する要綱の改正</h3><p>飲食店等のHACCP導入に係る基準や届出に関係する要綱の一部改正案を作成しましたので、皆さんの意見を募集します</p><p>期間は11月16日（月曜）～12月15日（火曜）必着</p><p>問い合わせは生活衛生課（電話322-5262、FAX322-2725）</p><h4>最新の情報は随時ホームページでお知らせしています</h4><ul class="link-list"><li><a href="http://www.city.kobe.lg.jp/information/public/comment/">ホームページ</a></li></ul>
   
     
 
 
-</description>
-</item></channel>
-</rdf:RDF>
+]]></description>
+</item>
+</channel>
+</rss>

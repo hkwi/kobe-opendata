@@ -1,128 +1,144 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rdf:RDF xmlns:rdf="http://www.w3c.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:html="http://www.w3.org/1999/xhtml">
-<channel rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03.xml">
+<rss version="2.0">
+<channel>
 <title>神戸市：広報紙KOBE2015年（平成27年）11月号 市政情報（各種相談） </title>
 <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info03.html</link>
 <description>
 </description>
-<items>
- <rdf:Seq>
- <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03.xml#難病医療相談会（講演・相談）"/>
- <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03.xml#救急医療の相談・案内#1"/>
- <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03.xml#救急医療の相談・案内#2"/>
- <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03.xml#権利擁護・成年後見法律相談#1"/>
- <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03.xml#権利擁護・成年後見法律相談#2"/>
- <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03.xml#こころの健康センター家族相談#1"/>
- <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03.xml#こころの健康センター家族相談#2"/>
- <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03.xml#女性の人権ホットライン"/>
- <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03.xml#高齢者無料弁護士等電話相談"/>
- <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03.xml#仕事と子育て両立カウンセリング"/>
- <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03.xml#女性のためのDV相談室"/>
- <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03.xml#女性のための相談室（電話）"/>
- <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03.xml#女性のための相談室（面接・予約制）#1"/>
- <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03.xml#女性のための相談室（面接・予約制）#2"/>
- <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03.xml#女性のための相談室（面接・予約制）#3"/>
- <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03.xml#女性のための相談室（面接・予約制）#4"/>
- <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03.xml#債務に関する無料相談会"/>
- <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03.xml#無料消費生活相談（電話・面談）#1"/>
- <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03.xml#無料消費生活相談（電話・面談）#2"/>
- <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03.xml#起業・開業したい人への専門家相談"/>
- <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03.xml#神戸里山暮らし相談会"/>
- <rdf:li resource="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03.xml#すまいに関する何でも相談"/>
- </rdf:Seq>
-</items>
-<item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03.xml#難病医療相談会（講演・相談）">
+<item>
  <title>難病医療相談会（講演・相談）</title>
  <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info03.html#難病医療相談会（講演・相談）</link>
- <description rdf:datatype="rdf:HTML"><html:p>日時は12月6日（日曜）13時～16時<html:br/>場所は勤労会館・青少年会館<html:br/>料金は無料<html:br/>問い合わせは健康づくり支援課（電話322-6517、FAX322-6053)</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03-0.ics">カレンダー登録</html:a></html:p></description>
-</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03.xml#救急医療の相談・案内#1">
+ <description><![CDATA[<p>日時は12月6日（日曜）13時～16時<br>場所は勤労会館・青少年会館<br>料金は無料<br>問い合わせは健康づくり支援課（電話322-6517、FAX322-6053)</p>]]></description>
+ <enclosure url="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03-0.ics" type="text/calendar"/>
+</item>
+<item>
  <title>救急医療の相談・案内（1）こども急病電話相談（電話891-3499）</title>
  <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info03.html#救急医療の相談・案内#1</link>
- <description rdf:datatype="rdf:HTML"><html:p>（1）こども急病電話相談（電話891-3499）<html:br/>日時は月～金曜20時～翌7時、土曜15時～翌7時、休日9時～翌7時</html:p><html:p>問い合わせは地域医療課（電話322-5246、FAX322-6054）</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03-1.ics">カレンダー登録</html:a></html:p></description>
-</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03.xml#救急医療の相談・案内#2">
+ <description><![CDATA[<p>（1）こども急病電話相談（電話891-3499）<br>日時は月～金曜20時～翌7時、土曜15時～翌7時、休日9時～翌7時</p><p>問い合わせは地域医療課（電話322-5246、FAX322-6054）</p>]]></description>
+ <enclosure url="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03-1.ics" type="text/calendar"/>
+</item>
+<item>
  <title>救急医療の相談・案内（2）救急医療機関の案内（電話846-0099）</title>
  <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info03.html#救急医療の相談・案内#2</link>
- <description rdf:datatype="rdf:HTML"><html:p>（2）救急医療機関の案内（電話846-0099）<html:br/>日時は月～金曜17時～翌9時、土曜・休日24時間対応</html:p><html:p>問い合わせは地域医療課（電話322-5246、FAX322-6054）</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03-2.ics">カレンダー登録</html:a></html:p></description>
-</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03.xml#権利擁護・成年後見法律相談#1">
+ <description><![CDATA[<p>（2）救急医療機関の案内（電話846-0099）<br>日時は月～金曜17時～翌9時、土曜・休日24時間対応</p><p>問い合わせは地域医療課（電話322-5246、FAX322-6054）</p>]]></description>
+ <enclosure url="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03-2.ics" type="text/calendar"/>
+</item>
+<item>
  <title>権利擁護・成年後見法律相談（1）司法書士・社会福祉士</title>
  <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info03.html#権利擁護・成年後見法律相談#1</link>
- <description rdf:datatype="rdf:HTML"><html:p>（1）司法書士・社会福祉士<html:br/>日時は11月10・24日（火曜）13時30分～16時30分（予約制）<html:br/>場所は市民福祉交流センター<html:br/>料金は無料</html:p><html:p>問い合わせはこうべ安心サポートセンター（電話271-5321、FAX271-2250）</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03-3.ics">カレンダー登録</html:a></html:p></description>
-</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03.xml#権利擁護・成年後見法律相談#2">
+ <description><![CDATA[<p>（1）司法書士・社会福祉士<br>日時は11月10・24日（火曜）13時30分～16時30分（予約制）<br>場所は市民福祉交流センター<br>料金は無料</p><p>問い合わせはこうべ安心サポートセンター（電話271-5321、FAX271-2250）</p>]]></description>
+ <enclosure url="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03-3.ics" type="text/calendar"/>
+</item>
+<item>
  <title>権利擁護・成年後見法律相談（2）弁護士・社会福祉士</title>
  <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info03.html#権利擁護・成年後見法律相談#2</link>
- <description rdf:datatype="rdf:HTML"><html:p>（2）弁護士・社会福祉士<html:br/>日時は11月17日、12月1日（火曜）13時30分～16時30分（予約制）<html:br/>場所は市民福祉交流センター<html:br/>料金は無料</html:p><html:p>問い合わせはこうべ安心サポートセンター（電話271-5321、FAX271-2250）</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03-4.ics">カレンダー登録</html:a></html:p></description>
-</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03.xml#こころの健康センター家族相談#1">
+ <description><![CDATA[<p>（2）弁護士・社会福祉士<br>日時は11月17日、12月1日（火曜）13時30分～16時30分（予約制）<br>場所は市民福祉交流センター<br>料金は無料</p><p>問い合わせはこうべ安心サポートセンター（電話271-5321、FAX271-2250）</p>]]></description>
+ <enclosure url="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03-4.ics" type="text/calendar"/>
+</item>
+<item>
  <title>こころの健康センター家族相談（1）アルコール・薬物依存症医療</title>
  <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info03.html#こころの健康センター家族相談#1</link>
- <description rdf:datatype="rdf:HTML"><html:p>（1）アルコール・薬物依存症医療<html:br/>日時は予約制<html:br/>料金は無料</html:p><html:p>問い合わせは電話371-1900、FAX371-1811</html:p></description>
-</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03.xml#こころの健康センター家族相談#2">
+ <description><![CDATA[<p>（1）アルコール・薬物依存症医療<br>日時は予約制<br>料金は無料</p><p>問い合わせは電話371-1900、FAX371-1811</p>]]></description>
+</item>
+<item>
  <title>こころの健康センター家族相談（2）思春期医療</title>
  <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info03.html#こころの健康センター家族相談#2</link>
- <description rdf:datatype="rdf:HTML"><html:p>（2）思春期医療<html:br/>日時は予約制<html:br/>料金は無料</html:p><html:p>問い合わせは電話371-1900、FAX371-1811</html:p></description>
-</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03.xml#女性の人権ホットライン">
+ <description><![CDATA[<p>（2）思春期医療<br>日時は予約制<br>料金は無料</p><p>問い合わせは電話371-1900、FAX371-1811</p>]]></description>
+</item>
+<item>
  <title>女性の人権ホットライン</title>
  <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info03.html#女性の人権ホットライン</link>
- <description rdf:datatype="rdf:HTML"><html:p>電話0570-070-810（神戸地方法務局）<html:br/>日時は11月16日（月曜）～20日（金曜）8時30分～19時、21日（土曜）・22日（日曜）10時～17時<html:br/>料金は無料<html:br/>問い合わせは人権推進課（電話322-5234、FAX322-6048）</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03-5.ics">カレンダー登録</html:a></html:p></description>
-</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03.xml#高齢者無料弁護士等電話相談">
+ <description><![CDATA[<p>電話0570-070-810（神戸地方法務局）<br>日時は11月16日（月曜）～20日（金曜）8時30分～19時、21日（土曜）・22日（日曜）10時～17時<br>料金は無料<br>問い合わせは人権推進課（電話322-5234、FAX322-6048）</p>]]></description>
+ <enclosure url="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03-5.ics" type="text/calendar"/>
+</item>
+<item>
  <title>高齢者無料弁護士等電話相談</title>
  <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info03.html#高齢者無料弁護士等電話相談</link>
- <description rdf:datatype="rdf:HTML"><html:p>電話341-1025<html:br/>日時は11月11日（水曜）10時～16時</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03-6.ics">カレンダー登録</html:a></html:p></description>
-</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03.xml#仕事と子育て両立カウンセリング">
+ <description><![CDATA[<p>電話341-1025<br>日時は11月11日（水曜）10時～16時</p>]]></description>
+ <enclosure url="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03-6.ics" type="text/calendar"/>
+</item>
+<item>
  <title>仕事と子育て両立カウンセリング</title>
  <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info03.html#仕事と子育て両立カウンセリング</link>
- <description rdf:datatype="rdf:HTML"><html:p>日時は11月18日（水曜）、12月20日（日曜）、28年1月20日（水曜）（予約制）<html:br/>場所は神戸RICステーション（東灘区向洋町中2）<html:br/>料金は無料<html:br/>問い合わせは男女共同参画課（電話322-5179、FAX322-6034）</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03-7.ics">カレンダー登録</html:a></html:p></description>
-</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03.xml#女性のためのDV相談室">
+ <description><![CDATA[<p>日時は11月18日（水曜）、12月20日（日曜）、28年1月20日（水曜）（予約制）<br>場所は神戸RICステーション（東灘区向洋町中2）<br>料金は無料<br>問い合わせは男女共同参画課（電話322-5179、FAX322-6034）</p>]]></description>
+ <enclosure url="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03-7.ics" type="text/calendar"/>
+</item>
+<item>
  <title>女性のためのDV相談室</title>
  <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info03.html#女性のためのDV相談室</link>
- <description rdf:datatype="rdf:HTML"><html:p>電話382-0037<html:br/>日時は9時～17時<html:br/>料金は無料</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03-8.ics">カレンダー登録</html:a></html:p></description>
-</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03.xml#女性のための相談室（電話）">
+ <description><![CDATA[<p>電話382-0037<br>日時は9時～17時<br>料金は無料</p>]]></description>
+ <enclosure url="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03-8.ics" type="text/calendar"/>
+</item>
+<item>
  <title>女性のための相談室（電話）</title>
  <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info03.html#女性のための相談室（電話）</link>
- <description rdf:datatype="rdf:HTML"><html:p>電話361-8361<html:br/>日時は火～土曜（祝日休）10時～12時・13時～15時<html:br/>料金は無料</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03-9.ics">カレンダー登録</html:a></html:p></description>
-</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03.xml#女性のための相談室（面接・予約制）#1">
+ <description><![CDATA[<p>電話361-8361<br>日時は火～土曜（祝日休）10時～12時・13時～15時<br>料金は無料</p>]]></description>
+ <enclosure url="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03-9.ics" type="text/calendar"/>
+</item>
+<item>
  <title>女性のための相談室（面接・予約制）（1）こころの悩み相談</title>
  <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info03.html#女性のための相談室（面接・予約制）#1</link>
- <description rdf:datatype="rdf:HTML"><html:p>（1）こころの悩み相談<html:br/>日時は火・水・木・土曜（祝日休）<html:br/>場所はあすてっぷKOBE<html:br/>料金は無料</html:p><html:p>問い合わせは電話361-8935、FAX361-6477</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03-10.ics">カレンダー登録</html:a></html:p></description>
-</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03.xml#女性のための相談室（面接・予約制）#2">
+ <description><![CDATA[<p>（1）こころの悩み相談<br>日時は火・水・木・土曜（祝日休）<br>場所はあすてっぷKOBE<br>料金は無料</p><p>問い合わせは電話361-8935、FAX361-6477</p>]]></description>
+ <enclosure url="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03-10.ics" type="text/calendar"/>
+</item>
+<item>
  <title>女性のための相談室（面接・予約制）（2）法律相談</title>
  <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info03.html#女性のための相談室（面接・予約制）#2</link>
- <description rdf:datatype="rdf:HTML"><html:p>（2）法律相談<html:br/>日時は11月14日（土曜）・19・26日（木曜）<html:br/>場所はあすてっぷKOBE<html:br/>料金は無料</html:p><html:p>問い合わせは電話361-8935、FAX361-6477</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03-11.ics">カレンダー登録</html:a></html:p></description>
-</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03.xml#女性のための相談室（面接・予約制）#3">
+ <description><![CDATA[<p>（2）法律相談<br>日時は11月14日（土曜）・19・26日（木曜）<br>場所はあすてっぷKOBE<br>料金は無料</p><p>問い合わせは電話361-8935、FAX361-6477</p>]]></description>
+ <enclosure url="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03-11.ics" type="text/calendar"/>
+</item>
+<item>
  <title>女性のための相談室（面接・予約制）（3）からだの相談</title>
  <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info03.html#女性のための相談室（面接・予約制）#3</link>
- <description rdf:datatype="rdf:HTML"><html:p>（3）からだの相談<html:br/>日時は11月21日（土曜）<html:br/>場所はあすてっぷKOBE<html:br/>料金は無料</html:p><html:p>問い合わせは電話361-8935、FAX361-6477</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03-12.ics">カレンダー登録</html:a></html:p></description>
-</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03.xml#女性のための相談室（面接・予約制）#4">
+ <description><![CDATA[<p>（3）からだの相談<br>日時は11月21日（土曜）<br>場所はあすてっぷKOBE<br>料金は無料</p><p>問い合わせは電話361-8935、FAX361-6477</p>]]></description>
+ <enclosure url="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03-12.ics" type="text/calendar"/>
+</item>
+<item>
  <title>女性のための相談室（面接・予約制）（4）就業・チャレンジ相談</title>
  <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info03.html#女性のための相談室（面接・予約制）#4</link>
- <description rdf:datatype="rdf:HTML"><html:p>（4）就業・チャレンジ相談<html:br/>日時は11月28日（土曜）<html:br/>場所はあすてっぷKOBE<html:br/>料金は無料</html:p><html:p>問い合わせは電話361-8935、FAX361-6477</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03-13.ics">カレンダー登録</html:a></html:p></description>
-</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03.xml#債務に関する無料相談会">
+ <description><![CDATA[<p>（4）就業・チャレンジ相談<br>日時は11月28日（土曜）<br>場所はあすてっぷKOBE<br>料金は無料</p><p>問い合わせは電話361-8935、FAX361-6477</p>]]></description>
+ <enclosure url="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03-13.ics" type="text/calendar"/>
+</item>
+<item>
  <title>債務に関する無料相談会</title>
  <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info03.html#債務に関する無料相談会</link>
- <description rdf:datatype="rdf:HTML"><html:p>日時は12月19日（土曜）13時30分～15時<html:br/>場所は勤労会館<html:br/>料金は無料<html:br/>申し込みは11月19日（木曜）～先着順<html:br/>問い合わせは消費生活課（電話322-5184、FAX322-6036）</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03-14.ics">カレンダー登録</html:a></html:p></description>
-</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03.xml#無料消費生活相談（電話・面談）#1">
+ <description><![CDATA[<p>日時は12月19日（土曜）13時30分～15時<br>場所は勤労会館<br>料金は無料<br>申し込みは11月19日（木曜）～先着順<br>問い合わせは消費生活課（電話322-5184、FAX322-6036）</p>]]></description>
+ <enclosure url="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03-14.ics" type="text/calendar"/>
+</item>
+<item>
  <title>無料消費生活相談（電話・面談）（1）電話による相談（電話371-1221）</title>
  <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info03.html#無料消費生活相談（電話・面談）#1</link>
- <description rdf:datatype="rdf:HTML"><html:p>（1）電話による相談（電話371-1221）<html:br/>日時は月～金曜（祝日休）8時45分～17時30分</html:p><html:p>問い合わせは電話371-1221、FAX351-5556</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03-15.ics">カレンダー登録</html:a></html:p></description>
-</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03.xml#無料消費生活相談（電話・面談）#2">
+ <description><![CDATA[<p>（1）電話による相談（電話371-1221）<br>日時は月～金曜（祝日休）8時45分～17時30分</p><p>問い合わせは電話371-1221、FAX351-5556</p>]]></description>
+ <enclosure url="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03-15.ics" type="text/calendar"/>
+</item>
+<item>
  <title>無料消費生活相談（電話・面談）（2）面談（生活情報センター）</title>
  <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info03.html#無料消費生活相談（電話・面談）#2</link>
- <description rdf:datatype="rdf:HTML"><html:p>（2）面談（生活情報センター）<html:br/>日時は月～金曜（祝日休）8時45分～17時30分（受付は17時まで）</html:p><html:p>問い合わせは電話371-1221、FAX351-5556</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03-16.ics">カレンダー登録</html:a></html:p></description>
-</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03.xml#起業・開業したい人への専門家相談">
+ <description><![CDATA[<p>（2）面談（生活情報センター）<br>日時は月～金曜（祝日休）8時45分～17時30分（受付は17時まで）</p><p>問い合わせは電話371-1221、FAX351-5556</p>]]></description>
+ <enclosure url="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03-16.ics" type="text/calendar"/>
+</item>
+<item>
  <title>起業・開業したい人への専門家相談</title>
  <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info03.html#起業・開業したい人への専門家相談</link>
- <description rdf:datatype="rdf:HTML"><html:p>日時は月～金曜（祝日休）10時～17時（予約制）<html:br/>場所は産業振興センター<html:br/>料金は無料<html:br/>問い合わせは産業振興財団（電話360-3202、FAX360-1419）</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03-17.ics">カレンダー登録</html:a></html:p></description>
-</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03.xml#神戸里山暮らし相談会">
+ <description><![CDATA[<p>日時は月～金曜（祝日休）10時～17時（予約制）<br>場所は産業振興センター<br>料金は無料<br>問い合わせは産業振興財団（電話360-3202、FAX360-1419）</p>]]></description>
+ <enclosure url="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03-17.ics" type="text/calendar"/>
+</item>
+<item>
  <title>神戸里山暮らし相談会</title>
  <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info03.html#神戸里山暮らし相談会</link>
- <description rdf:datatype="rdf:HTML"><html:p>日時は11月12日（木曜）13時～<html:br/>場所はカフェ野の花（北区淡河町萩原）<html:br/>料金は無料<html:br/>問い合わせは産業振興局計画課（電話322-5353、FAX322-6079）</html:p><html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03-18.ics">カレンダー登録</html:a></html:p></description>
-</item><item rdf:about="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03.xml#すまいに関する何でも相談">
+ <description><![CDATA[<p>日時は11月12日（木曜）13時～<br>場所はカフェ野の花（北区淡河町萩原）<br>料金は無料<br>問い合わせは産業振興局計画課（電話322-5353、FAX322-6079）</p>]]></description>
+ <enclosure url="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03-18.ics" type="text/calendar"/>
+</item>
+<item>
  <title>すまいに関する何でも相談</title>
  <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1511/info03.html#すまいに関する何でも相談</link>
- <description rdf:datatype="rdf:HTML"><html:p>日時は10時～17時（水曜休）<html:br/>場所はすまいるネット（サンパル4階）<html:br/>料金は無料<html:br/>問い合わせは電話222-0005、FAX222-0106</html:p>
+ <description><![CDATA[<p>日時は10時～17時（水曜休）<br>場所はすまいるネット（サンパル4階）<br>料金は無料<br>問い合わせは電話222-0005、FAX222-0106</p>
   
     
 
 
-<html:p><html:a href="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03-19.ics">カレンダー登録</html:a></html:p></description>
-</item></channel>
-</rdf:RDF>
+]]></description>
+ <enclosure url="http://hkwi.github.io/kobe-opendata/refine/kouhoushi/2015-11/info03-19.ics" type="text/calendar"/>
+</item>
+</channel>
+</rss>
