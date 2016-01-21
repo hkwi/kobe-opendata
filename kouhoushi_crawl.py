@@ -73,7 +73,7 @@ def kouhoushi_year_month(url, year_month):
 
 if __name__=="__main__":
 	root = "http://www.city.kobe.lg.jp/information/public/kouhoushi/"
-#	kouhoushi(root)
+	# kouhoushi(root)
 	
 	doc = fetch(root)
 	baseurl = "http://hkwi.github.io/kobe-opendata"
