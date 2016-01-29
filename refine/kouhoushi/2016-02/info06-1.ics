@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:埋蔵文化財センター（2）ミゼットなどの旧車パレード
+DESCRIPTION:（1）昭和の遊び体験\n日時は2月6日（土曜）・28日（日曜）10時～15時\n料金は無料\n（2）ミゼットなどの旧車パレード\n日時は2月21日（日曜）10時～15時（雨天中止）\n料金は無料\n（3）市内遺跡発掘調査報告会\n日時は3月5日（土曜）14時～\n料金は無料\n申し込みは当日先着順\n問い合わせは電話992-0656、FAX992-5201
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1602/info06.html#埋蔵文化財センター#2
+DTSTART:20160221T100000
+DTEND:20160221T150000
+END:VEVENT
+END:VCALENDAR

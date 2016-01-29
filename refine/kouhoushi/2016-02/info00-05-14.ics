@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:千苅貯水池水源林体験
+DESCRIPTION:日時は3月25日（金曜）10時集合\n場所は千苅貯水池\n料金は無料\n申し込みははがきか電話かFAXで水道局施設課（〒650-8570住所不要）へ。2月22日（月曜）必着。抽選\n問い合わせは電話322-5903、FAX322-6174\n\n  \n    \n\n\n
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1602/info00-05.html#千苅貯水池水源林体験
+DTSTART:20160325T100000
+LOCATION:千苅貯水池
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1602/info06.html#鉄道模型とあそぼう
+X-HINT-DTSTART:日時は2月11日（木曜・祝日）・13日（土曜）・14日（日曜）9時30分～17時
+DTSTART:20160211T093000
+DTEND:20160211T170000
+RDATE;VALUE=PERIOD:20160213T093000/20160213T170000
+RDATE;VALUE=PERIOD:20160214T093000/20160214T170000
+SUMMARY:鉄道模型とあそぼう
+DESCRIPTION:日時は2月11日（木曜・祝日）・13日（土曜）・14日（日曜）9時30分～17時\n場所はバンドー神戸青少年科学館\n料金は無料（別途入園料等が必要）\n問い合わせは電話302-5177、FAX302-4816
+LOCATION:バンドー神戸青少年科学館
+END:VEVENT
+END:VCALENDAR

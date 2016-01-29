@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1602/info05.html#ポートアイランドスポーツセンター
+X-HINT-DTSTART:日時は2月23日（火曜）～3月24日（木曜）14時10分～
+DTSTART:20160223T141000
+RRULE:FREQ=DAILY;UNTIL=20160324
+SUMMARY:ポートアイランドスポーツセンター
+DESCRIPTION:（1）冬季体操教室\n日時は2月23日（火曜）～3月24日（木曜）14時10分～\n料金は有料\n申し込みははがき（〒650-0046港島中町6-12-1）で。2月1日（月曜）～9日（火曜）消印有効。抽選\n（2）臨時休館・短縮営業日\nスケートは2月20日（土曜）休業。2月6・13日（土曜）の滑走は16時45分まで\n問い合わせは電話302-1031、FAX302-1032
+END:VEVENT
+END:VCALENDAR

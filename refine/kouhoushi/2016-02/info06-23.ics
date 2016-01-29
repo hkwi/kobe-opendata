@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1602/info06.html#神戸空港JAZZライブ
+X-HINT-DTSTART:日時は3月5日（土曜）14時～　料金は無料
+DTSTART:20160305T140000
+SUMMARY:神戸空港JAZZライブ
+DESCRIPTION:日時は3月5日（土曜）14時～　料金は無料\n問い合わせは文化交流部（電話322-6598、FAX322-6136）
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:スポーツイベント観戦情報（2）全日本フットサル選手権大会
+DESCRIPTION:（1）日本陸上競技選手権大会20キロメートル競歩\n日時は2月21日（日曜）8時50分～\n場所は六甲アイランド\n料金は無料\n（2）全日本フットサル選手権大会\n日時は3月4日（金曜）～6日（日曜）\n場所はグリーンアリーナ\n料金は無料\n問い合わせは市スポーツ教育協会（電話261-3620、FAX261-8020）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1602/info05.html#スポーツイベント観戦情報#2
+DTSTART:20160304
+DTEND:20160307
+LOCATION:グリーンアリーナ
+END:VEVENT
+END:VCALENDAR

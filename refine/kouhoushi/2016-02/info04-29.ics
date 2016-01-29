@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:自殺対策フォーラム・身近なうつ病
+DESCRIPTION:日時は3月12日（土曜）14時～\n場所は県看護協会（中央区下山手通5）\n料金は無料\n申し込みはFAXで市医師会（FAX361-4455）へ。先着順\n問い合わせはこころの健康センター（電話371-1900、FAX371-1811）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1602/info04.html#自殺対策フォーラム・身近なうつ病
+DTSTART:20160312T140000
+LOCATION:県看護協会（中央区下山手通5）
+END:VEVENT
+END:VCALENDAR

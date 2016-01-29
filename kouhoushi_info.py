@@ -46,6 +46,7 @@ rss_item = '''<item>
  <title>{title}</title>
  <link>{link}</link>
  <pubDate>{pubDate}</pubDate>
+ <category>{category}</category>
  <description></description>
 </item>
 '''
@@ -68,6 +69,7 @@ class Page(object):
 	doc = None # xml document
 	url = None # origin
 	year_month = ()
+	lastUpdate = None
 	def __init__(self, doc, url, year_month=None):
 		self.doc = doc
 		self.url = url
@@ -590,7 +592,7 @@ def hint_writer(filename):
 		atexit.register(close)
 	yield _hint_writers[filename]
 
-def proc(url, year_month=None):
+def proc(url, year_month=None, category=None):
 	rss_injectors = []
 	
 	html_txt = urlopen(url).read().decode("CP932")
@@ -598,10 +600,15 @@ def proc(url, year_month=None):
 	doc = lxml.html.document_fromstring(html_txt, base_url=url)
 	
 	page = Page(doc, url, year_month)
-	lastUpdate = re.match("(\\d{4})年(\\d+)月(\\d+)日", doc.xpath("//dl[@class='lastUpdate']")[0].xpath("./dd")[0].text)
-	if lastUpdate:
-		nums = list(map(int, lastUpdate.groups()))
-		page.lastUpdate = datetime.datetime(*nums, tzinfo=JST)
+	docLastUpdate = doc.xpath("//dl[@class='lastUpdate']")
+	if docLastUpdate:
+		lastUpdate = re.match("(\\d{4})年(\\d+)月(\\d+)日", docLastUpdate[0].xpath("./dd")[0].text)
+		if lastUpdate:
+			nums = list(map(int, lastUpdate.groups()))
+			page.lastUpdate = datetime.datetime(*nums, tzinfo=JST)
+	
+	if page.lastUpdate is None and year_month:
+		page.lastUpdate = datetime.datetime(year_month[0], year_month[1], 1)
 	
 	contents = doc.xpath("//div[@id='contents']")[0]
 	h1list = contents.xpath(".//h1")
@@ -634,6 +641,7 @@ def proc(url, year_month=None):
 		url = "{:s}/{:s}/{:s}".format(baseurl, dirname, rss_basename),
 		title = doc.xpath("//head/title")[0].text,
 		link = url,
+		category=category,
 		pubDate = email.utils.format_datetime(page.lastUpdate),
 		))))
 	
@@ -674,6 +682,7 @@ def proc(url, year_month=None):
 					url="{0}/{1}/{2}#{3}".format(baseurl, dirname, rss_basename, b.fragment),
 					link=b.url,
 					title=title,
+					category=category,
 					pubDate = email.utils.format_datetime(b.lastUpdate),
 					)))
 				try:
@@ -740,6 +749,26 @@ def proc(url, year_month=None):
 	
 	return rss_injectors
 
+info_pattern = "http://www.city.kobe.lg.jp/information/public/kouhoushi/(\d{4})/\d{2}(\d{2})/info\d{2}(-\d{2})?.html"
+
 if __name__ == "__main__":
-	[proc(url.strip()) for url in open("kouhoushi_url.csv") if url.startswith("http://")]
+	rows = [r for r in csv.reader(open("kouhoushi_url.csv"))]
+	
+	def row2key(row):
+		m = re.match(info_pattern, row[0])
+		if m:
+			return (-int(m.group(1)), m.group(2))
+		return (0, 0)
+	
+	for url, name in sorted(rows, key=row2key):
+		if url.startswith("http://"):
+			year_month = re.match(info_pattern, url)
+			if year_month:
+				year_month = tuple(map(int, (year_month.group(1), year_month.group(2))))
+			
+			try:
+				proc(url.strip(), category=name, year_month=year_month)
+			except Exception as e:
+				print(url)
+				raise e
 #proc_doc(lxml.html.document_fromstring(open("info04.html", "rb").read().decode("CP932")))

@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:中央卸売市場本場の料理教室（2）魚のさばき方教室ステップ1
+DESCRIPTION:（1）料理人に学ぶ～ボッテガブルー\n日時は2月23日（火曜）10時30分～\n料金は3\,600円\n申し込みは電話で。開催日の10日前まで受付。抽選\n（2）魚のさばき方教室ステップ1\n日時は3月7日（月曜）10時30分～\n料金は2\,900円\n申し込みは電話で。開催日の10日前まで受付。抽選\n（3）ビストロ近藤亭のフレンチごはん\n日時は3月10日（木曜）10時30分～\n料金は3\,800円\n申し込みは電話で。開催日の10日前まで受付。抽選\n問い合わせは電話652-5503、FAX681-3772
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1602/info04.html#中央卸売市場本場の料理教室#2
+DTSTART:20160307T103000
+END:VEVENT
+END:VCALENDAR

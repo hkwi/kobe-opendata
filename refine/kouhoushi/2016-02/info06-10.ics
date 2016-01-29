@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1602/info06.html#神戸花物語（春）
+X-HINT-DTSTART:日時は2月12日（金曜）～14日（日曜）10時～17時（12日は11時～）
+DTSTART:20160212T110000
+DTEND:20160212T170000
+RDATE;VALUE=PERIOD:20160213T100000/20160213T170000
+RDATE;VALUE=PERIOD:20160214T100000/20160214T170000
+SUMMARY:神戸花物語（春）
+DESCRIPTION:日時は2月12日（金曜）～14日（日曜）10時～17時（12日は11時～）\n場所はデュオドーム（JR神戸駅南側地下）\n料金は無料\n問い合わせは農水産課（電話322-5355、FAX322-6076）
+LOCATION:デュオドーム（JR神戸駅南側地下）
+END:VEVENT
+END:VCALENDAR

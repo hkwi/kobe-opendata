@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:小磯記念美術館（2）美術館マイコレクション
+DESCRIPTION:（1）作品選Ⅳ・特集「かたちの研究」\n日時は2月9日（火曜）～4月3日（日曜）\n料金は200円\n（2）美術館マイコレクション\n対象は4歳～中学生\n日時は2月27日（土曜）14時～\n料金は無料\n申し込みは往復はがき（〒658-0032向洋町中5-7）かFAXで。2月17日（水曜）消印有効。抽選\n問い合わせは電話857-5880、FAX857-3737
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1602/info00-05.html#小磯記念美術館#2
+DTSTART:20160227T140000
+END:VEVENT
+END:VCALENDAR

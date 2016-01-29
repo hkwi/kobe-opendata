@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ヘルシー省エネクッキング
+DESCRIPTION:対象は小学生と保護者\n日時は3月12日（土曜）12時30分～\n場所はコミスタこうべ\n料金は無料\n申し込みははがきでブリッジバイクオリティ（〒655-0003小束山本町2-27-7）へ。2月26日（金曜）必着。抽選\n問い合わせは地球環境課（電話322-6678、FAX322-6982）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1602/info06.html#ヘルシー省エネクッキング
+DTSTART:20160312T123000
+LOCATION:コミスタこうべ
+END:VEVENT
+END:VCALENDAR

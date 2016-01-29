@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1602/info06.html#南京町春節祭
+X-HINT-DTSTART:日時は2月8日（月曜）・11日（木曜・祝日）～14日（日曜）
+DTSTART;VALUE=DATE:20160208
+RDATE;VALUE=DATE:20160211
+RDATE;VALUE=DATE:20160212
+RDATE;VALUE=DATE:20160213
+RDATE;VALUE=DATE:20160214
+SUMMARY:南京町春節祭
+DESCRIPTION:日時は2月8日（月曜）・11日（木曜・祝日）～14日（日曜）\n料金は一部有料\n問い合わせは観光コンベンション課（電話322-5339、FAX322-6138）
+END:VEVENT
+END:VCALENDAR

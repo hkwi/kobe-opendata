@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:黒大豆みそづくり講習会
+DESCRIPTION:日時は2月11日（木曜・祝日）13時～\n場所は木津公会堂（西区押部谷町木津654）\n料金は6\,500円\n申し込みははがきかFAXで木津CSA部会（〒651-2222押部谷町木津537、FAX994-3012）へ。2月10日（水曜）必着。抽選\n問い合わせは農業振興センター（電話975-6845、FAX975-6828）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1602/info04.html#黒大豆みそづくり講習会
+DTSTART:20160211T130000
+LOCATION:木津公会堂（西区押部谷町木津654）
+END:VEVENT
+END:VCALENDAR

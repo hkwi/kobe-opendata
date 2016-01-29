@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1602/info04.html#婦人会館あじさい講座#1
+X-HINT-DTSTART:日時は2月10・24日（水曜）15時～
+DTSTART:20160210T150000
+RDATE:20160224T150000
+SUMMARY:婦人会館あじさい講座（1）あじさい寺子屋くらぶ算数教室
+DESCRIPTION:（1）あじさい寺子屋くらぶ算数教室\n日時は2月10・24日（水曜）15時～\n料金は1講座1\,000円\n申し込みは電話か直接。先着順\n（2）エクセル講座\n日時は2月18日（木曜）10時～\n料金は1講座1\,000円\n申し込みは電話か直接。先着順\n問い合わせは電話351-0861、FAX351-0862
+END:VEVENT
+END:VCALENDAR

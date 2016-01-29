@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1602/info03.html#民事・家事調停無料相談
+X-HINT-DTSTART:日時は2月13日（土曜）10時～16時（受付は15時30分まで）
+DTSTART:20160213T100000
+DTEND:20160213T160000
+SUMMARY:民事・家事調停無料相談
+DESCRIPTION:日時は2月13日（土曜）10時～16時（受付は15時30分まで）\n場所は勤労会館\n問い合わせは市民相談室（電話322-5175、FAX322-6014）
+LOCATION:勤労会館
+END:VEVENT
+END:VCALENDAR

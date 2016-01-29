@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1602/info05.html#垂水健康公園インラインスケート
+X-HINT-DTSTART:日時は3月6日（日曜）10時～15時（雨天時は13日（日曜））
+DTSTART:20160306T100000
+DTEND:20160306T150000
+SUMMARY:垂水健康公園インラインスケート
+DESCRIPTION:日時は3月6日（日曜）10時～15時（雨天時は13日（日曜））\n料金は無料\n申し込みは当日先着順\n問い合わせは市公園緑化協会（電話795-5657、FAX795-5544）
+END:VEVENT
+END:VCALENDAR

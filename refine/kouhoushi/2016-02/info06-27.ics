@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1602/info06.html#こべっこランド#2
+X-HINT-DTSTART:日時は3月6日（日曜）（a）13時～（b）14時30分～
+DTSTART:20160306T130000
+RDATE:20160306T143000
+SUMMARY:こべっこランド（2）ALTの先生と英語で遊ぼう
+DESCRIPTION:（1）作業所製品販売こべっこマルシェ\n対象は17歳以下（就学前は保護者同伴）\n日時は2月28日（日曜）15時～\n（2）ALTの先生と英語で遊ぼう\n対象は（a）小学1・2年生（b）小学3～6年生\n日時は3月6日（日曜）（a）13時～（b）14時30分～\n料金は無料\n申し込みは往復はがき（〒650-0044東川崎町1-3-1）か直接。2月21日（日曜）消印有効。抽選\n（3）イタリアのお菓子づくりに挑戦\n対象は5～17歳\n日時は3月6日（日曜）10時30分～・13時～\n料金は200円\n申し込みは往復はがき（〒650-0044東川崎町1-3-1）か直接。2月21日（日曜）消印有効。抽選\n問い合わせは電話382-1300、FAX351-0684
+END:VEVENT
+END:VCALENDAR
