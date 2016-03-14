@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:須磨離宮公園（1）春の子供まつり（小・中学生入園無料）
+DESCRIPTION:（1）春の子供まつり（小・中学生入園無料）\n日時は3月19日（土曜）～4月3日（日曜）\n料金は無料（別途入園料等が必要）\n（2）春の洋らん展\n日時は3月21日（月曜・休日）～27日（日曜）\n料金は無料（別途入園料等が必要）\n問い合わせは電話732-6688、FAX734-6022
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1603/info06.html#須磨離宮公園#1
+DTSTART:20160319
+DTEND:20160404
+END:VEVENT
+END:VCALENDAR

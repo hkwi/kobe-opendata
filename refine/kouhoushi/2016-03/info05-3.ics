@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1603/info05.html#ミズノ走り方教室
+X-HINT-DTSTART:日時は3月21日（月曜・休日）（1）9時～（2）11時～
+DTSTART:20160321T090000
+RDATE:20160321T110000
+SUMMARY:ミズノ走り方教室
+DESCRIPTION:対象は（1）小学1～3年生（2）小学4～6年生\n日時は3月21日（月曜・休日）（1）9時～（2）11時～\n場所はユニバー記念競技場\n申し込みは往復はがき（〒654-0163緑台）で。3月11日（金曜）必着。抽選\n問い合わせは電話793-6150、FAX793-6159
+LOCATION:ユニバー記念競技場
+END:VEVENT
+END:VCALENDAR

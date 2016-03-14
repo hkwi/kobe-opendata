@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:文化交流部の催し（2）ジャズライブ in そごう神戸店
+DESCRIPTION:（1）トアステジャズライブ\n日時は3月12日（土曜）14時～\n場所はNHK神戸放送局（中央区中山手通2）\n料金は無料\n（2）ジャズライブ in そごう神戸店\n日時は4月2日（土曜）14時～・15時～\n場所はそごう神戸店（中央区小野柄通8）\n料金は無料\n問い合わせは電話322-6598、FAX322-6136
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1603/info06.html#文化交流部の催し#2
+DTSTART:20160402T140000
+RRULE:FREQ=DAILY;BYHOUR=15;BYMINUTE=0;COUNT=1
+LOCATION:そごう神戸店（中央区小野柄通8）
+END:VEVENT
+END:VCALENDAR

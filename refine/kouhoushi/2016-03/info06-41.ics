@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:相楽市～日本庭園の手作り市
+DESCRIPTION:日時は3月27日（日曜）9時～16時\n場所は相楽園\n料金は無料\n問い合わせは電話351-5155、FAX361-7307
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1603/info06.html#相楽市～日本庭園の手作り市
+DTSTART:20160327T090000
+DTEND:20160327T160000
+LOCATION:相楽園
+END:VEVENT
+END:VCALENDAR

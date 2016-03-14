@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:職場で健康づくり！の新しいカタチ
+DESCRIPTION:日時は3月16日（水曜）18時30分～\n場所は勤労会館\n料金は無料\n申し込みは電話で。先着順\n問い合わせは市総合コールセンター（電話333-3330、FAX333-3314）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1603/info04.html#職場で健康づくり！の新しいカタチ
+DTSTART:20160316T183000
+LOCATION:勤労会館
+END:VEVENT
+END:VCALENDAR

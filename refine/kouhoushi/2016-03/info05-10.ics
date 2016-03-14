@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ファミリーウオーキング～桜の名所
+DESCRIPTION:日時は4月3日（日曜）10時集合（雨天決行）\n場所は東遊園地\n料金は無料\n問い合わせは市スポーツ教育協会（電話261-3620、FAX261-8020）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1603/info05.html#ファミリーウオーキング～桜の名所
+DTSTART:20160403T100000
+LOCATION:東遊園地
+END:VEVENT
+END:VCALENDAR

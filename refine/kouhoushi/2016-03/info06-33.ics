@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:薬用植物園見学と社寺林観察
+DESCRIPTION:対象は中学生以上\n日時は3月24日（木曜）10時～\n場所は神戸薬科大学（東灘区本山北町4）\n料金は無料\n申し込みははがきかFAXで地球環境課（〒650-8570住所不要）へ。3月14日（月曜）必着。抽選\n問い合わせは電話322-6678、FAX322-6982
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1603/info06.html#薬用植物園見学と社寺林観察
+DTSTART:20160324T100000
+LOCATION:神戸薬科大学（東灘区本山北町4）
+END:VEVENT
+END:VCALENDAR

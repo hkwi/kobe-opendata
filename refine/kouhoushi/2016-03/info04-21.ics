@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1603/info04.html#しあわせの村健康いきいき教室
+X-HINT-DTSTART:日時は4月6日～、水・木・金曜10時～。各12回
+DTSTART:20160406T100000
+RRULE:FREQ=DAILY;DAYS=WE,TU,FR;COUNT=36
+SUMMARY:しあわせの村健康いきいき教室
+DESCRIPTION:対象は65歳以上\n日時は4月6日～、水・木・金曜10時～。各12回\n料金は1回500円\n申し込みは往復はがき（北区山田町下谷上字中一里山14-1）で。3月14日（月曜）必着。抽選\n問い合わせは電話743-8017、FAX743-8180
+END:VEVENT
+END:VCALENDAR

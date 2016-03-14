@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:帆船模型教室
+DESCRIPTION:対象は高校生以上\n日時は5月7日～、土曜13時～。15回\n場所は海洋博物館\n料金は30\,000円\n申し込みは往復はがきで神戸港振興協会（〒650-0042波止場町2-2）へ。3月12日（土曜）消印有効。抽選\n問い合わせは電話327-8983、FAX332-4739
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1603/info06.html#帆船模型教室
+DTSTART:20160507T130000
+RRULE:FREQ=WEEKLY;COUNT=15
+LOCATION:海洋博物館
+END:VEVENT
+END:VCALENDAR

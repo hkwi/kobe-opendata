@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1603/info06.html#子供の家 子育てサロン
+X-HINT-DTSTART:日時は3月8日～、火・金曜10時30分～
+DTSTART:20160308T103000
+RRULE:FREQ=DAILY;DAYS=TU,FR;UNTIL=20160401
+SUMMARY:子供の家 子育てサロン
+DESCRIPTION:対象は3歳以下と保護者\n日時は3月8日～、火・金曜10時30分～\n料金は無料\n問い合わせは電話783-7137、FAX783-7138
+END:VEVENT
+END:VCALENDAR

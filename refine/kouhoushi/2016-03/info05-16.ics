@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ヴィッセルアビスパ戦市民応援デー
+DESCRIPTION:日時は4月10日（日曜）13時～\n場所はノエビアスタジアム神戸\n料金は無料\n申し込みは往復はがき（4人以内）でクリムゾンFC（〒652-0855御崎町1-2-1）へ。3月21日（月曜・休日）必着。抽選\n問い合わせはスポーツ体育課（電話322-5803、FAX322-6149）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1603/info05.html#ヴィッセルアビスパ戦市民応援デー
+DTSTART:20160410T130000
+LOCATION:ノエビアスタジアム神戸
+END:VEVENT
+END:VCALENDAR

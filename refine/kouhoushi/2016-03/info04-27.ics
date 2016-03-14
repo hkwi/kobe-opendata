@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ユニティの講座（2）公開講座「さまざまな音」
+DESCRIPTION:（1）パソコンは怖くない!超入門者講座\n日時は4月5日～、火・金曜9時30分～。3回\n料金は9\,000円\n申し込みは電話で。先着順\n（2）公開講座「さまざまな音」\n日時は4月9日～、土曜14時～。5回\n料金は4\,320円\n申し込みは電話で。先着順\n（3）ネット・セキュリティメール超入門\n日時は4月15日～、火・金曜9時30分～。3回\n料金は9\,000円\n申し込みは電話で。先着順\n問い合わせは電話794-4970、FAX794-4910\n\n  \n    \n\n\n
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1603/info04.html#ユニティの講座#2
+DTSTART:20160409T140000
+RRULE:FREQ=WEEKLY;COUNT=5
+END:VEVENT
+END:VCALENDAR

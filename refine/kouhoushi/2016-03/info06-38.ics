@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:サイクリングとバーベキュー
+DESCRIPTION:対象は中学・高校生\n日時は3月26日（土曜）9時集合\n場所は青少年会館\n料金は2\,500円\n申し込みは電話かFAXで。先着順\n問い合わせは電話232-4455、FAX242-2161
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1603/info06.html#サイクリングとバーベキュー
+DTSTART:20160326T090000
+LOCATION:青少年会館
+END:VEVENT
+END:VCALENDAR

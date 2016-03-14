@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1603/info06.html#菜の花まつり
+X-HINT-DTSTART:日時は3月19日（土曜）10時～15時（雨天時3月20日（日曜・祝日））
+DTSTART:20160319T100000
+DTEND:20160319T150000
+SUMMARY:菜の花まつり
+DESCRIPTION:日時は3月19日（土曜）10時～15時（雨天時3月20日（日曜・祝日））\n場所は総合運動公園\n料金は無料\n問い合わせは電話795-5151、FAX792-3122
+LOCATION:総合運動公園
+END:VEVENT
+END:VCALENDAR

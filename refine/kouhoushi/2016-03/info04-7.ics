@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ムスリム女性のスカーフ～ヒジャブ
+DESCRIPTION:日時は3月12日（土曜）13時30分～\n場所はアジア交流プラザ\n料金は840円\n申し込みは電話か直接。先着順\n問い合わせは電話646-7100、FAX646-7200
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1603/info04.html#ムスリム女性のスカーフ～ヒジャブ
+DTSTART:20160312T133000
+LOCATION:アジア交流プラザ
+END:VEVENT
+END:VCALENDAR

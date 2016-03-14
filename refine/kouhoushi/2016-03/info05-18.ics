@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:障害者スポーツ大会（2）フライングディスク
+DESCRIPTION:（1）卓球\n対象は中学生以上の障害者手帳所持者\n日時は4月17日（日曜）9時30分～\n場所は中央体育館\n料金は無料\n申し込みは直接障害者スポーツ振興センターへ。3月31日（木曜）まで受付\n（2）フライングディスク\n対象は中学生以上の障害者手帳所持者\n日時は5月8日（日曜）10時～\n場所は王子スタジアム\n料金は無料\n申し込みは直接障害者スポーツ振興センターへ。4月7日（木曜）まで受付\n問い合わせは電話271-5330、FAX271-5367\n\n  \n    \n\n\n
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1603/info05.html#障害者スポーツ大会#2
+DTSTART:20160508T100000
+LOCATION:王子スタジアム
+END:VEVENT
+END:VCALENDAR

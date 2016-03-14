@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1603/info04.html#婦人会館あじさい講座#2
+X-HINT-DTSTART:日時は3月10・24日（木曜）13時30分～
+DTSTART:20160310T133000
+RDATE:20160324T133000
+SUMMARY:婦人会館あじさい講座（2）うたごえサロンⅡ
+DESCRIPTION:（1）パソコン講座\n日時は3月8日～、火・金曜10時～・13時～。6回\n料金は1講座500円\n申し込みは電話か直接。先着順\n（2）うたごえサロンⅡ\n日時は3月10・24日（木曜）13時30分～\n料金は1講座800円\n申し込みは電話か直接。先着順\n問い合わせは電話351-0861、FAX351-0862
+END:VEVENT
+END:VCALENDAR

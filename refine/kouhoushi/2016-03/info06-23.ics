@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1603/info06.html#ファッション美術館#1
+X-HINT-DTSTART:日時は（a）3月19日（土曜）（b）3月26日（土曜）10時～・13時30分～
+DTSTART:20160319T100000
+RDATE:20160319T133000
+RDATE:20160326T100000
+RDATE:20160326T133000
+SUMMARY:ファッション美術館（1）美術館バックヤード探検ツアー
+DESCRIPTION:（1）美術館バックヤード探検ツアー\n対象は小学生以上\n日時は（a）3月19日（土曜）（b）3月26日（土曜）10時～・13時30分～\n料金は無料\n申し込みは往復はがき（〒658-0032向洋町中2-9-1）かFAXで。（a）は3月11日（金曜）、（b）は3月18日（金曜）必着。抽選\n（2）食事付灘の酒と田辺眞人歴史トーク\n対象は20歳以上\n日時は3月20日（日曜・祝日）16時30分～\n料金は4\,000円\n申し込みは電話かFAXで。先着順\n問い合わせは電話858-0050、FAX858-0058
+END:VEVENT
+END:VCALENDAR

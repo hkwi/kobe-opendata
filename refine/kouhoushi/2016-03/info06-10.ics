@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1603/info06.html#観光いちご狩りが本格オープン#2
+X-HINT-DTSTART:日時は（1）3月12日（土曜）～6月上旬（2）5月3日（火曜・祝日）～6月上旬
+X-HINT-LOCATION:場所は（1）北区有野町・大沢町・長尾町・淡河町（2）西区押部谷町細田
+LOCATION:西区押部谷町細田
+DTSTART;VALUE=DATE:20160503
+DTEND;VALUE=DATE:20160601
+SUMMARY:観光いちご狩りが本格オープン
+DESCRIPTION:日時は（1）3月12日（土曜）～6月上旬（2）5月3日（火曜・祝日）～6月上旬\n場所は（1）北区有野町・大沢町・長尾町・淡河町（2）西区押部谷町細田\n料金は有料\n申し込みは電話かFAXで各園へ\n問い合わせは農水産課（電話322-5355、FAX322-6076）
+END:VEVENT
+END:VCALENDAR

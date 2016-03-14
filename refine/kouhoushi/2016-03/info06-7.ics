@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1603/info06.html#クルーズ客船主な入港情報#3
+X-HINT-DTSTART:日時は3月21日（月曜・休日）7時入港・19時出港
+DTSTART:20160321T070000
+DTEND:20160321T190000
+SUMMARY:クルーズ客船主な入港情報（3）シーボーン・ソジャーン
+DESCRIPTION:（1）ノーティカ\n日時は3月11日（金曜）8時入港・12日（土曜）18時出港\n場所は中突堤旅客ターミナル\n（2）クァンタム・オブ・ザ・シーズ\n日時は3月17日（木曜）13時30分入港・23時59分出港\n場所はポートターミナル\n（3）シーボーン・ソジャーン\n日時は3月21日（月曜・休日）7時入港・19時出港\n場所は中突堤旅客ターミナル\n問い合わせは市総合コールセンター（電話333-3330、FAX333-3314）
+LOCATION:中突堤旅客ターミナル
+END:VEVENT
+END:VCALENDAR

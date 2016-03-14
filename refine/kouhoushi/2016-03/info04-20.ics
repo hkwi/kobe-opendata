@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:市外大オープン・セミナー
+DESCRIPTION:日時は4月4日（月曜）～\n場所は市外国語大学等\n料金は有料\n申し込みはFAXで。3月10日（木曜）～先着順\n問い合わせは電話794-8177、FAX794-8160
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1603/info04.html#市外大オープン・セミナー
+DTSTART:20160404
+LOCATION:市外国語大学等
+END:VEVENT
+END:VCALENDAR

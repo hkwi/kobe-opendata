@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:今子供達にできること里親出前講座
+DESCRIPTION:日時は3月12日（土曜）13時～\n場所は新長田勤労市民センター\n料金は無料\n申し込みはFAXでこども家庭センターへ。3月8日（火曜）必着。抽選\n問い合わせは電話382-2525、FAX362-0415
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1603/info04.html#今子供達にできること里親出前講座
+DTSTART:20160312T130000
+LOCATION:新長田勤労市民センター
+END:VEVENT
+END:VCALENDAR

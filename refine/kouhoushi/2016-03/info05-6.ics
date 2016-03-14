@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ポートアイランドスポーツセンター
+DESCRIPTION:（1）春休集中スケート教室\n日時は3月27日（日曜）～31日（木曜）\n料金は有料\n申し込みははがき（〒650-0046港島中町6-12-1）で。3月10日（木曜）消印有効。抽選\n（2）春季水泳教室\n日時は4月2日（土曜）～7月5日（火曜）\n料金は有料\n申し込みははがき（〒650-0046港島中町6-12-1）で。3月10日（木曜）消印有効。抽選\n（3）臨時休館日・短縮営業日\n毎週水曜休館。スケートは3月20日（日曜・祝日）・21日（月曜・休日）休館。4月2日（土曜）は16時45分まで。4月3日（日曜）まで営業\n問い合わせは電話302-1031、FAX302-1032
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1603/info05.html#ポートアイランドスポーツセンター
+DTSTART:20160327
+DTEND:20160401
+END:VEVENT
+END:VCALENDAR

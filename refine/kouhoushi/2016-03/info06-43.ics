@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:バスツアー太陽光発電所と里山散策
+DESCRIPTION:対象は小学生と保護者\n日時は3月28日（月曜）10時～15時40分\n場所は環境未来館\n料金は無料\n申し込みははがきでブリッジバイクオリティ（〒655-0003小束山本町2-27-7）へ。3月17日（木曜）必着。抽選\n問い合わせは地球環境課（電話322-6678、FAX322-6982）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1603/info06.html#バスツアー太陽光発電所と里山散策
+DTSTART:20160328T100000
+DTEND:20160328T154000
+LOCATION:環境未来館
+END:VEVENT
+END:VCALENDAR

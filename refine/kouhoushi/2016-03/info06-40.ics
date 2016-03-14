@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:摩耶の森クラブ・摩耶詣歴史探訪
+DESCRIPTION:日時は3月26日（土曜）10時30分～14時30分\n場所は掬星台\n料金は無料\n申し込みはFAXで。3月23日（水曜）必着。抽選\n問い合わせは摩耶の森クラブ（電話882-3580、FAX802-3112）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1603/info06.html#摩耶の森クラブ・摩耶詣歴史探訪
+DTSTART:20160326T103000
+DTEND:20160326T143000
+LOCATION:掬星台
+END:VEVENT
+END:VCALENDAR

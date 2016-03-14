@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1603/info06.html#春休みの塩づくり体験
+X-HINT-DTSTART:日時は3月21日（月曜・休日）～4月5日（火曜）13時30分～
+DTSTART:20160321T133000
+RRULE:FREQ=DAILY;UNTIL=20160406
+SUMMARY:春休みの塩づくり体験
+DESCRIPTION:対象は小学生以上（小学2年生以下は保護者同伴）\n日時は3月21日（月曜・休日）～4月5日（火曜）13時30分～\n場所はさかなの学校\n料金は310円\n問い合わせは電話706-5550、FAX706-5636
+LOCATION:さかなの学校
+END:VEVENT
+END:VCALENDAR
