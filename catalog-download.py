@@ -1,10 +1,15 @@
 import csv
 import sys
 import os.path
-import urllib.request
+try:
+	from urllib.request import urlopen
+except:
+	from urllib import urlopen
 
-for p in csv.DictReader(open("catalog-download.csv", encoding="UTF-8")):
+# csv likes bytes type
+
+for p in csv.DictReader(open("catalog-download.csv")):
 	url = p["URL"]
 	with open(os.path.join("import/catalog", os.path.basename(url)), "wb") as out:
-		for data in urllib.request.urlopen(url):
+		for data in urlopen(url):
 			out.write(data)
