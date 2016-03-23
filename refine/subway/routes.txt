@@ -1,0 +1,3 @@
+route_id,route_long_name,route_short_name,route_type
+seishin,,西神・山手線,1
+kaigan,,海岸線,1
