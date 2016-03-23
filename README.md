@@ -1,5 +1,5 @@
 About
------
+=====
 [神戸市オープンデータ](http://www.city.kobe.lg.jp/information/opendata/index.html)を加工するプロジェクトです。
 
 github で直接公開されているデータもあります https://github.com/City-of-Kobe/opendata
@@ -7,14 +7,30 @@ github で直接公開されているデータもあります https://github.com
 各ファイルのライセンスは、神戸市オープンデータの[元データのライセンス](http://www.city.kobe.lg.jp/information/opendata/catalogue.html)をそれぞれ継承します。
 
 
+神戸市広報紙
+------------
+神戸市広報紙の HTML コンテンツを変換して RSS + iCalendar のデータとして使えるようにしています。
+
+RSS の URL はこちらです。Thunderbird などに登録することができます。
+https://hkwi.github.io/kobe-opendata/refine/kouhoushi/index.xml
+
+
+神戸市営地下鉄GTFS
+------------------
+時刻表を [GTFS](https://developers.google.com/transit/gtfs/) 形式に変換しています。
+
+URL はこちらです。
+https://hkwi.github.io/kobe-opendata/refine/subway.zip
+
+
+ディレクトリ構成
+----------------
 import
-------
 * catalog.py はオープンデータ一覧ページの変更を追跡するプログラムです。
 * import ディレクトリは、神戸市 web サイトで公開されているオープンデータの取り込みを行っています。
 * catalog-download.csv と catalog-publish.csv に変更がある場合、import の調整が必要です。
 
 refine
-------
 * 直接的にデータを使うのに適したフォーマット変換を行います。
 * 目標
   * import からの自動変換
@@ -31,12 +47,11 @@ import/catalog/institution* は、形式が同じなので 1 ファイルにま�
 http://www.ssl.city.kobe.lg.jp/map/shisetsumap.html のデータ相当のようです。
 「カテゴリリスト」で種類別に分割すると元のファイルに戻ります。
 
-
 rdf
----
-Linked opendata として使える語彙を使って整備したい。整備するにあたっては、具体的にどのデータセットとの結合ができるようにするかを仮定しないと始まらなさそう。
-
-import/stat/* は、http://www.statld.org/ を参考にしつつ [qb namespace](http://www.w3.org/TR/vocab-data-cube/) を使って対応していきたい。
-
-sculpture* は他の芸術作品用のデータベースとの結合があるだろう。引き続き結合先の候補を探す。
+* Linked opendata として使える語彙を使って整備したい。
+整備するにあたっては、具体的にどのデータセットとの結合ができるようにするかを仮定しないと始まらなさそう。
+* import/stat/* は、http://www.statld.org/ を参考にしつつ
+[qb namespace](http://www.w3.org/TR/vocab-data-cube/) を使って対応していきたい。
+* sculpture* は他の芸術作品用のデータベースとの結合があるだろう。引き続き結合先の候補を探す。
 https://yorkdl.wordpress.com/category/openart/
+
