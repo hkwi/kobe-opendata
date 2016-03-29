@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:市スポーツ教育協会の催し（2）ヴィッセル神戸無料家族応援デー
+DESCRIPTION:（1）春の運動会直前！かけっこ教室\n対象は（a）小学1年生（b）小学2・3年生（c）（d）5歳～小学生と保護者\n日時は5月14日（土曜）（a）9時30分～（b）11時～（c）13時30分～（d）15時～\n場所は王子スポーツセンター\n料金は小学生1\,000円・親子1\,500円\n申し込みははがき（〒651-0083浜辺通5-1-14）で。4月27日（水曜）必着。抽選\n（2）ヴィッセル神戸無料家族応援デー\n対象は小・中学生と家族\n日時は5月21日（土曜）15時～\n場所はノエビアスタジアム神戸\n料金は無料\n申し込みは往復はがき（4人以内）で。5月5日（木曜・祝日）消印有効。抽選\n問い合わせは電話261-3620、FAX261-8020
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1604/info05.html#市スポーツ教育協会の催し#2
+DTSTART:20160521T150000
+LOCATION:ノエビアスタジアム神戸
+END:VEVENT
+END:VCALENDAR

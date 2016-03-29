@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:新開地ミュージックストリート
+DESCRIPTION:日時は5月7日（土曜）・8日（日曜）12時～20時\n場所は湊川公園・新開地商店街一帯\n料金は無料\n問い合わせは文化交流部（電話322-6598、FAX322-6136）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1604/info06.html#新開地ミュージックストリート
+DTSTART:20160507T120000
+DTEND:20160507T200000
+RRULE:FREQ=DAILY;BYMONTHDAY=8;COUNT=1
+LOCATION:湊川公園・新開地商店街一帯
+END:VEVENT
+END:VCALENDAR

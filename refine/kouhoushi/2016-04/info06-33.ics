@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:KNTライナーウオーク
+DESCRIPTION:日時は4月24日（日曜）10時集合\n場所は六甲アイランド芝生広場（東灘区向洋町中3）\n料金は無料\n問い合わせは新交通（電話302-2775、FAX302-4504）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1604/info06.html#KNTライナーウオーク
+DTSTART:20160424T100000
+LOCATION:六甲アイランド芝生広場（東灘区向洋町中3）
+END:VEVENT
+END:VCALENDAR

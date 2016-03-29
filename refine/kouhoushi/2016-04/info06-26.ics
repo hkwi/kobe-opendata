@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:飼育の日
+DESCRIPTION:日時は4月17日（日曜）\n場所は王子動物園\n料金は無料（別途入園料等が必要）\n問い合わせは電話861-5624、FAX861-5640
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1604/info06.html#飼育の日
+DTSTART:20160417
+LOCATION:王子動物園
+END:VEVENT
+END:VCALENDAR

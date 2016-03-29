@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1604/info06.html#洋菓子フェスタ
+X-HINT-DTSTART:日時は5月3日（火曜・祝日）～9日（月曜）10時～20時（9日は～17時）
+DTSTART:20160503T100000
+DTEND:20160503T200000
+RRULE:FREQ=DAILY;UNTIL=20160508
+RDATE:20160509T100000/20160509T170000
+SUMMARY:洋菓子フェスタ
+DESCRIPTION:日時は5月3日（火曜・祝日）～9日（月曜）10時～20時（9日は～17時）\n場所は大丸神戸店（中央区明石町40）\n料金は無料\n問い合わせはファッション協会（電話303-3123、FAX303-3122）
+LOCATION:大丸神戸店（中央区明石町40）
+END:VEVENT
+END:VCALENDAR

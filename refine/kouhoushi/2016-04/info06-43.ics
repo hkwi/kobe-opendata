@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1604/info06.html#ユニバーの芝生で遊ぼう親子まつり
+X-HINT-DTSTART:日時は5月5日（木曜・祝日）10時～16時（雨天時6日（金曜））
+DTSTART:20160505T100000
+DTEND:20160505T160000
+SUMMARY:ユニバーの芝生で遊ぼう親子まつり
+DESCRIPTION:日時は5月5日（木曜・祝日）10時～16時（雨天時6日（金曜））\n場所はユニバー記念競技場\n料金は無料\n問い合わせは電話795-5151、FAX792-3122
+LOCATION:ユニバー記念競技場
+END:VEVENT
+END:VCALENDAR

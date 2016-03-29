@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:しあわせの村の講座（1）手話講座
+DESCRIPTION:（1）手話講座\n日時は5月12日～、木曜9時45分～。40回\n料金は9\,240円\n申し込みははがきか電話かFAXで市民福祉振興協会（北区山田町下谷上字中一里山14-1）へ。4月15日（金曜）必着。抽選\n（2）点字講座\n日時は5月13日～、金曜13時～。35回\n料金は9\,080円\n申し込みははがきか電話かFAXで市民福祉振興協会（北区山田町下谷上字中一里山14-1）へ。4月15日（金曜）必着。抽選\n問い合わせは電話743-8017、FAX743-8180
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1604/info04.html#しあわせの村の講座#1
+DTSTART:20160512T094500
+RRULE:FREQ=WEEKLY;COUNT=40
+END:VEVENT
+END:VCALENDAR

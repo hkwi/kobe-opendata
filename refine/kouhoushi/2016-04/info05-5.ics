@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1604/info05.html#少年団六甲ミニ全山縦走#3
+X-HINT-DTSTART:日時は4月16日（土曜）（1）（2）8時30分～15時30分（3）8時30分～15時（雨天時23日（土曜））
+X-HINT-LOCATION:場所は（1）須磨浦公園駅（2）湊川公園（3）JR新神戸駅
+LOCATION:JR新神戸駅
+DTSTART:20160416T083000
+DTEND:20160416T150000
+SUMMARY:少年団六甲ミニ全山縦走
+DESCRIPTION:対象は小学4年生～中学生\n日時は4月16日（土曜）（1）（2）8時30分～15時30分（3）8時30分～15時（雨天時23日（土曜））\n場所は（1）須磨浦公園駅（2）湊川公園（3）JR新神戸駅\n料金は無料\n申し込みは往復はがきでスポーツ体育課（〒650-8570住所不要）へ。4月8日（金曜）消印有効。抽選\n問い合わせは電話322-5804、FAX322-6149
+END:VEVENT
+END:VCALENDAR

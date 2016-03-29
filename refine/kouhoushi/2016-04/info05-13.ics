@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:春季体操教室
+DESCRIPTION:日時は5月12日（木曜）～6月14日（火曜）\n場所はポートアイランドスポーツセンター\n料金は4\,800円\n申し込みははがき（〒650-0046港島中町6-12-1）で。5月8日（日曜）消印有効。抽選\n問い合わせは電話302-1031、FAX302-1032
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1604/info05.html#春季体操教室
+DTSTART:20160512
+DTEND:20160615
+LOCATION:ポートアイランドスポーツセンター
+END:VEVENT
+END:VCALENDAR

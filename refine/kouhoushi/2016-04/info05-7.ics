@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:王子スポーツセンター（2）アシックスランニング教室 in 王子
+DESCRIPTION:（1）アシックス重廣恒夫 六甲山登山教室\n対象は18歳以上\n日時は4月22日～、第4金曜9時～（7月は第5）。4回\n料金は8\,000円\n申し込みははがき（〒657-0805青谷町1-1-1）かFAXか直接。4月12日（火曜）消印有効。抽選\n（2）アシックスランニング教室 in 王子\n日時は4月29日（金曜・祝日）9時～12時30分\n場所は王子スタジアム\n料金は3\,000円\n申し込みははがき（〒657-0805青谷町1-1-1）かFAXか直接。4月14日（木曜）消印有効。抽選\n問い合わせは電話802-0223、FAX861-5628
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1604/info05.html#王子スポーツセンター#2
+DTSTART:20160429T090000
+DTEND:20160429T123000
+LOCATION:王子スタジアム
+END:VEVENT
+END:VCALENDAR

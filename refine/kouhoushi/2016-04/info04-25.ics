@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1604/info04.html#勤労会館#2
+X-HINT-DTSTART:日時は5月9日～、月・木曜18時30分～。10回
+DTSTART:20160509T183000
+RRULE:FREQ=DAILY;DAYS=MO,TH;COUNT=10
+SUMMARY:勤労会館（2）はじめての宅建・入門講座
+DESCRIPTION:（1）FP技能士2級受験対策講座\n日時は5月11日～、水曜18時30分～。15回\n料金は25\,130円\n申し込みは電話かFAXか直接。先着順\n（2）はじめての宅建・入門講座\n日時は5月9日～、月・木曜18時30分～。10回\n料金は22\,950円\n申し込みは電話かFAXか直接。先着順\n問い合わせは電話232-1881、FAX232-1876
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1604/info06.html#ファミリー宿泊タイム
+X-HINT-DTSTART:日時は5月3日（火曜・祝日）～・4日（水曜・祝日）～、1泊2日
+DTSTART;VALUE=DATE:20160503
+DTEND;VALUE=DATE:20160505
+SUMMARY:ファミリー宿泊タイム
+DESCRIPTION:日時は5月3日（火曜・祝日）～・4日（水曜・祝日）～、1泊2日\n場所は自然の家\n料金は大人4\,500円・小人3\,500円\n申し込みは電話で。4月10日（日曜）～先着順\n問い合わせは電話891-0001、FAX891-0002
+LOCATION:自然の家
+END:VEVENT
+END:VCALENDAR

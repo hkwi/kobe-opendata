@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1604/info06.html#クルーズ客船主な入港情報#3
+X-HINT-DTSTART:日時は5月7日（土曜）14時入港・20時出港
+DTSTART:20160507T140000
+DTEND:20160507T200000
+SUMMARY:クルーズ客船主な入港情報（3）マリナー・オブ・ザ・シーズ
+DESCRIPTION:（1）インシグニア\n日時は4月12日（火曜）8時入港・21時出港\n場所は中突堤旅客ターミナル\n（2）ダイヤモンド・プリンセス\n日時は5月4日（水曜・祝日）6時入港・17時出港\n場所はポートターミナル\n（3）マリナー・オブ・ザ・シーズ\n日時は5月7日（土曜）14時入港・20時出港\n場所はポートターミナル\n問い合わせは市総合コールセンター（電話333-3330、FAX333-3314）
+LOCATION:ポートターミナル
+END:VEVENT
+END:VCALENDAR

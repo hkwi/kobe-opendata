@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1604/info03.html#週末消費生活相談ダイヤル
+X-HINT-DTSTART:日時は土曜10時～16時
+DTSTART:20160402T100000
+DTEND:20160402T160000
+RRULE:FREQ=DAILY;DAYS=SA;UNTIL=20160430
+SUMMARY:週末消費生活相談ダイヤル
+DESCRIPTION:電話188\n日時は土曜10時～16時\n料金は無料
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ひとり親家庭の修法ヶ原ハイキング
+DESCRIPTION:日時は4月17日（日曜）9時45分集合\n場所はJR新神戸駅\n料金は無料\n申し込みは電話かFAXでひとり親家庭支援センター（電話341-4532、FAX371-6478）へ。先着順\n問い合わせはこども家庭支援課（電話322-5211、FAX322-6119）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1604/info06.html#ひとり親家庭の修法ヶ原ハイキング
+DTSTART:20160417T094500
+LOCATION:JR新神戸駅
+END:VEVENT
+END:VCALENDAR

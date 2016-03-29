@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:摩耶の森クラブ・キノコほだ木作り
+DESCRIPTION:日時は4月23日（土曜）10時30分～14時30分\n場所は掬星台・摩耶自然観察園\n料金は無料\n申し込みはFAXで同クラブ（FAX802-3112）へ。4月20日（水曜）必着。抽選\n問い合わせは森林整備事務所（電話371-5937、FAX371-1087）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1604/info06.html#摩耶の森クラブ・キノコほだ木作り
+DTSTART:20160423T103000
+DTEND:20160423T143000
+LOCATION:掬星台・摩耶自然観察園
+END:VEVENT
+END:VCALENDAR

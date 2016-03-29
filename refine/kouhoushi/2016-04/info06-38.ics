@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1604/info06.html#ゴールデンウイークこどもまつり
+X-HINT-DTSTART:日時は4月29日（金曜・祝日）～5月5日（木曜・祝日）10時30分～16時30分（5月2日（月曜）は休館）
+DTSTART:20160429T103000
+DTEND:20160505T163000
+RRULE:FREQ=DAILY;UNTIL=20160505
+EXDATE:20160502T103000
+SUMMARY:ゴールデンウイークこどもまつり
+DESCRIPTION:対象は17歳以下（未就学児は保護者同伴）\n日時は4月29日（金曜・祝日）～5月5日（木曜・祝日）10時30分～16時30分（5月2日（月曜）は休館）\n場所はこべっこランド\n料金は一部有料\n問い合わせは電話382-1300、FAX351-0684
+LOCATION:こべっこランド
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:こうべUD大学
+DESCRIPTION:日時は4月16日～、土曜13時30分～。10回\n場所は市民福祉交流センター、しあわせの村\n料金は500円\n申し込みははがきか電話かFAXか直接市民福祉振興協会（北区山田町下谷上字中一里山14-1）へ。4月8日（金曜）必着。抽選\n問い合わせは電話743-8193、FAX743-8180
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1604/info04.html#こうべUD大学
+DTSTART:20160416T133000
+RRULE:FREQ=WEEKLY;COUNT=10
+LOCATION:市民福祉交流センター、しあわせの村
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1604/info04.html#ユニティの講座#1
+X-HINT-DTSTART:日時は4月15日～、火・金曜9時30分～。3回
+DTSTART:20160426T093000
+RDATE:20160429T093000
+RDATE:20160503T093000
+SUMMARY:ユニティの講座（1）パソコン超入門・ネット・メール等
+DESCRIPTION:（1）パソコン超入門・ネット・メール等\n日時は4月15日～、火・金曜9時30分～。3回\n料金は9\,000円\n申し込みは電話で。先着順\n（2）パソコン「家庭や地域で役立てよう」\n日時は4月26日～、火・金曜9時30分～。4回\n料金は12\,000円\n申し込みは電話で。先着順\n（3）公開講座「新・ひょうご学X」\n日時は5月21日～、土曜14時～。5回\n料金は4\,320円\n申し込みは電話で。先着順\n問い合わせは電話794-4970、FAX794-4910
+END:VEVENT
+END:VCALENDAR

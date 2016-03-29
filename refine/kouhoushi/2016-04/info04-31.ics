@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:点訳ボランティア養成講座
+DESCRIPTION:日時は5月19日～、木曜13時～。85回\n場所は点字図書館\n料金は無料\n申し込みははがき（〒652-0802水木通2-1-10）かFAXで。4月8日（金曜）消印有効。選考\n問い合わせは電話511-7090、FAX511-7066
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1604/info04.html#点訳ボランティア養成講座
+DTSTART:20160519T130000
+RRULE:FREQ=WEEKLY;COUNT=85
+LOCATION:点字図書館
+END:VEVENT
+END:VCALENDAR

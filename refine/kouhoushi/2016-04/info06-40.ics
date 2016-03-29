@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1604/info06.html#浣心亭茶席
+X-HINT-DTSTART:日時は4月30日（土曜）、5月1日（日曜）11時～
+DTSTART:20160403T110000
+RDATE:20160501T110000
+SUMMARY:浣心亭茶席
+DESCRIPTION:日時は4月30日（土曜）、5月1日（日曜）11時～\n場所は相楽園\n料金は400円（別途入園料等が必要）\n問い合わせは電話351-5155、FAX361-7307
+LOCATION:相楽園
+END:VEVENT
+END:VCALENDAR

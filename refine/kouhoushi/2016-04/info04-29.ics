@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1604/info04.html#水源林「森と水の守り人」養成講座
+X-HINT-DTSTART:日時は5月14日（土曜）～11月26日（土曜）。9回
+DTSTART;VALUE=DATE:20160514
+DTEND;VALUE=DATE:20161126
+SUMMARY:水源林「森と水の守り人」養成講座
+DESCRIPTION:日時は5月14日（土曜）～11月26日（土曜）。9回\n場所はたちばな職員研修センター、千苅貯水池（宝塚市波豆竜王山1）\n料金は1\,500円\n申し込みははがきかFAXで水道局施設課（〒650-8570住所不要）へ。4月25日（月曜）必着。抽選\n問い合わせは電話322-5903、FAX322-6174
+LOCATION:たちばな職員研修センター、千苅貯水池（宝塚市波豆竜王山1）
+END:VEVENT
+END:VCALENDAR

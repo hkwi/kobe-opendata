@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1604/info06.html#神戸の百人色紙展
+X-HINT-DTSTART:日時は4月7日（木曜）～12日（火曜）10時～20時（12日は～18時）
+DTSTART:20160407T100000
+DTEND:20160407T200000
+RRULE:FREQ=DAILY;UNTIL=20160411
+RDATE:20160412T100000/20160412T180000
+SUMMARY:神戸の百人色紙展
+DESCRIPTION:日時は4月7日（木曜）～12日（火曜）10時～20時（12日は～18時）\n場所はさんちかホール（中央区三宮町1）\n料金は無料\n問い合わせは芸術文化会議（電話322-5165、FAX322-6137）
+LOCATION:さんちかホール（中央区三宮町1）
+END:VEVENT
+END:VCALENDAR

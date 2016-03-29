@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1604/info06.html#新緑つつじ・しゃくなげ散策
+X-HINT-DTSTART:日時は4月16日（土曜）～5月15日（日曜）9時～17時
+DTSTART:20160416T090000
+DTEND:20160416T170000
+RRULE:FREQ=DAILY;UNTIL=20160515
+SUMMARY:新緑つつじ・しゃくなげ散策
+DESCRIPTION:日時は4月16日（土曜）～5月15日（日曜）9時～17時\n場所は森林植物園\n料金は無料（別途入園料等が必要）\n問い合わせは電話591-0253、FAX594-2324
+LOCATION:森林植物園
+END:VEVENT
+END:VCALENDAR

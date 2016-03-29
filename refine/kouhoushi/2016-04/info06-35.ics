@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:市立外国人墓地一般公開
+DESCRIPTION:日時は4月24日（日曜）10時30分～・13時30分～\n場所は再度公園\n料金は無料\n申し込みは往復はがきで森林整備事務所（北区山田町下谷上字中一里山4-1）へ。4月10日（日曜）消印有効。抽選\n問い合わせは電話371-5937、FAX371-1087
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1604/info06.html#市立外国人墓地一般公開
+DTSTART:20160424T103000
+RRULE:FREQ=DAILY;BYHOUR=13;BYMINUTE=30;COUNT=1
+LOCATION:再度公園
+END:VEVENT
+END:VCALENDAR

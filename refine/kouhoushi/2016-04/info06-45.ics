@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:水源探訪ハイキング
+DESCRIPTION:日時は5月14日（土曜）9時～17時30分\n場所は大岩岳（宝塚市波豆）\n料金は無料\n申し込みは往復はがきで経営計画課（〒650-8570住所不要）へ。4月22日（金曜）消印有効。抽選\n問い合わせは電話322-5915、FAX322-6179
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1604/info06.html#水源探訪ハイキング
+DTSTART:20160514T090000
+DTEND:20160514T173000
+LOCATION:大岩岳（宝塚市波豆）
+END:VEVENT
+END:VCALENDAR

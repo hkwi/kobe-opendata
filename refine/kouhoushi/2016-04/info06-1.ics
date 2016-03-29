@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:布引ハーブ園（2）GWカーニバル
+DESCRIPTION:（1）ハーブマルシェ\n日時は4月2日（土曜）～7月3日（日曜）の土・日曜、祝日\n料金は一部有料（別途入園料等が必要）\n（2）GWカーニバル\n日時は4月29日（金曜・祝日）～5月5日（木曜・祝日）\n料金は一部有料（別途入園料等が必要）\n問い合わせは電話271-1160、FAX271-1180
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1604/info06.html#布引ハーブ園#2
+DTSTART:20160429
+DTEND:20160506
+END:VEVENT
+END:VCALENDAR

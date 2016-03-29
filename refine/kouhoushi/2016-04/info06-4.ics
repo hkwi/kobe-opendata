@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1604/info06.html#須磨離宮公園#3
+X-HINT-DTSTART:日時は4月30日（土曜）、5月1日（日曜）10時～15時（小雨決行）
+DTSTART:20160430T100000
+DTEND:20160430T150000
+RDATE:20160501T100000
+SUMMARY:須磨離宮公園（3）ミニトレインに乗ろう
+DESCRIPTION:（1）スプリングフェスティバル\n日時は4月4日（月曜）～5月8日（日曜）\n料金は無料（別途入園料等が必要）\n（2）新緑茶会\n日時は4月24日（日曜）11時～\n料金は400円（別途入園料等が必要）\n申し込みは当日先着順\n（3）ミニトレインに乗ろう\n日時は4月30日（土曜）、5月1日（日曜）10時～15時（小雨決行）\n料金は一部有料（別途入園料等が必要）\n問い合わせは電話732-6688、FAX734-6022
+END:VEVENT
+END:VCALENDAR
