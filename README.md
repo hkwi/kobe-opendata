@@ -1,6 +1,6 @@
 About
 =====
-[神戸市オープンデータ](http://www.city.kobe.lg.jp/information/opendata/index.html)を加工するプロジェクトです。
+[神戸市オープンデータ](http://www.city.kobe.lg.jp/information/opendata/index.html)を加工するプロジェクトです。[Code for kobe](https://github.com/codeforkobe/) です。
 
 github で直接公開されているデータもあります https://github.com/City-of-Kobe/opendata
 
