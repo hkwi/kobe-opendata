@@ -1,0 +1,1953 @@
+author: 業務課
+author_email: null
+ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000011
+creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
+extras:
+  コピーライト: City of Kobe
+  作成頻度: ''
+  使用言語: ja
+  文字コード: ''
+  連絡先メールアドレス: ''
+  連絡先電話番号: ''
+groups:
+- ea98c354-262b-4cff-a061-477b74f43bcc
+id: a7da557a-3cfc-4782-8e37-806a8a3e26cf
+isopen: false
+license: null
+license_id: CC-BY
+license_title: CC-BY
+maintainer: 業務課
+maintainer_email: null
+metadata_created: '2016-04-11T03:44:27.659654'
+metadata_modified: '2016-04-12T14:31:40.178443'
+name: dataset-00000011
+notes: ゴミの品目別の収集日情報、捨て方の注意書き、類似の品の情報もあり
+notes_rendered: <p>ゴミの品目別の収集日情報、捨て方の注意書き、類似の品の情報もあり</p>
+num_resources: 3
+num_tags: 1
+organization:
+  approval_status: approved
+  created: '2016-03-23T00:21:41.328967'
+  description: ごみの処理・資源化、まちの美化、大気・水質・騒音などの環境保全対策など
+  id: 840a8105-d6ef-47c5-85ca-519f1641bb91
+  image_url: ''
+  is_organization: true
+  name: org_0090
+  revision_id: 88a20215-a08f-4296-b6da-b52a039ecfa0
+  state: active
+  title: 環境局
+  type: organization
+owner_org: 840a8105-d6ef-47c5-85ca-519f1641bb91
+private: false
+ratings_average: null
+ratings_count: 0
+relationships: []
+resources:
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-04-11T12:44:28.571357'
+  description: ゴミの品目別の収集日情報、捨て方の注意書き、類似の品の情報もあり
+  format: XLSX
+  hash: ''
+  id: 0e5ba14d-fb8b-4025-a4a8-bd81f43a3b7a
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: ごみ品目別収集区分一覧
+  package_id: a7da557a-3cfc-4782-8e37-806a8a3e26cf
+  position: 0
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/life/recycle/nihonngohaisyutuyoubi.xlsx
+  url_type: ''
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-04-11T12:44:29.448582'
+  description: 住所別の排出日情報(燃えるごみは何曜日かなど）
+  format: XLSX
+  hash: ''
+  id: a6822d83-8d10-4556-9405-8530bcd46ff6
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: ごみの排出区分、排出曜日、住所地
+  package_id: a7da557a-3cfc-4782-8e37-806a8a3e26cf
+  position: 1
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/life/recycle/nihonngohaisyutukubun.xlsx
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-04-12T23:31:40.209798'
+  description: 5374で表示する神戸市環境局業務課からのお知らせです。
+  format: XLSX
+  hash: ''
+  id: f4e1bf24-2de1-47f1-9a9d-617a495f4e85
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 神戸市からのお知らせ
+  package_id: a7da557a-3cfc-4782-8e37-806a8a3e26cf
+  position: 2
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/life/recycle/osirase.xlsx
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+revision_id: 648008c4-3bbb-421a-94e2-c56741a967ef
+state: active
+tags:
+- 情報啓発
+title: ごみ収集情報
+type: dataset
+url: http://www.city.kobe.lg.jp/life/recycle/waketon/opendeta.html
+version: null
+---
+author: 創造都市推進部
+author_email: null
+ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000054
+creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
+extras:
+  コピーライト: City of Kobe
+  作成頻度: ''
+  使用言語: ''
+  文字コード: ''
+  連絡先メールアドレス: ''
+  連絡先電話番号: ''
+groups:
+- c2ed703e-ebd0-447e-9b14-cd6aac1ecf8b
+id: 01fd232c-cad1-4262-8f3e-e8bf8819eb94
+isopen: false
+license: null
+license_id: CC-BY
+license_title: CC-BY
+maintainer: 創造都市推進部
+maintainer_email: null
+metadata_created: '2016-04-11T03:47:29.144216'
+metadata_modified: '2016-04-11T03:47:30.050936'
+name: dataset-00000054
+notes: 神戸マラソンにおけるウェアラブル実証事業参加者の走行ペースや歩幅などのデータです。
+notes_rendered: <p>神戸マラソンにおけるウェアラブル実証事業参加者の走行ペースや歩幅などのデータです。</p>
+num_resources: 1
+num_tags: 1
+organization:
+  approval_status: approved
+  created: '2016-03-23T00:21:39.544252'
+  description: 政策の企画・立案、重要施策の調整、総合基本計画、各種統計、創造都市戦略「デザイン都市・神戸」の推進、神戸医療産業都市の推進、企業誘致施策、情報化の推進など
+  id: cfa5ffc6-52cd-42d7-8e72-8c1dc58df27d
+  image_url: ''
+  is_organization: true
+  name: org_0040
+  revision_id: 5bb86d03-e2d8-4d30-b8da-5f1557fc1b6c
+  state: active
+  title: 企画調整局
+  type: organization
+owner_org: cfa5ffc6-52cd-42d7-8e72-8c1dc58df27d
+private: false
+ratings_average: null
+ratings_count: 0
+relationships: []
+resources:
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-04-11T12:47:30.078333'
+  description: 神戸マラソンにおけるウェアラブル実証事業参加者の走行ペースや歩幅などのデータです。
+  format: CSV
+  hash: ''
+  id: 9f91b50a-be85-4574-97ef-568a7523e205
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 神戸マラソンの走行ペース情報
+  package_id: 01fd232c-cad1-4262-8f3e-e8bf8819eb94
+  position: 0
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/project/design/torikumi/marathon1.csv
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+revision_id: 17646312-5fb2-40f4-966b-45b430647147
+state: active
+tags:
+- イベント
+title: 神戸マラソンの走行ペース情報
+type: dataset
+url: ''
+version: null
+---
+author: 情報化推進部
+author_email: null
+ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000053
+creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
+extras:
+  コピーライト: City of Kobe
+  作成頻度: ''
+  使用言語: ''
+  文字コード: ''
+  連絡先メールアドレス: ''
+  連絡先電話番号: ''
+groups:
+- ea98c354-262b-4cff-a061-477b74f43bcc
+id: b23a805c-8f4a-4886-88bb-7b0448eb903d
+isopen: false
+license: null
+license_id: CC-BY
+license_title: CC-BY
+maintainer: 情報化推進部
+maintainer_email: null
+metadata_created: '2016-04-11T03:47:25.693572'
+metadata_modified: '2016-04-11T03:47:28.283476'
+name: dataset-00000053
+notes: マイナンバー制度のFAQや説明資料
+notes_rendered: <p>マイナンバー制度のFAQや説明資料</p>
+num_resources: 3
+num_tags: 1
+organization:
+  approval_status: approved
+  created: '2016-03-23T00:21:39.544252'
+  description: 政策の企画・立案、重要施策の調整、総合基本計画、各種統計、創造都市戦略「デザイン都市・神戸」の推進、神戸医療産業都市の推進、企業誘致施策、情報化の推進など
+  id: cfa5ffc6-52cd-42d7-8e72-8c1dc58df27d
+  image_url: ''
+  is_organization: true
+  name: org_0040
+  revision_id: 5bb86d03-e2d8-4d30-b8da-5f1557fc1b6c
+  state: active
+  title: 企画調整局
+  type: organization
+owner_org: cfa5ffc6-52cd-42d7-8e72-8c1dc58df27d
+private: false
+ratings_average: null
+ratings_count: 0
+relationships: []
+resources:
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-04-11T12:47:26.617527'
+  description: マイナンバーFAQ一覧
+  format: XLSX
+  hash: ''
+  id: 4931b664-7679-483d-81a6-6aab49112fee
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: マイナンバーFAQ一覧
+  package_id: b23a805c-8f4a-4886-88bb-7b0448eb903d
+  position: 0
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/opendata/img/20150903_mynumber_faq.xlsx
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-04-11T12:47:27.458573'
+  description: マイナンバー個人向け資料
+  format: PPTX
+  hash: ''
+  id: dbd2c963-c41b-4b47-835f-54413fcfcba9
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: マイナンバー個人向け資料
+  package_id: b23a805c-8f4a-4886-88bb-7b0448eb903d
+  position: 1
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/opendata/img/mynumber_kojinmuke_siryo.pptx
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-04-11T12:47:28.311512'
+  description: マイナンバー事業主向け資料
+  format: PPTX
+  hash: ''
+  id: a9e0094e-5377-4072-9a62-655cde714b0f
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: マイナンバー事業主向け資料
+  package_id: b23a805c-8f4a-4886-88bb-7b0448eb903d
+  position: 2
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/opendata/img/mynumber_jigyonusi_siryo.pptx
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+revision_id: 849c9ada-8528-4c24-9782-78ab698eb93a
+state: active
+tags:
+- 情報啓発
+title: マイナンバー制度説明資料
+type: dataset
+url: http://www.city.kobe.lg.jp/information/project/innovation/mynumber/
+version: null
+---
+author: 広報課
+author_email: null
+ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000052
+creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
+extras:
+  コピーライト: City of Kobe
+  作成頻度: ''
+  使用言語: ja
+  文字コード: ''
+  連絡先メールアドレス: ''
+  連絡先電話番号: ''
+groups:
+- 5eccbc53-86ea-482a-8594-5224aaf5f2c6
+id: 01fdbf06-c0c6-42fe-8a8e-d2d3d15f0b2b
+isopen: false
+license: null
+license_id: CC-BY
+license_title: CC-BY
+maintainer: 広報課
+maintainer_email: null
+metadata_created: '2016-04-11T03:47:24.010851'
+metadata_modified: '2016-04-11T03:47:24.867550'
+name: dataset-00000052
+notes: 震災復興映像クリップ
+notes_rendered: <p>震災復興映像クリップ</p>
+num_resources: 1
+num_tags: 1
+organization:
+  approval_status: approved
+  created: '2016-03-23T00:21:38.356881'
+  description: 市長・副市長の秘書、国際交流の推進、広報など
+  id: 75dda5cb-9c84-4179-b36d-c3ce45cbdf1b
+  image_url: ''
+  is_organization: true
+  name: org_0010
+  revision_id: 1df27e93-790f-4410-9e36-6d67d18f5aed
+  state: active
+  title: 市長室
+  type: organization
+owner_org: 75dda5cb-9c84-4179-b36d-c3ce45cbdf1b
+private: false
+ratings_average: null
+ratings_count: 0
+relationships: []
+resources:
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-04-11T12:47:24.895994'
+  description: 震災復興映像クリップ
+  format: HTML
+  hash: ''
+  id: 54be7d86-1dd6-4d49-a900-61717f8d5df2
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 震災復興映像クリップ
+  package_id: 01fdbf06-c0c6-42fe-8a8e-d2d3d15f0b2b
+  position: 0
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/safety/hanshinawaji/data/movie/
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+revision_id: 52be1005-fc45-4b8a-87d9-eb06589c8b33
+state: active
+tags:
+- 情報啓発
+title: 震災復興映像クリップ
+type: dataset
+url: http://www.city.kobe.lg.jp/safety/hanshinawaji/data/movie/
+version: null
+---
+author: 総務課
+author_email: null
+ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000051
+creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
+extras:
+  コピーライト: City of Kobe
+  作成頻度: ''
+  使用言語: ja
+  文字コード: ''
+  連絡先メールアドレス: ''
+  連絡先電話番号: ''
+groups:
+- c2ed703e-ebd0-447e-9b14-cd6aac1ecf8b
+id: c0b38b8c-258c-407f-9059-5024fff69e50
+isopen: false
+license: null
+license_id: CC-BY
+license_title: CC-BY
+maintainer: 総務課
+maintainer_email: null
+metadata_created: '2016-04-11T03:47:22.411714'
+metadata_modified: '2016-04-11T03:47:23.268342'
+name: dataset-00000051
+notes: のびのびパスポート対象施設情報
+notes_rendered: <p>のびのびパスポート対象施設情報</p>
+num_resources: 1
+num_tags: 1
+organization:
+  approval_status: approved
+  created: '2016-03-23T00:21:44.525277'
+  description: 教育施策の企画立案、学校職員の任免、学校教育の振興、学校園の整備、教育課程、特別支援教育、健康教育、人権教育、生涯学習の振興、文化財の保護、スポーツの振興、公民館、博物館、図書館など
+  id: a88d1fef-95b7-478c-8831-8b42bdc4c9f7
+  image_url: ''
+  is_organization: true
+  name: org_0170
+  revision_id: 81860d49-bdcb-4fb7-8979-9697c8a60009
+  state: active
+  title: 教育委員会事務局
+  type: organization
+owner_org: a88d1fef-95b7-478c-8831-8b42bdc4c9f7
+private: false
+ratings_average: null
+ratings_count: 0
+relationships: []
+resources:
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-04-11T12:47:23.294058'
+  description: のびのびパスポート対象施設情報
+  format: HTML
+  hash: ''
+  id: 271e60c0-9a63-42d5-aac3-c99f197aff07
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: のびのびパスポート対象施設情報
+  package_id: c0b38b8c-258c-407f-9059-5024fff69e50
+  position: 0
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/child/education/program/index_02-1.html
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+revision_id: b6c370b9-5a07-48b8-b5b7-64b56c15d6cb
+state: active
+tags:
+- 施設
+title: のびのびパスポート対象施設情報
+type: dataset
+url: http://www.city.kobe.lg.jp/child/education/program/index_02-1.html
+version: null
+---
+author: 総合計画課
+author_email: null
+ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000050
+creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
+extras:
+  コピーライト: City of Kobe
+  作成頻度: ''
+  使用言語: ja
+  文字コード: ''
+  連絡先メールアドレス: ''
+  連絡先電話番号: ''
+groups:
+- b18a8508-9e22-4355-9d36-d8c4d94b7df9
+id: 0dbc18d7-ea3b-4f04-8904-ca7828dd3023
+isopen: false
+license: null
+license_id: CC-BY
+license_title: CC-BY
+maintainer: 総合計画課
+maintainer_email: null
+metadata_created: '2016-04-11T03:47:12.239564'
+metadata_modified: '2016-04-11T03:47:21.460699'
+name: dataset-00000050
+notes: 神戸市産業関連表による神戸市経済の分析結果など（神戸市統計報告 平成16年度 No.5）
+notes_rendered: <p>神戸市産業関連表による神戸市経済の分析結果など（神戸市統計報告 平成16年度 No.5）</p>
+num_resources: 9
+num_tags: 1
+organization:
+  approval_status: approved
+  created: '2016-03-23T00:21:39.544252'
+  description: 政策の企画・立案、重要施策の調整、総合基本計画、各種統計、創造都市戦略「デザイン都市・神戸」の推進、神戸医療産業都市の推進、企業誘致施策、情報化の推進など
+  id: cfa5ffc6-52cd-42d7-8e72-8c1dc58df27d
+  image_url: ''
+  is_organization: true
+  name: org_0040
+  revision_id: 5bb86d03-e2d8-4d30-b8da-5f1557fc1b6c
+  state: active
+  title: 企画調整局
+  type: organization
+owner_org: cfa5ffc6-52cd-42d7-8e72-8c1dc58df27d
+private: false
+ratings_average: null
+ratings_count: 0
+relationships: []
+resources:
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-04-11T12:47:13.390187'
+  description: 産業連関表による平成12年神戸市経済の分析
+  format: PDF
+  hash: ''
+  id: 0d19700e-87ce-4652-9750-28ac67070780
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 産業連関表による平成12年神戸市経済の分析
+  package_id: 0dbc18d7-ea3b-4f04-8904-ca7828dd3023
+  position: 0
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/sanren/data/12bunseki.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-04-11T12:47:15.136999'
+  description: 産業連関表の概念
+  format: PDF
+  hash: ''
+  id: 01307304-6bb3-4fdc-9aad-6839191324dd
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 産業連関表の概念
+  package_id: 0dbc18d7-ea3b-4f04-8904-ca7828dd3023
+  position: 1
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/sanren/data/12gainen.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-04-11T12:47:16.066620'
+  description: 産業連関表作成の考え方
+  format: PDF
+  hash: ''
+  id: ae8585a2-6b08-4577-86ec-a83793a8227d
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 産業連関表作成の考え方
+  package_id: 0dbc18d7-ea3b-4f04-8904-ca7828dd3023
+  position: 2
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/sanren/data/12kihon.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-04-11T12:47:16.944834'
+  description: 平成12年神戸市産業連関表作成の考え方
+  format: PDF
+  hash: ''
+  id: 6ab4f16c-f500-471d-b0c7-028db8f73f31
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 平成12年神戸市産業連関表作成の考え方
+  package_id: 0dbc18d7-ea3b-4f04-8904-ca7828dd3023
+  position: 3
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/sanren/data/12sakusei.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-04-11T12:47:17.805764'
+  description: 部門分類の概念
+  format: PDF
+  hash: ''
+  id: bef8a851-8ac6-4f9c-a891-52510671608e
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 部門分類の概念
+  package_id: 0dbc18d7-ea3b-4f04-8904-ca7828dd3023
+  position: 4
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/sanren/data/12bumon.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-04-11T12:47:18.624412'
+  description: 部門分類表・コード表
+  format: XLS
+  hash: ''
+  id: 478593e2-f3c4-47ad-8bed-ce78fd8adda1
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 部門分類表・コード表
+  package_id: 0dbc18d7-ea3b-4f04-8904-ca7828dd3023
+  position: 5
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/sanren/data/12bunrui.xls
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-04-11T12:47:19.489815'
+  description: 統計表
+  format: XLS
+  hash: ''
+  id: fab29382-2ece-4a2f-897e-427509aa8e1f
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 統計表
+  package_id: 0dbc18d7-ea3b-4f04-8904-ca7828dd3023
+  position: 6
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/sanren/data/12koukeihyou.xls
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-04-11T12:47:20.571193'
+  description: 平成12年神戸市雇用表の概要
+  format: PDF
+  hash: ''
+  id: 4a634d1a-db4f-4a6e-aab8-e5bc31e1f627
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 平成12年神戸市雇用表の概要
+  package_id: 0dbc18d7-ea3b-4f04-8904-ca7828dd3023
+  position: 7
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/sanren/data/12koyouhyougainen.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-04-11T12:47:21.509237'
+  description: 雇用表
+  format: XLS
+  hash: ''
+  id: b8660dc2-056e-4ea6-acc3-c131f0ad18b7
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 雇用表
+  package_id: 0dbc18d7-ea3b-4f04-8904-ca7828dd3023
+  position: 8
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/sanren/data/12koyouhyou.xls
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+revision_id: a2719782-255b-46ee-ac2f-9422b67d1eee
+state: active
+tags:
+- 統計
+title: 平成12年 神戸市産業連関表
+type: dataset
+url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/sanren/index.html
+version: null
+---
+author: 総合計画課
+author_email: null
+ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000049
+creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
+extras:
+  コピーライト: City of Kobe
+  作成頻度: ''
+  使用言語: ja
+  文字コード: ''
+  連絡先メールアドレス: ''
+  連絡先電話番号: ''
+groups:
+- b18a8508-9e22-4355-9d36-d8c4d94b7df9
+id: 5c1de36b-2a2d-40e3-9059-ca70e7033f6e
+isopen: false
+license: null
+license_id: CC-BY
+license_title: CC-BY
+maintainer: 総合計画課
+maintainer_email: null
+metadata_created: '2016-04-11T03:47:04.253445'
+metadata_modified: '2016-04-11T03:47:11.314251'
+name: dataset-00000049
+notes: 神戸市産業関連表による神戸市経済の分析結果など（神戸市統計報告 平成21年度 No.6）
+notes_rendered: <p>神戸市産業関連表による神戸市経済の分析結果など（神戸市統計報告 平成21年度 No.6）</p>
+num_resources: 7
+num_tags: 1
+organization:
+  approval_status: approved
+  created: '2016-03-23T00:21:39.544252'
+  description: 政策の企画・立案、重要施策の調整、総合基本計画、各種統計、創造都市戦略「デザイン都市・神戸」の推進、神戸医療産業都市の推進、企業誘致施策、情報化の推進など
+  id: cfa5ffc6-52cd-42d7-8e72-8c1dc58df27d
+  image_url: ''
+  is_organization: true
+  name: org_0040
+  revision_id: 5bb86d03-e2d8-4d30-b8da-5f1557fc1b6c
+  state: active
+  title: 企画調整局
+  type: organization
+owner_org: cfa5ffc6-52cd-42d7-8e72-8c1dc58df27d
+private: false
+ratings_average: null
+ratings_count: 0
+relationships: []
+resources:
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-04-11T12:47:05.324580'
+  description: 産業連関表による平成17年神戸市経済の分析
+  format: PDF
+  hash: ''
+  id: ae870f7d-7739-4e51-923e-b0a58d9a3514
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 産業連関表による平成17年神戸市経済の分析
+  package_id: 5c1de36b-2a2d-40e3-9059-ca70e7033f6e
+  position: 0
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/sanren/data/17sanren_chap.1.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-04-11T12:47:06.249788'
+  description: 産業連関表について
+  format: PDF
+  hash: ''
+  id: 6fc44946-9eff-40b9-bacf-79054e22f69e
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 産業連関表について
+  package_id: 5c1de36b-2a2d-40e3-9059-ca70e7033f6e
+  position: 1
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/sanren/data/17sanren_chap.2.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-04-11T12:47:07.303225'
+  description: 部門分類表・コード表
+  format: XLS
+  hash: ''
+  id: 1559999f-0954-4e15-93a5-92802e67070e
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 部門分類表・コード表
+  package_id: 5c1de36b-2a2d-40e3-9059-ca70e7033f6e
+  position: 2
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/sanren/data/17bunrui.xls
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-04-11T12:47:08.224309'
+  description: 平成12年-平成17年部門分類対照表
+  format: XLS
+  hash: ''
+  id: 4a006fd6-22c9-428c-9e58-ed441c5f6930
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 平成12年-平成17年部門分類対照表
+  package_id: 5c1de36b-2a2d-40e3-9059-ca70e7033f6e
+  position: 3
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/sanren/data/17taishouhyou.xls
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-04-11T12:47:09.350968'
+  description: 統計表（13部門表）
+  format: XLS
+  hash: ''
+  id: 48fd41ee-f575-4ff1-8bd3-ba49794dee35
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 統計表（13部門表）
+  package_id: 5c1de36b-2a2d-40e3-9059-ca70e7033f6e
+  position: 4
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/sanren/data/17toukeihyou_13bumon.xls
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-04-11T12:47:10.388628'
+  description: 統計表（34部門表）
+  format: XLS
+  hash: ''
+  id: 7f29a44b-194a-4453-a16a-08f398b4e333
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 統計表（34部門表）
+  package_id: 5c1de36b-2a2d-40e3-9059-ca70e7033f6e
+  position: 5
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/sanren/data/17toukeihyou_34bumon.xls
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-04-11T12:47:11.345960'
+  description: 統計表（109部門表）
+  format: XLS
+  hash: ''
+  id: 1b6c232b-ae50-4adf-8dea-2e1d8e364ea8
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 統計表（109部門表）
+  package_id: 5c1de36b-2a2d-40e3-9059-ca70e7033f6e
+  position: 6
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/sanren/data/17toukeihyou_109bumon.xls
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+revision_id: 14bd59fd-32aa-4eab-b229-bb522ce30232
+state: active
+tags:
+- 統計
+title: 平成17年 神戸市産業連関表
+type: dataset
+url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/sanren/index.html
+version: null
+---
+author: 総合計画課
+author_email: null
+ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000048
+creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
+extras:
+  コピーライト: City of Kobe
+  作成頻度: ''
+  使用言語: ja
+  文字コード: ''
+  連絡先メールアドレス: ''
+  連絡先電話番号: ''
+groups:
+- b18a8508-9e22-4355-9d36-d8c4d94b7df9
+id: fe8f5cef-7f6d-4faf-89e0-b1ef6bff7ee4
+isopen: false
+license: null
+license_id: CC-BY
+license_title: CC-BY
+maintainer: 総合計画課
+maintainer_email: null
+metadata_created: '2016-04-11T03:46:56.920182'
+metadata_modified: '2016-04-11T03:47:03.288839'
+name: dataset-00000048
+notes: 神戸市民経済計算の結果分析、統計表(市内総生産など）
+notes_rendered: <p>神戸市民経済計算の結果分析、統計表(市内総生産など）</p>
+num_resources: 6
+num_tags: 1
+organization:
+  approval_status: approved
+  created: '2016-03-23T00:21:39.544252'
+  description: 政策の企画・立案、重要施策の調整、総合基本計画、各種統計、創造都市戦略「デザイン都市・神戸」の推進、神戸医療産業都市の推進、企業誘致施策、情報化の推進など
+  id: cfa5ffc6-52cd-42d7-8e72-8c1dc58df27d
+  image_url: ''
+  is_organization: true
+  name: org_0040
+  revision_id: 5bb86d03-e2d8-4d30-b8da-5f1557fc1b6c
+  state: active
+  title: 企画調整局
+  type: organization
+owner_org: cfa5ffc6-52cd-42d7-8e72-8c1dc58df27d
+private: false
+ratings_average: null
+ratings_count: 0
+relationships: []
+resources:
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-04-11T12:46:58.048746'
+  description: 結果の概要（神戸市統計報告 平成27年度 No.３）
+  format: PDF
+  hash: ''
+  id: c03acc0e-4f41-4f3b-bbcb-ff0d89933f4b
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 結果の概要（神戸市統計報告 平成27年度 No.３）
+  package_id: fe8f5cef-7f6d-4faf-89e0-b1ef6bff7ee4
+  position: 0
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/keizai/data/25kk_kiji.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-04-11T12:46:59.045704'
+  description: 利用上の注意
+  format: PDF
+  hash: ''
+  id: e17e385d-5f66-4ed4-ac99-a3319858ef59
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 利用上の注意
+  package_id: fe8f5cef-7f6d-4faf-89e0-b1ef6bff7ee4
+  position: 1
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/keizai/data/25kk_riyoujotyuui.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-04-11T12:47:00.177643'
+  description: 市民経済計算の概念と用語解説
+  format: PDF
+  hash: ''
+  id: 89dc5eb4-0eb7-44f9-a1a0-7925c0f04984
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 市民経済計算の概念と用語解説
+  package_id: fe8f5cef-7f6d-4faf-89e0-b1ef6bff7ee4
+  position: 2
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/keizai/data/25kk_gainenyogo.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-04-11T12:47:01.265918'
+  description: 経済活動別分類（SNA分類）と日本標準産業分類の対応表
+  format: PDF
+  hash: ''
+  id: 38f08173-fa9b-456c-b441-10ccb0a584d5
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 経済活動別分類（SNA分類）と日本標準産業分類の対応表
+  package_id: fe8f5cef-7f6d-4faf-89e0-b1ef6bff7ee4
+  position: 3
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/keizai/data/25kk_taiohyo.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-04-11T12:47:02.338527'
+  description: 統計表
+  format: XLS
+  hash: ''
+  id: 384c2d46-d579-4906-8c72-ae9d6fbcee3f
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 統計表
+  package_id: fe8f5cef-7f6d-4faf-89e0-b1ef6bff7ee4
+  position: 4
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/keizai/data/25keizaikeisann.xls
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-04-11T12:47:03.323695'
+  description: 参考表
+  format: XLS
+  hash: ''
+  id: 97c3b7fb-4e07-4dc0-a61e-c745dd71e8f2
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 参考表
+  package_id: fe8f5cef-7f6d-4faf-89e0-b1ef6bff7ee4
+  position: 5
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/keizai/data/25kk_sankouhyou.xls
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+revision_id: ecf862d4-cfbe-48b6-96aa-6f1f857aaf37
+state: active
+tags:
+- 統計
+title: 平成25年度 神戸市民経済計算
+type: dataset
+url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/keizai/index.html
+version: null
+---
+author: 総合計画課
+author_email: null
+ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000047
+creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
+extras:
+  コピーライト: City of Kobe
+  作成頻度: ''
+  使用言語: ja
+  文字コード: ''
+  連絡先メールアドレス: ''
+  連絡先電話番号: ''
+groups:
+- b18a8508-9e22-4355-9d36-d8c4d94b7df9
+id: 339eb303-3cb5-4ed8-bd55-1efe51baed36
+isopen: false
+license: null
+license_id: CC-BY
+license_title: CC-BY
+maintainer: 総合計画課
+maintainer_email: null
+metadata_created: '2016-04-11T03:46:54.161929'
+metadata_modified: '2016-04-11T03:46:56.099393'
+name: dataset-00000047
+notes: 人口の自然動態・社会動態、区・相手地域別の転入者数などの情報
+notes_rendered: <p>人口の自然動態・社会動態、区・相手地域別の転入者数などの情報</p>
+num_resources: 2
+num_tags: 1
+organization:
+  approval_status: approved
+  created: '2016-03-23T00:21:39.544252'
+  description: 政策の企画・立案、重要施策の調整、総合基本計画、各種統計、創造都市戦略「デザイン都市・神戸」の推進、神戸医療産業都市の推進、企業誘致施策、情報化の推進など
+  id: cfa5ffc6-52cd-42d7-8e72-8c1dc58df27d
+  image_url: ''
+  is_organization: true
+  name: org_0040
+  revision_id: 5bb86d03-e2d8-4d30-b8da-5f1557fc1b6c
+  state: active
+  title: 企画調整局
+  type: organization
+owner_org: cfa5ffc6-52cd-42d7-8e72-8c1dc58df27d
+private: false
+ratings_average: null
+ratings_count: 0
+relationships: []
+resources:
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-04-11T12:46:55.071184'
+  description: 結果の概要
+  format: PDF
+  hash: ''
+  id: 5bc6c10f-70a1-460d-b2e8-25103b9d3b47
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 結果の概要（神戸市統計報告　平成24年度　No.４）
+  package_id: 339eb303-3cb5-4ed8-bd55-1efe51baed36
+  position: 0
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/ugokidata/24jinugoki_kiji.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-04-11T12:46:56.125681'
+  description: 統計表
+  format: XLS
+  hash: ''
+  id: aff95c3e-5e37-43bc-a7cb-d67bc1ab76a9
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 統計表
+  package_id: 339eb303-3cb5-4ed8-bd55-1efe51baed36
+  position: 1
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/ugokidata/24jinugoki.xls
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+revision_id: b40edaf3-e88a-4416-b1da-08a1efad092b
+state: active
+tags:
+- 統計
+title: 平成24年中の人口の動き
+type: dataset
+url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/jinkouugoki.html
+version: null
+---
+author: 総合計画課
+author_email: null
+ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000046
+creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
+extras:
+  コピーライト: City of Kobe
+  作成頻度: ''
+  使用言語: ja
+  文字コード: ''
+  連絡先メールアドレス: ''
+  連絡先電話番号: ''
+groups:
+- b18a8508-9e22-4355-9d36-d8c4d94b7df9
+id: 4faa66e0-00c6-4633-99c8-172f5f6bff32
+isopen: false
+license: null
+license_id: CC-BY
+license_title: CC-BY
+maintainer: 総合計画課
+maintainer_email: null
+metadata_created: '2016-04-11T03:46:50.983894'
+metadata_modified: '2016-04-11T03:46:53.078345'
+name: dataset-00000046
+notes: 人口の自然動態・社会動態、区・相手地域別の転入者数などの情報
+notes_rendered: <p>人口の自然動態・社会動態、区・相手地域別の転入者数などの情報</p>
+num_resources: 2
+num_tags: 1
+organization:
+  approval_status: approved
+  created: '2016-03-23T00:21:39.544252'
+  description: 政策の企画・立案、重要施策の調整、総合基本計画、各種統計、創造都市戦略「デザイン都市・神戸」の推進、神戸医療産業都市の推進、企業誘致施策、情報化の推進など
+  id: cfa5ffc6-52cd-42d7-8e72-8c1dc58df27d
+  image_url: ''
+  is_organization: true
+  name: org_0040
+  revision_id: 5bb86d03-e2d8-4d30-b8da-5f1557fc1b6c
+  state: active
+  title: 企画調整局
+  type: organization
+owner_org: cfa5ffc6-52cd-42d7-8e72-8c1dc58df27d
+private: false
+ratings_average: null
+ratings_count: 0
+relationships: []
+resources:
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-04-11T12:46:51.942115'
+  description: 結果の概要
+  format: PDF
+  hash: ''
+  id: 0ff42b48-104d-4131-b463-e3ae675ef53a
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 結果の概要（神戸市統計報告　平成25年度　No.４）
+  package_id: 4faa66e0-00c6-4633-99c8-172f5f6bff32
+  position: 0
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/suikeidata/25jinugoki_kiji.pdf.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-04-11T12:46:53.111629'
+  description: 統計表
+  format: XLS
+  hash: ''
+  id: a7306d70-51af-4eff-b5a3-ac4bd4bbe02b
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 統計表
+  package_id: 4faa66e0-00c6-4633-99c8-172f5f6bff32
+  position: 1
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/suikeidata/25jinugoki.xls
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+revision_id: b589f2d6-fc5a-4990-b344-84638714d040
+state: active
+tags:
+- 統計
+title: 平成25年中の人口の動き
+type: dataset
+url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/jinkouugoki.html
+version: null
+---
+author: 総合計画課
+author_email: null
+ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000045
+creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
+extras:
+  コピーライト: City of Kobe
+  作成頻度: ''
+  使用言語: ja
+  文字コード: ''
+  連絡先メールアドレス: ''
+  連絡先電話番号: ''
+groups:
+- b18a8508-9e22-4355-9d36-d8c4d94b7df9
+id: 7c949449-0df1-48a6-8c36-21160a9bee32
+isopen: false
+license: null
+license_id: CC-BY
+license_title: CC-BY
+maintainer: 総合計画課
+maintainer_email: null
+metadata_created: '2016-04-11T03:46:48.193489'
+metadata_modified: '2016-04-11T03:46:50.164080'
+name: dataset-00000045
+notes: 人口の自然動態・社会動態、区・相手地域別の転入者数などの情報
+notes_rendered: <p>人口の自然動態・社会動態、区・相手地域別の転入者数などの情報</p>
+num_resources: 2
+num_tags: 1
+organization:
+  approval_status: approved
+  created: '2016-03-23T00:21:39.544252'
+  description: 政策の企画・立案、重要施策の調整、総合基本計画、各種統計、創造都市戦略「デザイン都市・神戸」の推進、神戸医療産業都市の推進、企業誘致施策、情報化の推進など
+  id: cfa5ffc6-52cd-42d7-8e72-8c1dc58df27d
+  image_url: ''
+  is_organization: true
+  name: org_0040
+  revision_id: 5bb86d03-e2d8-4d30-b8da-5f1557fc1b6c
+  state: active
+  title: 企画調整局
+  type: organization
+owner_org: cfa5ffc6-52cd-42d7-8e72-8c1dc58df27d
+private: false
+ratings_average: null
+ratings_count: 0
+relationships: []
+resources:
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-04-11T12:46:49.339850'
+  description: 結果の概要
+  format: PDF
+  hash: ''
+  id: 4508d9c9-0a25-4519-a923-a9d3e4b15d1f
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 結果の概要（神戸市統計報告　平成26年度　No.４）
+  package_id: 7c949449-0df1-48a6-8c36-21160a9bee32
+  position: 0
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/suikeidata/26jinugoki_kiji.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-04-11T12:46:50.197085'
+  description: 統計表
+  format: XLS
+  hash: ''
+  id: 1d4004b6-96b0-4d5c-9a84-cca778c6886d
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 統計表
+  package_id: 7c949449-0df1-48a6-8c36-21160a9bee32
+  position: 1
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/suikeidata/26jinugoki.xls
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+revision_id: c96ada22-d5d6-4af3-9caa-4d9c0de01314
+state: active
+tags:
+- 統計
+title: 平成26年中の人口の動き
+type: dataset
+url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/jinkouugoki.html
+version: null
+---
+author: 区政振興課
+author_email: null
+ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000044
+creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
+extras:
+  コピーライト: City of Kobe
+  作成頻度: ''
+  使用言語: ja
+  文字コード: ''
+  連絡先メールアドレス: ''
+  連絡先電話番号: ''
+groups:
+- b18a8508-9e22-4355-9d36-d8c4d94b7df9
+id: 3a1f79ad-67ca-4565-bc9b-c93dcc9553d8
+isopen: false
+license: null
+license_id: CC-BY
+license_title: CC-BY
+maintainer: 区政振興課
+maintainer_email: null
+metadata_created: '2016-04-11T03:46:44.983741'
+metadata_modified: '2016-04-11T03:46:46.657838'
+name: dataset-00000044
+notes: 平成12年住民基本台帳（日本人・外国人）町丁目別・世帯数男女別人口
+notes_rendered: <p>平成12年住民基本台帳（日本人・外国人）町丁目別・世帯数男女別人口</p>
+num_resources: 1
+num_tags: 1
+organization:
+  approval_status: approved
+  created: '2016-03-23T00:21:40.243359'
+  description: 市民参画の推進、広聴、情報公開、個人情報保護、意見募集（パブリックコメント）、市民相談、市政情報室、区役所との連絡、地域活動の支援、NPOの支援、消費者施策、勤労者福祉、男女共同参画、芸術文化の振興及び普及、文化施設の運営、レクリエーション事業の推進など
+  id: 66c3317b-c8a7-4d4b-9919-05f412af1ba3
+  image_url: ''
+  is_organization: true
+  name: org_0060
+  revision_id: fd43c7fa-9839-4fb1-a0ce-8f4beba89327
+  state: active
+  title: 市民参画推進局
+  type: organization
+owner_org: 66c3317b-c8a7-4d4b-9919-05f412af1ba3
+private: false
+ratings_average: null
+ratings_count: 0
+relationships: []
+resources:
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-04-11T12:46:46.801973'
+  description: 平成12年住民基本台帳（日本人・外国人）町丁目別・世帯数男女別人口
+  format: PDF
+  hash: ''
+  id: 2f8159d4-5cca-48ce-b6be-605d95ed2da8
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 平成12年住民基本台帳（日本人・外国人）町丁目別・世帯数男女別人口
+  package_id: 3a1f79ad-67ca-4565-bc9b-c93dcc9553d8
+  position: 0
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/juukidata/juuki1212.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+revision_id: 10e770be-609b-413b-9d1e-a9c52bc16ea4
+state: active
+tags:
+- 統計
+title: 平成12年住民基本台帳（日本人・外国人）町丁目別・世帯数男女別人口
+type: dataset
+url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/juukijinkou.html
+version: null
+---
+author: 区政振興課
+author_email: null
+ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000043
+creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
+extras:
+  コピーライト: City of Kobe
+  作成頻度: ''
+  使用言語: ja
+  文字コード: ''
+  連絡先メールアドレス: ''
+  連絡先電話番号: ''
+groups:
+- b18a8508-9e22-4355-9d36-d8c4d94b7df9
+id: 8ed6668d-ab59-4706-9eef-c363af82268e
+isopen: false
+license: null
+license_id: CC-BY
+license_title: CC-BY
+maintainer: 区政振興課
+maintainer_email: null
+metadata_created: '2016-04-11T03:46:43.242315'
+metadata_modified: '2016-04-11T03:46:44.221301'
+name: dataset-00000043
+notes: 平成11年住民基本台帳（日本人・外国人）町丁目別・世帯数男女別人口
+notes_rendered: <p>平成11年住民基本台帳（日本人・外国人）町丁目別・世帯数男女別人口</p>
+num_resources: 1
+num_tags: 1
+organization:
+  approval_status: approved
+  created: '2016-03-23T00:21:40.243359'
+  description: 市民参画の推進、広聴、情報公開、個人情報保護、意見募集（パブリックコメント）、市民相談、市政情報室、区役所との連絡、地域活動の支援、NPOの支援、消費者施策、勤労者福祉、男女共同参画、芸術文化の振興及び普及、文化施設の運営、レクリエーション事業の推進など
+  id: 66c3317b-c8a7-4d4b-9919-05f412af1ba3
+  image_url: ''
+  is_organization: true
+  name: org_0060
+  revision_id: fd43c7fa-9839-4fb1-a0ce-8f4beba89327
+  state: active
+  title: 市民参画推進局
+  type: organization
+owner_org: 66c3317b-c8a7-4d4b-9919-05f412af1ba3
+private: false
+ratings_average: null
+ratings_count: 0
+relationships: []
+resources:
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-04-11T12:46:44.247384'
+  description: 平成11年住民基本台帳（日本人・外国人）町丁目別・世帯数男女別人口
+  format: PDF
+  hash: ''
+  id: 607dc275-eaa6-4905-a56d-fb3ae73193b8
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 平成11年住民基本台帳（日本人・外国人）町丁目別・世帯数男女別人口
+  package_id: 8ed6668d-ab59-4706-9eef-c363af82268e
+  position: 0
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/juukidata/juuki1112.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+revision_id: cb951ada-9323-4a61-a2f6-5238607a22ac
+state: active
+tags:
+- 統計
+title: 平成11年住民基本台帳（日本人・外国人）町丁目別・世帯数男女別人口
+type: dataset
+url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/juukijinkou.html
+version: null
+---
+author: 区政振興課
+author_email: null
+ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000042
+creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
+extras:
+  コピーライト: City of Kobe
+  作成頻度: ''
+  使用言語: ja
+  文字コード: ''
+  連絡先メールアドレス: ''
+  連絡先電話番号: ''
+groups:
+- b18a8508-9e22-4355-9d36-d8c4d94b7df9
+id: 10ea691c-94ef-456b-a03b-94865e0eac11
+isopen: false
+license: null
+license_id: CC-BY
+license_title: CC-BY
+maintainer: 区政振興課
+maintainer_email: null
+metadata_created: '2016-04-11T03:46:41.019657'
+metadata_modified: '2016-04-11T03:46:42.085439'
+name: dataset-00000042
+notes: 平成10年住民基本台帳（日本人・外国人）町丁目別・世帯数男女別人口
+notes_rendered: <p>平成10年住民基本台帳（日本人・外国人）町丁目別・世帯数男女別人口</p>
+num_resources: 1
+num_tags: 1
+organization:
+  approval_status: approved
+  created: '2016-03-23T00:21:40.243359'
+  description: 市民参画の推進、広聴、情報公開、個人情報保護、意見募集（パブリックコメント）、市民相談、市政情報室、区役所との連絡、地域活動の支援、NPOの支援、消費者施策、勤労者福祉、男女共同参画、芸術文化の振興及び普及、文化施設の運営、レクリエーション事業の推進など
+  id: 66c3317b-c8a7-4d4b-9919-05f412af1ba3
+  image_url: ''
+  is_organization: true
+  name: org_0060
+  revision_id: fd43c7fa-9839-4fb1-a0ce-8f4beba89327
+  state: active
+  title: 市民参画推進局
+  type: organization
+owner_org: 66c3317b-c8a7-4d4b-9919-05f412af1ba3
+private: false
+ratings_average: null
+ratings_count: 0
+relationships: []
+resources:
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-04-11T12:46:42.120220'
+  description: 平成10年住民基本台帳（日本人・外国人）町丁目別・世帯数男女別人口
+  format: PDF
+  hash: ''
+  id: fab2a0fd-f29e-4ab0-9b6f-6b345308b713
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 平成10年住民基本台帳（日本人・外国人）町丁目別・世帯数男女別人口
+  package_id: 10ea691c-94ef-456b-a03b-94865e0eac11
+  position: 0
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/juukidata/juuki1012.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+revision_id: fe49fee0-6826-439f-b767-1547af3cda6f
+state: active
+tags:
+- 統計
+title: 平成10年住民基本台帳（日本人・外国人）町丁目別・世帯数男女別人口
+type: dataset
+url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/juukijinkou.html
+version: null
+---
+author: 区政振興課
+author_email: null
+ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000041
+creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
+extras:
+  コピーライト: City of Kobe
+  作成頻度: ''
+  使用言語: ja
+  文字コード: ''
+  連絡先メールアドレス: ''
+  連絡先電話番号: ''
+groups:
+- b18a8508-9e22-4355-9d36-d8c4d94b7df9
+id: ae564c6b-4cae-4eb9-baff-b905f3a7f35e
+isopen: false
+license: null
+license_id: CC-BY
+license_title: CC-BY
+maintainer: 区政振興課
+maintainer_email: null
+metadata_created: '2016-04-11T03:46:39.010972'
+metadata_modified: '2016-04-11T03:46:40.109288'
+name: dataset-00000041
+notes: 平成9年住民基本台帳（日本人・外国人）町丁目別・世帯数男女別人口
+notes_rendered: <p>平成9年住民基本台帳（日本人・外国人）町丁目別・世帯数男女別人口</p>
+num_resources: 1
+num_tags: 1
+organization:
+  approval_status: approved
+  created: '2016-03-23T00:21:40.243359'
+  description: 市民参画の推進、広聴、情報公開、個人情報保護、意見募集（パブリックコメント）、市民相談、市政情報室、区役所との連絡、地域活動の支援、NPOの支援、消費者施策、勤労者福祉、男女共同参画、芸術文化の振興及び普及、文化施設の運営、レクリエーション事業の推進など
+  id: 66c3317b-c8a7-4d4b-9919-05f412af1ba3
+  image_url: ''
+  is_organization: true
+  name: org_0060
+  revision_id: fd43c7fa-9839-4fb1-a0ce-8f4beba89327
+  state: active
+  title: 市民参画推進局
+  type: organization
+owner_org: 66c3317b-c8a7-4d4b-9919-05f412af1ba3
+private: false
+ratings_average: null
+ratings_count: 0
+relationships: []
+resources:
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-04-11T12:46:40.135278'
+  description: 平成9年住民基本台帳（日本人・外国人）町丁目別・世帯数男女別人口
+  format: PDF
+  hash: ''
+  id: c63c6dbd-46de-4f2c-b559-c85113dfa40e
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 平成9年住民基本台帳（日本人・外国人）町丁目別・世帯数男女別人口
+  package_id: ae564c6b-4cae-4eb9-baff-b905f3a7f35e
+  position: 0
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/juukidata/juuki0912.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+revision_id: 2becfdfe-e183-4200-aa18-1bbc838d5e47
+state: active
+tags:
+- 統計
+title: 平成9年住民基本台帳（日本人・外国人）町丁目別・世帯数男女別人口
+type: dataset
+url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/juukijinkou.html
+version: null
+---
+author: 区政振興課
+author_email: null
+ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000040
+creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
+extras:
+  コピーライト: City of Kobe
+  作成頻度: ''
+  使用言語: ja
+  文字コード: ''
+  連絡先メールアドレス: ''
+  連絡先電話番号: ''
+groups:
+- b18a8508-9e22-4355-9d36-d8c4d94b7df9
+id: 098681ca-f755-4b39-967e-57c6963d46cf
+isopen: false
+license: null
+license_id: CC-BY
+license_title: CC-BY
+maintainer: 区政振興課
+maintainer_email: null
+metadata_created: '2016-04-11T03:46:37.150318'
+metadata_modified: '2016-04-11T03:46:38.168642'
+name: dataset-00000040
+notes: 平成8年住民基本台帳（日本人・外国人）町丁目別・世帯数男女別人口
+notes_rendered: <p>平成8年住民基本台帳（日本人・外国人）町丁目別・世帯数男女別人口</p>
+num_resources: 1
+num_tags: 1
+organization:
+  approval_status: approved
+  created: '2016-03-23T00:21:40.243359'
+  description: 市民参画の推進、広聴、情報公開、個人情報保護、意見募集（パブリックコメント）、市民相談、市政情報室、区役所との連絡、地域活動の支援、NPOの支援、消費者施策、勤労者福祉、男女共同参画、芸術文化の振興及び普及、文化施設の運営、レクリエーション事業の推進など
+  id: 66c3317b-c8a7-4d4b-9919-05f412af1ba3
+  image_url: ''
+  is_organization: true
+  name: org_0060
+  revision_id: fd43c7fa-9839-4fb1-a0ce-8f4beba89327
+  state: active
+  title: 市民参画推進局
+  type: organization
+owner_org: 66c3317b-c8a7-4d4b-9919-05f412af1ba3
+private: false
+ratings_average: null
+ratings_count: 0
+relationships: []
+resources:
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-04-11T12:46:38.218697'
+  description: 平成8年住民基本台帳（日本人・外国人）町丁目別・世帯数男女別人口
+  format: PDF
+  hash: ''
+  id: 463c78c2-1b3d-4f67-8011-618dd1f48978
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 平成8年住民基本台帳（日本人・外国人）町丁目別・世帯数男女別人口
+  package_id: 098681ca-f755-4b39-967e-57c6963d46cf
+  position: 0
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/juukidata/juuki0812.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+revision_id: 69e8dcf2-9a85-403d-bd6f-9f2466f00f3c
+state: active
+tags:
+- 統計
+title: 平成8年住民基本台帳（日本人・外国人）町丁目別・世帯数男女別人口
+type: dataset
+url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/juukijinkou.html
+version: null
+---
+author: 区政振興課
+author_email: null
+ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000039
+creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
+extras:
+  コピーライト: City of Kobe
+  作成頻度: ''
+  使用言語: ja
+  文字コード: ''
+  連絡先メールアドレス: ''
+  連絡先電話番号: ''
+groups:
+- b18a8508-9e22-4355-9d36-d8c4d94b7df9
+id: 08dbcb71-a32e-4b0b-946f-c7a2f705be89
+isopen: false
+license: null
+license_id: CC-BY
+license_title: CC-BY
+maintainer: 区政振興課
+maintainer_email: null
+metadata_created: '2016-04-11T03:46:35.047440'
+metadata_modified: '2016-04-11T03:46:36.131034'
+name: dataset-00000039
+notes: 平成7年住民基本台帳（日本人・外国人）町丁目別・世帯数男女別人口
+notes_rendered: <p>平成7年住民基本台帳（日本人・外国人）町丁目別・世帯数男女別人口</p>
+num_resources: 1
+num_tags: 1
+organization:
+  approval_status: approved
+  created: '2016-03-23T00:21:40.243359'
+  description: 市民参画の推進、広聴、情報公開、個人情報保護、意見募集（パブリックコメント）、市民相談、市政情報室、区役所との連絡、地域活動の支援、NPOの支援、消費者施策、勤労者福祉、男女共同参画、芸術文化の振興及び普及、文化施設の運営、レクリエーション事業の推進など
+  id: 66c3317b-c8a7-4d4b-9919-05f412af1ba3
+  image_url: ''
+  is_organization: true
+  name: org_0060
+  revision_id: fd43c7fa-9839-4fb1-a0ce-8f4beba89327
+  state: active
+  title: 市民参画推進局
+  type: organization
+owner_org: 66c3317b-c8a7-4d4b-9919-05f412af1ba3
+private: false
+ratings_average: null
+ratings_count: 0
+relationships: []
+resources:
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-04-11T12:46:36.165599'
+  description: 平成7年住民基本台帳（日本人・外国人）町丁目別・世帯数男女別人口
+  format: PDF
+  hash: ''
+  id: e1f08b43-8a72-4bd1-b47e-f90ee62cf6a8
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 平成7年住民基本台帳（日本人・外国人）町丁目別・世帯数男女別人口
+  package_id: 08dbcb71-a32e-4b0b-946f-c7a2f705be89
+  position: 0
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/juukidata/juuki0712.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+revision_id: 77615b4b-f0fa-48e9-9a92-81373c7740a6
+state: active
+tags:
+- 統計
+title: 平成7年住民基本台帳（日本人・外国人）町丁目別・世帯数男女別人口
+type: dataset
+url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/juukijinkou.html
+version: null
+---
+author: 区政振興課
+author_email: null
+ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000038
+creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
+extras:
+  コピーライト: City of Kobe
+  作成頻度: ''
+  使用言語: ja
+  文字コード: ''
+  連絡先メールアドレス: ''
+  連絡先電話番号: ''
+groups:
+- b18a8508-9e22-4355-9d36-d8c4d94b7df9
+id: 08b3db6c-484a-496a-89d9-2cb6568c5d01
+isopen: false
+license: null
+license_id: CC-BY
+license_title: CC-BY
+maintainer: 区政振興課
+maintainer_email: null
+metadata_created: '2016-04-11T03:46:32.817774'
+metadata_modified: '2016-04-11T03:46:34.177506'
+name: dataset-00000038
+notes: 平成7年1月末住民基本台帳（日本人・外国人）町丁目別・世帯数男女別人口
+notes_rendered: <p>平成7年1月末住民基本台帳（日本人・外国人）町丁目別・世帯数男女別人口</p>
+num_resources: 1
+num_tags: 1
+organization:
+  approval_status: approved
+  created: '2016-03-23T00:21:40.243359'
+  description: 市民参画の推進、広聴、情報公開、個人情報保護、意見募集（パブリックコメント）、市民相談、市政情報室、区役所との連絡、地域活動の支援、NPOの支援、消費者施策、勤労者福祉、男女共同参画、芸術文化の振興及び普及、文化施設の運営、レクリエーション事業の推進など
+  id: 66c3317b-c8a7-4d4b-9919-05f412af1ba3
+  image_url: ''
+  is_organization: true
+  name: org_0060
+  revision_id: fd43c7fa-9839-4fb1-a0ce-8f4beba89327
+  state: active
+  title: 市民参画推進局
+  type: organization
+owner_org: 66c3317b-c8a7-4d4b-9919-05f412af1ba3
+private: false
+ratings_average: null
+ratings_count: 0
+relationships: []
+resources:
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-04-11T12:46:34.209445'
+  description: 平成7年1月末住民基本台帳（日本人・外国人）町丁目別・世帯数男女別人口
+  format: PDF
+  hash: ''
+  id: 338b324b-33f7-489b-a9b2-782b2dde2bef
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 平成7年1月末住民基本台帳（日本人・外国人）町丁目別・世帯数男女別人口
+  package_id: 08b3db6c-484a-496a-89d9-2cb6568c5d01
+  position: 0
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/juukidata/juuki0701.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+revision_id: dfcfd9f9-958c-486a-99cf-528dc2f529c5
+state: active
+tags:
+- 統計
+title: 平成7年1月末住民基本台帳（日本人・外国人）町丁目別・世帯数男女別人口
+type: dataset
+url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/juukijinkou.html
+version: null
+---
+author: 区政振興課
+author_email: null
+ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000037
+creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
+extras:
+  コピーライト: City of Kobe
+  作成頻度: ''
+  使用言語: ja
+  文字コード: ''
+  連絡先メールアドレス: ''
+  連絡先電話番号: ''
+groups:
+- b18a8508-9e22-4355-9d36-d8c4d94b7df9
+id: 0d4a5e71-e312-48fd-a326-fe42eb29901a
+isopen: false
+license: null
+license_id: CC-BY
+license_title: CC-BY
+maintainer: 区政振興課
+maintainer_email: null
+metadata_created: '2016-04-11T03:46:31.080355'
+metadata_modified: '2016-04-11T03:46:31.992041'
+name: dataset-00000037
+notes: 平成6年住民基本台帳（日本人・外国人）町丁目別・世帯数男女別人口
+notes_rendered: <p>平成6年住民基本台帳（日本人・外国人）町丁目別・世帯数男女別人口</p>
+num_resources: 1
+num_tags: 1
+organization:
+  approval_status: approved
+  created: '2016-03-23T00:21:40.243359'
+  description: 市民参画の推進、広聴、情報公開、個人情報保護、意見募集（パブリックコメント）、市民相談、市政情報室、区役所との連絡、地域活動の支援、NPOの支援、消費者施策、勤労者福祉、男女共同参画、芸術文化の振興及び普及、文化施設の運営、レクリエーション事業の推進など
+  id: 66c3317b-c8a7-4d4b-9919-05f412af1ba3
+  image_url: ''
+  is_organization: true
+  name: org_0060
+  revision_id: fd43c7fa-9839-4fb1-a0ce-8f4beba89327
+  state: active
+  title: 市民参画推進局
+  type: organization
+owner_org: 66c3317b-c8a7-4d4b-9919-05f412af1ba3
+private: false
+ratings_average: null
+ratings_count: 0
+relationships: []
+resources:
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-04-11T12:46:32.017777'
+  description: 平成6年住民基本台帳（日本人・外国人）町丁目別・世帯数男女別人口
+  format: PDF
+  hash: ''
+  id: a005d8a1-0a15-4345-b770-07681ab317ba
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 平成6年住民基本台帳（日本人・外国人）町丁目別・世帯数男女別人口
+  package_id: 0d4a5e71-e312-48fd-a326-fe42eb29901a
+  position: 0
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/juukidata/juuki0612.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+revision_id: 83dc785d-6a2f-4342-847b-650146710bee
+state: active
+tags:
+- 統計
+title: 平成6年住民基本台帳（日本人・外国人）町丁目別・世帯数男女別人口
+type: dataset
+url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/juukijinkou.html
+version: null
+---
+author: 区政振興課
+author_email: null
+ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000036
+creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
+extras:
+  コピーライト: City of Kobe
+  作成頻度: ''
+  使用言語: ja
+  文字コード: ''
+  連絡先メールアドレス: ''
+  連絡先電話番号: ''
+groups:
+- b18a8508-9e22-4355-9d36-d8c4d94b7df9
+id: fef339be-b440-4087-8716-062ee78f7c2a
+isopen: false
+license: null
+license_id: CC-BY
+license_title: CC-BY
+maintainer: 区政振興課
+maintainer_email: null
+metadata_created: '2016-04-11T03:46:29.349780'
+metadata_modified: '2016-04-11T03:46:30.256048'
+name: dataset-00000036
+notes: 平成16年住民基本台帳（日本人・外国人）町丁目別・５歳階級別人口
+notes_rendered: <p>平成16年住民基本台帳（日本人・外国人）町丁目別・５歳階級別人口</p>
+num_resources: 1
+num_tags: 1
+organization:
+  approval_status: approved
+  created: '2016-03-23T00:21:40.243359'
+  description: 市民参画の推進、広聴、情報公開、個人情報保護、意見募集（パブリックコメント）、市民相談、市政情報室、区役所との連絡、地域活動の支援、NPOの支援、消費者施策、勤労者福祉、男女共同参画、芸術文化の振興及び普及、文化施設の運営、レクリエーション事業の推進など
+  id: 66c3317b-c8a7-4d4b-9919-05f412af1ba3
+  image_url: ''
+  is_organization: true
+  name: org_0060
+  revision_id: fd43c7fa-9839-4fb1-a0ce-8f4beba89327
+  state: active
+  title: 市民参画推進局
+  type: organization
+owner_org: 66c3317b-c8a7-4d4b-9919-05f412af1ba3
+private: false
+ratings_average: null
+ratings_count: 0
+relationships: []
+resources:
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-04-11T12:46:30.283317'
+  description: 平成16年住民基本台帳（日本人・外国人）町丁目別・５歳階級別人口
+  format: XLS
+  hash: ''
+  id: d3ae6165-354b-458f-92f0-58bcb5b4cfe4
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 平成16年住民基本台帳（日本人・外国人）町丁目別・５歳階級別人口
+  package_id: fef339be-b440-4087-8716-062ee78f7c2a
+  position: 0
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/juukidata/juuki1612.xls
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+revision_id: 102c44b1-5206-40d5-acb9-aceabede86e0
+state: active
+tags:
+- 統計
+title: 平成16年住民基本台帳（日本人・外国人）町丁目別・５歳階級別人口
+type: dataset
+url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/juukijinkou.html
+version: null
