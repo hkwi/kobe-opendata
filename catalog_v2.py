@@ -5,7 +5,7 @@
 import yaml
 import json
 import xml.etree.ElementTree as ET
-import sqlalchemy.orm
+import csv
 try:
 	from urllib import urlopen
 except:
@@ -22,9 +22,11 @@ s = yaml.safe_dump_all(dataset, allow_unicode=True, default_flow_style=False)
 with open("catalog_v2.yml", "wb") as f:
 	f.write(s)
 
-with open("catalog_v2_resources.txt","w") as w:
+with open("catalog_v2_resources.txt","w") as fp:
+	w = csv.writer(fp)
 	for ds in dataset:
 		for r in ds["resources"]:
 			if r["format"].lower() == "html":
 				continue
-			w.write(r["url"]+"\n")
+			assert r["format"].lower() in "csv xls xlsx ppt pptx pdf".split(), r["format"]
+			w.writerow((r["url"],))
