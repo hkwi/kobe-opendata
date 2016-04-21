@@ -1,0 +1,131 @@
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+
+
+<http://www.city.kobe.lg.jp/life/recycle/nihonngohaisyutuyoubi.xlsx>
+ a dcat:Distribution ;
+ dcterms:title "【日本語】ごみ品目別収集区分一覧" ;
+ dcterms:license <http://creativecommons.org/licenses/by/2.1/jp/> ;
+ dcat:downloadURL <http://www.city.kobe.lg.jp/life/recycle/nihonngohaisyutuyoubi.xlsx> ;
+ dcat:mediaType "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" .
+
+
+<http://www.city.kobe.lg.jp/life/recycle/nihonngohaisyutukubun.xlsx>
+ a dcat:Distribution ;
+ dcterms:title "【日本語】ごみの排出区分、排出曜日、住所地" ;
+ dcterms:license <http://creativecommons.org/licenses/by/2.1/jp/> ;
+ dcat:downloadURL <http://www.city.kobe.lg.jp/life/recycle/nihonngohaisyutukubun.xlsx> ;
+ dcat:mediaType "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" .
+
+
+<http://www.city.kobe.lg.jp/life/recycle/osirase.xlsx>
+ a dcat:Distribution ;
+ dcterms:title "【日本語】神戸市からのお知らせ" ;
+ dcterms:license <http://creativecommons.org/licenses/by/2.1/jp/> ;
+ dcat:downloadURL <http://www.city.kobe.lg.jp/life/recycle/osirase.xlsx> ;
+ dcat:mediaType "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" .
+
+
+<http://www.city.kobe.lg.jp/life/recycle/eigohaisyutukubnn.xlsx>
+ a dcat:Distribution ;
+ dcterms:title "【英語】ごみ品目別収集区分一覧" ;
+ dcterms:license <http://creativecommons.org/licenses/by/2.1/jp/> ;
+ dcat:downloadURL <http://www.city.kobe.lg.jp/life/recycle/eigohaisyutukubnn.xlsx> ;
+ dcat:mediaType "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" .
+
+
+<http://www.city.kobe.lg.jp/life/recycle/waketon/eigohaisyutukubunn2.xlsx>
+ a dcat:Distribution ;
+ dcterms:title "【英語】ごみの排出区分、排出曜日、住所地" ;
+ dcterms:license <http://creativecommons.org/licenses/by/2.1/jp/> ;
+ dcat:downloadURL <http://www.city.kobe.lg.jp/life/recycle/waketon/eigohaisyutukubunn2.xlsx> ;
+ dcat:mediaType "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" .
+
+
+<http://www.city.kobe.lg.jp/life/recycle/waketon/shiraberu/tyuugokuhinnmokubetu.xlsx>
+ a dcat:Distribution ;
+ dcterms:title "【中国語】ごみ品目別収集区分一覧（xlsx形式）" ;
+ dcterms:license <http://creativecommons.org/licenses/by/2.1/jp/> ;
+ dcat:downloadURL <http://www.city.kobe.lg.jp/life/recycle/waketon/shiraberu/tyuugokuhinnmokubetu.xlsx> ;
+ dcat:mediaType "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" .
+
+
+<http://www.city.kobe.lg.jp/life/recycle/tyuugokuhaisyutukubunn2.xlsx>
+ a dcat:Distribution ;
+ dcterms:title "【中国語】ごみの排出区分、排出曜日、住所地(xlsx形式)" ;
+ dcterms:license <http://creativecommons.org/licenses/by/2.1/jp/> ;
+ dcat:downloadURL <http://www.city.kobe.lg.jp/life/recycle/tyuugokuhaisyutukubunn2.xlsx> ;
+ dcat:mediaType "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" .
+
+
+<http://www.city.kobe.lg.jp/life/recycle/waketon/shiraberu/kannkokuhinnmokubetu.xlsx>
+ a dcat:Distribution ;
+ dcterms:title "【韓国・朝鮮語】ごみ品目別収集区分一覧（xlsx形式）" ;
+ dcterms:license <http://creativecommons.org/licenses/by/2.1/jp/> ;
+ dcat:downloadURL <http://www.city.kobe.lg.jp/life/recycle/waketon/shiraberu/kannkokuhinnmokubetu.xlsx> ;
+ dcat:mediaType "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" .
+
+
+<http://www.city.kobe.lg.jp/life/recycle/kannkokuhaisyutukubunn2.xlsx>
+ a dcat:Distribution ;
+ dcterms:title "【韓国・朝鮮語】ごみの排出区分、排出曜日、住所地(xlsx形式)" ;
+ dcterms:license <http://creativecommons.org/licenses/by/2.1/jp/> ;
+ dcat:downloadURL <http://www.city.kobe.lg.jp/life/recycle/kannkokuhaisyutukubunn2.xlsx> ;
+ dcat:mediaType "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" .
+
+
+<http://www.city.kobe.lg.jp/life/recycle/betonamuhinnmokubetu.xls>
+ a dcat:Distribution ;
+ dcterms:title "【ベトナム語】ごみ品目別収集区分一覧（xlsx形式）" ;
+ dcterms:license <http://creativecommons.org/licenses/by/2.1/jp/> ;
+ dcat:downloadURL <http://www.city.kobe.lg.jp/life/recycle/betonamuhinnmokubetu.xls> ;
+ dcat:mediaType "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" .
+
+
+<http://www.city.kobe.lg.jp/life/recycle/betonamuhaisyutukubunn2.xls>
+ a dcat:Distribution ;
+ dcterms:title "【ベトナム語】ごみの排出区分、排出曜日、住所地(xlsx形式)" ;
+ dcterms:license <http://creativecommons.org/licenses/by/2.1/jp/> ;
+ dcat:downloadURL <http://www.city.kobe.lg.jp/life/recycle/betonamuhaisyutukubunn2.xls> ;
+ dcat:mediaType "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" .
+
+
+<http://www.city.kobe.lg.jp/life/recycle/supeingomibunnbetu.xlsx>
+ a dcat:Distribution ;
+ dcterms:title "【スペイン語】ごみ品目別収集区分一覧（xlsx形式）" ;
+ dcterms:license <http://creativecommons.org/licenses/by/2.1/jp/> ;
+ dcat:downloadURL <http://www.city.kobe.lg.jp/life/recycle/supeingomibunnbetu.xlsx> ;
+ dcat:mediaType "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" .
+
+
+<http://www.city.kobe.lg.jp/life/recycle/supeingomihaisyutukubunn.xlsx>
+ a dcat:Distribution ;
+ dcterms:title "【スペイン語】ごみの排出区分、排出曜日、住所地(xlsx形式)" ;
+ dcterms:license <http://creativecommons.org/licenses/by/2.1/jp/> ;
+ dcat:downloadURL <http://www.city.kobe.lg.jp/life/recycle/supeingomihaisyutukubunn.xlsx> ;
+ dcat:mediaType "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" .
+
+
+<http://www.city.kobe.lg.jp/life/recycle/porutogarugomibunnbetu.xlsx>
+ a dcat:Distribution ;
+ dcterms:title "【ポルトガル語】ごみ品目別収集区分一覧（xlsx形式）" ;
+ dcterms:license <http://creativecommons.org/licenses/by/2.1/jp/> ;
+ dcat:downloadURL <http://www.city.kobe.lg.jp/life/recycle/porutogarugomibunnbetu.xlsx> ;
+ dcat:mediaType "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" .
+
+
+<http://www.city.kobe.lg.jp/life/recycle/porutogarugohaisyutukubunn.xlsx>
+ a dcat:Distribution ;
+ dcterms:title "【ポルトガル語】ごみの排出区分、排出曜日、住所地(xlsx形式)" ;
+ dcterms:license <http://creativecommons.org/licenses/by/2.1/jp/> ;
+ dcat:downloadURL <http://www.city.kobe.lg.jp/life/recycle/porutogarugohaisyutukubunn.xlsx> ;
+ dcat:mediaType "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" .
+
+
+<http://www.city.kobe.lg.jp/life/recycle/gazouwaketonnbook.pdf>
+ a dcat:Distribution ;
+ dcterms:title "画像（ワケトンブックから抜粋）" ;
+ dcterms:license <https://creativecommons.org/licenses/by-nd/2.1/jp/> ;
+ dcat:downloadURL <http://www.city.kobe.lg.jp/life/recycle/gazouwaketonnbook.pdf> ;
+ dcat:mediaType "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" .
+
