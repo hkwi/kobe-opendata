@@ -1,3 +1,5 @@
+SHELL := /bin/bash
+
 all: refine/subway_gtfs.zip
 	python catalog.py
 	python catalog-download.py
@@ -6,9 +8,11 @@ all: refine/subway_gtfs.zip
 	mkdir -p import/catalog_v2
 	-wget -N -P import/catalog_v2 -i catalog_v2_resources.txt
 	
-	python3 waketon.py
+	wget -N -P import -r -np -A 'nobi-*.html' http://www.city.kobe.lg.jp/child/education/program/index_02-1.html
+	
+	python3 waketon.py > waketon.ttl
 	python3 waketon_json.py
-	-wget -N -i < (cat waketon.json | jq -r '.["@graph"][]["@id"]')
+	-wget -N -i <(cat waketon.json | jq -r '.["@graph"][]["@id"]')
 
 import:
 	$(MAKE) -C import
