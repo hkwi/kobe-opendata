@@ -8,78 +8,6 @@
   },
   "@graph": [
     {
-      "@id": "http://www.city.kobe.lg.jp/life/recycle/eigohaisyutukubnn.xlsx",
-      "@type": "dcat:Distribution",
-      "dcat:downloadURL": {
-        "@id": "http://www.city.kobe.lg.jp/life/recycle/eigohaisyutukubnn.xlsx"
-      },
-      "dcat:mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-      "license": {
-        "@id": "http://creativecommons.org/licenses/by/2.1/jp/"
-      },
-      "title": "【英語】ごみ品目別収集区分一覧"
-    },
-    {
-      "@id": "http://www.city.kobe.lg.jp/life/recycle/betonamuhinnmokubetu.xls",
-      "@type": "dcat:Distribution",
-      "dcat:downloadURL": {
-        "@id": "http://www.city.kobe.lg.jp/life/recycle/betonamuhinnmokubetu.xls"
-      },
-      "dcat:mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-      "license": {
-        "@id": "http://creativecommons.org/licenses/by/2.1/jp/"
-      },
-      "title": "【ベトナム語】ごみ品目別収集区分一覧（xlsx形式）"
-    },
-    {
-      "@id": "http://www.city.kobe.lg.jp/life/recycle/supeingomihaisyutukubunn.xlsx",
-      "@type": "dcat:Distribution",
-      "dcat:downloadURL": {
-        "@id": "http://www.city.kobe.lg.jp/life/recycle/supeingomihaisyutukubunn.xlsx"
-      },
-      "dcat:mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-      "license": {
-        "@id": "http://creativecommons.org/licenses/by/2.1/jp/"
-      },
-      "title": "【スペイン語】ごみの排出区分、排出曜日、住所地(xlsx形式)"
-    },
-    {
-      "@id": "http://www.city.kobe.lg.jp/life/recycle/tyuugokuhaisyutukubunn2.xlsx",
-      "@type": "dcat:Distribution",
-      "dcat:downloadURL": {
-        "@id": "http://www.city.kobe.lg.jp/life/recycle/tyuugokuhaisyutukubunn2.xlsx"
-      },
-      "dcat:mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-      "license": {
-        "@id": "http://creativecommons.org/licenses/by/2.1/jp/"
-      },
-      "title": "【中国語】ごみの排出区分、排出曜日、住所地(xlsx形式)"
-    },
-    {
-      "@id": "http://www.city.kobe.lg.jp/life/recycle/waketon/eigohaisyutukubunn2.xlsx",
-      "@type": "dcat:Distribution",
-      "dcat:downloadURL": {
-        "@id": "http://www.city.kobe.lg.jp/life/recycle/waketon/eigohaisyutukubunn2.xlsx"
-      },
-      "dcat:mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-      "license": {
-        "@id": "http://creativecommons.org/licenses/by/2.1/jp/"
-      },
-      "title": "【英語】ごみの排出区分、排出曜日、住所地"
-    },
-    {
-      "@id": "http://www.city.kobe.lg.jp/life/recycle/nihonngohaisyutukubun.xlsx",
-      "@type": "dcat:Distribution",
-      "dcat:downloadURL": {
-        "@id": "http://www.city.kobe.lg.jp/life/recycle/nihonngohaisyutukubun.xlsx"
-      },
-      "dcat:mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-      "license": {
-        "@id": "http://creativecommons.org/licenses/by/2.1/jp/"
-      },
-      "title": "【日本語】ごみの排出区分、排出曜日、住所地"
-    },
-    {
       "@id": "http://www.city.kobe.lg.jp/life/recycle/waketon/shiraberu/tyuugokuhinnmokubetu.xlsx",
       "@type": "dcat:Distribution",
       "dcat:downloadURL": {
@@ -90,42 +18,6 @@
         "@id": "http://creativecommons.org/licenses/by/2.1/jp/"
       },
       "title": "【中国語】ごみ品目別収集区分一覧（xlsx形式）"
-    },
-    {
-      "@id": "http://www.city.kobe.lg.jp/life/recycle/gazouwaketonnbook.pdf",
-      "@type": "dcat:Distribution",
-      "dcat:downloadURL": {
-        "@id": "http://www.city.kobe.lg.jp/life/recycle/gazouwaketonnbook.pdf"
-      },
-      "dcat:mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-      "license": {
-        "@id": "https://creativecommons.org/licenses/by-nd/2.1/jp/"
-      },
-      "title": "画像（ワケトンブックから抜粋）"
-    },
-    {
-      "@id": "http://www.city.kobe.lg.jp/life/recycle/nihonngohaisyutuyoubi.xlsx",
-      "@type": "dcat:Distribution",
-      "dcat:downloadURL": {
-        "@id": "http://www.city.kobe.lg.jp/life/recycle/nihonngohaisyutuyoubi.xlsx"
-      },
-      "dcat:mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-      "license": {
-        "@id": "http://creativecommons.org/licenses/by/2.1/jp/"
-      },
-      "title": "【日本語】ごみ品目別収集区分一覧"
-    },
-    {
-      "@id": "http://www.city.kobe.lg.jp/life/recycle/waketon/shiraberu/kannkokuhinnmokubetu.xlsx",
-      "@type": "dcat:Distribution",
-      "dcat:downloadURL": {
-        "@id": "http://www.city.kobe.lg.jp/life/recycle/waketon/shiraberu/kannkokuhinnmokubetu.xlsx"
-      },
-      "dcat:mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-      "license": {
-        "@id": "http://creativecommons.org/licenses/by/2.1/jp/"
-      },
-      "title": "【韓国・朝鮮語】ごみ品目別収集区分一覧（xlsx形式）"
     },
     {
       "@id": "http://www.city.kobe.lg.jp/life/recycle/kannkokuhaisyutukubunn2.xlsx",
@@ -140,16 +32,16 @@
       "title": "【韓国・朝鮮語】ごみの排出区分、排出曜日、住所地(xlsx形式)"
     },
     {
-      "@id": "http://www.city.kobe.lg.jp/life/recycle/betonamuhaisyutukubunn2.xls",
+      "@id": "http://www.city.kobe.lg.jp/life/recycle/gazouwaketonnbook.pdf",
       "@type": "dcat:Distribution",
       "dcat:downloadURL": {
-        "@id": "http://www.city.kobe.lg.jp/life/recycle/betonamuhaisyutukubunn2.xls"
+        "@id": "http://www.city.kobe.lg.jp/life/recycle/gazouwaketonnbook.pdf"
       },
-      "dcat:mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "dcat:mediaType": "application/pdf",
       "license": {
-        "@id": "http://creativecommons.org/licenses/by/2.1/jp/"
+        "@id": "https://creativecommons.org/licenses/by-nd/2.1/jp/"
       },
-      "title": "【ベトナム語】ごみの排出区分、排出曜日、住所地(xlsx形式)"
+      "title": "画像（ワケトンブックから抜粋）"
     },
     {
       "@id": "http://www.city.kobe.lg.jp/life/recycle/supeingomibunnbetu.xlsx",
@@ -164,16 +56,40 @@
       "title": "【スペイン語】ごみ品目別収集区分一覧（xlsx形式）"
     },
     {
-      "@id": "http://www.city.kobe.lg.jp/life/recycle/osirase.xlsx",
+      "@id": "http://www.city.kobe.lg.jp/life/recycle/betonamuhinnmokubetu.xls",
       "@type": "dcat:Distribution",
       "dcat:downloadURL": {
-        "@id": "http://www.city.kobe.lg.jp/life/recycle/osirase.xlsx"
+        "@id": "http://www.city.kobe.lg.jp/life/recycle/betonamuhinnmokubetu.xls"
       },
       "dcat:mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
       "license": {
         "@id": "http://creativecommons.org/licenses/by/2.1/jp/"
       },
-      "title": "【日本語】神戸市からのお知らせ"
+      "title": "【ベトナム語】ごみ品目別収集区分一覧（xlsx形式）"
+    },
+    {
+      "@id": "http://www.city.kobe.lg.jp/life/recycle/waketon/shiraberu/kannkokuhinnmokubetu.xlsx",
+      "@type": "dcat:Distribution",
+      "dcat:downloadURL": {
+        "@id": "http://www.city.kobe.lg.jp/life/recycle/waketon/shiraberu/kannkokuhinnmokubetu.xlsx"
+      },
+      "dcat:mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "license": {
+        "@id": "http://creativecommons.org/licenses/by/2.1/jp/"
+      },
+      "title": "【韓国・朝鮮語】ごみ品目別収集区分一覧（xlsx形式）"
+    },
+    {
+      "@id": "http://www.city.kobe.lg.jp/life/recycle/eigohaisyutukubnn.xlsx",
+      "@type": "dcat:Distribution",
+      "dcat:downloadURL": {
+        "@id": "http://www.city.kobe.lg.jp/life/recycle/eigohaisyutukubnn.xlsx"
+      },
+      "dcat:mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "license": {
+        "@id": "http://creativecommons.org/licenses/by/2.1/jp/"
+      },
+      "title": "【英語】ごみ品目別収集区分一覧"
     },
     {
       "@id": "http://www.city.kobe.lg.jp/life/recycle/porutogarugomibunnbetu.xlsx",
@@ -186,6 +102,90 @@
         "@id": "http://creativecommons.org/licenses/by/2.1/jp/"
       },
       "title": "【ポルトガル語】ごみ品目別収集区分一覧（xlsx形式）"
+    },
+    {
+      "@id": "http://www.city.kobe.lg.jp/life/recycle/supeingomihaisyutukubunn.xlsx",
+      "@type": "dcat:Distribution",
+      "dcat:downloadURL": {
+        "@id": "http://www.city.kobe.lg.jp/life/recycle/supeingomihaisyutukubunn.xlsx"
+      },
+      "dcat:mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "license": {
+        "@id": "http://creativecommons.org/licenses/by/2.1/jp/"
+      },
+      "title": "【スペイン語】ごみの排出区分、排出曜日、住所地(xlsx形式)"
+    },
+    {
+      "@id": "http://www.city.kobe.lg.jp/life/recycle/nihonngohaisyutukubun.xlsx",
+      "@type": "dcat:Distribution",
+      "dcat:downloadURL": {
+        "@id": "http://www.city.kobe.lg.jp/life/recycle/nihonngohaisyutukubun.xlsx"
+      },
+      "dcat:mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "license": {
+        "@id": "http://creativecommons.org/licenses/by/2.1/jp/"
+      },
+      "title": "【日本語】ごみの排出区分、排出曜日、住所地"
+    },
+    {
+      "@id": "http://www.city.kobe.lg.jp/life/recycle/osirase.xlsx",
+      "@type": "dcat:Distribution",
+      "dcat:downloadURL": {
+        "@id": "http://www.city.kobe.lg.jp/life/recycle/osirase.xlsx"
+      },
+      "dcat:mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "license": {
+        "@id": "http://creativecommons.org/licenses/by/2.1/jp/"
+      },
+      "title": "【日本語】神戸市からのお知らせ"
+    },
+    {
+      "@id": "http://www.city.kobe.lg.jp/life/recycle/waketon/eigohaisyutukubunn2.xlsx",
+      "@type": "dcat:Distribution",
+      "dcat:downloadURL": {
+        "@id": "http://www.city.kobe.lg.jp/life/recycle/waketon/eigohaisyutukubunn2.xlsx"
+      },
+      "dcat:mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "license": {
+        "@id": "http://creativecommons.org/licenses/by/2.1/jp/"
+      },
+      "title": "【英語】ごみの排出区分、排出曜日、住所地"
+    },
+    {
+      "@id": "http://www.city.kobe.lg.jp/life/recycle/betonamuhaisyutukubunn2.xls",
+      "@type": "dcat:Distribution",
+      "dcat:downloadURL": {
+        "@id": "http://www.city.kobe.lg.jp/life/recycle/betonamuhaisyutukubunn2.xls"
+      },
+      "dcat:mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "license": {
+        "@id": "http://creativecommons.org/licenses/by/2.1/jp/"
+      },
+      "title": "【ベトナム語】ごみの排出区分、排出曜日、住所地(xlsx形式)"
+    },
+    {
+      "@id": "http://www.city.kobe.lg.jp/life/recycle/tyuugokuhaisyutukubunn2.xlsx",
+      "@type": "dcat:Distribution",
+      "dcat:downloadURL": {
+        "@id": "http://www.city.kobe.lg.jp/life/recycle/tyuugokuhaisyutukubunn2.xlsx"
+      },
+      "dcat:mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "license": {
+        "@id": "http://creativecommons.org/licenses/by/2.1/jp/"
+      },
+      "title": "【中国語】ごみの排出区分、排出曜日、住所地(xlsx形式)"
+    },
+    {
+      "@id": "http://www.city.kobe.lg.jp/life/recycle/nihonngohaisyutuyoubi.xlsx",
+      "@type": "dcat:Distribution",
+      "dcat:downloadURL": {
+        "@id": "http://www.city.kobe.lg.jp/life/recycle/nihonngohaisyutuyoubi.xlsx"
+      },
+      "dcat:mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "license": {
+        "@id": "http://creativecommons.org/licenses/by/2.1/jp/"
+      },
+      "title": "【日本語】ごみ品目別収集区分一覧"
     },
     {
       "@id": "http://www.city.kobe.lg.jp/life/recycle/porutogarugohaisyutukubunn.xlsx",
