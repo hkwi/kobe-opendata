@@ -1,3 +1,0 @@
-end_date,friday,monday,saturday,service_id,start_date,sunday,thursday,tuesday,wednesday
-20160624,1,1,0,w,20061201,0,1,1,1
-20160624,0,0,1,h,20061201,1,0,0,0

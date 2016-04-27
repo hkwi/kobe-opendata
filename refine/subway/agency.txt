@@ -1,2 +1,0 @@
-agency_lang,agency_name,agency_phone,agency_timezone,agency_url
-ja,神戸市,078-322-5958,Asia/Tokyo,http://www.city.kobe.lg.jp/life/access/transport/subway/
