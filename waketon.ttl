@@ -127,5 +127,5 @@
  dcterms:title "画像（ワケトンブックから抜粋）" ;
  dcterms:license <https://creativecommons.org/licenses/by-nd/2.1/jp/> ;
  dcat:downloadURL <http://www.city.kobe.lg.jp/life/recycle/gazouwaketonnbook.pdf> ;
- dcat:mediaType "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" .
+ dcat:mediaType "application/pdf" .
 
