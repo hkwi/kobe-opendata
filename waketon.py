@@ -48,7 +48,7 @@ for n in r.xpath('.//h2[@id="midashi20225"]/following-sibling::*'):
 				if with_lang:
 					title = lang+a.text
 				
-				write(xls.format(
+				write(tmpl.format(
 					href=a.get("href"),
 					cc=cca_href,
 					title=title,
