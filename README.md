@@ -14,12 +14,20 @@ github で直接公開されているデータもあります https://github.com
 RSS の URL はこちらです。Thunderbird などに登録することができます。
 https://hkwi.github.io/kobe-opendata/refine/kouhoushi/index.xml
 
-補足：神戸市広報誌の紙バージョンの構成は、例えば中央区だと次のようになっている（2016年5月版）
+補足：紙媒体では例えば2016年5月版では、中央区だと次のように3つが合体している。
 - 神戸市広報 13 ページ
 - 反対側から中央区区民広報紙 3 ページ
 - 間に神戸市会だよりが 4 ページが折込で挟んである
 
-PDF 版は 8 ページ目まで用意されている。そのあとのページはテキストで html で掲載されている。
+神戸市広報については PDF 版は 8 ページ目まで用意されている。
+そのあとのページはテキストで html で掲載されている。
+
+中央区広報は、区のページに PDF が用意されている。
+http://www.city.kobe.lg.jp/ward/kuyakusho/chuou/
+
+市会だよりも PDF が用意されている。
+http://www.city.kobe.lg.jp/information/municipal/kouhou/tayori/tayori.html
+
 
 神戸市営地下鉄GTFS
 ------------------
