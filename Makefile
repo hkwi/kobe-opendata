@@ -19,7 +19,7 @@ nobipass:
 	-wget -o waketon.log -N -P import -r -np -A 'nobi-*.html' http://www.city.kobe.lg.jp/child/education/program/index_02-1.html
 
 kouhoushi:
-	wget -o kouhoushi.log -N -P import -r -np -A '*.html' http://www.city.kobe.lg.jp/information/public/kouhoushi/
+	-wget -o kouhoushi.log -N -P import -r -np -A '*.html' http://www.city.kobe.lg.jp/information/public/kouhoushi/
 
 clean:
 	-rm *.log
