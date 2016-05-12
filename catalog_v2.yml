@@ -20,11 +20,17 @@ license_url: http://www.opendefinition.org/licenses/cc-by
 maintainer: 政策調査課
 maintainer_email: ''
 metadata_created: '2016-04-11T03:45:26.567300'
-metadata_modified: '2016-04-18T10:28:58.587518'
+metadata_modified: '2016-05-06T05:39:59.045651'
 name: dataset-00000019
-notes: 直近の国勢調査を基礎に、毎月の住民基本台帳の届出数を加減して算出した推計人口(区別の世帯数や男女数、人口動態の情報など）
-notes_rendered: <p>直近の国勢調査を基礎に、毎月の住民基本台帳の届出数を加減して算出した推計人口(区別の世帯数や男女数、人口動態の情報など）</p>
-num_resources: 12
+notes: "直近の国勢調査を基礎に、毎月の住民基本台帳の届出数を加減して算出した推計人口(区別の世帯数や男女数、人口動態の情報など）\r\n※平成27年10月分のデータはありません。国勢調査を参照してください。\r\
+  \nhttp://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/sokyuujinkou.html"
+notes_rendered: '<p>直近の国勢調査を基礎に、毎月の住民基本台帳の届出数を加減して算出した推計人口(区別の世帯数や男女数、人口動態の情報など）
+
+  ※平成27年10月分のデータはありません。国勢調査を参照してください。
+
+  <a href="http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/sokyuujinkou.html"
+  target="_blank" rel="nofollow">http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/sokyuujinkou.html</a></p>'
+num_resources: 11
 num_tags: 1
 organization:
   approval_status: approved
@@ -217,25 +223,6 @@ resources:
   webstore_url: null
 - cache_last_updated: null
   cache_url: null
-  created: '2016-04-11T12:45:36.224964'
-  description: 毎月推計人口（平成27年10月）
-  format: XLS
-  hash: ''
-  id: c954e6c2-a329-457b-a899-53ec7e845523
-  last_modified: null
-  mimetype: null
-  mimetype_inner: null
-  name: 毎月推計人口（平成27年10月）
-  package_id: df9241fa-2aec-422d-b7c9-491e8220a4ad
-  position: 9
-  resource_type: null
-  size: null
-  url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/suikeidata/jinkou2710.xls
-  url_type: null
-  webstore_last_updated: null
-  webstore_url: null
-- cache_last_updated: null
-  cache_url: null
   created: '2016-04-11T12:45:37.222602'
   description: 毎月推計人口（平成27年11月）
   format: XLS
@@ -246,7 +233,7 @@ resources:
   mimetype_inner: null
   name: 毎月推計人口（平成27年11月）
   package_id: df9241fa-2aec-422d-b7c9-491e8220a4ad
-  position: 10
+  position: 9
   resource_type: null
   size: null
   url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/suikeidata/jinkou2711.xls
@@ -265,14 +252,14 @@ resources:
   mimetype_inner: null
   name: 毎月推計人口（平成27年12月）
   package_id: df9241fa-2aec-422d-b7c9-491e8220a4ad
-  position: 11
+  position: 10
   resource_type: null
   size: null
   url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/suikeidata/jinkou2712.xls
   url_type: null
   webstore_last_updated: null
   webstore_url: null
-revision_id: dbfbc21d-150f-4537-b473-fc7b2bc4e669
+revision_id: 35c5ccc2-c3db-43fc-8389-2e7155ba2ff5
 state: active
 tags:
 - 統計

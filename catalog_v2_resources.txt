@@ -7,7 +7,6 @@ http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/suikeidata/
 http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/suikeidata/jinkou2707.xls
 http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/suikeidata/jinkou2708.xls
 http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/suikeidata/jinkou2709.xls
-http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/suikeidata/jinkou2710.xls
 http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/suikeidata/jinkou2711.xls
 http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/suikeidata/jinkou2712.xls
 http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/suikeidata/jinkou2601.xls
