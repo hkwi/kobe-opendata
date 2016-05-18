@@ -1,6 +1,6 @@
 SHELL := /bin/bash
 
-all: catalog waketon nobipass kouhoushi
+all: catalog waketon nobipass kouhoushi toukei
 
 catalog:
 	mkdir -p import/catalog
@@ -20,6 +20,9 @@ nobipass:
 
 kouhoushi:
 	-wget -o kouhoushi.log -N -P import -r -np -A '*.html' http://www.city.kobe.lg.jp/information/public/kouhoushi/
+
+toukei:
+	-wget -o toukei.log -N -P import -x -i <(python3 toukei.py)
 
 clean:
 	-rm *.log
