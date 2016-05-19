@@ -1,3 +1,361 @@
+author: 業務課
+author_email: null
+ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000011
+creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
+extras:
+  コピーライト: City of Kobe
+  作成頻度: ''
+  使用言語: ja
+  文字コード: ''
+  連絡先メールアドレス: ''
+  連絡先電話番号: ''
+groups:
+- ea98c354-262b-4cff-a061-477b74f43bcc
+id: a7da557a-3cfc-4782-8e37-806a8a3e26cf
+isopen: false
+license: null
+license_id: CC-BY
+license_title: CC-BY
+maintainer: 業務課
+maintainer_email: null
+metadata_created: '2016-04-11T03:44:27.659654'
+metadata_modified: '2016-05-19T02:51:07.511325'
+name: dataset-00000011
+notes: ゴミの品目別の収集日情報、捨て方の注意書き、類似の品の情報もあり
+notes_rendered: <p>ゴミの品目別の収集日情報、捨て方の注意書き、類似の品の情報もあり</p>
+num_resources: 16
+num_tags: 1
+organization:
+  approval_status: approved
+  created: '2016-03-23T00:21:41.328967'
+  description: ごみの処理・資源化、まちの美化、大気・水質・騒音などの環境保全対策など
+  id: 840a8105-d6ef-47c5-85ca-519f1641bb91
+  image_url: ''
+  is_organization: true
+  name: org_0090
+  revision_id: 88a20215-a08f-4296-b6da-b52a039ecfa0
+  state: active
+  title: 環境局
+  type: organization
+owner_org: 840a8105-d6ef-47c5-85ca-519f1641bb91
+private: false
+ratings_average: null
+ratings_count: 0
+relationships: []
+resources:
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-04-11T12:44:28.571357'
+  description: ゴミの品目別の収集日情報、捨て方の注意書き、類似の品の情報もあり
+  format: XLSX
+  hash: ''
+  id: 0e5ba14d-fb8b-4025-a4a8-bd81f43a3b7a
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: ごみ品目別収集区分一覧
+  package_id: a7da557a-3cfc-4782-8e37-806a8a3e26cf
+  position: 0
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/life/recycle/nihonngohaisyutuyoubi.xlsx
+  url_type: ''
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-04-11T12:44:29.448582'
+  description: 住所別の排出日情報(燃えるごみは何曜日かなど）
+  format: XLSX
+  hash: ''
+  id: a6822d83-8d10-4556-9405-8530bcd46ff6
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: ごみの排出区分、排出曜日、住所地
+  package_id: a7da557a-3cfc-4782-8e37-806a8a3e26cf
+  position: 1
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/life/recycle/nihonngohaisyutukubun.xlsx
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-04-12T23:31:40.209798'
+  description: 5374で表示する神戸市環境局業務課からのお知らせです。
+  format: XLSX
+  hash: ''
+  id: f4e1bf24-2de1-47f1-9a9d-617a495f4e85
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 神戸市からのお知らせ
+  package_id: a7da557a-3cfc-4782-8e37-806a8a3e26cf
+  position: 2
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/life/recycle/osirase.xlsx
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-05-19T11:18:14.840470'
+  description: 英語でのゴミの品目別の収集日情報、捨て方の注意書き、類似の品の情報もあり
+  format: XLSX
+  hash: ''
+  id: 875e95df-248f-4044-8a21-fd518e3761d7
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: ごみ品目別収集区分一覧（英語版）
+  package_id: a7da557a-3cfc-4782-8e37-806a8a3e26cf
+  position: 3
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/life/recycle/eigohaisyutukubnn.xlsx
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-05-19T11:22:19.797851'
+  description: 英語での住所別の排出日情報(燃えるごみは何曜日かなど）
+  format: XLSX
+  hash: ''
+  id: 3271dd1b-fc30-454d-950c-14884e9ea58d
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: ごみの排出区分、排出曜日、住所地 （英語版）
+  package_id: a7da557a-3cfc-4782-8e37-806a8a3e26cf
+  position: 4
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/life/recycle/waketon/eigohaisyutukubunn2.xlsx
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-05-19T11:31:55.316898'
+  description: '中国語でのゴミの品目別の収集日情報、捨て方の注意書き、類似の品の情報もあり '
+  format: XLSX
+  hash: ''
+  id: 4a65f346-f4fd-42e6-aee9-bed6e1382ae2
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: ごみ品目別収集区分一覧 （中国語版）
+  package_id: a7da557a-3cfc-4782-8e37-806a8a3e26cf
+  position: 5
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/life/recycle/waketon/shiraberu/tyuugokuhinnmokubetu.xlsx
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-05-19T11:33:14.963338'
+  description: 中国語での住所別の排出日情報(燃えるごみは何曜日かなど）
+  format: XLSX
+  hash: ''
+  id: 0620ef86-1082-4ced-be99-a59008073e08
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: ごみの排出区分、排出曜日、住所地（中国語版）
+  package_id: a7da557a-3cfc-4782-8e37-806a8a3e26cf
+  position: 6
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/life/recycle/tyuugokuhaisyutukubunn2.xlsx
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-05-19T11:34:57.835745'
+  description: 韓国・朝鮮語でのゴミの品目別の収集日情報、捨て方の注意書き、類似の品の情報もあり
+  format: XLSX
+  hash: ''
+  id: fb3f9514-9d13-4e59-900a-1f9f66b2bb38
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: ごみ品目別収集区分一覧 （韓国・朝鮮語版）
+  package_id: a7da557a-3cfc-4782-8e37-806a8a3e26cf
+  position: 7
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/life/recycle/waketon/shiraberu/kannkokuhinnmokubetu.xlsx
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-05-19T11:36:21.791386'
+  description: 韓国・朝鮮語での住所別の排出日情報(燃えるごみは何曜日かなど）
+  format: XLSX
+  hash: ''
+  id: bb86f498-3109-470b-9317-55e0e8f09c17
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: ごみの排出区分、排出曜日、住所地（韓国・朝鮮語版）
+  package_id: a7da557a-3cfc-4782-8e37-806a8a3e26cf
+  position: 8
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/life/recycle/kannkokuhaisyutukubunn2.xlsx
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-05-19T11:38:31.768547'
+  description: 'ベトナム語でのゴミの品目別の収集日情報、捨て方の注意書き、類似の品の情報もあり '
+  format: XLSX
+  hash: ''
+  id: e10e23ab-ddc0-4187-b559-422499394cc5
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 'ごみ品目別収集区分一覧（ベトナム語版） '
+  package_id: a7da557a-3cfc-4782-8e37-806a8a3e26cf
+  position: 9
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/life/recycle/betonamuhinnmokubetu.xls
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-05-19T11:39:47.558431'
+  description: 'ベトナム語での住所別の排出日情報(燃えるごみは何曜日かなど） '
+  format: XLSX
+  hash: ''
+  id: 449ae5e4-3093-4e2f-818e-5129f1c49c2c
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: ごみの排出区分、排出曜日、住所地（ベトナム語版）
+  package_id: a7da557a-3cfc-4782-8e37-806a8a3e26cf
+  position: 10
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/life/recycle/betonamuhaisyutukubunn2.xls
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-05-19T11:41:03.194829'
+  description: 'スペイン語でのゴミの品目別の収集日情報、捨て方の注意書き、類似の品の情報もあり '
+  format: XLSX
+  hash: ''
+  id: 9b0c3d28-3931-4613-8e5e-68c29dee45f9
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 'ごみ品目別収集区分一覧（スペイン語版） '
+  package_id: a7da557a-3cfc-4782-8e37-806a8a3e26cf
+  position: 11
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/life/recycle/supeingomibunnbetu.xlsx
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-05-19T11:43:03.411836'
+  description: "スペイン語での住所別の排出日情報(燃えるごみは何曜日かなど）\r\n"
+  format: XLSX
+  hash: ''
+  id: 181ee2c2-c75e-40fa-b2c7-96c4241cec76
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: ごみの排出区分、排出曜日、住所地（スペイン語版）
+  package_id: a7da557a-3cfc-4782-8e37-806a8a3e26cf
+  position: 12
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/life/recycle/supeingomihaisyutukubunn.xlsx
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-05-19T11:44:44.257895'
+  description: 'ポルトガル語でのゴミの品目別の収集日情報、捨て方の注意書き、類似の品の情報もあり '
+  format: XLSX
+  hash: ''
+  id: 2336a4b1-28ad-48b5-9514-bdb7b62d0fbe
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: ごみ品目別収集区分一覧（ポルトガル語版）
+  package_id: a7da557a-3cfc-4782-8e37-806a8a3e26cf
+  position: 13
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/life/recycle/porutogarugomibunnbetu.xlsx
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-05-19T11:46:28.394189'
+  description: 'ポルトガル語での住所別の排出日情報(燃えるごみは何曜日かなど） '
+  format: XLSX
+  hash: ''
+  id: df1fb389-ce28-44e2-b4b3-ca5bf1b19725
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: ごみの排出区分、排出曜日、住所地（ポルトガル語版）
+  package_id: a7da557a-3cfc-4782-8e37-806a8a3e26cf
+  position: 14
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/life/recycle/porutogarugohaisyutukubunn.xlsx
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-05-19T11:48:26.914566'
+  description: ワケトンブックに掲載されているアイコン画像
+  format: PDF
+  hash: ''
+  id: a5328fc3-9d3c-4ad6-ab50-b99f337e9361
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 画像（ワケトンブックから抜粋）
+  package_id: a7da557a-3cfc-4782-8e37-806a8a3e26cf
+  position: 15
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/life/recycle/gazouwaketonnbook.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+revision_id: 648008c4-3bbb-421a-94e2-c56741a967ef
+state: active
+tags:
+- 情報啓発
+title: ごみ収集情報
+type: dataset
+url: http://www.city.kobe.lg.jp/life/recycle/waketon/opendeta.html
+version: null
+---
 author: 政策調査課
 author_email: ''
 ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000019
@@ -1190,117 +1548,6 @@ title: 平成23年以前 毎月推計人口
 type: dataset
 url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/suikeijinkou.html
 version: ''
----
-author: 業務課
-author_email: null
-ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000011
-creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
-extras:
-  コピーライト: City of Kobe
-  作成頻度: ''
-  使用言語: ja
-  文字コード: ''
-  連絡先メールアドレス: ''
-  連絡先電話番号: ''
-groups:
-- ea98c354-262b-4cff-a061-477b74f43bcc
-id: a7da557a-3cfc-4782-8e37-806a8a3e26cf
-isopen: false
-license: null
-license_id: CC-BY
-license_title: CC-BY
-maintainer: 業務課
-maintainer_email: null
-metadata_created: '2016-04-11T03:44:27.659654'
-metadata_modified: '2016-04-12T14:31:40.178443'
-name: dataset-00000011
-notes: ゴミの品目別の収集日情報、捨て方の注意書き、類似の品の情報もあり
-notes_rendered: <p>ゴミの品目別の収集日情報、捨て方の注意書き、類似の品の情報もあり</p>
-num_resources: 3
-num_tags: 1
-organization:
-  approval_status: approved
-  created: '2016-03-23T00:21:41.328967'
-  description: ごみの処理・資源化、まちの美化、大気・水質・騒音などの環境保全対策など
-  id: 840a8105-d6ef-47c5-85ca-519f1641bb91
-  image_url: ''
-  is_organization: true
-  name: org_0090
-  revision_id: 88a20215-a08f-4296-b6da-b52a039ecfa0
-  state: active
-  title: 環境局
-  type: organization
-owner_org: 840a8105-d6ef-47c5-85ca-519f1641bb91
-private: false
-ratings_average: null
-ratings_count: 0
-relationships: []
-resources:
-- cache_last_updated: null
-  cache_url: null
-  created: '2016-04-11T12:44:28.571357'
-  description: ゴミの品目別の収集日情報、捨て方の注意書き、類似の品の情報もあり
-  format: XLSX
-  hash: ''
-  id: 0e5ba14d-fb8b-4025-a4a8-bd81f43a3b7a
-  last_modified: null
-  mimetype: null
-  mimetype_inner: null
-  name: ごみ品目別収集区分一覧
-  package_id: a7da557a-3cfc-4782-8e37-806a8a3e26cf
-  position: 0
-  resource_type: null
-  size: null
-  url: http://www.city.kobe.lg.jp/life/recycle/nihonngohaisyutuyoubi.xlsx
-  url_type: ''
-  webstore_last_updated: null
-  webstore_url: null
-- cache_last_updated: null
-  cache_url: null
-  created: '2016-04-11T12:44:29.448582'
-  description: 住所別の排出日情報(燃えるごみは何曜日かなど）
-  format: XLSX
-  hash: ''
-  id: a6822d83-8d10-4556-9405-8530bcd46ff6
-  last_modified: null
-  mimetype: null
-  mimetype_inner: null
-  name: ごみの排出区分、排出曜日、住所地
-  package_id: a7da557a-3cfc-4782-8e37-806a8a3e26cf
-  position: 1
-  resource_type: null
-  size: null
-  url: http://www.city.kobe.lg.jp/life/recycle/nihonngohaisyutukubun.xlsx
-  url_type: null
-  webstore_last_updated: null
-  webstore_url: null
-- cache_last_updated: null
-  cache_url: null
-  created: '2016-04-12T23:31:40.209798'
-  description: 5374で表示する神戸市環境局業務課からのお知らせです。
-  format: XLSX
-  hash: ''
-  id: f4e1bf24-2de1-47f1-9a9d-617a495f4e85
-  last_modified: null
-  mimetype: null
-  mimetype_inner: null
-  name: 神戸市からのお知らせ
-  package_id: a7da557a-3cfc-4782-8e37-806a8a3e26cf
-  position: 2
-  resource_type: null
-  size: null
-  url: http://www.city.kobe.lg.jp/life/recycle/osirase.xlsx
-  url_type: null
-  webstore_last_updated: null
-  webstore_url: null
-revision_id: 648008c4-3bbb-421a-94e2-c56741a967ef
-state: active
-tags:
-- 情報啓発
-title: ごみ収集情報
-type: dataset
-url: http://www.city.kobe.lg.jp/life/recycle/waketon/opendeta.html
-version: null
 ---
 author: 創造都市推進部
 author_email: null
