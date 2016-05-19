@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:民踊初心者講習会
+DESCRIPTION:体に大切な適当な運動を! 要上履き\n日時は6月23日（土曜）10時～\n場所は中央体育館\n料金は500円\n問い合わせは市スポーツ教育協会（電話261-3620、FAX261-8020）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1206/info04.html#民踊初心者講習会
+DTSTART:20120623T100000
+LOCATION:中央体育館
+END:VEVENT
+END:VCALENDAR

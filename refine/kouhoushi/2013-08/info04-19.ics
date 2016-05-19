@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:夏休み！親子で作る竹細工教室
+DESCRIPTION:対象は小学生と保護者\n日時は8月29日（木曜）13時30分～\n場所は総合運動公園\n料金は500円\n申し込みは往復はがき（〒654-0163緑台）かFAXで。8月19日（月曜）必着。抽選\n問い合わせは電話795-5151、FAX792-3122
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1308/info04.html#夏休み！親子で作る竹細工教室
+DTSTART:20130829T133000
+LOCATION:総合運動公園
+END:VEVENT
+END:VCALENDAR

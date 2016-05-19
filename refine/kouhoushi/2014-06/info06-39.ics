@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:演奏会等の無料招待（3）シャンソン全国大会（ペア）
+DESCRIPTION:（1）神戸フィル演奏会（ペア）\n日時は6月21日（土曜）16時～\n場所は文化ホール\n申し込みははがきで市民文化振興財団（〒650-0017楠町4-2-2）へ。6月11日（水曜）必着。抽選\n（2）ボンジュールフランス演奏会（ペア）\n日時は6月22日（日曜）14時～\n場所は東灘区民センター\n申し込みははがきで市民文化振興財団（〒650-0017楠町4-2-2）へ。6月12日（木曜）必着。抽選\n（3）シャンソン全国大会（ペア）\n日時は6月28日（土曜）17時～\n場所は文化ホール\n申し込みははがきで市民文化振興財団（〒650-0017楠町4-2-2）へ。6月18日（水曜）必着。抽選\n問い合わせは電話351-3597、FAX351-3121
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1406/info06.html#演奏会等の無料招待#3
+DTSTART:20140628T170000
+LOCATION:文化ホール
+END:VEVENT
+END:VCALENDAR

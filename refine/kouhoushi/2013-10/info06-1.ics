@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:コミスタこうべ（2）市政リレー講座「神戸市の情報政策」
+DESCRIPTION:（1）黒田節でエクササイズ等体験教室\n対象は小学生以上\n日時は10月2日（水曜）～30日（水曜）\n料金は有料\n申し込みは電話か直接。先着順\n（2）市政リレー講座「神戸市の情報政策」\n日時は10月30日（水曜）10時～\n料金は無料\n申し込みは電話か直接。先着順\n問い合わせは電話251-4731、FAX251-4733
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1310/info06.html#コミスタこうべ#2
+DTSTART:20131030T100000
+END:VEVENT
+END:VCALENDAR

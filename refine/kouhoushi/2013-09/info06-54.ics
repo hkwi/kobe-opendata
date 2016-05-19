@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:デッキライブ＠ミント神戸
+DESCRIPTION:日時は9月29日（日曜）13時～\n場所はミント神戸（中央区雲井通7）\n料金は無料\n申し込みは文化交流部（電話322-5166、FAX322-6137）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1309/info06.html#デッキライブ＠ミント神戸
+DTSTART:20130929T130000
+LOCATION:ミント神戸（中央区雲井通7）
+END:VEVENT
+END:VCALENDAR

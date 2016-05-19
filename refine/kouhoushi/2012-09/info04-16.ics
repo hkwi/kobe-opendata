@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:王子動物園（1）動物クラフト教室
+DESCRIPTION:（1）動物クラフト教室\n動くクラフトを制作し動物について学ぶ\n日時は9月16日（日曜）13時30分～\n料金は無料（入園料が必要）\n申し込みは当日先着順\n（2）長寿動物へのプレゼント\n敬老の日に長寿の動物をお祝いします\n日時は9月17日（月曜・祝日）13時30分～\n料金は無料（入園料が必要）\n問い合わせは電話861-5624、FAX861-5640
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1209/info04.html#王子動物園#1
+DTSTART:20120916T133000
+END:VEVENT
+END:VCALENDAR

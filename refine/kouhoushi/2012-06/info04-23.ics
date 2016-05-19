@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:さかなの学校の催し（2）チリメンの佃煮づくり
+DESCRIPTION:（1）七夕飾りづくり\n用意した材料を使って七夕飾りを作る体験\n日時は6月16日（土曜）～7月7日（土曜）10時～16時\n料金は600円\n（2）チリメンの佃煮づくり\nチリメンを使って佃煮を作る体験\n日時は6月24日（日曜）10時30分～\n料金は800円\n申し込みは6月11日（月曜）消印有効\n問い合わせは電話706-5550、FAX706-5636
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1206/info04.html#さかなの学校の催し#2
+DTSTART:20120624T103000
+END:VEVENT
+END:VCALENDAR

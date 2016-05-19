@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:KOBE教育フォーラム
+DESCRIPTION:神戸の教育への市民参加の機会です\n日時は8月20日（月曜）9時30分～16時\n場所は総合教育センター\n料金は無料\n申し込みは8月14日（火曜）消印有効\n問い合わせは指導課（電話322-6545、FAX322-6143）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1208/info04.html#KOBE教育フォーラム
+DTSTART:20120820T093000
+DTEND:20120820T160000
+LOCATION:総合教育センター
+END:VEVENT
+END:VCALENDAR

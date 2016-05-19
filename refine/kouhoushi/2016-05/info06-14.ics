@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:着物の柄をデザインしよう
+DESCRIPTION:対象は4歳～中学生\n日時は5月21日（土曜）14時～\n場所は小磯記念美術館\n料金は無料\n申し込みは往復はがき（〒658-0032向洋町中5-7）かFAXで。5月11日（水曜）消印有効。抽選\n問い合わせは電話857-5880、FAX857-3737
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1605/info06.html#着物の柄をデザインしよう
+DTSTART:20160521T140000
+LOCATION:小磯記念美術館
+END:VEVENT
+END:VCALENDAR

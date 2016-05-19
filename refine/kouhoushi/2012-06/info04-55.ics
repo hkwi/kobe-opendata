@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:飼い犬の「咬みぐせ防止」講習会
+DESCRIPTION:咬みぐせ防止の講習会（実技なし）\n日時は7月5日（木曜）14時～\n場所は動物管理センター\n料金は2\,000円\n申し込みは6月20日（水曜）消印有効\n問い合わせは電話741-8111、FAX741-8035
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1206/info04.html#飼い犬の「咬みぐせ防止」講習会
+DTSTART:20120705T140000
+LOCATION:動物管理センター
+END:VEVENT
+END:VCALENDAR

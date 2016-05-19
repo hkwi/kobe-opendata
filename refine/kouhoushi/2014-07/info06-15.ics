@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:神戸空港島で宝さがし！
+DESCRIPTION:日時は7月20日（日曜）～8月31日（日曜）\n場所は空港ターミナルビル等\n料金は無料\n問い合わせは電話304-7777、FAX304-0678
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1407/info06.html#神戸空港島で宝さがし！
+DTSTART:20140720
+DTEND:20140901
+LOCATION:空港ターミナルビル等
+END:VEVENT
+END:VCALENDAR

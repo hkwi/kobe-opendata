@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:障害者スポーツ大会（1）陸上
+DESCRIPTION:（1）陸上\n対象は13歳以上の障害者手帳所持者\n日時は5月24日（日曜）9時～\n場所はユニバー記念競技場\n料金は無料\n申し込みは直接障害者スポーツ振興センターか各区役所保健福祉部・支所保健福祉課へ。4月23日（木曜）まで受付\n（2）水泳\n対象は13歳以上の障害者手帳所持者\n日時は5月31日（日曜）9時30分～\n場所はオージースポーツ神戸福祉スポーツセンター\n料金は無料\n申し込みは直接障害者スポーツ振興センターか各区役所保健福祉部・支所保健福祉課へ。4月30日（木曜）まで受付\n問い合わせは電話271-5330、FAX271-5367\n\n  \n    \n\n\n
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1504/info05.html#障害者スポーツ大会#1
+DTSTART:20150524T090000
+LOCATION:ユニバー記念競技場
+END:VEVENT
+END:VCALENDAR

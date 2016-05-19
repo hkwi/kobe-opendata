@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:レスキューロボットコンテスト本選
+DESCRIPTION:日時は8月9日（土曜）・10日（日曜）10時～17時\n場所はデザイン・クリエイティブセンター\n料金は無料\n問い合わせは工業課（電話322-5333、FAX322-6074）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1407/info06.html#レスキューロボットコンテスト本選
+DTSTART:20140809T100000
+DTEND:20140809T170000
+RRULE:FREQ=DAILY;BYMONTHDAY=10;COUNT=1
+LOCATION:デザイン・クリエイティブセンター
+END:VEVENT
+END:VCALENDAR

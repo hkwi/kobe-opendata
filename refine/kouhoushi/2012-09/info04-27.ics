@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:森林整備事務所の催し（3）市立外国人墓地一般公開
+DESCRIPTION:（1）摩耶の森クラブ\n自然観察園の手入れをしよう\n日時は9月23日（日曜）10時30分～15時\n場所は掬星台\n料金は無料\n申し込みは9月14日（金曜）消印有効\n（2）こうべ森の小学校～森の草木ぞめ\n森の木や草を切って草木ぞめをします\n対象は小学生以上\n日時は9月23日（日曜）10時30分～15時\n場所は再度公園\n料金は無料\n申し込みは9月8日（土曜）消印有効\n（3）市立外国人墓地一般公開\n歴史的遺産である外国人墓地をたずねます\n日時は9月23日（日曜）10時30分～・13時30分～\n場所は再度公園\n料金は無料\n申し込みは9月10日（月曜）消印有効\n問い合わせは電話371-5937、FAX371-1087
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1209/info04.html#森林整備事務所の催し#3
+DTSTART:20120923T103000
+RRULE:FREQ=DAILY;BYHOUR=13;BYMINUTE=30;COUNT=1
+LOCATION:再度公園
+END:VEVENT
+END:VCALENDAR

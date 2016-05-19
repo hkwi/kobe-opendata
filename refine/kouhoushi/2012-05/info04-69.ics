@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:海辺の生きものを観察しよう
+DESCRIPTION:須磨海浜水族園の飼育員による解説あり\n日時は6月3日（日曜）10時～\n場所はアジュール舞子\n料金は無料\n申し込みは5月25日（金曜）必着\n問い合わせは地球環境課（電話322-6678、FAX322-6068）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1205/info04.html#海辺の生きものを観察しよう
+DTSTART:20120603T100000
+LOCATION:アジュール舞子
+END:VEVENT
+END:VCALENDAR

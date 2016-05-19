@@ -10,15 +10,14 @@
  <title>KOBE Stylish DAY</title>
  <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1510/info00-01.html#KOBE Stylish DAY</link>
  <pubDate>Fri, 25 Sep 2015 00:00:00 +0900</pubDate>
- <description><![CDATA[<div class="btnSocialBox clearfix">
+ <category>KOBE Stylish DAY</category>
+ <description><![CDATA[<div class="btnSocialBox">
             <div class="btnSocialInnerBox">
               <span>
                   <a href="https://twitter.com/share" class="twitter-share-button">ツイート</a>
                   
                 </span>
-              <span>
-                  
-                </span>
+              <div class="fb-share-button" href="http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1510/info00-01.html"></div>
               </div>
           </div>
         

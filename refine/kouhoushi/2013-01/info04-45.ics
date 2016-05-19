@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:須磨海浜水族園（2）バレンタINスマスイ
+DESCRIPTION:（1）クラゲ飼育教室\nクラゲの飼い方を分かりやすく教えます\n日時は1月19日（土曜）13時～\n料金は300円（入園料が必要）\n申し込みは1月9日（水曜）必着\n（2）バレンタINスマスイ\nバレンタインにちなんだ魚を展示します\n日時は2月1日（金曜）～17日（日曜）\n料金は無料（入園料が必要）\n問い合わせは電話731-7301、FAX733-6333
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1301/info04.html#須磨海浜水族園#2
+DTSTART:20130201
+DTEND:20130218
+END:VEVENT
+END:VCALENDAR

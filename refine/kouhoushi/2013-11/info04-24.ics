@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:柴田旭堂会・筑前琵琶の名曲を聴く
+DESCRIPTION:日時は11月30日（土曜）14時～\n場所は文学館\n料金は200円\n申し込みは電話かFAXかはがき（〒657-0838王子町3-1-2）か直接。先着順\n問い合わせは電話・FAX882-2028
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1311/info04.html#柴田旭堂会・筑前琵琶の名曲を聴く
+DTSTART:20131130T140000
+LOCATION:文学館
+END:VEVENT
+END:VCALENDAR

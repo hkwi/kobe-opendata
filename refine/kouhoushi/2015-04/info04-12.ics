@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:フォークダンス～震災復興のつどい
+DESCRIPTION:日時は4月24日（金曜）10時～15時\n場所は中央体育館\n料金は1\,000円\n問い合わせは市スポーツ教育協会（電話261-3620、FAX261-8020）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1504/info04.html#フォークダンス～震災復興のつどい
+DTSTART:20150424T100000
+DTEND:20150424T150000
+LOCATION:中央体育館
+END:VEVENT
+END:VCALENDAR

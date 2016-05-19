@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:清盛墓所探索ツアー
+DESCRIPTION:平清盛の墓と伝えられる場所を巡ります\n日時は10月23日（火曜）・28日（日曜）9時～\n場所は市役所3号館\n料金は2\,000円\n申し込みは10月12日（金曜）消印有効\n問い合わせは文化財課（電話322-5798、FAX322-6148）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1210/info04.html#清盛墓所探索ツアー
+DTSTART:20121023T090000
+RRULE:FREQ=DAILY;BYMONTHDAY=28;COUNT=1
+LOCATION:市役所3号館
+END:VEVENT
+END:VCALENDAR

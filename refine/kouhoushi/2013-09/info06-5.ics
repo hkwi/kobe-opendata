@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:花と緑のまち推進センター（2）山の幸染め
+DESCRIPTION:（1）秋の七草展\n日時は9月3日（火曜）～22日（日曜）\n（2）山の幸染め\n日時は9月29日（日曜）10時～15時30分\n料金は有料\n申し込みは電話で。9月8日（日曜）～先着順\n（3）クレイフラワー「可憐な小菊」\n日時は10月13日（日曜）11時～\n料金は800円\n申し込みは電話で。9月8日（日曜）～先着順\n問い合わせは電話351-6756、FAX341-8710
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1309/info06.html#花と緑のまち推進センター#2
+DTSTART:20130929T100000
+DTEND:20130929T153000
+END:VEVENT
+END:VCALENDAR

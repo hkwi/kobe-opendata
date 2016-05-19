@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:日本惑星科学会講演会
+DESCRIPTION:なぜ地球だけに陸と海があるのか\n対象は小学生以上\n日時は10月27日（土曜）15時30分～\n場所は青少年科学館\n料金は無料\n申し込みは往復はがき（4人以内）に住所・氏名・年齢・性別・電話番号を記入し、同館（〒650-0046港島中町7-7-6）へ。10月13日（土曜）必着。抽選\n問い合わせは電話302-5177、FAX302-4816
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1210/info04.html#日本惑星科学会講演会
+DTSTART:20121027T153000
+LOCATION:青少年科学館
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:神戸港振興協会の催し（2）三菱重工業（神戸造船所）と港の見学会
+DESCRIPTION:（1）巡視船せっつ体験航海および展示訓練\n日時は10月26日（土曜）10時～・14時～\n場所は中突堤岸壁\n料金は無料\n申し込みは往復はがき（2人以内。〒650-0042波止場町2-2）で。10月8日（火曜）消印有効。抽選\n（2）三菱重工業（神戸造船所）と港の見学会\n日時は11月5日（火曜）13時～\n場所は中突堤中央ターミナル\n料金は無料\n申し込みは往復はがき（2人以内。〒650-0042波止場町2-2）で。10月8日（火曜）消印有効。抽選\n問い合わせは電話327-8982、FAX332-4739
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1310/info06.html#神戸港振興協会の催し#2
+DTSTART:20131105T130000
+LOCATION:中突堤中央ターミナル
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:しあわせの村（1）たこ作り・たこあげ大会
+DESCRIPTION:（1）たこ作り・たこあげ大会\n身近な材料で自分で作ったたこを揚げよう\n日時は1月12日（土曜）10時～15時30分\n料金は300円\n申し込みは当日先着順\n（2）60歳からの男性料理教室\n生活習慣病の予防等を考え基礎から学ぶ\n対象は60歳以上の料理初心者\n日時は2月7日～、木・金曜10時～。5回\n料金は有料\n申し込みは1月25日（金曜）消印有効\n問い合わせは電話743-8092、FAX743-8180
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1301/info04.html#しあわせの村#1
+DTSTART:20130112T100000
+DTEND:20130112T153000
+END:VEVENT
+END:VCALENDAR

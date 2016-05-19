@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:親子で有機農産物の収穫体験
+DESCRIPTION:西区神出町の畑の見学と収穫体験\n日時は2月24日（日曜）10時集合\n場所は神戸ワイナリー（農業公園）\n料金は無料\n申し込みは1月31日（木曜）必着\n問い合わせは農水産課（電話322-5355、FAX322-6076）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1301/info04.html#親子で有機農産物の収穫体験
+DTSTART:20130224T100000
+LOCATION:神戸ワイナリー（農業公園）
+END:VEVENT
+END:VCALENDAR

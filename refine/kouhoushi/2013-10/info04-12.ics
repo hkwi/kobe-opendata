@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:里親制度シンポジウム
+DESCRIPTION:日時は10月26日（土曜）13時30分～\n場所は婦人会館\n料金は無料\n申し込みは電話かFAXで家庭養護促進協会（電話341-5046、FAX341-1096）へ。先着順\n問い合わせはこども家庭支援課（電話322-5211、FAX322-6119）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1310/info04.html#里親制度シンポジウム
+DTSTART:20131026T133000
+LOCATION:婦人会館
+END:VEVENT
+END:VCALENDAR

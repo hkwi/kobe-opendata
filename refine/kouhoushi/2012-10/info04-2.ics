@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:減災講話シリーズ
+DESCRIPTION:津波対策と避難の心得「巨大津波に備えて」\n日時は11月5日（月曜）11時～\n場所は危機管理センター\n料金は無料\n申し込みは10月8日（月曜・祝日）～先着順\n問い合わせは市総合コールセンター（電話333-3330、FAX333-3314）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1210/info04.html#減災講話シリーズ
+DTSTART:20121105T110000
+LOCATION:危機管理センター
+END:VEVENT
+END:VCALENDAR

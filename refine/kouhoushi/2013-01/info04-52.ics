@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:森林植物園（2）冬芽観察会と七草がゆ
+DESCRIPTION:（1）自然観察「冬のツリーウオッチング」\n針葉樹を観察しながら園内を散策します\n日時は1月20日（日曜）10時30分～\n料金は無料（入園料が必要）\n申し込みは先着順\n（2）冬芽観察会と七草がゆ\n冬芽を観察し七草粥で春の訪れを感じます\n日時は2月10日（日曜）10時～\n料金は無料（入園料が必要）\n申し込みは先着順\n（3）バレンタインハイキング\n春の芽吹きを感じてハイキング。特典あり\n日時は2月10日（日曜）・11日（月曜・祝日）9時～16時30分\n料金は無料（入園料が必要）\n問い合わせは電話591-0253、FAX594-2324
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1301/info04.html#森林植物園#2
+DTSTART:20130210T100000
+END:VEVENT
+END:VCALENDAR

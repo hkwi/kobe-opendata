@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:青少年科学館（1）アロマプラネタリウム
+DESCRIPTION:（1）アロマプラネタリウム\n対象は中学生以上（中学生は保護者同伴）\n日時は7月5日（金曜）19時～\n料金は500円\n申し込みは電話で。6月16日（日曜）～先着順\n（2）星空教室「夏の星座と金星と土星」\n対象は中学生以下は保護者同伴\n日時は7月19日（金曜）19時～\n料金は300円\n申し込みは電話で。6月27日（木曜）～先着順\n問い合わせは電話302-5177、FAX302-4816
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1306/info06.html#青少年科学館#1
+DTSTART:20130705T190000
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ベイ・シャトル体験乗船会
+DESCRIPTION:行きは9～12時、帰りは15～18時便から選択\n日時は12月22日（土曜）～28日（金曜）\n料金は無料\n申し込みは電子メールに代表者名・人数・希望日時を入力し、みなと総局総務課（bayshuttle@office.city.kobe.lg.jp）へ。抽選\n問い合わせは電話322-5656、FAX322-6120
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1212/info04.html#ベイ・シャトル体験乗船会
+DTSTART:20121222
+DTEND:20121229
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:スポーツフェスティバル
+DESCRIPTION:日時は10月14日（月曜・祝日）9時～16時40分\n場所は王子スポーツセンター\n料金は無料\n申し込みは往復はがきでスポーツ体育課（〒650-8570住所不要）へ。9月20日（金曜）消印有効。抽選\n問い合わせは電話322-5803、FAX322-6149
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1309/info05.html#スポーツフェスティバル
+DTSTART:20131014T090000
+DTEND:20131014T164000
+LOCATION:王子スポーツセンター
+END:VEVENT
+END:VCALENDAR

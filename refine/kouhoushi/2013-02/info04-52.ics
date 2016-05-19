@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:いきいき勤労財団の催し（1）退職準備セミナー
+DESCRIPTION:（1）退職準備セミナー\n退職後の年金・保険関係を説明します\n日時は2月23日（土曜）9時30分～16時45分\n場所は勤労会館\n料金は3\,000円（夫婦で3\,500円）\n申し込みは先着順\n（2）女性のためのライフプラン講座\n山田由美子氏、マダム信子氏による講演\n日時は2月26日（火曜）18時30分～・3月9日（土曜）14時～\n場所は勤労会館\n料金は無料\n申し込みは先着順\n（3）資格取得で生涯現役！\n再就職や転職に有利な資格について講義\n日時は2月27日（水曜）18時30分～\n場所は勤労会館\n料金は無料\n申し込みは先着順\n（4）生涯現役セミナー\n作家・玉岡かおる氏による講演\n日時は3月22日（金曜）14時30分～\n場所は勤労会館\n料金は無料\n申し込みは先着順\n問い合わせは電話251-5561、FAX252-9448
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1302/info04.html#いきいき勤労財団の催し#1
+DTSTART:20130223T093000
+DTEND:20130223T164500
+LOCATION:勤労会館
+END:VEVENT
+END:VCALENDAR

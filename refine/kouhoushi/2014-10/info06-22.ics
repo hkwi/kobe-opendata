@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:灘区民ホール（2）ワタナベフラワー 家族コンサート
+DESCRIPTION:（1）オペラ「イル・トロヴァトーレ」\n日時は10月12日（日曜）14時～\n料金は3\,000円\n申し込みは電話か直接。先着順\n（2）ワタナベフラワー 家族コンサート\n日時は10月13日（月曜・祝日）14時30分～\n料金は有料\n申し込みは電話か直接。先着順\n問い合わせは電話802-8555、FAX802-9811
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1410/info06.html#灘区民ホール#2
+DTSTART:20141013T143000
+END:VEVENT
+END:VCALENDAR

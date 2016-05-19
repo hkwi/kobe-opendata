@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:青少年科学館（2）宇宙人の正しい見つけ方
+DESCRIPTION:（1）4月のプラネタリウム\n新こども番組の投映が始まります\n日時は4月13日（土曜）～26年4月6日（日曜）\n料金は大人400円、小人200円\n（2）宇宙人の正しい見つけ方\n鳴沢真也さんによる講演会\n対象は小学生以上\n日時は5月12日（日曜）13時30分～\n料金は無料\n申し込みは往復はがき（4人以内）に代表者の住所・性別・電話番号、参加者全員の氏名・年齢を記入し、同館（〒650-0046港島中町7-7-6）へ。4月28日（日曜）必着。抽選\n問い合わせは電話302-5177、FAX302-4816
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1304/info04.html#青少年科学館#2
+DTSTART:20130512T133000
+END:VEVENT
+END:VCALENDAR

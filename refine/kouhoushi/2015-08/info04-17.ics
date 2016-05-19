@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:水泳ボランティア講習
+DESCRIPTION:日時は8月25日（火曜）13時～\n場所はしあわせの村\n料金は無料\n申し込みは往復はがきかFAXで市民福祉振興協会（北区山田町下谷上字中一里山14-1）へ。8月18日（火曜）消印有効。抽選\n問い合わせは電話743-8092、FAX743-8180
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1508/info04.html#水泳ボランティア講習
+DTSTART:20150825T130000
+LOCATION:しあわせの村
+END:VEVENT
+END:VCALENDAR

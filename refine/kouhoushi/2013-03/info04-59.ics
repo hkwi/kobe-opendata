@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:中央卸売市場本場（2）親子食べ物研究所
+DESCRIPTION:（1）旬の魚を学ぶ～桜鯛の会\n基本の扱い方から料理方法まで\n日時は3月25日（月曜）10時30分～\n料金は2\,500円\n申し込みは開催日の10日前まで受付\n（2）親子食べ物研究所\nお花の野菜を徹底研究\n日時は3月26日（火曜）10時30分～\n料金は1組1\,500円\n申し込みは開催日の10日前まで受付\n（3）親子で春の変わり寿司\n春の新子や干物を使ったかわいいお寿司\n日時は4月6日（土曜）10時30分～\n料金は1組1\,000円\n申し込みは開催日の10日前まで受付\n問い合わせは電話652-5503、FAX681-3772
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1303/info04.html#中央卸売市場本場#2
+DTSTART:20130326T103000
+END:VEVENT
+END:VCALENDAR

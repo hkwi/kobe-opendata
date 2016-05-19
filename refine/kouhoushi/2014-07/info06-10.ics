@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ファッション美術館（3）紙のオートマタをつくろう
+DESCRIPTION:（1）特別展示「世界のファッション」\n日時は7月19日（土曜）～10月7日（火曜）\n料金は500円\n（2）オリジナルのネックレスをつくろう\n対象は小学生以上\n日時は8月3日（日曜）13時30分～\n料金は1\,500円\n申し込みは往復はがき（〒658-0032向洋町中2-9-1）かFAXで。7月20日（日曜）消印有効。抽選\n（3）紙のオートマタをつくろう\n対象は小学4年生以上\n日時は8月9日（土曜）13時30分～\n料金は1\,000円\n申し込みは往復はがき（〒658-0032向洋町中2-9-1）かFAXで。7月26日（土曜）消印有効。抽選\n問い合わせは電話858-0050、FAX858-0058
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1407/info06.html#ファッション美術館#3
+DTSTART:20140809T133000
+END:VEVENT
+END:VCALENDAR

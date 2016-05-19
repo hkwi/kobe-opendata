@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:2013南京町春節祭
+DESCRIPTION:獅子舞等の中国伝統芸能等を披露\n日時は2月10日（日曜）～17日（日曜）\n問い合わせは観光コンベンション課（電話322-5339、FAX322-6138）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1302/info04.html#2013南京町春節祭
+DTSTART:20130210
+DTEND:20130218
+END:VEVENT
+END:VCALENDAR

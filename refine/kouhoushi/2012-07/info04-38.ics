@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:オリックス戦市民無料招待（2）埼玉西武ライオンズ（花火ナイト）
+DESCRIPTION:（1）千葉ロッテマリーンズ（花火ナイト）\n日時は8月3日（金曜）18時～\n場所はほっともっとフィールド神戸\n申し込みは往復はがきに希望日・参加者（2人以内）の氏名・住所を記入し、市公園緑化協会（〒654-0163緑台）へ。7月10日（火曜）消印有効。抽選\n（2）埼玉西武ライオンズ（花火ナイト）\n日時は8月14日（火曜）18時～\n場所はほっともっとフィールド神戸\n申し込みは往復はがきに希望日・参加者（2人以内）の氏名・住所を記入し、市公園緑化協会（〒654-0163緑台）へ。7月10日（火曜）消印有効。抽選\n問い合わせは電話795-5533、FAX795-5544
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1207/info04.html#オリックス戦市民無料招待#2
+DTSTART:20120814T180000
+LOCATION:ほっともっとフィールド神戸
+END:VEVENT
+END:VCALENDAR

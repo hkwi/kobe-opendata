@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ジャズヴォーカルコンテスト
+DESCRIPTION:日時は5月11日（土曜）15時～19時15分\n場所はアートビレッジセンター\n料金は3\,000円\n問い合わせは文化交流部（電話322-6598、FAX322-6136）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1305/info06.html#ジャズヴォーカルコンテスト
+DTSTART:20130511T150000
+DTEND:20130511T191500
+LOCATION:アートビレッジセンター
+END:VEVENT
+END:VCALENDAR

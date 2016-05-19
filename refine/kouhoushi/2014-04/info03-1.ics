@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:認定看護師によるストーマ相談
+DESCRIPTION:日時は4月15日（火曜）13時～16時\n場所は日本オストミー協会（中央区楠町5）\n料金は無料\n申し込みは当日受付\n問い合わせは障害者支援課（電話322-6332、FAX322-6065）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1404/info03.html#認定看護師によるストーマ相談
+DTSTART:20140415T130000
+DTEND:20140415T160000
+LOCATION:日本オストミー協会（中央区楠町5）
+END:VEVENT
+END:VCALENDAR

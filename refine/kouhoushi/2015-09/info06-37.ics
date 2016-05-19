@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:東播用水源流ミニツアー
+DESCRIPTION:日時は10月10日（土曜）8時30分集合\n場所は地下鉄西神中央駅\n料金は大人3\,000円・小学生以下1\,500円\n申し込みは電話かFAXで農協観光（電話333-5933、FAX392-8433）へ。9月30日（水曜）必着\n問い合わせは産業振興局計画課（電話322-5361、FAX322-6079）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1509/info06.html#東播用水源流ミニツアー
+DTSTART:20151010T083000
+LOCATION:地下鉄西神中央駅
+END:VEVENT
+END:VCALENDAR

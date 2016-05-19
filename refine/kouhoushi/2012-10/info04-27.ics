@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:須磨離宮公園 ローズフェスタ
+DESCRIPTION:神戸女子大学の音楽祭\n日時は10月21日（日曜）13時～。雨天中止\n料金は無料（入園料が必要）\n問い合わせは電話732-6688、FAX734-6022
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1210/info04.html#須磨離宮公園 ローズフェスタ
+DTSTART:20121021T130000
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:冬の里山観察会
+DESCRIPTION:対象は18歳以上\n日時は12月19日（金曜）10時～\n場所は環境未来館等\n料金は無料\n申し込みははがきかFAXで地球環境課（〒650-8570住所不要）へ。12月5日（金曜）必着。抽選\n問い合わせは電話322-6678、FAX322-6068
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1411/info06.html#冬の里山観察会
+DTSTART:20141219T100000
+LOCATION:環境未来館等
+END:VEVENT
+END:VCALENDAR

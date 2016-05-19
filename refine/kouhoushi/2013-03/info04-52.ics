@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:須磨海浜水族園（1）新作イルカライブ「虹」スタート
+DESCRIPTION:（1）新作イルカライブ「虹」スタート\nお客様とイルカの心を繋ぐ虹の架橋を演出\n日時は3月23日（土曜）～\n料金は無料（入園料が必要）\n（2）スマスイ初！ライブにアシカ登場\n新アイドル「ナイト」いよいよデビュー！\n日時は3月23日（土曜）～4月7日（日曜）12時30分～\n料金は無料（入園料が必要）\n（3）天然記念物アユモドキ展示開始\n天然記念物「アユモドキ」の新展示水槽公開\n日時は3月23日（土曜）9時～\n料金は無料（入園料が必要）\n問い合わせは電話731-7301、FAX733-6333
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1303/info04.html#須磨海浜水族園#1
+DTSTART:20130323
+END:VEVENT
+END:VCALENDAR

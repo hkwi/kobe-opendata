@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:総合運動公園の催し（2）親子体操教室
+DESCRIPTION:（1）歩幅改善ウオーク\n正しい歩き方で運動効果を高めましょう\n日時は5月12日（土曜）10時～\n料金は500円\n（2）親子体操教室\n親子で楽しく体を動かしましょう!\n対象は2・3歳と保護者\n日時は6月26日（火曜）10時～\n料金は1組1\,000円\n申し込みは5月26日（土曜）～先着順\n問い合わせは電話796-1126、FAX796-1192
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1205/info04.html#総合運動公園の催し#2
+DTSTART:20120626T100000
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:災害時要援護者支援シンポジウム
+DESCRIPTION:日時は8月4日（火曜）13時～17時30分\n場所は新長田ピフレホール\n料金は無料\n申し込みは電話かFAXで。先着順\n問い合わせは市総合コールセンター（電話333-3330、FAX333-3314）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1507/info04.html#災害時要援護者支援シンポジウム
+DTSTART:20150804T130000
+DTEND:20150804T173000
+LOCATION:新長田ピフレホール
+END:VEVENT
+END:VCALENDAR

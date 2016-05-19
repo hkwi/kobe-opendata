@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:市長と描こう 都心の未来
+DESCRIPTION:対象は18歳以上\n日時は10月4日（土曜）14時～\n場所は兵庫県農業会館（中央区海岸通1）\n料金は無料\n申し込みは往復はがきかFAXで広聴課（〒650-8570住所不要、FAX322-6032）へ。9月8日（月曜）必着。抽選\n問い合わせは市総合コールセンター（電話333-3330、FAX333-3314）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1409/info06.html#市長と描こう 都心の未来
+DTSTART:20141004T140000
+LOCATION:兵庫県農業会館（中央区海岸通1）
+END:VEVENT
+END:VCALENDAR

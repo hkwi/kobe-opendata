@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:神経難病患者・家族交流会
+DESCRIPTION:日時は11月10日（日曜）13時～\n場所はすずらんホール\n料金は無料\n申し込みは電話かFAXで難病相談室（電話322-1878、FAX322-1876）へ。先着順\n問い合わせは健康づくり支援課（電話322-6517、FAX322-6053）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1311/info04.html#神経難病患者・家族交流会
+DTSTART:20131110T130000
+LOCATION:すずらんホール
+END:VEVENT
+END:VCALENDAR

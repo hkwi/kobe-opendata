@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:梨の収穫体験とミニ自由研究
+DESCRIPTION:日時は8月23日（金曜）10時～\n場所は神戸三水園（西区押部谷町）・神戸ワイナリー（農業公園）\n料金は1\,500円\n申し込みは電話かFAXでJA兵庫六甲押部支店（電話994-1055、FAX994-1099）へ。8月16日（金曜）まで受付\n問い合わせは農業振興センター（電話975-6895、FAX975-6828）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1308/info06.html#梨の収穫体験とミニ自由研究
+DTSTART:20130823T100000
+LOCATION:神戸三水園（西区押部谷町）・神戸ワイナリー（農業公園）
+END:VEVENT
+END:VCALENDAR

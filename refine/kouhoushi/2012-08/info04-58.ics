@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:オリックス戦市民無料招待
+DESCRIPTION:千葉ロッテマリーンズ戦（花火ナイト）\n日時は9月5日（水曜）18時～\n場所はほっともっとフィールド神戸\n申し込みは往復はがきに参加者（2人以内）の氏名・住所、返信用に住所・氏名を記入し、市公園緑化協会（〒654-0163住所不要）へ。8月10日（金曜）消印有効。抽選\n問い合わせは電話795-5533、FAX795-5544
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1208/info04.html#オリックス戦市民無料招待
+DTSTART:20120905T180000
+LOCATION:ほっともっとフィールド神戸
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:オテル・ド・摩耶の万華鏡教室
+DESCRIPTION:万華鏡製作入門編\n日時は8月19日（日曜）15時30分～\n料金は3\,500円\n申し込みは先着順\n問い合わせは観光コンベンション課（電話322-5339、FAX322-6138）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1208/info04.html#オテル・ド・摩耶の万華鏡教室
+DTSTART:20120819T153000
+END:VEVENT
+END:VCALENDAR

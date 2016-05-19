@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:灘区民ホール（1）マウロ&伊藤ルミ デュオコンサート
+DESCRIPTION:（1）マウロ&伊藤ルミ デュオコンサート\n日時は3月14日（土曜）14時～\n料金は有料\n申し込みは電話か直接。3月8日（日曜）～先着順\n（2）はじめてのクラシックコンサート\n日時は3月28日（土曜）11時～\n料金は有料\n申し込みは電話か直接。3月8日（日曜）～先着順\n（3）笑福亭智之介のなだっこ寄席\n対象は小学生以上\n日時は3月28日（土曜）16時～\n料金は有料\n申し込みは電話か直接。3月8日（日曜）～先着順\n問い合わせは電話802-8555、FAX802-9811
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1503/info06.html#灘区民ホール#1
+DTSTART:20150314T140000
+END:VEVENT
+END:VCALENDAR

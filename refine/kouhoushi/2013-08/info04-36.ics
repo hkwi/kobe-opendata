@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:障害者就労支援IT技術習得講座
+DESCRIPTION:対象は未就労の障害者手帳所持者で次の要件を満たす人。（1）就労意欲のある（2）パソコンを所有し、インターネット・電子メール・Windowsの操作ができる（3）自力または介助により通える（4）介助必要者は受講中、介助者が同伴できる\n日時は9月12日～、木曜13時～17時。12回\n場所はファッションマート（東灘区向洋町中6）\n料金は10\,000円\n申し込みは電話でプロップステーション（電話845-2263）へ。9月2日（月曜）まで受付\n問い合わせは市障害者就労推進センター（電話672-6480、FAX672-6486）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1308/info04.html#障害者就労支援IT技術習得講座
+DTSTART:20130912T130000
+DTEND:20130912T170000
+RRULE:FREQ=WEEKLY;COUNT=12
+LOCATION:ファッションマート（東灘区向洋町中6）
+END:VEVENT
+END:VCALENDAR

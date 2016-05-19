@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:兵庫慢性腎臓病シンポジウム
+DESCRIPTION:日時は3月15日（日曜）13時45分～\n場所は県民会館（中央区下山手通4）\n料金は無料\n申し込みは電話かFAXで県腎友会（電話958-7370、FAX371-8840）へ。先着順\n問い合わせは健康づくり支援課（電話322-6517、FAX322-6053）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1503/info04.html#兵庫慢性腎臓病シンポジウム
+DTSTART:20150315T134500
+LOCATION:県民会館（中央区下山手通4）
+END:VEVENT
+END:VCALENDAR

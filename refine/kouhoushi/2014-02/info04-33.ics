@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:聴覚障害者料理教室
+DESCRIPTION:日時は3月7日（金曜）10時～14時\n場所は母子福祉センター\n料金は800円\n申し込みは電話かFAXで。2月21日（金曜）まで受付\n問い合わせは障害者更生相談所（電話512-4453、FAX577-6510）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1402/info04.html#聴覚障害者料理教室
+DTSTART:20140307T100000
+DTEND:20140307T140000
+LOCATION:母子福祉センター
+END:VEVENT
+END:VCALENDAR

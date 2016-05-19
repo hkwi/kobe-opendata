@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:区民センター等の催し（3）わがまちコンサートピフレ
+DESCRIPTION:（1）〔狂言〕忠重十番セカンドシーズン\n日時は8月30日（金曜）19時～\n場所は灘区民ホール\n料金は有料\n申し込みは電話か直接。先着順\n問い合わせは電話802-8555、FAX802-9811\n（2）夏休み工作教室・粘土万華鏡作り\n対象は小学生\n日時は8月17日（土曜）13時30分～\n場所は六甲道勤労市民センター\n料金は1\,000円\n申し込みは電話か直接。先着順\n問い合わせは電話841-1711、FAX821-5654\n（3）わがまちコンサートピフレ\n日時は8月23日（金曜）18時30分～\n場所はピフレホール\n料金は1\,500円\n問い合わせは電話621-1120、FAX621-0914
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1308/info06.html#区民センター等の催し#3
+DTSTART:20130823T183000
+LOCATION:ピフレホール
+END:VEVENT
+END:VCALENDAR

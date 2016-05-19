@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:春のローズフェスティバル
+DESCRIPTION:日時は5月7日（土曜）～6月5日（日曜）\n場所は須磨離宮公園\n料金は無料（別途入園料等が必要）\n問い合わせは電話732-6688、FAX734-6022
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1605/info06.html#春のローズフェスティバル
+DTSTART:20160507
+DTEND:20160606
+LOCATION:須磨離宮公園
+END:VEVENT
+END:VCALENDAR

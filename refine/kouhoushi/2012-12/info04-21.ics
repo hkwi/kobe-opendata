@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:乳幼児のぜん息予防等講演会
+DESCRIPTION:アトピー性皮膚炎のケアとぜん息発作予防\n日時は12月15日（土曜）14時～\n場所は国際会館\n料金は無料\n申し込みは電話かFAX（代表者の住所・電話番号・参加者全員の氏名を記入）で同事務局（電話0800-800-2020、FAX0120-896-891）へ。先着順\n問い合わせは健康づくり支援課（電話322-5248、FAX322-6053）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1212/info04.html#乳幼児のぜん息予防等講演会
+DTSTART:20121215T140000
+LOCATION:国際会館
+END:VEVENT
+END:VCALENDAR

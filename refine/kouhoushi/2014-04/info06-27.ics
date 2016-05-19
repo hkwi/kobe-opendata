@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:草木染めで母の日のプレゼント
+DESCRIPTION:対象は小学生と保護者\n日時は4月19日（土曜）10時～\n場所は環境未来館\n料金は無料\n申し込みははがきかFAXでアースパルKOBE（〒650-0024海岸通3-1-1 KCCビル4階エリンサーブ内、FAX330-3468）へ。4月8日（火曜）必着。抽選\n問い合わせは地球環境課（電話322-6678、FAX322-6068）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1404/info06.html#草木染めで母の日のプレゼント
+DTSTART:20140419T100000
+LOCATION:環境未来館
+END:VEVENT
+END:VCALENDAR

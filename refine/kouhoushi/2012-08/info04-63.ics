@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:マンション管理組合の交流会
+DESCRIPTION:地震・津波の危機管理について\n日時は9月8日（土曜）13時30分～\n場所は勤労会館\n料金は無料\n申し込みは9月1日（土曜）まで受付\n問い合わせはすまいるネット（電話222-0186、FAX222-0106）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1208/info04.html#マンション管理組合の交流会
+DTSTART:20120908T133000
+LOCATION:勤労会館
+END:VEVENT
+END:VCALENDAR

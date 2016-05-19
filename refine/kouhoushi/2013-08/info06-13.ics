@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:市演奏協会のコンサート（3）秋の定期演奏会（市混声合唱団）
+DESCRIPTION:（1）星空コンサート（室内合奏団）\n日時は8月10日（土曜）16時～\n場所は舞子ビラ\n料金は2\,000円\n（2）あなたに贈るコンサート（室内合奏団）\n日時は8月24日（土曜）14時～\n場所は西区民センター\n料金は1\,500円\n（3）秋の定期演奏会（市混声合唱団）\n日時は9月3日（火曜）18時30分～\n場所は文化ホール\n料金は3\,000円\n問い合わせは電話361-7241、FAX361-7182
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1308/info06.html#市演奏協会のコンサート#3
+DTSTART:20130903T183000
+LOCATION:文化ホール
+END:VEVENT
+END:VCALENDAR

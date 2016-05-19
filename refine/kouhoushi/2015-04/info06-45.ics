@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:松本NGK田んぼ花摘み会
+DESCRIPTION:日時は5月10日（日曜）10時～14時\n場所はレストランでん園駐車場（西区櫨谷町松本179）\n料金は無料\n問い合わせは農業振興センター（電話975-6845、FAX975-6828）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1504/info06.html#松本NGK田んぼ花摘み会
+DTSTART:20150510T100000
+DTEND:20150510T140000
+LOCATION:レストランでん園駐車場（西区櫨谷町松本179）
+END:VEVENT
+END:VCALENDAR

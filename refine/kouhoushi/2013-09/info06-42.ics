@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:スパコン「京」シンポジウム
+DESCRIPTION:日時は9月22日（日曜）12時30分～17時30分\n場所は神戸大学統合研究拠点（中央区港島南町7）\n料金は無料\n申し込みはFAXで。9月10日（火曜）～先着順\n問い合わせは医療産業都市推進本部推進課（電話322-6569、FAX322-6010）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1309/info06.html#スパコン「京」シンポジウム
+DTSTART:20130922T123000
+DTEND:20130922T173000
+LOCATION:神戸大学統合研究拠点（中央区港島南町7）
+END:VEVENT
+END:VCALENDAR

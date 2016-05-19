@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:農業振興センターの催し（1）たかわ農業体験ウオーキング
+DESCRIPTION:（1）たかわ農業体験ウオーキング\n日時は6月22日（日曜）10時～14時\n場所は自然環境活用センター\n料金は無料\n申し込みはFAXで。6月13日（金曜）必着。抽選\n（2）黒大豆オーナー制参加者募集\n日時は6月22日（日曜）10時～。2回\n場所は生野地区圃場（北区道場町）\n料金は4\,000円\n申し込みは電話かFAXで田んぼパークス実行委員会（電話090-8531-5797、FAX985-3045）へ。6月10日（火曜）消印有効。抽選\n（3）桃の収穫体験とバーベキューランチ\n日時は7月26日（土曜）10時～\n場所は神戸ワイナリー等\n料金は3\,500円\n申し込みは電話でJA兵庫六甲押部支店（電話994-1055）へ。6月20日（金曜）～先着順\n問い合わせは電話975-5800、FAX975-6828
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1406/info06.html#農業振興センターの催し#1
+DTSTART:20140622T100000
+DTEND:20140622T140000
+LOCATION:自然環境活用センター
+END:VEVENT
+END:VCALENDAR

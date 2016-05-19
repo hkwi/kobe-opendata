@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:相楽園 夏至祭
+DESCRIPTION:旧小寺家厩舎内で美術作品展を行います\n日時は6月18日（月曜）～24日（日曜）\n料金は無料\n問い合わせは電話351-5155、FAX361-7307
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1206/info04.html#相楽園 夏至祭
+DTSTART:20120618
+DTEND:20120625
+END:VEVENT
+END:VCALENDAR

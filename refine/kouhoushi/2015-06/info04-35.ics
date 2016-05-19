@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:市政リレー講座「食の安全・安心を」
+DESCRIPTION:日時は7月22日（水曜）10時～\n場所はコミスタこうべ\n料金は無料\n申し込みは電話か直接。先着順\n問い合わせは電話251-4731、FAX251-4733
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1506/info04.html#市政リレー講座「食の安全・安心を」
+DTSTART:20150722T100000
+LOCATION:コミスタこうべ
+END:VEVENT
+END:VCALENDAR

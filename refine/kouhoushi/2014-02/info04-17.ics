@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:生涯設計のための消費生活講座
+DESCRIPTION:日時は2月19日（水曜）14時～\n場所は勤労会館\n料金は無料\n申し込みは電話で。先着順\n問い合わせは消費生活課（電話322-5185、FAX322-6036）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1402/info04.html#生涯設計のための消費生活講座
+DTSTART:20140219T140000
+LOCATION:勤労会館
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:こうべユース賞表彰式
+DESCRIPTION:日時は2月28日（土曜）13時～\n場所はパティオホール（須磨区中落合2）\n料金は無料\n問い合わせはこども青少年課（電話322-5181、FAX322-6043）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1502/info06.html#こうべユース賞表彰式
+DTSTART:20150228T130000
+LOCATION:パティオホール（須磨区中落合2）
+END:VEVENT
+END:VCALENDAR

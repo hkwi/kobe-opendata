@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:市民福祉大学（1）地域・福祉・活動の基本を学ぼう!
+DESCRIPTION:（1）地域・福祉・活動の基本を学ぼう!\n日時は6月17日（水曜）9時30分～16時30分\n場所は市民福祉交流センター\n料金は1\,000円\n申し込みははがき（〒651-0086磯上通3-1-32）か電話かFAXか直接。6月3日（水曜）必着。抽選\n（2）協働の作法を学ぼう\n日時は7月15日（水曜）9時30分～16時30分\n場所は市民福祉交流センター\n料金は1\,000円\n申し込みははがき（〒651-0086磯上通3-1-32）か電話かFAXか直接。7月1日（水曜）必着。抽選\n問い合わせは電話271-5300、FAX271-5365
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1505/info04.html#市民福祉大学#1
+DTSTART:20150617T093000
+DTEND:20150617T163000
+LOCATION:市民福祉交流センター
+END:VEVENT
+END:VCALENDAR

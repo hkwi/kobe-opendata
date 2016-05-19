@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:市民山の会ハイキング
+DESCRIPTION:貯水池～市ヶ原～分水嶺越～山田道～谷上\n日時は10月21日（日曜）9時集合\n場所はJR新神戸駅\n料金は無料\n問い合わせは市総合コールセンター（電話333-3330、FAX333-3314）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1210/info04.html#市民山の会ハイキング
+DTSTART:20121021T090000
+LOCATION:JR新神戸駅
+END:VEVENT
+END:VCALENDAR

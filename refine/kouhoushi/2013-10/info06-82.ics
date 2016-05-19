@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:演奏会「神戸からのしらべ」ご招待
+DESCRIPTION:日時は11月10日（日曜）15時～\n場所は東灘区民センター\n申し込みははがきで市民文化振興財団（〒650-0017楠町4-2-2）へ。10月23日（水曜）必着。抽選\n問い合わせは電話351-3597、FAX351-3121
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1310/info06.html#演奏会「神戸からのしらべ」ご招待
+DTSTART:20131110T150000
+LOCATION:東灘区民センター
+END:VEVENT
+END:VCALENDAR

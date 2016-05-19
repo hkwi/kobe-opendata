@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:阪本勝兄妹の校歌を歌う
+DESCRIPTION:日時は7月28日（日曜）14時～\n場所は神戸文学館\n料金は200円\n申し込みははがき（〒657-0838王子町3-1-2）か電話かFAXか直接。先着順\n問い合わせは電話・FAX882-2028
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1307/info06.html#阪本勝兄妹の校歌を歌う
+DTSTART:20130728T140000
+LOCATION:神戸文学館
+END:VEVENT
+END:VCALENDAR

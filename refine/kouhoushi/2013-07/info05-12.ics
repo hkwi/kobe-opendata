@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:あじさいスタジアム北神戸見学会
+DESCRIPTION:対象は小学3～6年生\n日時は8月5日（月曜）10時～\n場所は北神戸田園スポーツ公園\n料金は無料\n申し込みは往復はがき（〒651-1311有野町二郎）で。7月22日（月曜）必着。抽選\n問い合わせは電話951-5901、FAX951-5903
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1307/info05.html#あじさいスタジアム北神戸見学会
+DTSTART:20130805T100000
+LOCATION:北神戸田園スポーツ公園
+END:VEVENT
+END:VCALENDAR

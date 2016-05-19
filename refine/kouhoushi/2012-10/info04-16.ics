@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:来て！見て！食べて！中央市場
+DESCRIPTION:市場見学と旬の食材の食べ比べ\n日時は10月17日（水曜）9時20分～\n場所は中央卸売市場本場\n料金は1\,800円\n申し込みは10月10日（水曜）まで受付\n問い合わせは電話652-5503、FAX681-3772
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1210/info04.html#来て！見て！食べて！中央市場
+DTSTART:20121017T092000
+LOCATION:中央卸売市場本場
+END:VEVENT
+END:VCALENDAR

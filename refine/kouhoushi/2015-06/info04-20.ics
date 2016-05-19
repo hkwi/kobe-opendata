@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:サロン・de・防災
+DESCRIPTION:日時は6月25日（木曜）14時～\n場所は危機管理センター\n料金は無料\n問い合わせは危機管理室（電話322-6239、FAX322-6031）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1506/info04.html#サロン・de・防災
+DTSTART:20150625T140000
+LOCATION:危機管理センター
+END:VEVENT
+END:VCALENDAR

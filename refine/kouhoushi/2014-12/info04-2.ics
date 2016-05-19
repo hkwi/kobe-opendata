@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:シルバーカレッジ公開授業（2）環境問題を国際的視点で考える
+DESCRIPTION:（1）聴覚障害の理解と手話\n日時は12月10日（水曜）10時30分～14時30分\n料金は無料\n申し込みは電話かFAXで。先着順\n（2）環境問題を国際的視点で考える\n日時は12月19日（金曜）10時30分～\n料金は無料\n申し込みは電話かFAXで。先着順\n問い合わせは電話743-8100、FAX743-8103
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1412/info04.html#シルバーカレッジ公開授業#2
+DTSTART:20141219T103000
+END:VEVENT
+END:VCALENDAR

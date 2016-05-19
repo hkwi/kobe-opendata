@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:母子福祉センターの教室（1）母と子のクリスマスケーキ作り
+DESCRIPTION:（1）母と子のクリスマスケーキ作り\n親子でクリスマスの思い出づくりに\n対象は母子家庭の親子\n日時は12月23日（日曜・祝日）・24日（月曜・休日）10時～\n場所は総合福祉センター\n料金は1人100円\n申し込みは12月8日（土曜）～先着順\n（2）正月花のアレンジメント講座\nお正月飾りの教室です。材料費込み\n日時は12月27日（木曜）13時30分～\n場所は総合福祉センター\n料金は3\,800円\n申し込みは12月8日（土曜）～先着順\n問い合わせは電話341-4532、FAX371-6478
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1212/info04.html#母子福祉センターの教室#1
+DTSTART:20121223T100000
+RRULE:FREQ=DAILY;BYMONTHDAY=24;COUNT=1
+LOCATION:総合福祉センター
+END:VEVENT
+END:VCALENDAR

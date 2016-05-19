@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ジュニアミュージアム講座
+DESCRIPTION:特別展にちなんだワークショップ\n対象は小学4年～中学生\n日時は12月8日（土曜）14時～\n場所は市立博物館\n料金は500円\n申し込みは11月23日（金曜・祝日）消印有効\n問い合わせは電話391-0035、FAX392-7054
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1211/info04.html#ジュニアミュージアム講座
+DTSTART:20121208T140000
+LOCATION:市立博物館
+END:VEVENT
+END:VCALENDAR

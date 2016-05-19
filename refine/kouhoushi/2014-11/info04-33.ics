@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ジュニアミュージアム講座（1）石を彫ってお守りを作ろう
+DESCRIPTION:（1）石を彫ってお守りを作ろう\n対象は小学4年生～中学生\n日時は11月29日（土曜）14時～\n場所は市立博物館\n料金は500円\n申し込みは往復はがき（3人以内）で同館（〒650-0034京町24）へ。11月14日（金曜）必着。抽選\n（2）木の手鏡に彫刻をしよう\n対象は小学4年生～中学生\n日時は12月13日（土曜）14時～\n場所は市立博物館\n料金は500円\n申し込みは往復はがき（3人以内）で同館（〒650-0034京町24）へ。11月28日（金曜）必着。抽選\n問い合わせは電話391-0035、FAX392-7054
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1411/info04.html#ジュニアミュージアム講座#1
+DTSTART:20141129T140000
+LOCATION:市立博物館
+END:VEVENT
+END:VCALENDAR

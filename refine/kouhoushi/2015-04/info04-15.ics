@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ユニティの講座（3）旅行業務管理者試験講座
+DESCRIPTION:（1）Word超入門講座\n日時は4月28日～、火・金曜9時30分～。4回\n料金は有料\n申し込みは電話で。先着順\n（2）通関士試験対策講座\n日時は5月9日～、土曜9時30分～15時。20回\n料金は有料\n申し込みは電話で。先着順\n（3）旅行業務管理者試験講座\n日時は5月9日～、土曜13時30分～16時40分。19回\n料金は有料\n申し込みは電話で。先着順\n（4）秘書技能検定対策講座\n日時は5月12日～、火曜17時30分～20時40分。14回\n料金は有料\n申し込みは電話で。先着順\n（5）医科医療事務検定講座\n日時は5月16日～、土曜9時30分～12時40分。14回\n料金は有料\n申し込みは電話で。先着順\n（6）医療通訳を知っていますかパート2\n日時は5月16日～、土曜14時～。5回\n料金は有料\n申し込みは電話で。先着順\n問い合わせは電話794-4970、FAX794-4910
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1504/info04.html#ユニティの講座#3
+DTSTART:20150509T133000
+DTEND:20150509T164000
+RRULE:FREQ=WEEKLY;COUNT=19
+END:VEVENT
+END:VCALENDAR

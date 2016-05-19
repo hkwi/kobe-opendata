@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:市民山の会ハイキング（2）風吹岩
+DESCRIPTION:（1）六甲～有馬\n日時は11月17日（日曜）9時集合\n場所は六甲ケーブル下駅\n料金は無料\n（2）風吹岩\n日時は12月1日（日曜）9時集合\n場所はJR甲南山手駅\n料金は無料\n問い合わせは市総合コールセンター（電話333-3330、FAX333-3314）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1311/info05.html#市民山の会ハイキング#2
+DTSTART:20131201T090000
+LOCATION:JR甲南山手駅
+END:VEVENT
+END:VCALENDAR

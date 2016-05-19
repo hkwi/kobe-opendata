@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:こども初期急病センター（2）ママとパパの医療講座
+DESCRIPTION:（1）こどもの蘇生とAEDの使い方\n対象は小学生と保護者\n日時は8月24日（土曜）10時30分～\n料金は無料\n申し込みはFAXで。先着順\n（2）ママとパパの医療講座\n対象は未就学児の保護者等\n日時は9月7日～、土曜10時30分～。5回\n料金は無料\n申し込みはFAXで。先着順\n問い合わせは電話862-6075、FAX862-6085
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1308/info04.html#こども初期急病センター#2
+DTSTART:20130907T103000
+RRULE:FREQ=WEEKLY;COUNT=5
+END:VEVENT
+END:VCALENDAR

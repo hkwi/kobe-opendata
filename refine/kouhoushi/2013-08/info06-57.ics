@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ファミリー日帰りキャンプ
+DESCRIPTION:対象は3～15歳の療育手帳、身体障害者手帳所持者と家族\n日時は9月29日（日曜）10時30分～15時30分\n場所はしあわせの村\n料金は1人500円（6歳未満無料）\n申し込みは往復はがき（北区山田町下谷上字中一里山14-1）で。9月6日（金曜）消印有効。抽選\n問い合わせは市民福祉振興協会（電話743-8092、FAX743-8180）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1308/info06.html#ファミリー日帰りキャンプ
+DTSTART:20130929T103000
+DTEND:20130929T153000
+LOCATION:しあわせの村
+END:VEVENT
+END:VCALENDAR

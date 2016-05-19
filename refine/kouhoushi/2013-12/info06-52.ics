@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:企画展「昭和のくらし」
+DESCRIPTION:日時は1月18日（土曜）～3月9日（日曜）\n場所は埋蔵文化財センター\n料金は無料\n問い合わせは電話992-0656、FAX992-5201
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1312/info06.html#企画展「昭和のくらし」
+DTSTART:20140118
+DTEND:20140310
+LOCATION:埋蔵文化財センター
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ヴィッセル神戸親子サッカー教室
+DESCRIPTION:基本的なサッカーボールの扱い方を学ぶ\n対象は13年4月2日～20年4月1日生まれの子と保護者（2人1組）\n日時は4月7日（日曜）13時～\n場所はノエビアスタジアム神戸\n料金は無料\n申し込みは3月22日（金曜）必着\n問い合わせは市総合コールセンター（電話333-3330、FAX333-3314）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1303/info04.html#ヴィッセル神戸親子サッカー教室
+DTSTART:20130407T130000
+LOCATION:ノエビアスタジアム神戸
+END:VEVENT
+END:VCALENDAR

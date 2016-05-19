@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:まちのアートステージ
+DESCRIPTION:ジャズの音色漂う空間へお越しください！\n日時は1月19日（土曜）14時～\n場所は神戸空港\n料金は無料\n問い合わせは文化交流部（電話322-6598、FAX322-6136）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1301/info04.html#まちのアートステージ
+DTSTART:20130119T140000
+LOCATION:神戸空港
+END:VEVENT
+END:VCALENDAR

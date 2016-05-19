@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:いきいきシルバーのつどい
+DESCRIPTION:対象は60歳以上\n日時は9月3日（水曜）13時～17時15分\n場所は文化ホール\n料金は無料\n申し込みは往復はがきでいきいき勤労財団（〒651-0096雲井通5-3-1）へ。8月13日（水曜）消印有効。抽選\n問い合わせは電話251-5561、FAX252-9448
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1408/info04.html#いきいきシルバーのつどい
+DTSTART:20140903T130000
+DTEND:20140903T171500
+LOCATION:文化ホール
+END:VEVENT
+END:VCALENDAR

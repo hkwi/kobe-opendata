@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:白色申告者向け記帳説明会の開催
+DESCRIPTION:事業・不動産所得者を対象とした、記帳制度・帳簿書類の保存および記帳方法、青色申告制度の説明会を神戸税務署で開催\n日時は6月15日（月曜）14時～16時\n問い合わせは課税企画課（電話322-6401、FAX322-6154）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1505/info02.html#白色申告者向け記帳説明会の開催
+DTSTART:20150615T140000
+DTEND:20150615T160000
+END:VEVENT
+END:VCALENDAR

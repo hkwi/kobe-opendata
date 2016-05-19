@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:有馬温泉 金の湯（3）シルバーデー（割引あり）
+DESCRIPTION:（1）レディースデー（割引あり）\n対象は中学生以上の女性\n日時は3月11日（水曜）\n（2）ラベンダー湯\n日時は3月22日（日曜）\n（3）シルバーデー（割引あり）\n対象は65歳以上（要証明）\n日時は3月25日（水曜）\n問い合わせは国際観光コンベンション協会（電話904-0680、FAX907-3370）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1503/info06.html#有馬温泉 金の湯#3
+DTSTART:20150325
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ユニティの講座（4）公開講座（ファッションで楽しく）
+DESCRIPTION:（1）パソコン教室（超入門者講座）\n日時は9月2日～、火・金曜9時30分～。3回\n料金は有料\n申し込みは電話で。8月18日（月曜）～先着順\n（2）パソコン教室（Word超入門講座）\n日時は9月12日～、火・金曜（祝日休）9時30分～。4回\n料金は有料\n申し込みは電話で。8月18日（月曜）～先着順\n（3）パソコン教室（Excel超入門講座）\n日時は9月30日～、火・金曜9時30分～。4回\n料金は有料\n申し込みは電話で。8月18日（月曜）～先着順\n（4）公開講座（ファッションで楽しく）\n日時は9月27日～、土曜14時～。5回\n料金は有料\n申し込みは電話で。8月18日（月曜）～先着順\n（5）語学講座（英語等21講座）\n日時は9月27日（土曜）～27年3月9日（月曜）\n料金は有料\n申し込みは電話で。8月18日（月曜）～先着順\n問い合わせは電話794-4970、FAX794-4910
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1408/info04.html#ユニティの講座#4
+DTSTART:20140927T140000
+RRULE:FREQ=WEEKLY;COUNT=5
+END:VEVENT
+END:VCALENDAR

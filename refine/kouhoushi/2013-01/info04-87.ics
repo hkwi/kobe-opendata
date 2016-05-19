@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:こうべ花フェア
+DESCRIPTION:北区淡河町のチューリップをPR販売\n日時は2月1日（金曜）～7日（木曜）\n場所は市内の花屋10店舗\n料金は有料\n問い合わせは農水産課（電話322-5355、FAX322-6076）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1301/info04.html#こうべ花フェア
+DTSTART:20130201
+DTEND:20130208
+LOCATION:市内の花屋10店舗
+END:VEVENT
+END:VCALENDAR

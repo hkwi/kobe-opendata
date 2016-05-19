@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:神戸賞記念講演会開催
+DESCRIPTION:シーラカンスの生態の謎に迫る記念講演会\n日時は5月27日（日曜）13時～\n場所はホテルオークラ神戸（中央区波止場町2）\n料金は無料\n申し込みは先着順\n問い合わせは須磨海浜水族園（電話731-7301、FAX733-6333）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1205/info04.html#神戸賞記念講演会開催
+DTSTART:20120527T130000
+LOCATION:ホテルオークラ神戸（中央区波止場町2）
+END:VEVENT
+END:VCALENDAR

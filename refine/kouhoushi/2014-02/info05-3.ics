@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:中央体育館の教室（1）バドミントン教室
+DESCRIPTION:（1）バドミントン教室\n日時は4月3日～、木曜9時～。15回\n料金は有料\n申し込みははがき（〒650-0017楠町4-1-1）で。3月10日（月曜）消印有効。抽選\n（2）1歳児の親子ふれあい幼児体操教室\n対象は1歳児と保護者\n日時は4月3日～、木曜10時～。15回\n料金は有料\n申し込みははがき（〒650-0017楠町4-1-1）で。3月10日（月曜）消印有効。抽選\n（3）年少幼児体操教室\n対象は3歳児\n日時は4月4日～、金曜15時15分～。15回\n料金は有料\n申し込みははがき（〒650-0017楠町4-1-1）で。3月10日（月曜）消印有効。抽選\n問い合わせは電話341-7971、FAX341-7974\n\n  \n    \n\n\n
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1402/info05.html#中央体育館の教室#1
+DTSTART:20140403T090000
+RRULE:FREQ=WEEKLY;COUNT=15
+END:VEVENT
+END:VCALENDAR

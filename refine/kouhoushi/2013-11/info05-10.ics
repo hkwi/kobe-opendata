@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:スポーツ教育協会のイベント（2）しあわせ健康駅伝競走大会
+DESCRIPTION:（1）ファミリーウオーキング（10キロメートル）\n日時は11月24日（日曜）10時集合。雨天決行\n場所は地下鉄名谷駅\n料金は無料\n（2）しあわせ健康駅伝競走大会\n対象は18歳以上\n日時は12月8日（日曜）9時30分～\n場所は総合運動公園\n料金は1チーム13\,000円\n申し込みは大会申込用紙で。11月8日（金曜）必着\n（3）六甲シティマラソン大会\n対象は小学生以上\n日時は26年1月26日（日曜）9時15分～\n場所は六甲アイランド\n料金は有料\n申し込みは11月1日（金曜）～配布する専用振替用紙で。先着順\n問い合わせは電話261-3620、FAX261-8020
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1311/info05.html#スポーツ教育協会のイベント#2
+DTSTART:20131208T093000
+LOCATION:総合運動公園
+END:VEVENT
+END:VCALENDAR

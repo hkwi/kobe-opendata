@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:アシックスランニングクラブ in 王子
+DESCRIPTION:日時は4月29日（水曜・祝日）9時～12時30分\n場所は王子スタジアム\n料金は2\,000円\n申し込みははがき（〒657-0805青谷町1-1-1）かFAXか直接。4月14日（火曜）消印有効。抽選\n問い合わせは王子スポーツセンター（電話802-0223、FAX861-5628）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1504/info05.html#アシックスランニングクラブ in 王子
+DTSTART:20150429T090000
+DTEND:20150429T123000
+LOCATION:王子スタジアム
+END:VEVENT
+END:VCALENDAR

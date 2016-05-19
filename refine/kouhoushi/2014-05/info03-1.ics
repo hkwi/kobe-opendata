@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:人権擁護委員による特設人権相談
+DESCRIPTION:日時は6月2日（月曜）9時～16時\n場所は各区役所\n料金は無料\n申し込みは当日先着順\n問い合わせは人権推進課（電話322-5234、FAX322-6048）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1405/info03.html#人権擁護委員による特設人権相談
+DTSTART:20140602T090000
+DTEND:20140602T160000
+LOCATION:各区役所
+END:VEVENT
+END:VCALENDAR

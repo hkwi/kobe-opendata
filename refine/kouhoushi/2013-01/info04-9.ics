@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:福祉講演会「認知症の理解」
+DESCRIPTION:認知症の介護や対応への知識を学ぶ\n日時は1月12日（土曜）14時～\n場所は垂水年金会館\n料金は無料\n申し込みは1月8日（火曜）必着\n問い合わせは市民福祉振興協会（電話743-8017、FAX743-8180）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1301/info04.html#福祉講演会「認知症の理解」
+DTSTART:20130112T140000
+LOCATION:垂水年金会館
+END:VEVENT
+END:VCALENDAR

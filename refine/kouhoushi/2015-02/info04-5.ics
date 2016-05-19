@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:シンポジウム～これからの地域活動
+DESCRIPTION:日時は2月17日（火曜）14時～\n場所は農業会館（中央区海岸通1）\n料金は無料\n申し込みは電話かFAXで。先着順\n問い合わせは市民協働推進課（電話322-5189、FAX322-6115）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1502/info04.html#シンポジウム～これからの地域活動
+DTSTART:20150217T140000
+LOCATION:農業会館（中央区海岸通1）
+END:VEVENT
+END:VCALENDAR

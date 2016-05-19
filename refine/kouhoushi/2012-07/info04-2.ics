@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:道の駅「淡河」ふるさとまつり
+DESCRIPTION:地場産新鮮野菜の直売や各種イベント開催\n日時は7月28日（土曜）10時～14時\n場所は道の駅「淡河」\n料金は無料\n問い合わせは市総合コールセンター（電話333-3330、FAX333-3314）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1207/info04.html#道の駅「淡河」ふるさとまつり
+DTSTART:20120728T100000
+DTEND:20120728T140000
+LOCATION:道の駅「淡河」
+END:VEVENT
+END:VCALENDAR

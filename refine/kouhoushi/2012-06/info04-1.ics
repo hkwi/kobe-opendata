@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:みなとこうべ海上花火大会
+DESCRIPTION:障害者専用観覧エリア（駐車場付）のご案内\n対象は障害者手帳所持者と介護者（2人以内）\n日時は8月4日（土曜）19時40分～\n場所は兵庫ふ頭\n料金は無料\n申し込みは往復はがきに障害者本人の住所・氏名・電話番号、介護者の人数、車種を記入し、神戸港振興協会（〒650-0042波止場町2-2）へ。6月20日（水曜）必着。抽選\n問い合わせは市総合コールセンター（電話333-3330、FAX333-3314）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1206/info04.html#みなとこうべ海上花火大会
+DTSTART:20120804T194000
+LOCATION:兵庫ふ頭
+END:VEVENT
+END:VCALENDAR

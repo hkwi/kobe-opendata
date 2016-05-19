@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:消費生活を学ぼう（1）くらしがわかる！こうべ生活講座
+DESCRIPTION:（1）くらしがわかる！こうべ生活講座\n実験とミニ講座で「防災」を考えよう\n日時は1月16日（水曜）13時30分～\n場所は消費者教育センター\n料金は無料\n申し込みは先着順\n（2）消費者教育セミナー・家庭での教育\n子どもの消費者としての自立を目指して\n日時は2月8日（金曜）10時～\n場所は総合福祉センター\n料金は無料\n申し込みは先着順\n問い合わせは消費生活課（電話322-5185、FAX322-6036）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1301/info04.html#消費生活を学ぼう#1
+DTSTART:20130116T133000
+LOCATION:消費者教育センター
+END:VEVENT
+END:VCALENDAR

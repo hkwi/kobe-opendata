@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:自殺対策強化月間 心の健康法律相談（1）ハローワークプラザ三宮（中央区小野柄通7）
+DESCRIPTION:（1）ハローワークプラザ三宮（中央区小野柄通7）\n日時は3月10日（火曜）10時30分～16時\n料金は無料\n（2）ハローワーク神戸（中央区相生町1）\n日時は3月20日（金曜）9時30分～16時\n料金は無料\n問い合わせはこころの健康センター（電話371-1900、FAX371-1811）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1503/info03.html#自殺対策強化月間 心の健康法律相談#1
+DTSTART:20150310T103000
+DTEND:20150310T160000
+END:VEVENT
+END:VCALENDAR

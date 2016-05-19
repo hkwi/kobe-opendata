@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:中央卸売市場本場（3）中央市場のキッズキッチン
+DESCRIPTION:（1）旬の魚で家庭料理\n魚料理を気軽に日々の食卓へ！\n日時は11月27日（火曜）・12月10日（月曜）10時30分～\n料金は有料\n申し込みは開催日の10日前まで受付\n（2）お魚屋さんに学ぶ親子講座\n街の魚屋さんと旬の魚料理\n日時は12月2日（日曜）10時30分～\n料金は有料\n申し込みは開催日の10日前まで受付\n（3）中央市場のキッズキッチン\n魚上手な子どもになろう！\n日時は12月8日（土曜）10時～\n料金は有料\n申し込みは開催日の10日前まで受付\n問い合わせは電話652-5503、FAX681-3772
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1211/info04.html#中央卸売市場本場#3
+DTSTART:20121208T100000
+END:VEVENT
+END:VCALENDAR

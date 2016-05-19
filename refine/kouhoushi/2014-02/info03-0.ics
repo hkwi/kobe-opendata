@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:権利擁護・成年後見法律相談（2）司法書士・社会福祉士
+DESCRIPTION:（1）弁護士・社会福祉士\n日時は2月18日・3月4日（火曜）13時30分～16時30分（予約制）\n場所は市民福祉交流センター\n料金は無料\n（2）司法書士・社会福祉士\n日時は2月25日（火曜）13時30分～16時30分（予約制）\n場所は市民福祉交流センター\n料金は無料\n問い合わせはこうべ安心サポートセンター（電話271-5321、FAX271-2250）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1402/info03.html#権利擁護・成年後見法律相談#2
+DTSTART:20140225T133000
+DTEND:20140225T163000
+LOCATION:市民福祉交流センター
+END:VEVENT
+END:VCALENDAR

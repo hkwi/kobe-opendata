@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:神戸地区オストメイト合同相談会
+DESCRIPTION:日時は9月29日（日曜）13時20分～16時20分\n場所は市総合福祉センター\n料金は無料\n申し込みは当日受付\n問い合わせは障害者支援課（電話322-6332、FAX322-6065）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1309/info03.html#神戸地区オストメイト合同相談会
+DTSTART:20130929T132000
+DTEND:20130929T162000
+LOCATION:市総合福祉センター
+END:VEVENT
+END:VCALENDAR

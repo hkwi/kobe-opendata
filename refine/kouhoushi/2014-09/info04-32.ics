@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:いきいき勤労財団の講座（1）コミュニティビジネス実践講座
+DESCRIPTION:（1）コミュニティビジネス実践講座\n日時は10月10日～、金曜13時30分～。6回\n料金は10\,000円\n場所は勤労会館\n申し込みは電話かFAXで。先着順\n（2）ウオーキング教室\n日時は10月16日（木曜）13時30分～\n料金は無料\n場所は勤労会館\n申し込みは電話で。先着順\n問い合わせは電話251-5561、FAX252-9448
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1409/info04.html#いきいき勤労財団の講座#1
+DTSTART:20141010T133000
+RRULE:FREQ=WEEKLY;COUNT=6
+LOCATION:勤労会館
+END:VEVENT
+END:VCALENDAR

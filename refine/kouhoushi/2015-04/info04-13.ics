@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:太山寺安養院庭園ハイク
+DESCRIPTION:日時は4月27日（月曜）10時集合\n場所は地下鉄学園都市駅\n料金は400円\n申し込みは電話かFAXか直接。先着順\n問い合わせは北須磨文化センター（電話791-0840、FAX792-0700）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1504/info04.html#太山寺安養院庭園ハイク
+DTSTART:20150427T100000
+LOCATION:地下鉄学園都市駅
+END:VEVENT
+END:VCALENDAR

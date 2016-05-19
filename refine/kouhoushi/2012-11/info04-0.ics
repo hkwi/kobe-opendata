@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:クルーズ客船主な入港情報
+DESCRIPTION:オーシャン・ドリーム\n日時は11月21日（水曜）17時入港・22日（木曜）21時出港\n場所はポートターミナル\n問い合わせは市総合コールセンター（電話333-3330、FAX333-3314）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1211/info04.html#クルーズ客船主な入港情報
+DTSTART:20121121T170000
+DTEND:20121122T210000
+LOCATION:ポートターミナル
+END:VEVENT
+END:VCALENDAR

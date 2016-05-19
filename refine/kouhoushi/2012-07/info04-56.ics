@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:親子サバイバル教室
+DESCRIPTION:ゲームで学ぶ防災学習のためのイベント\n対象は小学3年生以上と保護者\n日時は8月26日（日曜）13時30分～\n場所は危機管理センター\n料金は無料\n申し込みは先着順\n問い合わせは電話322-6239、FAX322-6031
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1207/info04.html#親子サバイバル教室
+DTSTART:20120826T133000
+LOCATION:危機管理センター
+END:VEVENT
+END:VCALENDAR

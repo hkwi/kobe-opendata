@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:就学前発達障害児家庭内療育講座
+DESCRIPTION:対象は就学前の発達障害児の保護者\n日時は6月5日～、金曜10時～。6回\n場所は発達障害者支援センター\n料金は無料\n申し込みはFAXで。先着順\n問い合わせは電話382-2760、FAX382-2766
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1505/info04.html#就学前発達障害児家庭内療育講座
+DTSTART:20150605T100000
+RRULE:FREQ=WEEKLY;COUNT=6
+LOCATION:発達障害者支援センター
+END:VEVENT
+END:VCALENDAR

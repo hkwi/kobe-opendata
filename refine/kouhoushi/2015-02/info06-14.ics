@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:大学生が市の政策を提案します！
+DESCRIPTION:日時は2月11日（水曜・祝日）10時～18時\n場所はデザイン・クリエイティブセンター\n料金は無料\n問い合わせは大学連携支援室（電話322-5029、FAX322-6009）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1502/info06.html#大学生が市の政策を提案します！
+DTSTART:20150211T100000
+DTEND:20150211T180000
+LOCATION:デザイン・クリエイティブセンター
+END:VEVENT
+END:VCALENDAR

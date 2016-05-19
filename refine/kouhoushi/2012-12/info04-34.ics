@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:森林植物園（2）新春探鳥会
+DESCRIPTION:（1）親子でバードウオッチング\n冬鳥が勢ぞろい。青い鳥に会えるかも\n対象は親子\n日時は12月16日（日曜）9時30分～\n料金は無料（入園料が必要）\n（2）新春探鳥会\n冬の森で鳥たちをじっくり観察しましょう\n日時は1月13日（日曜）9時30分～\n料金は高校生以上200円（入園料が必要）\n（3）とんどやき\n震災犠牲者の鎮魂と皆さまの健康を祈念\n日時は1月14日（月曜・祝日）10時30分～\n料金は無料\n問い合わせは電話591-0253、FAX594-2324
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1212/info04.html#森林植物園#2
+DTSTART:20130113T093000
+END:VEVENT
+END:VCALENDAR

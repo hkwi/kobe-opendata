@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:平磯海づり公園（1）ジュニアフィッシングパーティー
+DESCRIPTION:（1）ジュニアフィッシングパーティー\n対象は6～15歳\n日時は5月18日（日曜）6時～10時\n料金は大人1\,000円・小人600円\n（2）ベラ釣り大会\n日時は5月31日（土曜）～6月22日（日曜）6時～16時\n料金は大人1\,000円・小人600円\n問い合わせは電話753-3973、FAX753-4873
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1405/info06.html#平磯海づり公園#1
+DTSTART:20140518T060000
+DTEND:20140518T100000
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:発達障害者支援センターの講座等（1）発達障害支援講演会
+DESCRIPTION:（1）発達障害支援講演会\n発達障害の理解と教育的支援\n日時は1月30日（水曜）14時～\n場所はピフレホール\n料金は無料\n申し込みはFAX（氏名・電話番号・手話希望の有無を記入）で同センターへ。先着順\n（2）発達障害サポーター養成講座\n発達障害を支援できるボランティアを養成\n対象は障害者等のボランティア経験者\n日時は2月13・20日（水曜）14時～\n場所は総合福祉センター\n料金は無料\n申し込みは1月10日（木曜）～先着順\n問い合わせは電話382-2760、FAX382-2766
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1301/info04.html#発達障害者支援センターの講座等#1
+DTSTART:20130130T140000
+LOCATION:ピフレホール
+END:VEVENT
+END:VCALENDAR

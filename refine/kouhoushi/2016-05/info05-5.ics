@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:体力測定会＆ニュースポーツ体験会
+DESCRIPTION:対象は小学生以上\n日時は5月28日（土曜）8時55分～12時\n場所は王子スポーツセンター\n料金は350円（中学生以下無料）\n問い合わせは電話802-0223、FAX861-5628
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1605/info05.html#体力測定会＆ニュースポーツ体験会
+DTSTART:20160528T085500
+DTEND:20160528T120000
+LOCATION:王子スポーツセンター
+END:VEVENT
+END:VCALENDAR

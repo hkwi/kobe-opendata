@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ギャラリートーク
+DESCRIPTION:当館学芸員が展示作品を解説します\n日時は12月9日（日曜）・23日（日曜・祝日）14時～\n場所は神戸ゆかりの美術館\n料金は無料（入館料が必要）\n問い合わせは電話858-1520、FAX858-1522
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1212/info04.html#ギャラリートーク
+DTSTART:20121209T140000
+RRULE:FREQ=DAILY;BYMONTHDAY=23;COUNT=1
+LOCATION:神戸ゆかりの美術館
+END:VEVENT
+END:VCALENDAR

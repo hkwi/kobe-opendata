@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:たかわ農業体験ウオーキング
+DESCRIPTION:対象は小学生以下は保護者同伴\n日時は10月27日（日曜）10時～14時\n場所は高和自然環境活用センター\n料金はサツマイモ3株500円\n申し込みははがきかFAXで農業振興センター（〒651-2124伊川谷町潤和1058）へ。10月18日（金曜）必着。抽選\n問い合わせは電話975-6845、FAX975-6828
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1310/info06.html#たかわ農業体験ウオーキング
+DTSTART:20131027T100000
+DTEND:20131027T140000
+LOCATION:高和自然環境活用センター
+END:VEVENT
+END:VCALENDAR

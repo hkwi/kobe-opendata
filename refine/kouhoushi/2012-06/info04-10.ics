@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:議員研修講演会「デザイン都市」
+DESCRIPTION:講師はユネスコ前事務局長松浦晃一郎氏\n日時は6月8日（金曜）14時～\n料金は無料\n申し込みは当日先着順\n問い合わせは市会事務局調査課（電話322-5859、FAX322-6170）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1206/info04.html#議員研修講演会「デザイン都市」
+DTSTART:20120608T140000
+END:VEVENT
+END:VCALENDAR

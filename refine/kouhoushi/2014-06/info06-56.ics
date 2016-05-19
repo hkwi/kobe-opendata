@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:オリックス戦無料招待（対西武）
+DESCRIPTION:日時は7月29日（火曜）・30日（水曜）18時～\n場所はほっともっとフィールド神戸\n料金は無料\n申し込みは往復はがき（2人以内。希望日も記入）で市公園緑化協会（〒654-0163緑台）へ。6月10日（火曜）消印有効。抽選\n問い合わせは電話795-5533、FAX795-5544
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1406/info06.html#オリックス戦無料招待（対西武）
+DTSTART:20140729T180000
+RRULE:FREQ=DAILY;BYMONTHDAY=30;COUNT=1
+LOCATION:ほっともっとフィールド神戸
+END:VEVENT
+END:VCALENDAR

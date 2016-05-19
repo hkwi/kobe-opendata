@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:市生活指導研究会説明会
+DESCRIPTION:料理講師、病院給食ボランティアの説明会\n日時は3月15日（金曜）10時30分～\n場所は総合福祉センター\n料金は無料\n申し込みは先着順\n問い合わせは電話・FAX351-3443
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1303/info04.html#市生活指導研究会説明会
+DTSTART:20130315T103000
+LOCATION:総合福祉センター
+END:VEVENT
+END:VCALENDAR

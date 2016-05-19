@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:さかなの学校（1）アナゴとふれあい、アナゴを食す!
+DESCRIPTION:（1）アナゴとふれあい、アナゴを食す!\n対象は小学生以上（小学生は保護者同伴）\n日時は9月27日（日曜）10時30分～\n料金は1人1\,000円\n申し込みは往復はがき（〒655-0036海岸通12-4）かFAXで。9月14日（月曜）消印有効。抽選\n（2）須磨海岸で地引網体験\n対象は小・中学生と保護者\n日時は10月17日（土曜）9時30分～\n料金は無料\n申し込みは往復はがき（〒655-0036海岸通12-4）かFAXで。10月4日（日曜）消印有効。抽選\n問い合わせは電話706-5550、FAX706-5636
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1509/info06.html#さかなの学校#1
+DTSTART:20150927T103000
+END:VEVENT
+END:VCALENDAR

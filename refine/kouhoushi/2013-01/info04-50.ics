@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:さかなの学校（3）ひなまつり飾りづくり
+DESCRIPTION:（1）カマボコとおにぎりづくり\nマダイを使ったカマボコとおにぎりづくり\n対象は小・中学生と保護者\n日時は1月20日・2月17日（日曜）10時30分～\n料金は800円\n申し込みは開催日の12日前消印有効\n（2）乾のりづくりと巻き寿司づくり\n乾のりづくりの後、巻き寿司をつくる体験\n対象は小・中学生と保護者\n日時は1月26日（土曜）・27日・2月3日（日曜）10時30分～\n料金は800円\n申し込みは1月分は1月15日（火曜）、2月分は1月24日（木曜）消印有効\n（3）ひなまつり飾りづくり\nひな人形等、ひなまつりの飾りを作る体験\n日時は2月2日（土曜）～3月3日（日曜）\n料金は600円\n問い合わせは電話706-5550、FAX706-5636
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1301/info04.html#さかなの学校#3
+DTSTART:20130202
+DTEND:20130304
+END:VEVENT
+END:VCALENDAR

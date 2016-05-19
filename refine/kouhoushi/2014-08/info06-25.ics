@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:地域人材支援センターの催し（1）どんぐりでおしゃれな笛を作ろう!
+DESCRIPTION:（1）どんぐりでおしゃれな笛を作ろう!\n対象は小学生と保護者\n日時は8月20日（水曜）10時～\n料金は無料\n申し込みははがきかFAXで地球環境課（〒650-8570住所不要）へ。8月12日（火曜）必着。抽選\n（2）種のふしぎ体験\n対象は小学生と保護者\n日時は8月27日（水曜）10時～\n料金は無料\n申し込みははがきかFAXで地球環境課（〒650-8570住所不要）へ。8月19日（火曜）必着。抽選\n問い合わせは地球環境課（電話322-6678、FAX322-6068）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1408/info06.html#地域人材支援センターの催し#1
+DTSTART:20140820T100000
+END:VEVENT
+END:VCALENDAR

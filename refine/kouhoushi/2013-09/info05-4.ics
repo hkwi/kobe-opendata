@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:スポーツイベント観戦情報（有料）（1）卓球女子ワールドカップ神戸大会
+DESCRIPTION:（1）卓球女子ワールドカップ神戸大会\n日時は9月21日（土曜）～23日（月曜・祝日）\n場所は中央体育館\n（2）ヴィッセル神戸VS水戸ホーリーホック\n日時は9月29日（日曜）18時～\n場所はノエビアスタジアム神戸\n（3）兵庫ストークスVS三菱電機\n日時は9月28日（土曜）18時～・29日（日曜）14時～\n場所は中央体育館\n問い合わせは市スポーツ教育協会（電話261-3620、FAX261-8020）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1309/info05.html#スポーツイベント観戦情報（有料）#1
+DTSTART:20130921
+DTEND:20130924
+LOCATION:中央体育館
+END:VEVENT
+END:VCALENDAR

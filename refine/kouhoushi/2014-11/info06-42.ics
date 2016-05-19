@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:東日本・神戸復興交流シンポジウム
+DESCRIPTION:日時は11月15日（土曜）13時30分～\n場所はまちづくり会館\n料金は無料\n申し込みは電話で。先着順\n問い合わせは都市問題研究所（電話252-0984、FAX252-0877）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1411/info06.html#東日本・神戸復興交流シンポジウム
+DTSTART:20141115T133000
+LOCATION:まちづくり会館
+END:VEVENT
+END:VCALENDAR

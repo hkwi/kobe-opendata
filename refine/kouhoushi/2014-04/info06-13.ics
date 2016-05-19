@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ブラジル移民祭の催し（1）ブラジル移民が愛した日本の歌
+DESCRIPTION:（1）ブラジル移民が愛した日本の歌\n日時は4月12日（土曜）14時～\n場所は海外移住と文化の交流センター\n料金は無料\n申し込みは電話かFAXで関西ブラジル人コミニティ（電話・FAX222-5350）へ。先着順\n（2）ブラジル移民のことをもっと知ろう！\n日時は4月27日（日曜）13時～\n場所は海外移住と文化の交流センター\n料金は無料\n申し込みは電話かFAXで関西ブラジル人コミニティ（電話・FAX222-5350）へ。先着順\n問い合わせは国際交流推進部（電話322-5010、FAX322-2382）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1404/info06.html#ブラジル移民祭の催し#1
+DTSTART:20140412T140000
+LOCATION:海外移住と文化の交流センター
+END:VEVENT
+END:VCALENDAR

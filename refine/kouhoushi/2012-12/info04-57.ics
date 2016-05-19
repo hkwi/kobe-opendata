@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ホームズスタジアム神戸 見学会
+DESCRIPTION:バックステージツアー（プレゼント付き）\n日時は12月22日（土曜）11時～14時30分\n料金は無料\n問い合わせは電話652-5656、FAX652-5651
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1212/info04.html#ホームズスタジアム神戸 見学会
+DTSTART:20121222T110000
+DTEND:20121222T143000
+END:VEVENT
+END:VCALENDAR

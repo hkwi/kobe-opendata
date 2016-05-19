@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:「119番の日」のイベント
+DESCRIPTION:日時は11月9日（土曜）13時～\n場所はハーバーランド\n料金は無料\n問い合わせは司令課（電話325-8519、FAX325-8529）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1311/info06.html#「119番の日」のイベント
+DTSTART:20131109T130000
+LOCATION:ハーバーランド
+END:VEVENT
+END:VCALENDAR

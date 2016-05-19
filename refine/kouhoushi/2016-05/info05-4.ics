@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:市スポーツ教育協会の催し（2）コベルコスティーラーズラグビー教室
+DESCRIPTION:（1）INAC神戸ファミリー応援デー\n対象は小・中学生と家族\n日時は5月22日（日曜）13時～\n場所はノエビアスタジアム神戸\n料金は無料\n申し込みは往復はがき（4人以内、〒651-0083浜辺通5-1-14）で。5月8日（日曜）消印有効。抽選\n（2）コベルコスティーラーズラグビー教室\n対象は小学生\n日時は6月12日（日曜）13時～\n場所はユニバー記念競技場\n料金は無料\n申し込みは往復はがき（〒651-0083浜辺通5-1-14）で。5月23日（月曜）消印有効。抽選\n問い合わせは電話261-3620、FAX261-8020
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1605/info05.html#市スポーツ教育協会の催し#2
+DTSTART:20160612T130000
+LOCATION:ユニバー記念競技場
+END:VEVENT
+END:VCALENDAR

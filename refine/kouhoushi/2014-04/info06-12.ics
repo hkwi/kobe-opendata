@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:映画「コーヒーをめぐる冒険」
+DESCRIPTION:日時は4月12日（土曜）～25日（金曜）\n場所はアートビレッジセンター\n料金は有料\n問い合わせは電話512-5500、FAX512-5356
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1404/info06.html#映画「コーヒーをめぐる冒険」
+DTSTART:20140412
+DTEND:20140426
+LOCATION:アートビレッジセンター
+END:VEVENT
+END:VCALENDAR

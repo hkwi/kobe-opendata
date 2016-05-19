@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:住吉川河口のいきもの探険!
+DESCRIPTION:対象は小学生と保護者\n日時は8月17日（土曜）10時～\n場所は住吉川河口\n料金は無料\n申し込みははがきか電話かFAXでアースパルKOBE（〒650-0024海岸通3-1-1KCCビル4階エリンサーブ内、電話090-3973-8305、FAX752-0482）へ。8月9日（金曜）必着。抽選\n問い合わせは地球環境課（電話322-6678、FAX322-6068）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1308/info06.html#住吉川河口のいきもの探険!
+DTSTART:20130817T100000
+LOCATION:住吉川河口
+END:VEVENT
+END:VCALENDAR

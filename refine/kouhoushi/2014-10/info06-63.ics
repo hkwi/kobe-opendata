@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:茅葺職人と竪穴住居を建てよう
+DESCRIPTION:対象は小学4年生以上（小学生は保護者同伴）\n日時は11月16日（日曜）10時～15時\n場所は埋蔵文化財センター\n料金は1組300円\n申し込みは往復はがき（〒651-2273糀台6-1）かFAXで11月1日（土曜）必着。抽選\n問い合わせは電話992-0656、FAX992-5201
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1410/info06.html#茅葺職人と竪穴住居を建てよう
+DTSTART:20141116T100000
+DTEND:20141116T150000
+LOCATION:埋蔵文化財センター
+END:VEVENT
+END:VCALENDAR

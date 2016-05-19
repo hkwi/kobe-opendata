@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:国際理解のための市民講座
+DESCRIPTION:外国文化を感じてみませんか\n（1）ニジェール料理を体験しよう\n日時は12月2日（日曜）10時～\n場所はコミスタこうべ等\n料金は無料\n申し込みは11月26日（月曜）必着\n（2）トルコ文化に親しむ・ラオスでの体験談\n日時は12月8日（土曜）13時30分～\n場所はコミスタこうべ等\n料金は無料\n申し込みは11月26日（月曜）必着\n問い合わせは広聴課（電話322-5169、FAX322-6032）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1211/info04.html#国際理解のための市民講座
+DTSTART:20121202T100000
+X-HINT-REQ-LOCATION:['コミスタこうべ等'\, 'コミスタこうべ等']
+END:VEVENT
+END:VCALENDAR

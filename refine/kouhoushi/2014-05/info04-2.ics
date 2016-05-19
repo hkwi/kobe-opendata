@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:アジア交流プラザ（2）シュガークラフト
+DESCRIPTION:（1）トルコ語入門講座\n日時は5月13日～、火曜10時30分～。10回\n申し込みは電話で。先着順\n料金は有料\n（2）シュガークラフト\n日時は5月17日（土曜）13時30分～\n申し込みは電話で。先着順\n料金は有料\n（3）スペイン語入門講座\n日時は5月20日～、火曜15時～。10回\n申し込みは電話か直接。先着順\n料金は有料\n問い合わせは電話646-7100、FAX646-7200
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1405/info04.html#アジア交流プラザ#2
+DTSTART:20140517T133000
+END:VEVENT
+END:VCALENDAR

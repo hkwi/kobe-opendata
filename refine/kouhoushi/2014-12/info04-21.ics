@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:成人のぜん息・COPD予防講演会
+DESCRIPTION:日時は1月17日（土曜）14時～\n場所は神戸国際会館（中央区御幸通8）\n料金は無料\n申し込みは電話かFAXで同事務局（電話0120-974-914、FAX0120-982-714）へ。先着順\n問い合わせは健康づくり支援課（電話322-5248、FAX322-6053）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1412/info04.html#成人のぜん息・COPD予防講演会
+DTSTART:20150117T140000
+LOCATION:神戸国際会館（中央区御幸通8）
+END:VEVENT
+END:VCALENDAR

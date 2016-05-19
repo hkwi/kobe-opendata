@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:花と緑のまち推進センター（1）多肉植物の寄せ植え
+DESCRIPTION:（1）多肉植物の寄せ植え\nかわいい多肉植物の寄せ植え\n日時は8月26日（日曜）13時30分～\n料金は1\,000円\n申し込みは先着順\n（2）秋の家庭菜園\n手作り野菜を楽しむ\n日時は9月9日（日曜）13時30分～\n料金は500円\n申し込みは先着順\n問い合わせは電話351-6756、FAX341-8710
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1208/info04.html#花と緑のまち推進センター#1
+DTSTART:20120826T133000
+END:VEVENT
+END:VCALENDAR

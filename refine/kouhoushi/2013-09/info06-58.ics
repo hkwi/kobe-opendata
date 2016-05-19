@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:市内クリーンアップと見学ツアー
+DESCRIPTION:日時は9月29日（日曜）10時～17時\n場所は東遊園地\n料金は500円\n申し込みは往復はがき（〒650-0046港島中町6-9-1）で。9月10日（火曜）消印有効。抽選\n問い合わせは国際観光コンベンション協会（電話303-1010、FAX302-2946）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1309/info06.html#市内クリーンアップと見学ツアー
+DTSTART:20130929T100000
+DTEND:20130929T170000
+LOCATION:東遊園地
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:西区櫨谷町、押部谷町で柿狩り（1）友清柿園（西区櫨谷町）
+DESCRIPTION:（1）友清柿園（西区櫨谷町）\n日時は10月12日（土曜）～11月24日（日曜）\n料金は大人700円・小人400円\n申し込みは電話（電話991-0577）で\n（2）きづ柿狩園（西区押部谷町）\n日時は10月中旬～11月下旬\n料金は大人700円・小人400円\n申し込みは電話（電話994-8888）で\n問い合わせは農水産課（電話322-5366、FAX322-6076）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1310/info06.html#西区櫨谷町、押部谷町で柿狩り#1
+DTSTART:20131012
+DTEND:20131125
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:兵庫酒米が創る灘の酒
+DESCRIPTION:灘のきき酒体験および灘酒と料理を楽しむ\n対象は20歳以上の女性\n日時は2月22日（金曜）19時～\n場所はANAクラウンプラザホテル神戸（中央区北野町1）\n料金は3\,000円\n申し込みは往復はがきに参加者全員（3人以内）の住所・氏名・年齢・職業を記入し、県酒米振興会（〒650-0024海岸通1 農業会館内）へ。1月10日（木曜）消印有効。抽選\n問い合わせは農水産課（電話322-5355、FAX322-6076）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1212/info04.html#兵庫酒米が創る灘の酒
+DTSTART:20130222T190000
+LOCATION:ANAクラウンプラザホテル神戸（中央区北野町1）
+END:VEVENT
+END:VCALENDAR

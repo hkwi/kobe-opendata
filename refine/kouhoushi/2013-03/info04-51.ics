@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:コミスタこうべ（2）一日体験教室
+DESCRIPTION:（1）市政リレー講座・講演会\n高齢者のすまいあれこれ、世界の風俗習慣\n日時は3月22日（金曜）10時～・4月23日（火曜）14時～\n料金は無料\n申し込みは先着順\n（2）一日体験教室\n俳句、ウクレレ、花見御膳、硬式テニス等\n日時は4月11日（木曜）～26日（金曜）\n料金は有料\n申し込みは先着順\n（3）子育て支援事業\n親子ヨガ、子どもの日祝い寿し\n対象は就学前の子と保護者\n日時は4月12・19日（金曜）10時～\n料金は有料\n申し込みは先着順\n問い合わせは電話251-4731、FAX251-4733
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1303/info04.html#コミスタこうべ#2
+DTSTART:20130411
+DTEND:20130427
+END:VEVENT
+END:VCALENDAR

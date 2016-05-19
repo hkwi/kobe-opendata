@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:花と緑のまち推進センター（1）熱帯果樹展と食虫植物展
+DESCRIPTION:（1）熱帯果樹展と食虫植物展\n日時は8月13日（火曜）～9月1日（日曜）\n料金は無料\n（2）ハイドロカルチャー\n日時は8月25日（日曜）13時30分～\n料金は500円\n申し込みは電話で。先着順\n（3）秋の家庭菜園\n日時は9月15日（日曜）13時30分～\n料金は500円\n申し込みは電話で。先着順\n問い合わせは電話351-6756、FAX341-8710
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1308/info06.html#花と緑のまち推進センター#1
+DTSTART:20130813
+DTEND:20130902
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:母の日の首飾り作り
+DESCRIPTION:日時は5月12日（日曜）10時～\n場所は六甲山牧場\n料金は500円（別途入園料等が必要）\n申し込みは電話で。5月10日（金曜）～先着順\n問い合わせは電話891-0280、FAX891-0592
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1305/info06.html#母の日の首飾り作り
+DTSTART:20130512T100000
+LOCATION:六甲山牧場
+END:VEVENT
+END:VCALENDAR

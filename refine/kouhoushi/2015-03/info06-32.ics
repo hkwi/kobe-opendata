@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:青少年会館（3）チャレンジキャンプ
+DESCRIPTION:（1）春の星空観察隊!\n対象は小学3～6年生と保護者\n日時は3月14日（土曜）16時～21時\n場所はしあわせの村\n料金は1\,500円\n申し込みは往復はがき（〒651-0096雲井通5-1-2）で。3月8日（日曜）必着。抽選\n（2）この指とまれキャンプ“春編”\n対象は小学3年生～中学生\n日時は3月26日（木曜）～、1泊2日\n場所は洞川教育キャンプ場\n料金は4\,000円\n申し込みは往復はがきで。3月10日（火曜）必着。抽選\n（3）チャレンジキャンプ\n対象は中学・高校生\n日時は3月29日（日曜）9時～18時\n場所は洞川教育キャンプ場\n料金は2\,500円\n申し込みは電話かFAXか直接。3月8日（日曜）～先着順\n問い合わせは電話232-4455、FAX242-2161
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1503/info06.html#青少年会館#3
+DTSTART:20150329T090000
+DTEND:20150329T180000
+LOCATION:洞川教育キャンプ場
+END:VEVENT
+END:VCALENDAR

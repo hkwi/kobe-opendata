@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:淡路一周自転車ツアー
+DESCRIPTION:対象は中学生・高校生\n日時は5月3日（土曜・祝日）8時集合\n場所は淡路ジェノバライン（明石市本町2）\n料金は2\,000円\n申し込みははがきかFAXか直接青少年会館（〒651-0096雲井通5-1-2）へ。4月26日（土曜）必着。抽選\n問い合わせは電話232-4455、FAX242-2161
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1404/info06.html#淡路一周自転車ツアー
+DTSTART:20140503T080000
+LOCATION:淡路ジェノバライン（明石市本町2）
+END:VEVENT
+END:VCALENDAR

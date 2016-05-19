@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:須磨離宮公園（3）ジャンボ松竹梅の展示
+DESCRIPTION:（1）ポインセチア展\n日時は12月1日（月曜）～25日（木曜）\n料金は無料（別途入園料等が必要）\n（2）クリスマスキャンドルナイト\n日時は12月20日（土曜）・21日（日曜）17時～\n料金は無料（別途入園料等が必要）\n（3）ジャンボ松竹梅の展示\n日時は12月20日（土曜）～1月12日（月曜・祝日）\n料金は無料（別途入園料等が必要）\n（4）新春昔あそび\n日時は1月4・11日（日曜）・10日（土曜）・12日（月曜・祝日）11時～15時（11日のみ13時～）\n料金は無料\n問い合わせは電話732-6688、FAX734-6022
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1412/info06.html#須磨離宮公園#3
+DTSTART:20141220
+DTEND:20150113
+END:VEVENT
+END:VCALENDAR

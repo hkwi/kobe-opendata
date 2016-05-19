@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:須磨海づり公園（2）こども釣り大会
+DESCRIPTION:（1）釣りんピックIN海づり公園\n日時は10月13日（月曜・祝日）6時～10時\n料金は大人1\,200円、小人700円\n（2）こども釣り大会\n対象は6～15歳\n日時は10月19日（日曜）6時～10時\n料金は700円\n問い合わせは電話735-2907、FAX735-2950
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1410/info06.html#須磨海づり公園#2
+DTSTART:20141019T060000
+DTEND:20141019T100000
+END:VEVENT
+END:VCALENDAR

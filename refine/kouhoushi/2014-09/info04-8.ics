@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:アジア交流プラザの講座（1）ベトナム社会開発の問題点
+DESCRIPTION:（1）ベトナム社会開発の問題点\n日時は9月20日（土曜）13時30分～\n料金は840円\n申し込みは電話で。先着順\n（2）アイヌの伝統工芸サラニプ（編み籠）\n日時は9月27日（土曜）13時30分～\n料金は1\,340円\n申し込みは電話で。先着順\n問い合わせは電話646-7100、FAX646-7200
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1409/info04.html#アジア交流プラザの講座#1
+DTSTART:20140920T133000
+END:VEVENT
+END:VCALENDAR

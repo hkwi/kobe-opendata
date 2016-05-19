@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:親子の下水道化学教室
+DESCRIPTION:対象は小学4年生以上と保護者\n日時は7月29日（月曜）・30日（火曜）13時～\n場所は西水環境センター\n料金は無料\n申し込みは往復はがき（〒655-0892平磯1-1-65）で。7月19日（金曜）消印有効。抽選\n問い合わせは電話752-1700、FAX755-2460
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1307/info04.html#親子の下水道化学教室
+DTSTART:20130729T130000
+RRULE:FREQ=DAILY;BYMONTHDAY=30;COUNT=1
+LOCATION:西水環境センター
+END:VEVENT
+END:VCALENDAR

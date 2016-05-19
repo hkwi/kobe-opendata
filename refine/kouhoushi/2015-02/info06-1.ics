@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:中央図書館（2）起業講演会
+DESCRIPTION:（1）資料展示「起業を目指すあなたへ」\n日時は2月3日（火曜）～3月8日（日曜）\n料金は無料\n（2）起業講演会\n日時は2月28日（土曜）13時30分～\n料金は無料\n申し込みは電話か直接。2月10日（火曜）～先着順\n問い合わせは電話371-3351、FAX371-5046
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1502/info06.html#中央図書館#2
+DTSTART:20150228T133000
+END:VEVENT
+END:VCALENDAR

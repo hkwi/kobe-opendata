@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ヴィッセル神戸親子観戦デー
+DESCRIPTION:対浦和レッズのワンコイン観戦会\n対象は小・中学生と保護者\n日時は8月11日（土曜）19時～\n場所はホームズスタジアム神戸\n料金は1人500円\n申し込みは往復はがきにイベント名、参加者全員（4人以内。大人は2人以内）の氏名・郵便番号・住所・年齢・電話番号を記入し、クリムゾンFC（〒652-0855御崎町1-2-1）へ。7月27日（金曜）必着。抽選\n問い合わせはスポーツ体育課（電話322-5803、FAX322-6149）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1207/info04.html#ヴィッセル神戸親子観戦デー
+DTSTART:20120811T190000
+LOCATION:ホームズスタジアム神戸
+END:VEVENT
+END:VCALENDAR

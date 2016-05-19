@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:室内楽「神戸からのしらべ」
+DESCRIPTION:ペアご招待！はがきで申し込みを\n日時は11月11日（日曜）15時～\n場所はうはらホール\n申し込みは10月24日（水曜）必着\n問い合わせは市民文化振興財団（電話351-3597、FAX351-3121）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1210/info04.html#室内楽「神戸からのしらべ」
+DTSTART:20121111T150000
+LOCATION:うはらホール
+END:VEVENT
+END:VCALENDAR

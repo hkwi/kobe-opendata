@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:消防救助技術近畿地区指導会
+DESCRIPTION:日時は7月26日（金曜）10時～16時10分\n場所は県広域防災センター（三木市志染町御坂1）\n料金は無料\n問い合わせは消防局庶務課（電話322-5738、FAX392-2119）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1307/info06.html#消防救助技術近畿地区指導会
+DTSTART:20130726T100000
+DTEND:20130726T161000
+LOCATION:県広域防災センター（三木市志染町御坂1）
+END:VEVENT
+END:VCALENDAR

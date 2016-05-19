@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:文化ホール音楽祭
+DESCRIPTION:日時は9月23日（月曜・祝日）13時～17時\n料金は100円\n問い合わせは市民文化振興財団（電話361-9200、FAX351-3121）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1309/info06.html#文化ホール音楽祭
+DTSTART:20130923T130000
+DTEND:20130923T170000
+END:VEVENT
+END:VCALENDAR

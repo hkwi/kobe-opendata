@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:INAC神戸サッカー体験会
+DESCRIPTION:対象は14年4月2日～21年4月1日生まれの子\n日時は6月8日（日曜）11時～\n場所はノエビアスタジアム\n料金は無料\n申し込みは往復はがきでアイナックコーポレーション（〒658-0032向洋町中7-1-1）へ。5月26日（月曜）必着。抽選\n問い合わせはスポーツ体育課（電話322-5803、FAX322-6149）\n\n  \n    \n\n\n
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1405/info05.html#INAC神戸サッカー体験会
+DTSTART:20140608T110000
+LOCATION:ノエビアスタジアム
+END:VEVENT
+END:VCALENDAR

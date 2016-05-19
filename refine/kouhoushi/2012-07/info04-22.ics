@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:小学生夏休み短期教室
+DESCRIPTION:7種目実施。詳細はお問い合わせください\n日時は7月20日（金曜）～8月24日（金曜）\n場所は王子スポーツセンター\n料金は有料\n申し込みは7月10日（火曜）消印有効\n問い合わせは電話802-0223、FAX861-5628
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1207/info04.html#小学生夏休み短期教室
+DTSTART:20120720
+DTEND:20120825
+LOCATION:王子スポーツセンター
+END:VEVENT
+END:VCALENDAR

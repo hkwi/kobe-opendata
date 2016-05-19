@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:黒田官兵衛と妻光姫
+DESCRIPTION:日時は12月3日（火曜）10時～\n場所は清風公民館\n料金は無料\n問い合わせは電話371-3319、FAX371-3327
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1311/info04.html#黒田官兵衛と妻光姫
+DTSTART:20131203T100000
+LOCATION:清風公民館
+END:VEVENT
+END:VCALENDAR

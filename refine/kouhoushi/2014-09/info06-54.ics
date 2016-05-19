@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:北須磨文化センターの秋期講座
+DESCRIPTION:日時は10月1日（水曜）10時～\n料金は有料\n申し込みははがき（〒654-0154中落合3-1-2）か直接。9月10日（水曜）必着。抽選\n問い合わせは電話791-0840、FAX792-0700
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1409/info06.html#北須磨文化センターの秋期講座
+DTSTART:20141001T100000
+END:VEVENT
+END:VCALENDAR

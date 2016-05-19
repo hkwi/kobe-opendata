@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:須磨海浜水族園（1）「かわいい」春のいきものたち
+DESCRIPTION:（1）「かわいい」春のいきものたち\n春を告げる生物やかわいい新入生の展示\n日時は3月2日（土曜）～4月7日（日曜）\n料金は無料（入園料が必要）\n（2）企画展「今年も家族が増えまし展！」\nペンギンの子育て事情をお伝えします！\n日時は3月2日（土曜）～5月6日（月曜・休日）\n料金は無料（入園料が必要）\n（3）スマスイ・ボランティアフェスタ\n工作やステージイベントを楽しもう\n日時は3月3日（日曜）10時～16時\n料金は無料（入園料が必要）\n問い合わせは電話731-7301、FAX733-6333
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1302/info04.html#須磨海浜水族園#1
+DTSTART:20130302
+DTEND:20130408
+END:VEVENT
+END:VCALENDAR

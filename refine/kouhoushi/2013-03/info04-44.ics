@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ハーブショー
+DESCRIPTION:暮らしに役立つハーブのイベントを開催\n日時は3月20日（水曜・祝日）～5月6日（月曜・休日）\n場所は神戸布引ハーブ園\n料金は一部有料（入園料が必要）\n問い合わせは電話271-1160、FAX271-1180
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1303/info04.html#ハーブショー
+DTSTART:20130320
+DTEND:20130507
+LOCATION:神戸布引ハーブ園
+END:VEVENT
+END:VCALENDAR

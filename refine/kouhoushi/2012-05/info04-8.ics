@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:婦人会館あじさい講座（1）市民救命士・AEDほか
+DESCRIPTION:（1）市民救命士・AEDほか\n高齢者の自立支援等学習機会を提供\n日時は5月9日（水曜）～6月8日（金曜）\n料金は1講座500円\n申し込みは先着順\n（2）健康ポックリ講座\n神戸百年記念病院の先生による健康講座\n日時は5月17・31日（木曜）13時30分～\n料金は無料\n問い合わせは電話351-0861、FAX351-0862
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1205/info04.html#婦人会館あじさい講座#1
+DTSTART:20120509
+DTEND:20120609
+END:VEVENT
+END:VCALENDAR

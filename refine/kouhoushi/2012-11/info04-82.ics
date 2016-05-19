@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:神戸ルミナリエハートフルデー
+DESCRIPTION:対象は障害者・介助の必要な高齢者・介助者\n日時は12月4日（火曜）18時30分～\n場所は東遊園地\n料金は無料\n問い合わせは国際観光コンベンション協会（電話303-0038、FAX302-2946）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1211/info04.html#神戸ルミナリエハートフルデー
+DTSTART:20121204T183000
+LOCATION:東遊園地
+END:VEVENT
+END:VCALENDAR

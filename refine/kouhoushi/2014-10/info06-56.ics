@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:六甲山系の紅葉観察会
+DESCRIPTION:対象は18歳以上\n日時は11月14日（金曜）10時30分～\n場所は森林植物園\n料金は無料（別途入園料等が必要）\n申し込みははがきかFAXで地球環境課（〒650-8570住所不要）へ。11月5日（水曜）必着。抽選\n問い合わせは電話322-6678、FAX322-6068
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1410/info06.html#六甲山系の紅葉観察会
+DTSTART:20141114T103000
+LOCATION:森林植物園
+END:VEVENT
+END:VCALENDAR

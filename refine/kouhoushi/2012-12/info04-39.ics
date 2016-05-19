@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:クリスマス マリンバコンサート
+DESCRIPTION:マリンバのリズムでクリスマスのひと時を\n日時は12月16日（日曜）13時30分～\n場所は生田文化会館\n料金は1\,000円\n申し込みは12月8日（土曜）～先着順\n問い合わせは電話382-0861、FAX361-4115
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1212/info04.html#クリスマス マリンバコンサート
+DTSTART:20121216T133000
+LOCATION:生田文化会館
+END:VEVENT
+END:VCALENDAR

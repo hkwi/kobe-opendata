@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:花と緑のまち推進センター（2）野の花の型絵染め展
+DESCRIPTION:（1）種子から育てる早春の山野草展\nユキワリソウ等の早春の山野草の展示\n日時は3月5日（火曜）～10日（日曜）\n料金は無料\n（2）野の花の型絵染め展\n野山の花を使って染めた壁掛等の作品展\n日時は3月12日（火曜）～17日（日曜）\n料金は無料\n（3）洋ラン等を使った寄せ植え\n洋ランの栽培講習と寄せ植え実習\n日時は3月23日（土曜）13時30分～\n料金は2\,000円\n申し込みは先着順\n問い合わせは電話351-6756、FAX341-8710
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1303/info04.html#花と緑のまち推進センター#2
+DTSTART:20130312
+DTEND:20130318
+END:VEVENT
+END:VCALENDAR

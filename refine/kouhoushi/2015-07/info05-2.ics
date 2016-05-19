@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:スポーツイベント観戦情報（有料）（2）ヴィッセル神戸VSガンバ大阪
+DESCRIPTION:（1）INAC神戸レオネッサVS大阪高槻\n日時は7月17日（金曜）19時～\n場所はノエビアスタジアム神戸\n（2）ヴィッセル神戸VSガンバ大阪\n日時は7月25日（土曜）19時～\n場所はノエビアスタジアム神戸\n（3）オリックスVS北海道日本ハム\n日時は7月28日（火曜）・29日（水曜）18時～\n場所はほっともっとフィールド神戸\n問い合わせは市スポーツ教育協会（電話261-3620、FAX261-8020）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1507/info05.html#スポーツイベント観戦情報（有料）#2
+DTSTART:20150725T190000
+LOCATION:ノエビアスタジアム神戸
+END:VEVENT
+END:VCALENDAR

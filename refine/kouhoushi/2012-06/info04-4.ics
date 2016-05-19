@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:たかわ農業体験ウオーキング
+DESCRIPTION:農業体験ポイントを巡るウオーキング\n日時は6月23日（土曜）10時～\n場所は自然環境活用センター\n料金は無料\n申し込みは6月11日（月曜）まで受付\n問い合わせは市総合コールセンター（電話333-3330、FAX333-3314）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1206/info04.html#たかわ農業体験ウオーキング
+DTSTART:20120623T100000
+LOCATION:自然環境活用センター
+END:VEVENT
+END:VCALENDAR

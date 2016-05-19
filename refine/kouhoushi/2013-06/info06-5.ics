@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:有馬温泉金の湯・銀の湯（3）シルバーデー（割引あり）
+DESCRIPTION:（1）レディースデー（割引あり）\n対象は中学生以上の女性\n日時は6月12日（水曜）\n料金は有料\n（2）金の湯「ミント湯」\n日時は6月22日（土曜）・23日（日曜）\n料金は有料\n（3）シルバーデー（割引あり）\n対象は65歳以上（要証明）\n日時は6月26日（水曜）\n料金は有料\n（4）銀の湯「漢方サウナ」\n日時は6月29日（土曜）・30日（日曜）\n料金は有料\n問い合わせは国際観光コンベンション協会（電話904-0680、FAX907-3370）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1306/info06.html#有馬温泉金の湯・銀の湯#3
+DTSTART:20130626
+END:VEVENT
+END:VCALENDAR

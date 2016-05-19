@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:国際計量生物学会議市民公開講座
+DESCRIPTION:地球温暖化防止と食料の安定供給に向けて\n対象は中学生以上\n日時は8月26日（日曜）14時～\n場所は国際会議場\n料金は無料\n申し込みは当日先着順\n問い合わせは国際観光コンベンション協会（電話302-5200、FAX302-6485）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1208/info04.html#国際計量生物学会議市民公開講座
+DTSTART:20120826T140000
+LOCATION:国際会議場
+END:VEVENT
+END:VCALENDAR

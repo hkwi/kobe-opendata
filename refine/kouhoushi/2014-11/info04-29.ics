@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:子どもの発達障害を学ぶ
+DESCRIPTION:日時は11月25日（火曜）14時～\n場所は市民福祉交流センター\n料金は1\,000円\n申し込みははがきか電話かFAXか直接市民福祉大学（〒651-0086磯上通3-1-32）へ。11月11日（火曜）必着。抽選\n問い合わせは電話271-5300、FAX271-5365
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1411/info04.html#子どもの発達障害を学ぶ
+DTSTART:20141125T140000
+LOCATION:市民福祉交流センター
+END:VEVENT
+END:VCALENDAR

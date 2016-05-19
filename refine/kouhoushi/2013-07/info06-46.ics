@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:健康リサイクル布ぞうり作り
+DESCRIPTION:日時は8月3日（土曜）10時～15時\n場所はリサイクル工房ほくしん\n料金は無料\n申し込みは電話かFAXで。先着順\n問い合わせは電話・FAX987-3144
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1307/info06.html#健康リサイクル布ぞうり作り
+DTSTART:20130803T100000
+DTEND:20130803T150000
+LOCATION:リサイクル工房ほくしん
+END:VEVENT
+END:VCALENDAR

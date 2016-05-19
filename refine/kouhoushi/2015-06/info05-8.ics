@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:王子スポーツセンター（2）ジュニアテニス教室
+DESCRIPTION:（1）ストレッチ・ヨガ・ピラティス教室\n日時は7月1日（水曜）～9月16日（水曜）\n料金は有料\n申し込みははがき（〒657-0805青谷町1-1-1）かFAXか直接。6月10日（水曜）消印有効。抽選\n（2）ジュニアテニス教室\n対象は小学生\n日時は7月4日（土曜）～9月12日（土曜）\n料金は有料\n申し込みははがき（〒657-0805青谷町1-1-1）かFAXか直接。6月10日（水曜）消印有効。抽選\n問い合わせは電話802-0223、FAX861-5628
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1506/info05.html#王子スポーツセンター#2
+DTSTART:20150704
+DTEND:20150913
+END:VEVENT
+END:VCALENDAR

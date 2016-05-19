@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:神戸ワイナリー（農業公園）（1）アイン・オープンデパートメント
+DESCRIPTION:（1）アイン・オープンデパートメント\n日時は6月1日（土曜）・2日（日曜）10時～16時\n（2）陶芸教室\n日時は6月～、月・木・土・日曜10時～・14時～。12回\n料金は18\,000円\n申し込みは往復はがき（希望曜日・時間も記入。〒651-2204押部谷町高和1557-1）で。5月10日（金曜）消印有効。抽選\n問い合わせは電話991-3911、FAX991-3925
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1305/info06.html#神戸ワイナリー（農業公園）#1
+DTSTART:20130601T100000
+DTEND:20130601T160000
+RRULE:FREQ=DAILY;BYMONTHDAY=2;COUNT=1
+END:VEVENT
+END:VCALENDAR

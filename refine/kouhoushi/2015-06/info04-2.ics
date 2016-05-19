@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:シルバーカレッジ（3）再生エネルギーシンポジウム
+DESCRIPTION:（1）シルバーカレッジ一般聴講\n日時は6月9日（火曜）10時30分～\n料金は無料\n申し込みは電話かFAXで。先着順\n（2）ボランティアグループ活動報告会\n日時は6月10日（水曜）10時30分～15時30分\n料金は無料\n（3）再生エネルギーシンポジウム\n日時は7月16日（木曜）13時～\n場所は県民会館（中央区下山手通4）\n料金は無料\n申し込みは電話かFAXで。先着順\n問い合わせは電話743-8100、FAX743-8103
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1506/info04.html#シルバーカレッジ#3
+DTSTART:20150716T130000
+LOCATION:県民会館（中央区下山手通4）
+END:VEVENT
+END:VCALENDAR

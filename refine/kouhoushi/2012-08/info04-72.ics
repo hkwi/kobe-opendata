@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:街開き20周年 安藤忠雄氏講演会
+DESCRIPTION:世界で活躍する「安藤忠雄氏講演会」を開催\n日時は9月29日（土曜）14時～\n場所はホテルクラウンパレス神戸（中央区東川崎町1）\n料金は1\,000円\n申し込みははがきに住所・氏名・年齢・性別・電話番号・FAX番号・電子メールアドレスを記入し、神戸ハーバーランド株式会社（〒650-0044東川崎町1-3-3）へ。8月20日（月曜）必着。抽選\n問い合わせは電話360-3335、FAX360-3339
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1208/info04.html#街開き20周年 安藤忠雄氏講演会
+DTSTART:20120929T140000
+LOCATION:ホテルクラウンパレス神戸（中央区東川崎町1）
+END:VEVENT
+END:VCALENDAR

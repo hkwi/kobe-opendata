@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:債務に関する無料相談会
+DESCRIPTION:日時は12月9日（日曜）13時～15時30分\n場所は総合福祉センター\n料金は無料\n申し込みは11月9日（金曜）～先着順\n問い合わせは消費生活課（電話322-5184、FAX322-6036）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1211/info03.html#債務に関する無料相談会
+DTSTART:20121209T130000
+DTEND:20121209T153000
+LOCATION:総合福祉センター
+END:VEVENT
+END:VCALENDAR

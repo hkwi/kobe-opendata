@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ノルディックウオーキング
+DESCRIPTION:対象は身長140センチメートル以上の人\n日時は6月29日（日曜）10時～14時\n場所は総合運動公園\n料金は有料\n申し込みは電話かFAXか直接。6月8日（日曜）～先着順\n問い合わせは電話796-1126、FAX796-1192
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1406/info05.html#ノルディックウオーキング
+DTSTART:20140629T100000
+DTEND:20140629T140000
+LOCATION:総合運動公園
+END:VEVENT
+END:VCALENDAR

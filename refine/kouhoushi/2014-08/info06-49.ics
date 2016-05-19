@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:さまざまな種類のダンスを楽しもう
+DESCRIPTION:対象は中学生以上\n日時は9月23日（火曜・祝日）13時50分～\n場所はグリーンアリーナ\n料金は1\,000円\n申し込みは電話か直接。8月23日（土曜）～先着順\n問い合わせは電話796-1126、FAX796-1192
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1408/info06.html#さまざまな種類のダンスを楽しもう
+DTSTART:20140923T135000
+LOCATION:グリーンアリーナ
+END:VEVENT
+END:VCALENDAR

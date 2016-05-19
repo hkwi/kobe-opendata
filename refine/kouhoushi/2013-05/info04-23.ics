@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:大都市制度に関するシンポジウム
+DESCRIPTION:日時は5月28日（火曜）14時30分～\n場所はポートピアホテル（中央区港島中町6）\n料金は無料\n申し込みははがきかFAXで同事務局（〒530-0005中之島3-3-3-18F、FAX06-4803-2911）へ。5月17日（金曜）消印有効。抽選\n問い合わせは企画課（電話322-5022、FAX322-6008）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1305/info04.html#大都市制度に関するシンポジウム
+DTSTART:20130528T143000
+LOCATION:ポートピアホテル（中央区港島中町6）
+END:VEVENT
+END:VCALENDAR

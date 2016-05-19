@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:オーシャン・ドリーム入港
+DESCRIPTION:日時は11月14日（金曜）20時入港・18日（火曜）9時出港、11月22日（土曜）14時入港・19時出港\n場所はポートターミナル\n問い合わせは市総合コールセンター（電話333-3330、FAX333-3314）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1411/info06.html#オーシャン・ドリーム入港
+DTSTART:20141114T200000
+DTEND:20141118T090000
+LOCATION:ポートターミナル
+END:VEVENT
+END:VCALENDAR

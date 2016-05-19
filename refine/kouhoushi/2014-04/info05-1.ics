@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:スポーツイベント観戦情報（有料）（1）オリックスVS日本ハム
+DESCRIPTION:（1）オリックスVS日本ハム\n日時は4月17日（木曜）18時～\n場所はほっともっとフィールド\n（2）INAC神戸VS千葉レディース\n日時は4月27日（日曜）13時～\n場所はノエビアスタジアム\n（3）ヴィッセル神戸VSセレッソ大阪\n日時は4月26日（土曜）15時～\n場所はノエビアスタジアム\n問い合わせは市スポーツ教育協会（電話261-3620、FAX261-8020）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1404/info05.html#スポーツイベント観戦情報（有料）#1
+DTSTART:20140417T180000
+LOCATION:ほっともっとフィールド
+END:VEVENT
+END:VCALENDAR

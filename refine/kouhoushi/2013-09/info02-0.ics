@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:特別警報が始まります
+DESCRIPTION:警報の発表基準をはるかに超える異常な現象が予想される場合に発表され、神戸市では防災行政無線等で皆様にお知らせします\n日時は8月30日（金曜）0時～\n問い合わせは危機管理室（電話322-6456、FAX322-6031）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1309/info02.html#特別警報が始まります
+DTSTART:20130830T000000
+END:VEVENT
+END:VCALENDAR

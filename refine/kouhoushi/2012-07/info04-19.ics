@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:空港島で宝さがし
+DESCRIPTION:宝の地図の謎を解こう。抽選で賞品\n日時は7月15日（日曜）～9月2日（日曜）\n場所は空港ターミナル等\n料金は無料\n問い合わせは神戸空港総合案内所（電話304-7777、FAX304-0678）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1207/info04.html#空港島で宝さがし
+DTSTART:20120715
+DTEND:20120903
+LOCATION:空港ターミナル等
+END:VEVENT
+END:VCALENDAR

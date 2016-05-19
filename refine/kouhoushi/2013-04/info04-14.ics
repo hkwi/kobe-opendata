@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ノエビアスタジアム神戸 見学会
+DESCRIPTION:スタジアムのバックステージツアー\n日時は4月14日（日曜）・27日（土曜）11時～14時30分\n料金は無料\n問い合わせは電話652-5656、FAX652-5651
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1304/info04.html#ノエビアスタジアム神戸 見学会
+DTSTART:20130414T110000
+DTEND:20130414T143000
+RRULE:FREQ=DAILY;BYMONTHDAY=27;COUNT=1
+END:VEVENT
+END:VCALENDAR

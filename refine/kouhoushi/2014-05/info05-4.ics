@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ヴィッセル神戸親子サッカー教室
+DESCRIPTION:対象は14年4月2日～21年4月1日生まれの子と保護者（2人1組）\n日時は6月1日（日曜）12時～\n場所はノエビアスタジアム\n料金は無料\n申し込みは電話かFAXで。5月14日（水曜）必着。抽選\n問い合わせは市総合コールセンター（電話333-3330、FAX333-3314）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1405/info05.html#ヴィッセル神戸親子サッカー教室
+DTSTART:20140601T120000
+LOCATION:ノエビアスタジアム
+END:VEVENT
+END:VCALENDAR

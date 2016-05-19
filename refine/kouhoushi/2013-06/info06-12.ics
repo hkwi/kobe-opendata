@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:さかなの学校（2）塩づくりとバターづくり
+DESCRIPTION:（1）七夕飾りづくり\n日時は6月15日（土曜）～7月7日（日曜）\n料金は600円\n（2）塩づくりとバターづくり\n対象は小・中学生と保護者\n日時は7月14日（日曜）10時30分～\n料金は1人800円\n申し込みは往復はがき（〒655-0036海岸通12-4）かFAXで。7月1日（月曜）消印有効。抽選\n問い合わせは電話706-5550、FAX706-5636
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1306/info06.html#さかなの学校#2
+DTSTART:20130714T103000
+END:VEVENT
+END:VCALENDAR

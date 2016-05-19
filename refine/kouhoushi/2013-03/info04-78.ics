@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:神戸港カッターレース
+DESCRIPTION:男子・女子・シニアレース募集（18歳以上）\n日時は5月12日（日曜）9時～16時\n場所はメリケンパーク\n料金は1チーム10\,000円\n申し込みははがきにレース名、チーム名・紹介、代表者の住所・氏名・年齢・電話を記入し、神戸港振興協会（〒650-0042波止場町2-2）へ。3月13日（水曜）必着\n問い合わせは電話327-8982、FAX332-4739
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1303/info04.html#神戸港カッターレース
+DTSTART:20130512T090000
+DTEND:20130512T160000
+LOCATION:メリケンパーク
+END:VEVENT
+END:VCALENDAR

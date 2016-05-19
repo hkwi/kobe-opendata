@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:フルーツ・フラワーパーク（1）ミニ観葉植物を使ったコケ玉作り
+DESCRIPTION:（1）ミニ観葉植物を使ったコケ玉作り\n日時は6月30日（日曜）11時～\n料金は1\,000円（別途入園料等が必要）\n申し込みは電話かFAXで。6月8日（土曜）～先着順\n（2）うちょう蘭と山野草展\n日時は6月21日（金曜）～24日（月曜）\n料金は無料（別途入園料等が必要）\n問い合わせは電話954-1000、FAX954-1023
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1306/info06.html#フルーツ・フラワーパーク#1
+DTSTART:20130630T110000
+END:VEVENT
+END:VCALENDAR

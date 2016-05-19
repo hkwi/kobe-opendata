@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:動物園の生きもの探検隊！
+DESCRIPTION:親子で王子動物園とその裏側を探検！\n対象は小学生と保護者\n日時は10月13日（土曜）10時～15時\n料金は無料\n申し込みははがきかFAXで住所・氏名・年齢・電話番号を記入し、地球環境課（〒650-8570住所不要）へ。10月9日（火曜）必着。抽選\n問い合わせは電話322-6678、FAX322-6068
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1210/info04.html#動物園の生きもの探検隊！
+DTSTART:20121013T100000
+DTEND:20121013T150000
+END:VEVENT
+END:VCALENDAR

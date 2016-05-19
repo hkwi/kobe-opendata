@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:市民福祉大学（2）「夫源病」の著者 石蔵文信氏講演会
+DESCRIPTION:（1）認めて伸ばす！子育てコーチング\n日時は5月12・19日（月曜）10時～\n場所は市民福祉交流センター\n料金は1\,000円\n申し込みは電話かFAXか直接。4月23日（水曜）必着。抽選\n（2）「夫源病」の著者 石蔵文信氏講演会\n日時は5月20日（火曜）13時30分～\n場所は市民福祉交流センター\n料金は1\,000円\n申し込みははがき（〒651-0086磯上通3-1-32）か電話かFAXか直接。5月7日（水曜）必着。抽選\n（3）家庭介護セミナー\n日時は5月23日～、金曜13時30分～。4回\n場所は市民福祉交流センター\n料金は4\,000円\n申し込みははがき（〒651-0086磯上通3-1-32）か電話かFAXか直接。5月9日（金曜）必着。抽選\n問い合わせは電話271-5300、FAX271-5365
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1404/info04.html#市民福祉大学#2
+DTSTART:20140520T133000
+LOCATION:市民福祉交流センター
+END:VEVENT
+END:VCALENDAR

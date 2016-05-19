@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:スポーツ教育協会の催し（1）個人選手権投輪大会
+DESCRIPTION:（1）個人選手権投輪大会\n日時は9月7日（日曜）9時～16時\n場所は王子スポーツセンター\n料金は1\,000円\n申し込みは電話で神戸投輪連盟事務局（電話079-495-0566）へ。8月31日（日曜）まで受付\n（2）六甲シティマラソン大会\n対象は小学生以上\n日時は11月9日（日曜）9時15分～（荒天中止）\n場所は六甲アイランド\n料金は有料\n申し込みは8月1日（金曜）～配布する専用振替用紙で。先着順\n問い合わせは電話261-3620、FAX261-8020
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1408/info05.html#スポーツ教育協会の催し#1
+DTSTART:20140907T090000
+DTEND:20140907T160000
+LOCATION:王子スポーツセンター
+END:VEVENT
+END:VCALENDAR

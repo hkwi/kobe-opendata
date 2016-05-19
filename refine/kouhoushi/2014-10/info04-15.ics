@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:高齢社会フォーラム in 神戸
+DESCRIPTION:日時は10月30日（木曜）10時30分～16時30分\n場所は国際会議場\n料金は無料\n申し込みはFAXで同事務局（FAX03-5510-4803）へ。先着順\n問い合わせは高齢福祉課（電話322-5219、FAX322-6046）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1410/info04.html#高齢社会フォーラム in 神戸
+DTSTART:20141030T103000
+DTEND:20141030T163000
+LOCATION:国際会議場
+END:VEVENT
+END:VCALENDAR

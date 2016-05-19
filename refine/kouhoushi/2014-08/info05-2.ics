@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ミズノサッカークリニック
+DESCRIPTION:対象は小学3・4年生\n日時は8月31日（日曜）10時～\n場所はユニバー記念競技場\n料金は無料\n申し込みは往復はがき（〒654-0163緑台）で。8月18日（月曜）必着。抽選\n問い合わせは電話793-6150、FAX793-6159
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1408/info05.html#ミズノサッカークリニック
+DTSTART:20140831T100000
+LOCATION:ユニバー記念競技場
+END:VEVENT
+END:VCALENDAR

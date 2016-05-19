@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:健康ライフプラザの催し（2）料理の基本のき～中華篇
+DESCRIPTION:（1）お酢を使った健康料理\nお酢を上手に使って今年の夏は疲れ知らず\n日時は6月16日（土曜）10時～13時30分\n料金は2\,000円\n申し込みは先着順\n（2）料理の基本のき～中華篇\nお料理初心者からベテラン主婦まで大歓迎\n日時は6月23日（土曜）10時～13時30分\n料金は2\,500円\n申し込みは先着順\n（3）七夕のごちそう\n大人も子どもも喜ぶ料理を作りましょう\n日時は6月29日（金曜）10時～13時30分\n料金は2\,500円\n申し込みは先着順\n問い合わせは電話652-5202、FAX652-5211
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1205/info04.html#健康ライフプラザの催し#2
+DTSTART:20120623T100000
+DTEND:20120623T133000
+END:VEVENT
+END:VCALENDAR

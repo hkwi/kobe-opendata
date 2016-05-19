@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:青少年科学館（2）アロマプラネタリウム
+DESCRIPTION:（1）プラネタリウム新一般番組\n日時は9月7日（土曜）～26年4月6日（日曜）\n料金は大人400円、小・中学・高校生200円\n（2）アロマプラネタリウム\n対象は中学生以上（中学生は保護者同伴）\n日時は9月27日（金曜）19時～\n料金は500円\n申し込みは電話で。9月8日（日曜）～先着順\n問い合わせは電話302-5177、FAX302-4816
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1309/info06.html#青少年科学館#2
+DTSTART:20130927T190000
+END:VEVENT
+END:VCALENDAR

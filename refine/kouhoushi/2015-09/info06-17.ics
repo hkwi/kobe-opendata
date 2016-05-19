@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:オータムガーデンフェスト
+DESCRIPTION:日時は9月19日（土曜）～11月29日（日曜）\n場所は布引ハーブ園\n料金は一部有料（別途入園料等が必要）\n問い合わせは電話271-1160、FAX271-1180
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1509/info06.html#オータムガーデンフェスト
+DTSTART:20150919
+DTEND:20151130
+LOCATION:布引ハーブ園
+END:VEVENT
+END:VCALENDAR

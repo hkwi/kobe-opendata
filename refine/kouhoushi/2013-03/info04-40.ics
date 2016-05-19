@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:六甲山牧場（1）椎茸を作ろう！
+DESCRIPTION:（1）椎茸を作ろう！\n原木の駒打ち体験（無料）とほだ木の販売\n日時は3月17日（日曜）11時～15時30分\n（2）動物体重あてクイズ！\n対象の動物は当日発表。正解者に景品あり\n対象は小学生以上\n日時は4月7日（日曜）12時～\n料金は無料（入場料が必要）\n問い合わせは電話891-0280、FAX891-0592
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1303/info04.html#六甲山牧場#1
+DTSTART:20130317T110000
+DTEND:20130317T153000
+END:VEVENT
+END:VCALENDAR

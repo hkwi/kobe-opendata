@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:スポーツイベント観戦情報（有料）
+DESCRIPTION:他にも多数あり。詳細はホームページをご覧ください\n（1）デウソン神戸 対 ペスカドーラ町田\n日時は1月12日（土曜）14時～\n場所はグリーンアリーナ神戸\n（2）東レアローズ 対 岡山シーガルズ\n日時は1月20日（日曜）13時5分～\n場所はグリーンアリーナ神戸\n（3）久光製薬スプリングス 対 NECレッドロケッツ\n日時は1月20日（日曜）15時5分～\n場所はグリーンアリーナ神戸\n問い合わせは市スポーツ教育協会（電話261-3620、FAX261-8020）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1301/info04.html#スポーツイベント観戦情報（有料）
+DTSTART:20130112T140000
+X-HINT-REQ-LOCATION:['グリーンアリーナ神戸'\, 'グリーンアリーナ神戸'\, 'グリーンアリーナ神戸']
+END:VEVENT
+END:VCALENDAR

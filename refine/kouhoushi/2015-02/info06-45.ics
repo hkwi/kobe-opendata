@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:乾のりづくりと海苔の養殖場見学
+DESCRIPTION:対象は小学生以上と保護者\n日時は3月7日（土曜）9時30分～\n場所はさかなの学校\n料金は1\,100円（2人1組）\n申し込みは往復はがき（〒655-0036海岸通12-4）かFAXで。2月22日（日曜）消印有効。抽選\n問い合わせは電話706-5550、FAX706-5636
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1502/info06.html#乾のりづくりと海苔の養殖場見学
+DTSTART:20150307T093000
+LOCATION:さかなの学校
+END:VEVENT
+END:VCALENDAR

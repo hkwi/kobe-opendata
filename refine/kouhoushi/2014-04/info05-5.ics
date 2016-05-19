@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:INAC VSジェフL市民観戦会
+DESCRIPTION:日時は4月27日（日曜）13時～\n場所はノエビアスタジアム\n料金は無料\n申し込みは往復はがきでアイナックコーポレーション（〒658-0032向洋町中7-1-1）へ。4月14日（月曜）必着。抽選\n問い合わせはスポーツ体育課（電話322-5803、FAX322-6149）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1404/info05.html#INAC VSジェフL市民観戦会
+DTSTART:20140427T130000
+LOCATION:ノエビアスタジアム
+END:VEVENT
+END:VCALENDAR

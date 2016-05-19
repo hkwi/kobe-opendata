@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:こどものアレルギー市民公開講座
+DESCRIPTION:日時は4月5日（日曜）13時～\n場所は国際会議場\n料金は無料\n申し込みは電話かFAXで同事務局（電話0120-590-190、FAX0120-261-900）へ。先着順\n問い合わせは健康づくり支援課（電話322-5248、FAX322-6053）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1503/info04.html#こどものアレルギー市民公開講座
+DTSTART:20150405T130000
+LOCATION:国際会議場
+END:VEVENT
+END:VCALENDAR

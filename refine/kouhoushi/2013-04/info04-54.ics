@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:野菜栽培基礎講座
+DESCRIPTION:野菜作りの基礎7回シリーズ\n日時は5月19日（日曜）11時～\n場所はフルーツ・フラワーパーク\n料金は6\,000円\n申し込みは4月26日（金曜）まで受付\n問い合わせは電話954-1000、FAX954-1023
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1304/info04.html#野菜栽培基礎講座
+DTSTART:20130519T110000
+LOCATION:フルーツ・フラワーパーク
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ユニティ 23の語学講座
+DESCRIPTION:日時は4月1日（水曜）～8月31日（月曜）\n料金は有料\n申し込みは電話で。2月23日（月曜）～先着順\n問い合わせは電話794-4970、FAX794-4910
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1502/info04.html#ユニティ 23の語学講座
+DTSTART:20150401
+DTEND:20150901
+END:VEVENT
+END:VCALENDAR

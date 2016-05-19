@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:サマーフェスティバル
+DESCRIPTION:強風体験やフラワー迷路等を開催！\n日時は7月21日（土曜）～8月26日（日曜）\n場所は神戸布引ハーブ園\n料金は無料（入園料が必要）\n問い合わせは電話271-1160、FAX271-1180
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1207/info04.html#サマーフェスティバル
+DTSTART:20120721
+DTEND:20120827
+LOCATION:神戸布引ハーブ園
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:森林植物園（2）薬樹観察「森の薬箱」
+DESCRIPTION:（1）親子で和だこ作り教室\nオリジナルの和だこを作ってみませんか\n日時は3月17日（日曜）10時～\n料金は500円\n申し込みは先着順\n（2）薬樹観察「森の薬箱」\n早春の園内で暮らしに役立つ植物を学ぼう\n日時は3月23日（土曜）10時30分～\n料金は無料\n申し込みは先着順\n（3）たこあげ大会\n手作り凧を持って集まろう。多数の賞あり\n日時は3月24日（日曜）10時30分～\n料金は無料\n問い合わせは電話591-0253、FAX594-2324
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1303/info04.html#森林植物園#2
+DTSTART:20130323T103000
+END:VEVENT
+END:VCALENDAR

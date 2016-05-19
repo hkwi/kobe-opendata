@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:水の科学博物館 水の遠足
+DESCRIPTION:布引ダム～水の科学博物館の約7キロメートル\n日時は10月21日（日曜）9時集合\n場所はJR新神戸駅\n料金は無料\n申し込みは10月9日（火曜）必着\n問い合わせは電話351-4488、FAX351-4343
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1210/info04.html#水の科学博物館 水の遠足
+DTSTART:20121021T090000
+LOCATION:JR新神戸駅
+END:VEVENT
+END:VCALENDAR

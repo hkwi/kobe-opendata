@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:生田文化会館の講座（2）パン教室（託児つき）
+DESCRIPTION:（1）四季の和・洋・中華風家庭料理教室\n日時は10月14・28日（火曜）10時～\n料金は1回1\,500円\n申し込みは電話かFAXで生活指導研究会（電話・FAX351-3443）へ。10月9日（木曜）～先着順\n（2）パン教室（託児つき）\n日時は10月27日（月曜）10時～\n料金は1\,800円\n申し込みは電話かFAXで生活指導研究会（電話・FAX351-3443）へ。10月10日（金曜）～先着順\n問い合わせはこども家庭支援課（電話322-5211、FAX322-6119）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1410/info04.html#生田文化会館の講座#2
+DTSTART:20141027T100000
+END:VEVENT
+END:VCALENDAR

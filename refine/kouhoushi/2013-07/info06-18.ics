@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:60歳からのデビュー・シャンソン
+DESCRIPTION:日時は7月16日（火曜）・17日（水曜）13時～\n場所は舞子ビラ\n料金は無料\n問い合わせは市民文化振興財団（電話351-3597、FAX351-3121）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1307/info06.html#60歳からのデビュー・シャンソン
+DTSTART:20130716T130000
+RRULE:FREQ=DAILY;BYMONTHDAY=17;COUNT=1
+LOCATION:舞子ビラ
+END:VEVENT
+END:VCALENDAR

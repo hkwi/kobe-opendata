@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:スポーツイベント観戦情報
+DESCRIPTION:兵庫ストークス 対 レノヴァ鹿児島\n日時は11月10日（土曜）・11日（日曜）13時～\n場所はニチイ学館（中央区港島南町7）\n料金は有料\n問い合わせは市スポーツ教育協会（電話261-3620、FAX261-8020）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1211/info04.html#スポーツイベント観戦情報
+DTSTART:20121110T130000
+RRULE:FREQ=DAILY;BYMONTHDAY=11;COUNT=1
+LOCATION:ニチイ学館（中央区港島南町7）
+END:VEVENT
+END:VCALENDAR

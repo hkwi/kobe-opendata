@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:KOBE環境大学
+DESCRIPTION:明石川水系のタコノアシ観察\n対象は18歳以上\n日時は10月27日（土曜）10時～\n場所は環境未来館周辺\n料金は無料\n申し込みは10月22日（月曜）必着\n問い合わせは地球環境課（電話322-6678、FAX322-6068）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1210/info04.html#KOBE環境大学
+DTSTART:20121027T100000
+LOCATION:環境未来館周辺
+END:VEVENT
+END:VCALENDAR

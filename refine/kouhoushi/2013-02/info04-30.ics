@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:アレルギー週間市民講座
+DESCRIPTION:演題「小児ぜん息」「アトピー性皮膚炎」\n日時は2月16日（土曜）14時～\n場所は県民会館（中央区下山手通4）\n料金は無料\n問い合わせは健康づくり支援課（電話322-6517、FAX322-6053）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1302/info04.html#アレルギー週間市民講座
+DTSTART:20130216T140000
+LOCATION:県民会館（中央区下山手通4）
+END:VEVENT
+END:VCALENDAR

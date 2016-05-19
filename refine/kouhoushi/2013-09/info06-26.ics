@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:生涯学習フェスティバル（詳細はホームページで）（3）市民合同作品展「こうべまるごとアート」
+DESCRIPTION:（1）教室・講座（60教室を開催）\n日時は9月14日（土曜）～10月26日（土曜）\n場所はコミスタこうべ\n料金は有料\n申し込みは電話で。9月8日（日曜）～先着順\n（2）講演会（人生曼陀羅・人のつながり方）他\n日時は9月17日（火曜）～。8回\n場所はコミスタこうべ\n料金は無料\n申し込みは電話で。9月8日（日曜）～先着順\n（3）市民合同作品展「こうべまるごとアート」\n日時は10月5日（土曜）～14日（月曜・祝日）\n場所はコミスタこうべ\n料金は無料\n（4）ステージイベント\n日時は10月5日（土曜）・6日（日曜）\n場所はコミスタこうべ\n料金は無料\n問い合わせは電話251-4731、FAX251-4733
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1309/info06.html#生涯学習フェスティバル（詳細はホームページで）#3
+DTSTART:20131005
+DTEND:20131015
+LOCATION:コミスタこうべ
+END:VEVENT
+END:VCALENDAR

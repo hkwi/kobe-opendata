@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:夏休み短期水泳・特訓教室
+DESCRIPTION:夏休みの思い出作り、技術向上を目指そう\n対象は2歳～中学生\n日時は7月24日（火曜）～\n料金は4\,500～6\,600円\n申し込みは7月8日（日曜）消印有効\n問い合わせはポートアイランドスポーツセンター（電話302-1031、FAX302-1032）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1207/info04.html#夏休み短期水泳・特訓教室
+DTSTART:20120724
+END:VEVENT
+END:VCALENDAR

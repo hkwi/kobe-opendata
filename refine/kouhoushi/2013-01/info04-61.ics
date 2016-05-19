@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:カンパニーデラシネラ「カルメン」
+DESCRIPTION:演出家・小野寺修二による新作公演を開催\n日時は1月24日（木曜）～27日（日曜）\n場所はアートビレッジセンター\n料金は有料\n問い合わせは電話512-5500、FAX512-5356
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1301/info04.html#カンパニーデラシネラ「カルメン」
+DTSTART:20130124
+DTEND:20130128
+LOCATION:アートビレッジセンター
+END:VEVENT
+END:VCALENDAR

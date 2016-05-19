@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:目の健康講座と目の相談
+DESCRIPTION:日時は10月6日（日曜）12時～15時30分\n場所は勤労会館\n料金は無料\n申し込みははがきで眼科医会（〒650-0021三宮町1-10-1曽谷眼科内）へ。9月27日（金曜）必着。抽選\n問い合わせは健康づくり支援課（電話322-6517、FAX322-6053）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1309/info04.html#目の健康講座と目の相談
+DTSTART:20131006T120000
+DTEND:20131006T153000
+LOCATION:勤労会館
+END:VEVENT
+END:VCALENDAR

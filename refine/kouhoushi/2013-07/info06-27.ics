@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:こうべエコちゃれゼミ（2）夏休みの自由研究・お助け隊!
+DESCRIPTION:（1）昆虫探そう!夏の西神中央公園で!\n対象は小学生と保護者\n日時は7月20日（土曜）10時～\n料金は無料\n申し込みははがきか電話かFAXでアースパルKOBE（〒650-0024海岸通3-1-1KCCビル4階エリンサーブ内、電話090-3973-8305、FAX752-0482）へ。7月12日（金曜）必着。抽選\n（2）夏休みの自由研究・お助け隊!\n対象は小学生と保護者\n日時は7月27日（土曜）・28日（日曜）10時～15時\n場所は環境未来館\n料金は無料\n問い合わせは地球環境課（電話322-6678、FAX322-6068）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1307/info06.html#こうべエコちゃれゼミ#2
+DTSTART:20130727T100000
+DTEND:20130727T150000
+RRULE:FREQ=DAILY;BYMONTHDAY=28;COUNT=1
+LOCATION:環境未来館
+END:VEVENT
+END:VCALENDAR

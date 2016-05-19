@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:レスキューロボットコンテスト本選
+DESCRIPTION:日時は8月10日（土曜）・11日（日曜）10時～17時\n場所はサンボーホール（中央区浜辺通5）\n料金は無料\n問い合わせは工業課（電話322-5333、FAX322-6074）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1308/info06.html#レスキューロボットコンテスト本選
+DTSTART:20130810T100000
+DTEND:20130810T170000
+RRULE:FREQ=DAILY;BYMONTHDAY=11;COUNT=1
+LOCATION:サンボーホール（中央区浜辺通5）
+END:VEVENT
+END:VCALENDAR

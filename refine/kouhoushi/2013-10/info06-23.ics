@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:神戸ジャズストリート
+DESCRIPTION:日時は10月12日（土曜）・13日（日曜）12時～17時\n場所は三宮・北野町・トアロード等\n料金は有料\n問い合わせは市民文化振興財団（電話351-3597、FAX351-3121）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1310/info06.html#神戸ジャズストリート
+DTSTART:20131012T120000
+DTEND:20131012T170000
+RRULE:FREQ=DAILY;BYMONTHDAY=13;COUNT=1
+LOCATION:三宮・北野町・トアロード等
+END:VEVENT
+END:VCALENDAR

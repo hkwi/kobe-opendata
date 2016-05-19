@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:こべっこランドの催し（5）ダンスにチャレンジ
+DESCRIPTION:（1）わくわくひろば\n親子あそび等みんなで楽しく遊ぼう！\n対象は2歳～就学前と保護者\n日時は5月16日～、水曜11時～\n料金は無料\n（2）あかちゃんひろば\n自由参加のひろば。お気軽に参加ください\n対象は6カ月～1歳5カ月と保護者\n日時は5月16日～、水曜13時15分～\n料金は無料\n（3）よちよちひろば\n簡単工作、手あそび等楽しく遊ぼう！\n対象は1・2歳と保護者\n日時は5月17日～、木曜11時～\n料金は無料\n（4）マドレーヌを作ろう！\nしっとりと甘い焼菓子マドレーヌを作ろう\n対象は5歳以上\n日時は6月2日（土曜）10時30分～・13時～・14時30分～\n料金は200円\n（5）ダンスにチャレンジ\n音楽にあわせて元気に体を動かしましょう\n対象は18年4月2日～20年4月1日生か小学生\n日時は6月16日（土曜）10時～・11時～\n料金は無料\n申し込みは6月2日（土曜）消印有効\n問い合わせは電話382-1300、FAX351-0684
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1205/info04.html#こべっこランドの催し#5
+DTSTART:20120616T100000
+RRULE:FREQ=DAILY;BYHOUR=11;BYMINUTE=0;COUNT=1
+END:VEVENT
+END:VCALENDAR

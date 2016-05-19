@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:オストメイト初心者合同相談会
+DESCRIPTION:日時は2月15日（土曜）13時20分～\n場所は総合福祉センター\n料金は無料\n問い合わせは障害者支援課（電話322-6332、FAX322-6065）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1402/info04.html#オストメイト初心者合同相談会
+DTSTART:20140215T132000
+LOCATION:総合福祉センター
+END:VEVENT
+END:VCALENDAR

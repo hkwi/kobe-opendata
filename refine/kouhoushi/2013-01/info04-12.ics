@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:森林整備事務所の催し（1）こうべ森の学校
+DESCRIPTION:（1）こうべ森の学校\n森の手入れを行う「森の学校」の例会です\n対象は小学4年生以上（小学生は保護者同伴）\n日時は1月12日（土曜）10時30分～15時\n場所は再度公園\n料金は無料\n（2）摩耶の森クラブ\n摩耶山の冬の植物を学んでみよう\n日時は1月27日（日曜）10時30分～15時\n場所は摩耶自然観察園\n料金は無料\n申し込みは1月16日（水曜）必着\n問い合わせは電話371-5937、FAX371-1087
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1301/info04.html#森林整備事務所の催し#1
+DTSTART:20130112T103000
+DTEND:20130112T150000
+LOCATION:再度公園
+END:VEVENT
+END:VCALENDAR

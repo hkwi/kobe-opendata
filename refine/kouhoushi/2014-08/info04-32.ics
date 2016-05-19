@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:不登校の子供支援講演会・面接相談
+DESCRIPTION:対象は6歳以上18歳以下の子の保護者\n日時は9月10日（水曜）9時45分～15時10分\n場所は市総合教育センター\n料金は無料\n申し込みは電話で。9月3日（水曜）まで受付\n問い合わせは電話360-3153、FAX360-3357
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1408/info04.html#不登校の子供支援講演会・面接相談
+DTSTART:20140910T094500
+DTEND:20140910T151000
+LOCATION:市総合教育センター
+END:VEVENT
+END:VCALENDAR

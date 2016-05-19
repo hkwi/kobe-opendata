@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:六甲山牧場（2）チーズクイズラリー
+DESCRIPTION:（1）木の実のクリスマスリース作り\nぶどうのつるや木の実でリースを作ります\n日時は11月10日（土曜）・11日（日曜）10時～16時\n料金は有料\n（2）チーズクイズラリー\nチーズに関するクイズラリー。参加賞有り\n日時は11月17日（土曜）・18日（日曜）10時～16時\n料金は無料（入場料が必要）\n申し込みは当日先着順\n（3）チーズのデモンストレーション\nチーズ工場の職員によるチーズ製造の実演\n日時は11月23日（金曜・祝日）13時～\n料金は無料（入場料が必要）\n問い合わせは電話891-0280、FAX891-0592
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1211/info04.html#六甲山牧場#2
+DTSTART:20121117T100000
+DTEND:20121117T160000
+RRULE:FREQ=DAILY;BYMONTHDAY=18;COUNT=1
+END:VEVENT
+END:VCALENDAR

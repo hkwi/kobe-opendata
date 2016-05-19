@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:市民福祉大学の講座（2）点訳ボランティア入門講座
+DESCRIPTION:（1）手話ボランティア養成講座・基礎編\n日時は5月7日～、水曜10時～・14時30分～・18時30分～。20回\n場所は市民福祉交流センター\n料金は11\,240円\n申し込みはFAXか直接同大学へ。4月4日（金曜）必着。抽選\n（2）点訳ボランティア入門講座\n日時は5月13日～、火曜14時～。20回\n場所は市民福祉交流センター\n料金は10\,000円\n申し込みはFAXか直接同大学へ。4月24日（木曜）必着。抽選\n問い合わせは電話271-5300、FAX271-5365
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1403/info04.html#市民福祉大学の講座#2
+DTSTART:20140513T140000
+RRULE:FREQ=WEEKLY;COUNT=20
+LOCATION:市民福祉交流センター
+END:VEVENT
+END:VCALENDAR

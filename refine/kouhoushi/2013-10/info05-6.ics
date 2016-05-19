@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:スポーツイベント観戦情報（有料）（2）ヴィッセル神戸VS松本山雅FC
+DESCRIPTION:（1）INAC神戸VSベガルタ仙台\n日時は10月13日（日曜）13時～\n場所はノエビアスタジアム神戸\n（2）ヴィッセル神戸VS松本山雅FC\n日時は10月20日（日曜）16時～\n場所はノエビアスタジアム神戸\n（3）兵庫ストークスVS熊本ヴォルターズ\n日時は10月25日（金曜）19時～・26日（土曜）15時～\n場所は中央体育館\n問い合わせは市スポーツ教育協会（電話261-3620、FAX261-8020）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1310/info05.html#スポーツイベント観戦情報（有料）#2
+DTSTART:20131020T160000
+LOCATION:ノエビアスタジアム神戸
+END:VEVENT
+END:VCALENDAR

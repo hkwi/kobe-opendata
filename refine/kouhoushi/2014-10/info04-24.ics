@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:中途失聴者聴能読話訓練
+DESCRIPTION:日時は11月7日～、金曜18時～。15回\n場所は心身障害福祉センター\n料金は1\,500円\n申し込みは電話かFAXで。先着順\n問い合わせは障害者更生相談所（電話512-4453、FAX577-6510）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1410/info04.html#中途失聴者聴能読話訓練
+DTSTART:20141107T180000
+RRULE:FREQ=WEEKLY;COUNT=15
+LOCATION:心身障害福祉センター
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:森林植物園（2）名誉園長とペンキ塗り
+DESCRIPTION:（1）秋楽祭\n日時は9月5日（土曜）～10月18日（日曜）\n料金は無料（別途入園料等が必要）\n（2）名誉園長とペンキ塗り\n日時は10月4日（日曜）13時30分～\n料金は無料（別途入園料等が必要）\n申し込みはFAXで。先着順\n問い合わせは電話591-0253、FAX594-2324
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1509/info06.html#森林植物園#2
+DTSTART:20151004T133000
+END:VEVENT
+END:VCALENDAR

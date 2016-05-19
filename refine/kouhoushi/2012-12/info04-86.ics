@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:初日の出を神戸空港で迎えよう！
+DESCRIPTION:レストランの早朝営業等。先着順で特典も\n日時は1月1日（火曜・祝日）6時～\n問い合わせは同総合案内所（電話304-7777・FAX304-0678）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1212/info04.html#初日の出を神戸空港で迎えよう！
+DTSTART:20130101T060000
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:勤労会館の講座（2）気象予報士入門講座
+DESCRIPTION:（1）人事担当者から学ぶ「青年就職ゼミ」\n日時は10月31日（木曜）14時～\n料金は無料\n申し込みは電話かFAXか直接。9月8日（日曜）～先着順\n（2）気象予報士入門講座\n日時は10月2日～、水曜18時30分～。10回\n料金は18\,600円\n申し込みは電話かFAXか直接。9月8日（日曜）～先着順\n（3）管理業務主任者受験対策講座\n日時は10月24日～、火・木曜18時30分～。10回\n料金は21\,500円\n申し込みは電話かFAXか直接。9月8日（日曜）～先着順\n問い合わせは電話232-1881、FAX232-1876
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1309/info04.html#勤労会館の講座#2
+DTSTART:20131002T183000
+RRULE:FREQ=WEEKLY;COUNT=10
+END:VEVENT
+END:VCALENDAR

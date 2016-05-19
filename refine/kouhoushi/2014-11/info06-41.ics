@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:くにづかテナント実証実験イベント
+DESCRIPTION:日時は11月16日（日曜）10時～16時\n場所はアスタくにづか地区（長田区久保町6）\n料金は一部有料\n問い合わせは市街地整備課（電話322-5511、FAX322-6098）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1411/info06.html#くにづかテナント実証実験イベント
+DTSTART:20141116T100000
+DTEND:20141116T160000
+LOCATION:アスタくにづか地区（長田区久保町6）
+END:VEVENT
+END:VCALENDAR

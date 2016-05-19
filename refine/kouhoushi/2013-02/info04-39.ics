@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:生田文化会館 剣道体験教室
+DESCRIPTION:この機会にぜひ剣道を体験しよう\n対象は小学2年生以上\n日時は2月17日（日曜）13時30分～\n料金は無料\n申し込みは先着順\n問い合わせは電話382-0861、FAX361-4115
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1302/info04.html#生田文化会館 剣道体験教室
+DTSTART:20130217T133000
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:スポーツイベント観戦情報（有料）
+DESCRIPTION:他にも多数あり。詳細はホームページをご覧ください\n（1）神戸製鋼 対 東芝\n日時は12月16日（日曜）13時～\n場所はホームズスタジアム神戸\n（2）神戸製鋼 対 サントリー\n日時は1月6日（日曜）13時～\n場所はホームズスタジアム神戸\n問い合わせは市スポーツ教育協会（電話261-3620、FAX261-8020）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1212/info04.html#スポーツイベント観戦情報（有料）
+DTSTART:20121216T130000
+X-HINT-REQ-LOCATION:['ホームズスタジアム神戸'\, 'ホームズスタジアム神戸']
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:成年後見セミナー（市民公開講座）
+DESCRIPTION:日時は2月12日～、水曜13時30分～。5回\n場所は市民福祉交流センター\n料金は無料\n申し込みは電話かFAXで。1月8日（水曜）必着。抽選\n問い合わせは成年後見支援センター（電話271-5321、FAX271-2250）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1312/info04.html#成年後見セミナー（市民公開講座）
+DTSTART:20140212T133000
+RRULE:FREQ=WEEKLY;COUNT=5
+LOCATION:市民福祉交流センター
+END:VEVENT
+END:VCALENDAR

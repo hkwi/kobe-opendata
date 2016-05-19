@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:コミスタこうべ 一日体験教室
+DESCRIPTION:写真整理入門・吹き矢・男性料理ほか8教室\n対象は1歳6カ月以上\n日時は7月12日（木曜）～28日（土曜）\n料金は有料\n申し込みは7月8日（日曜）～先着順\n問い合わせは電話251-4731、FAX251-4733
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1207/info04.html#コミスタこうべ 一日体験教室
+DTSTART:20120712
+DTEND:20120729
+END:VEVENT
+END:VCALENDAR

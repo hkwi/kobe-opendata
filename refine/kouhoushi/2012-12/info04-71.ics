@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:市民新年連合登山
+DESCRIPTION:灘丸山公園～五毛天神～摩耶ケーブル下駅\n日時は1月3日（木曜）9時集合\n場所は護国神社（灘区篠原北町4）\n料金は無料\n問い合わせは市総合コールセンター（電話333-3330、FAX333-3314）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1212/info04.html#市民新年連合登山
+DTSTART:20130103T090000
+LOCATION:護国神社（灘区篠原北町4）
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:花と緑のまち推進センター（2）夏バラの剪定
+DESCRIPTION:（1）朝顔展\n日時は7月23日（水曜）～8月10日（日曜）9時～17時\n料金は無料\n（2）夏バラの剪定\n日時は8月3日（日曜）13時30分～\n料金は100円\n申し込みは電話で。先着順\n問い合わせは電話351-6756、FAX341-8710
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1407/info06.html#花と緑のまち推進センター#2
+DTSTART:20140803T133000
+END:VEVENT
+END:VCALENDAR

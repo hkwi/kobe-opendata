@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:美術講座
+DESCRIPTION:日時は10月16日～、金曜14時～。6回\n場所は小磯記念美術館\n料金は2\,000円\n申し込みは往復はがき（〒658-0032向洋町中5-7）かFAXで。9月25日（金曜）消印有効。抽選\n問い合わせは電話857-5880、FAX857-3737\n\n  \n    \n\n\n
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1509/info04.html#美術講座
+DTSTART:20151016T140000
+RRULE:FREQ=WEEKLY;COUNT=6
+LOCATION:小磯記念美術館
+END:VEVENT
+END:VCALENDAR

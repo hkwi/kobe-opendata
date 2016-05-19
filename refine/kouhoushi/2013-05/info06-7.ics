@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:青少年科学館
+DESCRIPTION:（1）次世代望遠鏡でみる宇宙\n日時は5月9日（木曜）～6月9日（日曜）\n料金は無料（別途入園料等が必要）\n（2）大人のための星空塾「四季の星座」\n対象は中学生以上（中学生は保護者同伴）\n日時は6月7日（金曜）19時～\n料金は300円\n申し込みは電話で。5月19日（日曜）～先着順\n（3）プラネタリウム休演\n5月28日（火曜）はプラネタリウムの投映は終日ありません。展示室は開館しています\n問い合わせは電話302-5177、FAX302-4816
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1305/info06.html#青少年科学館
+DTSTART:20130509
+DTEND:20130610
+END:VEVENT
+END:VCALENDAR

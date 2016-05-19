@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:森林植物園（2）風薫る新緑の森de森林浴ヨガ
+DESCRIPTION:（1）新緑つつじ・しゃくなげ散策\n日時は4月18日（土曜）～5月17日（日曜）\n料金は無料（別途入園料等が必要）\n（2）風薫る新緑の森de森林浴ヨガ\n日時は5月9日（土曜）10時45分～\n料金は500円（別途入園料等が必要）\n申し込みはFAXで。4月9日（木曜）～先着順\n問い合わせは電話591-0253、FAX594-2324
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1504/info06.html#森林植物園#2
+DTSTART:20150509T104500
+END:VEVENT
+END:VCALENDAR

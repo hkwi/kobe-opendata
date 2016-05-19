@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ガシラ・メバル釣り大会
+DESCRIPTION:日時は4月12日（日曜）6時～10時\n場所は須磨海づり公園\n料金は大人1\,200円・小人700円\n問い合わせは電話735-2907、FAX735-2950
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1504/info06.html#ガシラ・メバル釣り大会
+DTSTART:20150412T060000
+DTEND:20150412T100000
+LOCATION:須磨海づり公園
+END:VEVENT
+END:VCALENDAR

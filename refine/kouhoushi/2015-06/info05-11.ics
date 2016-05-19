@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ジャパンカップ・ジュニア卓球教室
+DESCRIPTION:対象は小学4～6年生\n日時は6月28日（日曜）13時～\n場所はグリーンアリーナ\n料金は無料\n申し込みは往復はがきで市スポーツ教育協会（〒651-0083浜辺通5-1-14）へ。6月8日（月曜）必着。抽選\n問い合わせは電話261-3620、FAX261-8020
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1506/info05.html#ジャパンカップ・ジュニア卓球教室
+DTSTART:20150628T130000
+LOCATION:グリーンアリーナ
+END:VEVENT
+END:VCALENDAR

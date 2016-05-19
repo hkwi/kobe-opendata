@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:青少年科学館（1）青少年のための科学の祭典
+DESCRIPTION:（1）青少年のための科学の祭典\n約50点の科学体験ブースが登場\n日時は8月25日（土曜）・26日（日曜）10時～16時30分\n料金は無料\n（2）アロマプラネタリウム\nアロマと星空を楽しむ大人向けのイベント\n日時は9月14日（金曜）19時～\n料金は500円\n申し込みは8月26日（日曜）～先着順\n問い合わせは電話302-5177、FAX302-4816
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1208/info04.html#青少年科学館#1
+DTSTART:20120825T100000
+DTEND:20120825T163000
+RRULE:FREQ=DAILY;BYMONTHDAY=26;COUNT=1
+END:VEVENT
+END:VCALENDAR

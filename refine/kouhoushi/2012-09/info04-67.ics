@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:シンポジウム「健診結果の読み方」
+DESCRIPTION:検査結果を生活習慣改善につなげよう\n対象は中学生以上\n日時は10月20日（土曜）13時30分～\n場所は健康ライフプラザ\n料金は無料\n申し込みは9月8日（土曜）～先着順\n問い合わせは電話652-5202、FAX652-5211
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1209/info04.html#シンポジウム「健診結果の読み方」
+DTSTART:20121020T133000
+LOCATION:健康ライフプラザ
+END:VEVENT
+END:VCALENDAR

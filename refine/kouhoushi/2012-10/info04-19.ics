@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:灘浜サイエンススクエアで研究！
+DESCRIPTION:不思議な「ミクロの世界」を体験！\n対象は小学生と保護者\n日時は10月20日（土曜）12時30分～\n場所は灘浜サイエンススクエア（灘区灘浜東町2）\n料金は無料\n申し込みは10月10日（水曜）必着\n問い合わせは環境未来館（電話995-3196、FAX995-3192）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1210/info04.html#灘浜サイエンススクエアで研究！
+DTSTART:20121020T123000
+LOCATION:灘浜サイエンススクエア（灘区灘浜東町2）
+END:VEVENT
+END:VCALENDAR

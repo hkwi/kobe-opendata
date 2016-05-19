@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:企業セミナー（菊地幸夫講演会）
+DESCRIPTION:日時は10月7日（火曜）15時～\n場所はあすてっぷKOBE\n料金は無料\n申し込みは電話かFAXで。先着順\n問い合わせは男女共同参画課（電話322-5179、FAX322-6034）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1409/info04.html#企業セミナー（菊地幸夫講演会）
+DTSTART:20141007T150000
+LOCATION:あすてっぷKOBE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:この指とまれキャンプ 秋編
+DESCRIPTION:対象は小学生～中学生\n日時は11月17日（日曜）9時～16時30分\n場所は洞川教育キャンプ場\n料金は2\,000円\n申し込みはFAXかはがきで青少年会館（〒651-0096雲井通5-1-2）へ。11月8日（金曜）必着。抽選\n問い合わせは電話232-4455、FAX242-2161
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1311/info06.html#この指とまれキャンプ 秋編
+DTSTART:20131117T090000
+DTEND:20131117T163000
+LOCATION:洞川教育キャンプ場
+END:VEVENT
+END:VCALENDAR

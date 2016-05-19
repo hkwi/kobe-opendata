@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:王子スポーツセンターの催し
+DESCRIPTION:（1）第2期ジュニアテニス教室\n3コース26名ずつ開催。計10回。有料\n対象は小学生\n日時は7月7日（土曜）～\n申し込みは6月10日（日曜）消印有効\n（2）テニスコート早朝営業\n8月18日（土曜）～31日（金曜）の間、早朝8時より営業します。あじさいネットからはお申し込みできません\n申し込みは6月21日（木曜）～先着順\n問い合わせは電話802-0223、FAX861-5628
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1206/info04.html#王子スポーツセンターの催し
+DTSTART:20120707
+END:VEVENT
+END:VCALENDAR

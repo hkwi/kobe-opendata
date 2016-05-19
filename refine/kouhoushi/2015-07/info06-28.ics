@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:コミスタこうべ（2）魔法のパワーライン体操他体験教室
+DESCRIPTION:（1）夏休み親子一日体験5教室\n日時は8月3日（月曜）～7日（金曜）\n料金は一部有料\n申し込みは電話か直接。先着順\n（2）魔法のパワーライン体操他体験教室\n日時は8月4日（火曜）～31日（月曜）\n料金は一部有料\n申し込みは電話か直接。先着順\n問い合わせは電話251-4731、FAX251-4733
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1507/info06.html#コミスタこうべ#2
+DTSTART:20150804
+DTEND:20150901
+END:VEVENT
+END:VCALENDAR

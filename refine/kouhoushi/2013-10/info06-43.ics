@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:小磯記念美術館（3）音楽と絵画
+DESCRIPTION:（1）竹で楽器をつくろう\n対象は小学生以上\n日時は10月19日（土曜）10時～\n料金は500円（別途入園料等が必要）\n申し込みは往復はがき（〒658-0032向洋町中5-7）で。10月8日（火曜）必着。抽選\n（2）RICエコアートカプセル\n日時は10月20日（日曜）11時30分～16時30分\n場所はファッションプラザ\n料金は無料\n（3）音楽と絵画\n対象は小学生以上\n日時は11月9日（土曜）14時～\n料金は無料（別途入園料等が必要）\n申し込みは往復はがきで。10月29日（火曜）必着。抽選\n問い合わせは電話857-5880、FAX857-3737
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1310/info06.html#小磯記念美術館#3
+DTSTART:20131109T140000
+END:VEVENT
+END:VCALENDAR

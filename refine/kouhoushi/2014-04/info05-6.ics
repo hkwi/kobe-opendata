@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ポートアイランドスポーツセンターの教室
+DESCRIPTION:（1）春季体操教室\n対象は5カ月以上\n日時は5月13日（火曜）～6月10日（火曜）\n料金は4\,800円\n申し込みははがき（〒650-0046港島中町6-12-1）で。4月30日（水曜）消印有効。抽選\n（2）4月の営業のお知らせ\nスケート6日まで。短縮営業…スケート5日17時まで。プール2日19時まで。臨時休館…スケート2日・7～11日、プール7～11日\n問い合わせは電話302-1031、FAX302-1032
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1404/info05.html#ポートアイランドスポーツセンターの教室
+DTSTART:20140513
+DTEND:20140611
+END:VEVENT
+END:VCALENDAR

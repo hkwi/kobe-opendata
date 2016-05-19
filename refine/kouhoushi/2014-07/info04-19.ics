@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:奥村彪生（あやお）の季節の親子クッキング
+DESCRIPTION:対象は小学生と保護者\n日時は8月6日（水曜）10時～\n場所は東部市場\n料金は2\,000円\n申し込みははがき（〒658-0023深江浜町1-1）で。7月24日（木曜）必着。抽選\n問い合わせは電話413-7076、FAX413-2156
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1407/info04.html#奥村彪生（あやお）の季節の親子クッキング
+DTSTART:20140806T100000
+LOCATION:東部市場
+END:VEVENT
+END:VCALENDAR

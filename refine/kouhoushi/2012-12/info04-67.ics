@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ポートアイランドスポーツセンター（3）1月スケート教室
+DESCRIPTION:（1）冬休み・冬季水泳教室\n寒い冬こそ水泳をして元気な体になろう\n対象は5カ月以上\n日時は12月23日（日曜・祝日）～\n料金は有料\n申し込みは12月10日（月曜）消印有効\n（2）冬休みスケート教室\n初心者OK。詳しくはお問い合わせください\n対象は5歳以上\n日時は12月24日（月曜・休日）～\n料金は有料\n申し込みは12月12日（水曜）消印有効\n（3）1月スケート教室\n幼児～大人。毎週計5回。初心者～OK\n対象は5歳以上\n日時は1月5日（土曜）～\n料金は有料\n申し込みは12月19日（水曜）消印有効\n問い合わせは電話302-1031、FAX302-1032
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1212/info04.html#ポートアイランドスポーツセンター#3
+DTSTART:20130105
+END:VEVENT
+END:VCALENDAR

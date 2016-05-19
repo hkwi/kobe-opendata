@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ヴィッセル神戸ファミリー応援デー
+DESCRIPTION:今年こそ優勝めざして! みんなで応援を\n対象は小・中学生と保護者\n日時は6月23日（土曜）19時～\n場所はホームズスタジアム神戸\n料金は無料\n申し込みは往復はがきに代表者の住所・電話番号、参加者（4人以内）の氏名・年齢・学年、返信用に郵便番号・住所・氏名を記入し、市スポーツ教育協会（〒651-0083浜辺通5-1-14）へ。6月8日（金曜）必着。抽選\n問い合わせは電話261-3620、FAX261-8020
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1206/info04.html#ヴィッセル神戸ファミリー応援デー
+DTSTART:20120623T190000
+LOCATION:ホームズスタジアム神戸
+END:VEVENT
+END:VCALENDAR

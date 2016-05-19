@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:山田の歴史を語る会
+DESCRIPTION:日時は11月15日（土曜）14時～\n場所は内田家住宅（北区鈴蘭台西町6）\n料金は無料\n問い合わせは文化財課（電話322-5798、FAX322-6148）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1411/info06.html#山田の歴史を語る会
+DTSTART:20141115T140000
+LOCATION:内田家住宅（北区鈴蘭台西町6）
+END:VEVENT
+END:VCALENDAR

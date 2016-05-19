@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:医療産業都市親子向け見学会
+DESCRIPTION:日時は7月25日（木曜）10時～15時\n場所はキメックセンタービル（中央区港島南町1）など\n料金は無料\n申し込みは電話で。7月10日（水曜）～先着順\n問い合わせは医療産業都市推進本部調査課（電話322-6349、FAX322-6010）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1307/info06.html#医療産業都市親子向け見学会
+DTSTART:20130725T100000
+DTEND:20130725T150000
+LOCATION:キメックセンタービル（中央区港島南町1）など
+END:VEVENT
+END:VCALENDAR

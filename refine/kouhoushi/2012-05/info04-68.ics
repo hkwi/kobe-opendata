@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ビアパークで楽しいエコ体験
+DESCRIPTION:ビオトープ見学やエコエ作体験、試飲ほか\n日時は6月2日（土曜）10時～・14時～\n場所はキリンビアパーク神戸（北区赤松台2）\n料金は無料\n] 申し込みは5月19日（土曜）必着\n問い合わせは環境未来館（電話995-3196、FAX995-3192）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1205/info04.html#ビアパークで楽しいエコ体験
+DTSTART:20120602T100000
+RRULE:FREQ=DAILY;BYHOUR=14;BYMINUTE=0;COUNT=1
+LOCATION:キリンビアパーク神戸（北区赤松台2）
+END:VEVENT
+END:VCALENDAR

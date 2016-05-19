@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:消費生活講座（1）終活～エンディングノートの活用
+DESCRIPTION:（1）終活～エンディングノートの活用\n日時は11月20日（木曜）14時～\n場所はあすてっぷKOBE\n料金は無料\n申し込みは電話で。先着順\n（2）退職後のシニアライフプラン\n日時は11月21日（金曜）18時30分～\n場所は勤労会館\n料金は無料\n申し込みは電話で。先着順\n問い合わせは消費生活課（電話322-5185、FAX322-6036）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1411/info04.html#消費生活講座#1
+DTSTART:20141120T140000
+LOCATION:あすてっぷKOBE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:開館20周年記念特別講演会
+DESCRIPTION:館長・島田康寬による特別講演会\n日時は11月3日（土曜・祝日）14時～\n場所は小磯記念美術館\n料金は無料\n問い合わせは電話857-5880、FAX857-3737
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1210/info04.html#開館20周年記念特別講演会
+DTSTART:20121103T140000
+LOCATION:小磯記念美術館
+END:VEVENT
+END:VCALENDAR

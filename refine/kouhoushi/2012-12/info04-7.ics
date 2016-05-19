@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:健康ライフプラザ（3）紅茶とお菓子のペアリング
+DESCRIPTION:（1）講演「心臓血管外科の最近の進歩」\n最先端の心臓手術法を心臓外科医が説明\n日時は12月8日（土曜）13時30分～\n料金は500円\n（2）講演「下肢関節痛の診断と治療」\n膝や股関節の痛みや治療法を医師が説明\n日時は12月15日（土曜）13時30分～\n料金は500円\n（3）紅茶とお菓子のペアリング\n紅茶に合うお菓子を見つけましょう\n日時は1月30日（水曜）13時30分～\n料金は1\,500円\n申し込みは12月8日（土曜）～先着順\n問い合わせは電話652-5202、FAX652-5211
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1212/info04.html#健康ライフプラザ#3
+DTSTART:20130130T133000
+END:VEVENT
+END:VCALENDAR

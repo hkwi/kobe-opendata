@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:コミスタこうべ（1）絵画、俳句、コーラス等体験教室
+DESCRIPTION:（1）絵画、俳句、コーラス等体験教室\n対象は60歳以上\n日時は6月2日（月曜）～30日（月曜）\n料金は無料\n申し込みは往復はがき（〒651-0076吾妻通4-1-6）で。5月26日（月曜）必着。抽選\n（2）講座「マネー新時代の資産管理」\n日時は6月24日（火曜）10時～\n料金は無料\n申し込みは電話か直接。先着順\n（3）講演「神戸の景観まちづくり」\n日時は6月26日（木曜）10時～\n料金は無料\n申し込みは電話か直接。先着順\n問い合わせは電話251-4731、FAX251-4733
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1405/info04.html#コミスタこうべ#1
+DTSTART:20140602
+DTEND:20140701
+END:VEVENT
+END:VCALENDAR

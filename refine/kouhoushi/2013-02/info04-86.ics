@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:六甲山の春を見つけよう！
+DESCRIPTION:春の植物を使った押し花やゲームをしよう\n対象は小学生と保護者\n日時は3月10日（日曜）10時～\n場所は保久良神社（東灘区本山町北畑680）\n料金は無料\n申し込みは3月1日（金曜）必着\n問い合わせは地球環境課（電話322-6678、FAX322-6068）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1302/info04.html#六甲山の春を見つけよう！
+DTSTART:20130310T100000
+LOCATION:保久良神社（東灘区本山町北畑680）
+END:VEVENT
+END:VCALENDAR

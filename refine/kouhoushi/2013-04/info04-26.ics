@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:V神戸市民スポーツ栄養セミナー
+DESCRIPTION:試合で能力を発揮するための食事法を学ぶ\n日時は4月20日（土曜）18時30分～\n場所はノエビアスタジアム神戸\n料金は1\,000円\n申し込みは先着順\n問い合わせはスポーツ体育課（電話322-5803、FAX322-6149）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1304/info04.html#V神戸市民スポーツ栄養セミナー
+DTSTART:20130420T183000
+LOCATION:ノエビアスタジアム神戸
+END:VEVENT
+END:VCALENDAR

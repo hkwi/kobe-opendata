@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:区民センターなどの催し（1）うはら第九コンサート合唱団募集
+DESCRIPTION:（1）うはら第九コンサート合唱団募集\n年末恒例の第九コンサートに参加しよう\n日時は12月15日（土曜）10時～16時\n場所は東灘区民センター\n料金は2\,200円\n申し込みは先着順\n問い合わせは電話822-8333、FAX822-8181\n（2）清盛と兵庫講演会＆歴史ウオーク\n清盛の史跡の講演会と兵庫の浜を歩く\n日時は12月2日（日曜）10時30分～16時\n場所は兵庫勤労市民センター\n料金は1\,000円\n申し込みは先着順\n問い合わせは電話576-0981、FAX578-1307\n（3）手作りの年賀状（水墨・俳画）\n年賀状に真心を託し新年のごあいさつ\n日時は11月27日（火曜）13時30分～\n場所は新長田勤労市民センター\n料金は2\,000円\n申し込みは先着順\n問い合わせは電話643-2431、FAX643-4350
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1211/info04.html#区民センターなどの催し#1
+DTSTART:20121215T100000
+DTEND:20121215T160000
+LOCATION:東灘区民センター
+END:VEVENT
+END:VCALENDAR

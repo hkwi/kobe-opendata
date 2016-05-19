@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:暗闇のなかの対話（DID）講演会
+DESCRIPTION:暗闇エンターテイメントに学ぶ絆の大切さ\n日時は1月30日（水曜）13時～\n場所はシルバーカレッジ\n料金は無料\n申し込みは先着順\n問い合わせは市民福祉振興協会（電話743-8190、FAX743-8180）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1301/info04.html#暗闇のなかの対話（DID）講演会
+DTSTART:20130130T130000
+LOCATION:シルバーカレッジ
+END:VEVENT
+END:VCALENDAR

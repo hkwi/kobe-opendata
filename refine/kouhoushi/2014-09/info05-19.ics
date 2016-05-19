@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ベーカリーでランデブーマラソン
+DESCRIPTION:日時は11月8日（土曜）10時～\n場所はノエビアスタジアム神戸\n料金は3\,500円\n申し込みはFAXで。先着順\n問い合わせは電話652-5656、FAX652-5651
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1409/info05.html#ベーカリーでランデブーマラソン
+DTSTART:20141108T100000
+LOCATION:ノエビアスタジアム神戸
+END:VEVENT
+END:VCALENDAR

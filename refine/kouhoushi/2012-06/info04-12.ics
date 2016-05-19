@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ガレージセール（4）新長田六間道商店街
+DESCRIPTION:（1）総合運動公園駅前\n日時は6月10・24日（日曜）11時～17時\n（2）ポートタワー前広場\n日時は6月16・30日（土曜）11時～17時\n（3）メリケンパーク\n日時は6月17・24日（日曜）・23日（土曜）11時～17時\n（4）新長田六間道商店街\n日時は6月24日（日曜）10時～16時\n問い合わせは地球環境課（電話322-5313、FAX322-6068）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1206/info04.html#ガレージセール#4
+DTSTART:20120624T100000
+DTEND:20120624T160000
+END:VEVENT
+END:VCALENDAR

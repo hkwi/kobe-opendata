@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ひとり親家庭の日帰りバス旅行
+DESCRIPTION:日時は8月2日（日曜）10時～\n場所は伊賀の里モクモク手づくりファーム（伊賀市西湯舟3609）\n料金は1人4\,500円（小学生以下4\,000円）\n申し込みは電話かFAXで。先着順\n問い合わせはひとり親家庭支援センター（電話341-4532、FAX371-6478）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1507/info06.html#ひとり親家庭の日帰りバス旅行
+DTSTART:20150802T100000
+LOCATION:伊賀の里モクモク手づくりファーム（伊賀市西湯舟3609）
+END:VEVENT
+END:VCALENDAR

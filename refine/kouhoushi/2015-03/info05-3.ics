@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:中央体育館（3）（春季）体育が得意になる～高学年
+DESCRIPTION:（1）スポーツメンタルトレーニング\n日時は3月21日（土曜・祝日）13時30分～・15時20分～\n料金は2\,000円\n申し込みはFAXか直接。3月8日（日曜）～先着順\n（2）（春季）硬式テニス（午後）中級\n日時は4月2日～、木曜13時～。13回\n料金は17\,420円\n申し込みは直接。3月8日（日曜）～先着順\n（3）（春季）体育が得意になる～高学年\n対象は小学4～6年生\n日時は4月11日～、土曜15時20分～。15回\n料金は12\,300円\n申し込みは直接。3月8日（日曜）～先着順\n問い合わせは電話341-7971、FAX341-7974
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1503/info05.html#中央体育館#3
+DTSTART:20150411T152000
+RRULE:FREQ=WEEKLY;COUNT=15
+END:VEVENT
+END:VCALENDAR

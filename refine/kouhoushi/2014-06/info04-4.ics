@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:子ども子育て支援新制度フォーラム
+DESCRIPTION:日時は6月28日（土曜）13時30分～\n場所は国際会議場\n料金は無料\n申し込みは所定の申込様式で同事務局（FAX03-5776-0379）へ。先着順\n問い合わせはこども家庭局振興課（電話322-5216、FAX322-6042）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1406/info04.html#子ども子育て支援新制度フォーラム
+DTSTART:20140628T133000
+LOCATION:国際会議場
+END:VEVENT
+END:VCALENDAR

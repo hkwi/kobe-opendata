@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:スポーツイベント観戦情報（有料）（2）オリックス VS 東北楽天
+DESCRIPTION:（1）ヴィッセル神戸 VS 東京ヴェルディ\n日時は8月21日（水曜）19時～\n場所はノエビアスタジアム神戸\n（2）オリックス VS 東北楽天\n日時は8月29日（木曜）18時～\n場所はほっともっとフィールド神戸\n（3）コベルコスティーラーズ VS NEC\n日時は8月31日（土曜）18時～\n場所はユニバー記念競技場\n問い合わせは市スポーツ教育協会（電話261-3620、FAX261-8020）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1308/info05.html#スポーツイベント観戦情報（有料）#2
+DTSTART:20130829T180000
+LOCATION:ほっともっとフィールド神戸
+END:VEVENT
+END:VCALENDAR

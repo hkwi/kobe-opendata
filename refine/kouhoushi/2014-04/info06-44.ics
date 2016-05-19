@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:飼い犬しつけ方教室（1）無駄吠え禁止
+DESCRIPTION:（1）無駄吠え禁止\n日時は5月11日（日曜）10時～\n場所は動物管理センター\n料金は各2\,000円\n申し込みは電話かFAXで。4月18日（金曜）必着。抽選\n（2）飛び付き引っ張り禁止\n日時は5月11日（日曜）10時～\n場所は動物管理センター\n料金は各2\,000円\n申し込みは電話かFAXで。4月18日（金曜）必着。抽選\n問い合わせは電話741-8111、FAX741-8035\n\n  \n    \n\n\n
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1404/info06.html#飼い犬しつけ方教室#1
+DTSTART:20140511T100000
+LOCATION:動物管理センター
+END:VEVENT
+END:VCALENDAR

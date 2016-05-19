@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:演奏会ボンジュールフランス
+DESCRIPTION:無料ペア招待券のプレゼントあり\n日時は6月17日（日曜）14時～\n場所はうはらホール\n料金は2\,000円\n申し込みは5月30日（水曜）必着。問い合わせは市民文化振興財団（電話351-3597、FAX351-3121）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1205/info04.html#演奏会ボンジュールフランス
+DTSTART:20120617T140000
+LOCATION:うはらホール
+END:VEVENT
+END:VCALENDAR

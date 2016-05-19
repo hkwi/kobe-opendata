@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:少年団卓球大会
+DESCRIPTION:1チーム5～8人までの団体戦！\n対象は小学5・6年生\n日時は12月15日（土曜）8時30分～17時\n場所はグリーンアリーナ神戸\n料金は1チーム3\,000円\n申し込みは往復はがきにチーム名、参加者全員の氏名・学年・性別・学校名、監督の氏名（押印）・住所・電話番号を記入し、スポーツ体育課（〒650-8570住所不要）へ。10月15日（月曜）～29日（月曜）消印有効。抽選\n問い合わせは電話322-5804、FAX322-6149\n\n  \n    \n\n\n
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1210/info04.html#少年団卓球大会
+DTSTART:20121215T083000
+DTEND:20121215T170000
+LOCATION:グリーンアリーナ神戸
+END:VEVENT
+END:VCALENDAR

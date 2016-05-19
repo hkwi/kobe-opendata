@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:母の日に、草木染めのプレゼント
+DESCRIPTION:里山保全と草木染めの伝統の知恵を体験！\n対象は小学生と保護者\n日時は4月20日（土曜）10時～\n場所は総合運動公園\n料金は無料\n申し込みは4月12日（金曜）必着\n問い合わせは地球環境課（電話322-6678、FAX322-6068）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1304/info04.html#母の日に、草木染めのプレゼント
+DTSTART:20130420T100000
+LOCATION:総合運動公園
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:こべっこランド（2）25周年記念 Happy Days
+DESCRIPTION:（1）神戸高専サイエンスフェスタ\n液体窒素等の科学実験を楽しもう\n対象は18歳未満（就学前は保護者同伴）\n日時は11月17日（土曜）13時～\n料金は無料\n（2）25周年記念 Happy Days\nダイナミックな造形あそびを楽しもう！\n対象は18歳未満（就学前は保護者同伴）\n日時は11月24日（土曜）・25日（日曜）10時～16時\n料金は一部有料\n（3）ドラムにチャレンジ\nドラムの基本のたたき方をマスターしよう\n対象は3歳～小学生（就学前は保護者同伴）\n日時は12月2日（日曜）10時～\n料金は無料\n問い合わせは電話382-1300、FAX351-0684
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1211/info04.html#こべっこランド#2
+DTSTART:20121124T100000
+DTEND:20121124T160000
+RRULE:FREQ=DAILY;BYMONTHDAY=25;COUNT=1
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:市民福祉大学の講座（3）脳科学者澤口俊之氏の講演会
+DESCRIPTION:（1）認知症を知る\nアルツハイマー型認知症を中心に\n日時は8月30日（木曜）14時～\n場所は市民福祉交流センター\n料金は1\,000円\n申し込みは8月15日（水曜）必着\n（2）上手な会議の作法を身につけよう\n会議運営のポイントを学びます\n日時は9月10日（月曜）9時30分～16時30分\n場所は市民福祉交流センター\n料金は1\,000円\n申し込みは8月27日（月曜）必着\n（3）脳科学者澤口俊之氏の講演会\n夢をかなえる脳、人間性知能\n日時は10月20日（土曜）13時30分～\n場所はハーバーホール\n料金は1\,000円\n申し込みは先着順\n問い合わせは電話271-5300、FAX271-5365
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1208/info04.html#市民福祉大学の講座#3
+DTSTART:20121020T133000
+LOCATION:ハーバーホール
+END:VEVENT
+END:VCALENDAR

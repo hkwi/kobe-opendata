@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:宅地防災講演会
+DESCRIPTION:日時は5月24日（金曜）15時30分～\n場所は危機管理センター\n料金は無料\n問い合わせは宅地開発指導課（電話322-5412、FAX322-6082）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1305/info04.html#宅地防災講演会
+DTSTART:20130524T153000
+LOCATION:危機管理センター
+END:VEVENT
+END:VCALENDAR

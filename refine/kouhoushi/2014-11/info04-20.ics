@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:幼児向け環境学習説明会
+DESCRIPTION:日時は11月22日（土曜）14時～\n場所は環境未来館\n料金は無料\n申し込みははがきかFAXで地球環境課（〒650-8570住所不要）へ。11月12日（水曜）必着。抽選\n問い合わせは電話322-6678、FAX322-6068
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1411/info04.html#幼児向け環境学習説明会
+DTSTART:20141122T140000
+LOCATION:環境未来館
+END:VEVENT
+END:VCALENDAR

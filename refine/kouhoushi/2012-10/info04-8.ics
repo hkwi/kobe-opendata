@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:釣りんピック IN 海づり公園
+DESCRIPTION:海づり公園のオリンピックとして開催\n日時は10月8日（月曜・祝日）6時～10時\n場所は（1）須磨海づり公園（2）平磯海づり公園\n料金は（1）大人1\,200円、小人700円（2）大人1\,000円、小人600円\n問い合わせは（1）電話735-2907、FAX735-2950（2）電話753-3973、FAX753-4873
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1210/info04.html#釣りんピック IN 海づり公園
+DTSTART:20121008T060000
+DTEND:20121008T100000
+X-HINT-REQ-LOCATION:場所は（1）須磨海づり公園（2）平磯海づり公園
+END:VEVENT
+END:VCALENDAR

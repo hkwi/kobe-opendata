@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ユニバーウオーキング歩き初め
+DESCRIPTION:効果的な歩き方講習と実践ウオーキング\n日時は1月12日（土曜）10時～\n場所は総合運動公園\n料金は500円\n問い合わせは電話796-1126、FAX796-1192
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1301/info04.html#ユニバーウオーキング歩き初め
+DTSTART:20130112T100000
+LOCATION:総合運動公園
+END:VEVENT
+END:VCALENDAR

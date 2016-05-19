@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:食品表示の読み解き方講座
+DESCRIPTION:日時は7月18日（土曜）14時～\n場所はたちばな職員研修センター\n料金は無料\n申し込みは電話で。先着順\n問い合わせは消費生活課（電話322-5185、FAX322-6036）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1507/info04.html#食品表示の読み解き方講座
+DTSTART:20150718T140000
+LOCATION:たちばな職員研修センター
+END:VEVENT
+END:VCALENDAR

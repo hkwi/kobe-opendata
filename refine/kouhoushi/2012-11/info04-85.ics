@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:講演会「障害ってなあに」
+DESCRIPTION:障害のある人への理解を深める講演\n日時は12月6日（木曜）14時～\n場所は六甲道勤労市民センター\n料金は無料\n申し込みは11月20日（火曜）～先着順\n問い合わせは障害福祉課（電話322-6579、FAX322-6044）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1211/info04.html#講演会「障害ってなあに」
+DTSTART:20121206T140000
+LOCATION:六甲道勤労市民センター
+END:VEVENT
+END:VCALENDAR

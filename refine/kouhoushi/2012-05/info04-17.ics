@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:「看護の日」のイベント
+DESCRIPTION:健康相談・チェック等体験コーナーあり\n日時は5月12日（土曜）10時～15時\n場所は県看護協会（中央区下山手通5）\n料金は無料\n問い合わせは地域医療室（電話322-5246、FAX322-6054）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1205/info04.html#「看護の日」のイベント
+DTSTART:20120512T100000
+DTEND:20120512T150000
+LOCATION:県看護協会（中央区下山手通5）
+END:VEVENT
+END:VCALENDAR

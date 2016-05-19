@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:中央体育館（1）（秋季）硬式テニス（夜間B）
+DESCRIPTION:（1）（秋季）硬式テニス（夜間B）\n日時は9月2日～、水曜19時～。14回\n料金は18\,760円\n申し込みははがき（〒650-0017楠町4-1-1）か直接。7月1日（水曜）～30日（木曜）必着。抽選\n（2）（秋季）硬式テニス（午後）\n日時は9月3日～、木曜13時～。14回\n料金は18\,760円\n申し込みははがき（〒650-0017楠町4-1-1）か直接。7月1日（水曜）～30日（木曜）必着。抽選\n問い合わせは電話341-7971、FAX341-7974
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1507/info05.html#中央体育館#1
+DTSTART:20150902T190000
+RRULE:FREQ=WEEKLY;COUNT=14
+END:VEVENT
+END:VCALENDAR

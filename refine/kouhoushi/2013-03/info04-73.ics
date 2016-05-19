@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:市民福祉大学（1）おひとりさまの終活
+DESCRIPTION:（1）おひとりさまの終活\n人生の最期をより良くする知恵を学びます\n日時は4月19日（金曜）14時～\n場所は市民福祉交流センター\n料金は1\,000円\n申し込みは4月5日（金曜）必着\n（2）手話基礎課程\n入門講座修了者のステップアップ講座\n日時は5月8日（水曜）～。27回\n場所は市民福祉交流センター\n料金は10\,000円\n申し込みは4月5日（金曜）必着\n（3）点訳ボランティア入門講座\n点訳ボランティアとして知識・技術の習得\n日時は5月14日（火曜）13時30分～。20回\n場所は市民福祉交流センター\n料金は10\,000円\n申し込みは4月25日（木曜）必着\n問い合わせは電話271-5300、FAX271-5365
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1303/info04.html#市民福祉大学#1
+DTSTART:20130419T140000
+LOCATION:市民福祉交流センター
+END:VEVENT
+END:VCALENDAR

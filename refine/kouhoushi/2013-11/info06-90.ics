@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:松ぼっくりで作る小さなお正月飾り
+DESCRIPTION:日時は12月19日（木曜）10時～\n場所はグリーンアリーナ\n料金は500円\n申し込みはFAXか往復はがきで総合運動公園（〒654-0163緑台）へ。11月30日（土曜）消印有効。抽選\n問い合わせは電話795-5151、FAX792-3122\n\n  \n    \n\n\n
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1311/info06.html#松ぼっくりで作る小さなお正月飾り
+DTSTART:20131219T100000
+LOCATION:グリーンアリーナ
+END:VEVENT
+END:VCALENDAR

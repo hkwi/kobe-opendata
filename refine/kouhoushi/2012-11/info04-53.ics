@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ロボットプログラミング教室
+DESCRIPTION:サッカーロボットを操作（各回抽選20人）\n対象は小学3年生以上\n日時は11月18日（日曜）10時～・13時30分～\n場所は地域人材支援センター\n料金は無料\n申し込みは11月8日（木曜）必着\n問い合わせは工業課（電話322-5333、FAX322-6074）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1211/info04.html#ロボットプログラミング教室
+DTSTART:20121118T100000
+RRULE:FREQ=DAILY;BYHOUR=13;BYMINUTE=30;COUNT=1
+LOCATION:地域人材支援センター
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:西市民病院 市民公開講座
+DESCRIPTION:日時は9月19日（木曜）14時～\n料金は無料\n申し込みは電話かFAXで。先着順\n問い合わせは電話576-5251、FAX579-1943
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1308/info04.html#西市民病院 市民公開講座
+DTSTART:20130919T140000
+END:VEVENT
+END:VCALENDAR

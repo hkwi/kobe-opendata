@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:防犯ボランティア講演会
+DESCRIPTION:日時は3月20日（金曜）15時30分～\n場所は危機管理センター\n料金は無料\n申し込みははがきかFAXで危機管理室（〒650-8570住所不要）へ。3月18日（水曜）必着。抽選\n問い合わせは電話322-6238、FAX322-6031
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1503/info04.html#防犯ボランティア講演会
+DTSTART:20150320T153000
+LOCATION:危機管理センター
+END:VEVENT
+END:VCALENDAR

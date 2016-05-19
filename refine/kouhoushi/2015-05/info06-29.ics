@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:みんなで神戸港の絵を描こう！
+DESCRIPTION:日時は5月23日（土曜）10時～15時\n場所はポートタワー\n料金は無料\n申し込みはFAXでNPO法人神戸グランドアンカー（FAX351-1334）へ。先着順\n問い合わせはみなと総局振興課（電話322-5670、FAX322-6121）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1505/info06.html#みんなで神戸港の絵を描こう！
+DTSTART:20150523T100000
+DTEND:20150523T150000
+LOCATION:ポートタワー
+END:VEVENT
+END:VCALENDAR

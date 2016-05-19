@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:中央卸売市場本場の料理教室（3）岐阜の野菜親子料理教室
+DESCRIPTION:（1）大田忠道料理教室「旬の味」\n日時は7月21日（火曜）10時30分～\n料金は4\,000円\n申し込みは電話で。開催日の10日前まで受付。抽選\n（2）魚河岸親子お魚教室～ハモ天丼\n日時は7月22日（水曜）11時～\n料金は2\,500円\n申し込みは電話で。開催日の10日前まで受付。抽選\n（3）岐阜の野菜親子料理教室\n日時は7月28日（火曜）10時30分～\n料金は1\,000円\n申し込みは電話で。開催日の10日前まで受付。抽選\n問い合わせは電話652-5503、FAX681-3772
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1507/info04.html#中央卸売市場本場の料理教室#3
+DTSTART:20150728T103000
+END:VEVENT
+END:VCALENDAR

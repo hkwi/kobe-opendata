@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:スポーツイベント観戦情報
+DESCRIPTION:日本陸上競技選手権競歩大会\n日時は2月17日（日曜）8時50分～\n場所は六甲アイランド\n料金は無料\n問い合わせは市スポーツ教育協会（電話261-3620、FAX261-8020）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1302/info04.html#スポーツイベント観戦情報
+DTSTART:20130217T085000
+LOCATION:六甲アイランド
+END:VEVENT
+END:VCALENDAR

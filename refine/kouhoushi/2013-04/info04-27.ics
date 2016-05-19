@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:カレイ・ガシラ釣り大会
+DESCRIPTION:カレイ・ガシラを対象とした釣り大会\n日時は4月21日（日曜）6時～10時\n場所は平磯海づり公園\n料金は大人1\,000円、小人600円\n問い合わせは電話753-3973、FAX753-4873
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1304/info04.html#カレイ・ガシラ釣り大会
+DTSTART:20130421T060000
+DTEND:20130421T100000
+LOCATION:平磯海づり公園
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:平磯海づり公園（3）小・中学生無料開放
+DESCRIPTION:（1）海づりdeビンゴ～春の陣\n日時は5月11日（土曜）～26日（日曜）6時～18時\n料金は大人1\,000円・小人600円\n（2）ジュニアフィッシングパーティー\n対象は6～15歳\n日時は5月19日（日曜）6時～10時\n料金は大人1\,000円・小人600円\n（3）小・中学生無料開放\n日時は5月26日（日曜）6時～19時30分\n問い合わせは電話753-3973、FAX753-4873
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1305/info06.html#平磯海づり公園#3
+DTSTART:20130526T060000
+DTEND:20130526T193000
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:自然の家（1）クリスマスリースとミニ門松
+DESCRIPTION:（1）クリスマスリースとミニ門松\n自然の材料を使って楽しく工作をします\n日時は12月2日（日曜）9時30分～\n料金は大人2\,800円、小人2\,300円\n申し込みは11月10日（土曜）～先着順\n（2）ノルディック・ウオーキング\n安全で健康的な歩き方を学びます\n日時は12月9日（日曜）10時30分～\n料金は大人3\,500円、小人2\,500円\n申し込みは11月10日（土曜）～先着順\n（3）わくわくスキーキャンプ\n六甲山人工スキー場でスキー教室をします\n対象は小学3～6年生\n日時は12月26日（水曜）～、1泊2日\n料金は10\,000円\n申し込みは11月15日（木曜）まで受付\n問い合わせは電話891-0001、FAX891-0002
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1211/info04.html#自然の家#1
+DTSTART:20121202T093000
+END:VEVENT
+END:VCALENDAR

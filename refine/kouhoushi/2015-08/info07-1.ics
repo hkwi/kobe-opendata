@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:花と緑のまち推進センター（1）野の花の型絵染展
+DESCRIPTION:（1）野の花の型絵染展\n日時は8月18日（火曜）～23日（日曜）\n料金は無料\n（2）多肉植物の寄せ植え\n日時は9月6日（日曜）13時30分～\n料金は1\,500円\n申し込みは電話か直接。先着順\n問い合わせは電話351-6756、FAX341-8710
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1508/info07.html#花と緑のまち推進センター#1
+DTSTART:20150818
+DTEND:20150824
+END:VEVENT
+END:VCALENDAR

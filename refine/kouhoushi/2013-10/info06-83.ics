@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:文化財めぐりバス
+DESCRIPTION:日時は11月14日（木曜）9時～17時\n場所は市役所3号館前集合\n料金は1\,000円\n申し込みは往復はがきで文化財課（〒650-8570住所不要）へ。10月24日（木曜）消印有効。抽選\n問い合わせは電話322-5798、FAX322-6148
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1310/info06.html#文化財めぐりバス
+DTSTART:20131114T090000
+DTEND:20131114T170000
+LOCATION:市役所3号館前集合
+END:VEVENT
+END:VCALENDAR

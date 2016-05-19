@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:スポーツイベント観戦情報
+DESCRIPTION:他にも多数あり。詳細はホームページをご覧ください\n（1）全日本高校・大学ダンスフェスティバル\n日時は8月8日（水曜）～11日（土曜）\n場所は文化ホール\n料金は一部有料\n（2）ヴィッセル神戸 対 浦和レッズ\n日時は8月11日（土曜）19時～\n場所はホームズスタジアム神戸\n料金は有料\n（3）KOBE CUP ジュニアサッカー\n日時は8月17日（金曜）～19日（日曜）\n場所はしあわせの村\n料金は無料\n問い合わせは市スポーツ教育協会（電話261-3620、FAX261-8020）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1208/info04.html#スポーツイベント観戦情報
+DTSTART:20120808
+DTEND:20120812
+X-HINT-REQ-LOCATION:['文化ホール'\, 'ホームズスタジアム神戸'\, 'しあわせの村']
+END:VEVENT
+END:VCALENDAR

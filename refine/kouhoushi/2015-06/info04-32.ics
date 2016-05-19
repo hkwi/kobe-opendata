@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ひきこもりサポーター養成講座
+DESCRIPTION:対象は18歳以上\n日時は7月9日～、木曜14時～。10回\n場所は兵庫勤労市民センター\n料金は無料\n申し込みは電話でひきこもり地域支援センター（電話945-8079）へ。6月19日（金曜）まで受付。抽選\n問い合わせは障害福祉課（電話322-5271、FAX322-6044）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1506/info04.html#ひきこもりサポーター養成講座
+DTSTART:20150709T140000
+RRULE:FREQ=WEEKLY;COUNT=10
+LOCATION:兵庫勤労市民センター
+END:VEVENT
+END:VCALENDAR

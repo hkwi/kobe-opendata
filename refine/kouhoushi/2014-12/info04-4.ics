@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:緩和ケア～もしものときを話し合う
+DESCRIPTION:対象は中学生以上\n日時は12月13日（土曜）13時30分～\n場所は健康ライフプラザ\n料金は500円\n問い合わせは電話652-5202、FAX652-5211
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1412/info04.html#緩和ケア～もしものときを話し合う
+DTSTART:20141213T133000
+LOCATION:健康ライフプラザ
+END:VEVENT
+END:VCALENDAR

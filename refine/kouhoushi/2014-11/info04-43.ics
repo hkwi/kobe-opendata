@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:プリザーブドフラワーの正月飾り
+DESCRIPTION:日時は12月6日（土曜）10時～\n場所は総合福祉センター\n料金は4\,000円\n申し込みは電話かFAXで。先着順\n問い合わせはひとり親家庭支援センター（電話341-4532、FAX371-6478）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1411/info04.html#プリザーブドフラワーの正月飾り
+DTSTART:20141206T100000
+LOCATION:総合福祉センター
+END:VEVENT
+END:VCALENDAR

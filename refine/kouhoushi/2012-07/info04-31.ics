@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:紙コップ相撲ロボットをつくろう
+DESCRIPTION:募集30人（抽選）、ロボット工房にて開催\n対象は5歳以上\n日時は7月28日（土曜）14時～\n場所は地域人材支援センター\n料金は無料\n申し込みは7月13日（金曜）必着\n問い合わせは工業課（電話322-5333、FAX322-6074）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1207/info04.html#紙コップ相撲ロボットをつくろう
+DTSTART:20120728T140000
+LOCATION:地域人材支援センター
+END:VEVENT
+END:VCALENDAR

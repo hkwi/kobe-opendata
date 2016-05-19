@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:母と子の修法ケ原ハイキング
+DESCRIPTION:対象は母子家庭の親子\n日時は11月23日（土曜・祝日）10時集合\n場所はJR新神戸駅\n料金は無料\n申し込みは電話で。先着順\n問い合わせは母子福祉センター（電話341-4532、FAX371-6478）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1311/info05.html#母と子の修法ケ原ハイキング
+DTSTART:20131123T100000
+LOCATION:JR新神戸駅
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:母子家庭の母のための就業相談（4）西区役所
+DESCRIPTION:（1）母子福祉センター\n日時は月曜（祝日の場合翌日）・第4水曜10時～16時・第1～3水曜10時～12時・第1土曜10時～15時\n料金は無料\n申し込みは先着順\n（2）垂水区役所\n日時は2月13日（水曜）14時～17時\n料金は無料\n申し込みは先着順\n（3）北区役所\n日時は2月20日（水曜）14時～17時\n料金は無料\n申し込みは先着順\n（4）西区役所\n日時は3月6日（水曜）14時～17時\n料金は無料\n申し込みは先着順\n問い合わせは電話341-4532、FAX371-6478
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1302/info03.html#母子家庭の母のための就業相談#4
+DTSTART:20130306T140000
+DTEND:20130306T170000
+END:VEVENT
+END:VCALENDAR

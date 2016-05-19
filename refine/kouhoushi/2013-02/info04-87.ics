@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:花と緑のまち推進センター（1）オオミスミソウの育て方
+DESCRIPTION:（1）オオミスミソウの育て方\n苗プレゼントあり\n日時は3月10日（日曜）13時30分～\n料金は無料\n申し込みは先着順\n（2）苔を使った小さな寄植え\n美しい緑の苔や植物で寄植えを作ります\n日時は3月17日（日曜）13時30分～\n料金は1\,000円\n申し込みは先着順\n問い合わせは電話351-6756、FAX341-8710
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1302/info04.html#花と緑のまち推進センター#1
+DTSTART:20130310T133000
+END:VEVENT
+END:VCALENDAR

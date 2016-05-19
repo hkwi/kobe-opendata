@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:王子動物園（2）絵本作家永田萠さんと絵を描こう
+DESCRIPTION:（1）飼育係のうらばなし\n対象は小学生以上\n日時は10月20日（日曜）14時～\n料金は無料（別途入園料等が必要）\n申し込みは往復はがき（〒657-0838王子町3-1）で。10月9日（水曜）消印有効。抽選\n（2）絵本作家永田萠さんと絵を描こう\n対象は3歳以上～小学生\n日時は11月2日（土曜）9時30分～15時\n料金は無料（別途入園料等が必要）\n申し込みは往復はがき（〒657-0838王子町3-1）で。10月11日（金曜）消印有効。抽選\n（3）動物の体重をはかる集い\n日時は11月3日（日曜・祝日）11時～\n料金は無料（別途入園料等が必要）\n問い合わせは電話861-5624、FAX861-5640
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1310/info06.html#王子動物園#2
+DTSTART:20131102T093000
+DTEND:20131102T150000
+END:VEVENT
+END:VCALENDAR

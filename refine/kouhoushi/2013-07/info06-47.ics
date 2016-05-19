@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:KOBE教育フォーラム
+DESCRIPTION:日時は8月20日（火曜）9時30分～15時30分\n場所は松方ホール（中央区東川崎町1）\n料金は無料\n申し込みは電話かFAXで。先着順\n問い合わせは指導課（電話322-6442、FAX322-6143）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1307/info06.html#KOBE教育フォーラム
+DTSTART:20130820T093000
+DTEND:20130820T153000
+LOCATION:松方ホール（中央区東川崎町1）
+END:VEVENT
+END:VCALENDAR

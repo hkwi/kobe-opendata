@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:成人のぜん息予防講演会
+DESCRIPTION:ぜん息やCOPDと上手に付き合うために\n日時は11月23日（金曜・祝日）14時～\n場所は神戸朝日ホール（中央区浪花町）\n料金は無料\n申し込みは電話かFAX（代表者の住所・電話番号・参加者全員の氏名を記入）で同事務局（電話0800-800-2020、FAX0120-896-891）へ。11月16日（金曜）必着\n問い合わせは健康づくり支援課（電話322-5248、FAX322-6053）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1211/info04.html#成人のぜん息予防講演会
+DTSTART:20121123T140000
+LOCATION:神戸朝日ホール（中央区浪花町）
+END:VEVENT
+END:VCALENDAR

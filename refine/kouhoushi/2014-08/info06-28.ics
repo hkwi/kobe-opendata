@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:神戸港の施設を見学しよう
+DESCRIPTION:日時は8月21日（木曜）10時30分～17時\n場所は中突堤中央ターミナル\n料金は無料\n申し込みはFAXで。8月8日（金曜）必着。抽選\n問い合わせはみなと総局振興課（電話322-5670、FAX322-6121）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1408/info06.html#神戸港の施設を見学しよう
+DTSTART:20140821T103000
+DTEND:20140821T170000
+LOCATION:中突堤中央ターミナル
+END:VEVENT
+END:VCALENDAR

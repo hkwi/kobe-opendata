@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:区民センターなどの催し（1）シニアいきいきメイク教室
+DESCRIPTION:（1）シニアいきいきメイク教室\nいくつになっても奇麗は、たのしい!\n日時は10月4日（木曜）13時30分～\n場所は兵庫勤労市民センター\n料金は2\,000円\n申し込みは9月8日（土曜）～先着順\n問い合わせは電話576-0981、FAX578-1307\n（2）トルコーベフェスタ\n神戸とトルコの交流を料理等で楽しむ\n日時は9月23日（日曜）13時～\n場所は新長田勤労市民センター\n料金は2\,000円\n問い合わせは電話643-2431、FAX643-4350
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1209/info04.html#区民センターなどの催し#1
+DTSTART:20121004T133000
+LOCATION:兵庫勤労市民センター
+END:VEVENT
+END:VCALENDAR

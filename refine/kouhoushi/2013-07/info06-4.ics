@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:小磯記念美術館（3）木版画に挑戦
+DESCRIPTION:（1）ロビーコンサート・バッハ教会音楽\n日時は7月13日（土曜）14時～\n料金は無料（別途入園料等が必要）\n（2）特別展「関西学院の美術家」\n日時は7月20日（土曜）～10月6日（日曜）\n料金は1\,000円\n（3）木版画に挑戦\n対象は小・中学生\n日時は7月27日（土曜）14時～\n料金は200円\n申し込みは往復はがき（〒658-0032向洋町中5-7）で。7月17日（水曜）必着。抽選\n問い合わせは電話857-5880、FAX857-3737
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1307/info06.html#小磯記念美術館#3
+DTSTART:20130727T140000
+END:VEVENT
+END:VCALENDAR

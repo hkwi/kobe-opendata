@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ノエビアスタジアム神戸（1）ウイング寄席:笑福亭銀瓶・桂三若
+DESCRIPTION:（1）ウイング寄席:笑福亭銀瓶・桂三若\n日時は5月23日（土曜）13時30分～\n料金は無料\n（2）スタジアム見学会\n日時は5月31日（日曜）、6月6日（土曜）11時～14時30分\n料金は無料\n問い合わせは電話652-5656、FAX652-5651
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1505/info06.html#ノエビアスタジアム神戸#1
+DTSTART:20150523T133000
+END:VEVENT
+END:VCALENDAR

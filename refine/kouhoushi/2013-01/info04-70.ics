@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:腰痛予防改善講習会
+DESCRIPTION:腰痛予防、改善のトレーニングの講義\n日時は1月26日（土曜）10時～\n場所は中央体育館\n料金は無料\n申し込みは先着順\n問い合わせは電話341-7971、FAX341-7974
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1301/info04.html#腰痛予防改善講習会
+DTSTART:20130126T100000
+LOCATION:中央体育館
+END:VEVENT
+END:VCALENDAR

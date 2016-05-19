@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:こべっこランド（1）ミュージカル～忍者の物語
+DESCRIPTION:（1）ミュージカル～忍者の物語\n対象は18歳未満（就学前は保護者同伴）\n日時は9月8日（日曜）14時～\n料金は無料\n（2）こべっこランドのあきまつり\n対象は18歳未満（就学前は保護者同伴）\n日時は9月14日（土曜）～16日（月曜・祝日）13時～・14時30分～\n料金は無料\n（3）こべっこパーク～新聞紙で遊ぼう\n対象は5歳～小学生\n日時は9月29日（日曜）13時30分～・15時～\n料金は無料\n問い合わせは電話382-1300、FAX351-0684
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1309/info06.html#こべっこランド#1
+DTSTART:20130908T140000
+END:VEVENT
+END:VCALENDAR

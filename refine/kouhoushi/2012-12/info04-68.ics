@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:神戸空港でクリスマス
+DESCRIPTION:ウルトラサンタ（23日）やハンドベル演奏等\n日時は12月23日（日曜・祝日）～25日（火曜）\n料金は無料\n問い合わせは同総合案内所（電話304-7777、FAX304-0678）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1212/info04.html#神戸空港でクリスマス
+DTSTART:20121223
+DTEND:20121226
+END:VEVENT
+END:VCALENDAR

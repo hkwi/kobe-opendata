@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:自然の材料で作る親子工作教室
+DESCRIPTION:自然の材料でクリスマスリースを作る\n日時は12月9日（日曜）10時～\n場所はリサイクル工房あづま\n料金は無料\n申し込みは11月12日（月曜）～先着順\n問い合わせは電話・FAX221-3144
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1211/info04.html#自然の材料で作る親子工作教室
+DTSTART:20121209T100000
+LOCATION:リサイクル工房あづま
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:神戸マイスターフェスティバル
+DESCRIPTION:日時は9月28日（土曜）10時～17時\n場所はデュオドーム（JR神戸駅南側地下）\n問い合わせは産業振興局庶務課（電話322-5324、FAX322-6070）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1309/info06.html#神戸マイスターフェスティバル
+DTSTART:20130928T100000
+DTEND:20130928T170000
+LOCATION:デュオドーム（JR神戸駅南側地下）
+END:VEVENT
+END:VCALENDAR

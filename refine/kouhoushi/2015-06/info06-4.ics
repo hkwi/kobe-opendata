@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:わがまちコンサート（市混声合唱団）
+DESCRIPTION:日時は6月12日（金曜）14時～\n場所は新長田ピフレホール\n料金は1\,500円\n問い合わせは市演奏協会（電話361-7241、FAX361-7182）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1506/info06.html#わがまちコンサート（市混声合唱団）
+DTSTART:20150612T140000
+LOCATION:新長田ピフレホール
+END:VEVENT
+END:VCALENDAR

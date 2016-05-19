@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:市民山の会ハイキング
+DESCRIPTION:須磨寺公園～高尾山～東山～板宿八幡\n日時は3月17日（日曜）9時集合\n場所は山陽須磨寺駅\n料金は無料\n問い合わせは市総合コールセンター（電話333-3330、FAX333-3314）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1303/info04.html#市民山の会ハイキング
+DTSTART:20130317T090000
+LOCATION:山陽須磨寺駅
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ファッション美術館（3）ドキドキワクワク飴細工実演
+DESCRIPTION:（1）特別展示「ファッションの玉手箱」\n日時は7月8日（火曜）まで\n料金は無料（別途入園料等が必要）\n（2）展示解説「ファッションの玉手箱」\n日時は5月10日（土曜）14時～\n料金は無料（別途入園料等が必要）\n（3）ドキドキワクワク飴細工実演\n日時は5月10日（土曜）・11日（日曜）14時～\n料金は無料\n問い合わせは電話858-0050、FAX858-0058
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1405/info06.html#ファッション美術館#3
+DTSTART:20140510T140000
+RRULE:FREQ=DAILY;BYMONTHDAY=11;COUNT=1
+END:VEVENT
+END:VCALENDAR

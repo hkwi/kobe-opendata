@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:親子で一緒にはじめてのテニス
+DESCRIPTION:対象は5～8歳と保護者\n日時は5月17日（日曜）10時～・13時～\n場所は総合運動公園\n料金は1人540円\n申し込みは電話か直接。先着順\n問い合わせは電話794-0911、FAX793-2102
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1504/info05.html#親子で一緒にはじめてのテニス
+DTSTART:20150517T100000
+RRULE:FREQ=DAILY;BYHOUR=13;BYMINUTE=0;COUNT=1
+LOCATION:総合運動公園
+END:VEVENT
+END:VCALENDAR

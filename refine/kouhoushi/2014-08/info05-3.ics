@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:スポーツイベント観戦情報（有料）（1）ヴィッセル神戸VSアルビレックス新潟
+DESCRIPTION:（1）ヴィッセル神戸VSアルビレックス新潟\n日時は8月9日（土曜）19時～\n場所はノエビアスタジアム神戸\n（2）オリックスVS千葉ロッテ\n日時は8月27日（水曜）18時～\n場所はほっともっとフィールド神戸\n（3）アメフットエレコム神戸VSパナソニック\n日時は8月30日（土曜）17時～\n場所は王子スタジアム\n問い合わせは市スポーツ教育協会（電話261-3620、FAX261-8020）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1408/info05.html#スポーツイベント観戦情報（有料）#1
+DTSTART:20140809T190000
+LOCATION:ノエビアスタジアム神戸
+END:VEVENT
+END:VCALENDAR

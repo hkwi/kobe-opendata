@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:市ホームページデザイン公開コンペ
+DESCRIPTION:日時は5月25日（土曜）15時～\n場所はデザイン・クリエイティブセンター神戸\n料金は無料\n申し込みははがきかFAXで広報課（〒650-8570住所不要）へ。5月20日（月曜）消印有効\n問い合わせは電話322-5013、FAX322-6007
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1305/info06.html#市ホームページデザイン公開コンペ
+DTSTART:20130525T150000
+LOCATION:デザイン・クリエイティブセンター神戸
+END:VEVENT
+END:VCALENDAR

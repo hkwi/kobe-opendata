@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ブラジル移民の事をもっと知ろう
+DESCRIPTION:日時は4月26日（日曜）13時～\n場所は海外移住と文化の交流センター\n料金は無料\n申し込みは電話かFAXで同センター（電話272-2362、FAX272-2210）へ。先着順\n問い合わせは国際交流推進部（電話322-5010、FAX322-2382）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1504/info06.html#ブラジル移民の事をもっと知ろう
+DTSTART:20150426T130000
+LOCATION:海外移住と文化の交流センター
+END:VEVENT
+END:VCALENDAR

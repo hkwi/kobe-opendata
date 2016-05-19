@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:青少協60周年記念式典
+DESCRIPTION:青少年育成委員功労者表彰式と講演会\n日時は11月7日（水曜）13時30分～\n場所は文化ホール\n料金は無料\n申し込みは当日先着順\n問い合わせはこども青少年課（電話322-5181、FAX322-6043）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1210/info04.html#青少協60周年記念式典
+DTSTART:20121107T133000
+LOCATION:文化ホール
+END:VEVENT
+END:VCALENDAR

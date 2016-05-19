@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:こうべ花絵じゅうたん
+DESCRIPTION:6.5万鉢の花壇苗を使った巨大な花絵登場\n日時は10月28日（日曜）～11月19日（月曜）\n場所はプレンティ広場\n料金は無料\n問い合わせは市総合コールセンター（電話333-3330、FAX333-3314）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1210/info04.html#こうべ花絵じゅうたん
+DTSTART:20121028
+DTEND:20121120
+LOCATION:プレンティ広場
+END:VEVENT
+END:VCALENDAR

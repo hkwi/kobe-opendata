@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:公民館サマースクール（詳細は問を）
+DESCRIPTION:対象は小・中学生\n日時は7月18日（土曜）～\n料金は一部有料\n申し込みは往復はがきか直接各公民館へ。7月3日（金曜）必着。抽選\n問い合わせは住之江（電話822-1300、FAX822-7037）・葺合（電話232-4026、FAX232-4028）・清風（電話371-3319、FAX371-3327）・長田（電話575-1374、FAX575-1785）・南須磨（電話735-2770、FAX735-2782）・東垂水（電話753-5025、FAX753-0191）・玉津南（電話914-4300、FAX914-8277）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1506/info06.html#公民館サマースクール（詳細は問を）
+DTSTART:20150718
+END:VEVENT
+END:VCALENDAR

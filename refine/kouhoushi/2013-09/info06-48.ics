@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:菜種油のハンドクリーム作り
+DESCRIPTION:日時は9月26日（木曜）10時～\n場所は総合運動公園\n料金は500円\n申し込みは往復はがき（〒654-0163緑台）かFAXで。9月17日（火曜）必着。抽選\n問い合わせは電話795-5151、FAX792-3122
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1309/info06.html#菜種油のハンドクリーム作り
+DTSTART:20130926T100000
+LOCATION:総合運動公園
+END:VEVENT
+END:VCALENDAR

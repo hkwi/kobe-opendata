@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ふれあいパターゴルフ大会
+DESCRIPTION:対象は18歳以上\n日時は10月19日（日曜）9時～\n場所はしあわせの村\n料金は1\,000円\n申し込みははがきかFAX（障害の有無も記入）で身体障害者団体連合会（〒650-0016橘通3-4-1、FAX341-7706）へ。10月10日（金曜）必着。抽選\n問い合わせは障害者支援課（電話322-6332、FAX322-6065）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1410/info05.html#ふれあいパターゴルフ大会
+DTSTART:20141019T090000
+LOCATION:しあわせの村
+END:VEVENT
+END:VCALENDAR

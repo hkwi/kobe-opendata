@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ピフレホールの催し（2）韓国・朝鮮家庭料理
+DESCRIPTION:（1）ピフレシネマサロン\n映画「HOME～愛しの座敷わらし」上映\n日時は1月24日（木曜）10時30分～・13時30分～・16時30分～\n料金は有料\n（2）韓国・朝鮮家庭料理\n韓国・朝鮮家庭料理を作ります\n日時は1月26日（土曜）10時～\n料金は2\,500円\n申し込みは先着順\n問い合わせは電話621-1120、FAX621-0914
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1301/info04.html#ピフレホールの催し#2
+DTSTART:20130126T100000
+END:VEVENT
+END:VCALENDAR

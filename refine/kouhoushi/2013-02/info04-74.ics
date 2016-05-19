@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:池田清彦先生講演会
+DESCRIPTION:生物学者池田先生によるいきもののお話\n対象は18歳以上\n日時は3月4日（月曜）14時30分～\n場所は産業振興センター\n料金は無料\n申し込みは往復はがき（4人以内）に住所・氏名・年齢・性別・電話番号を記入し、地球環境課（〒650-8570住所不要）へ。2月18日（月曜）必着。抽選\n問い合わせは電話322-6678、FAX322-6068
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1302/info04.html#池田清彦先生講演会
+DTSTART:20130304T143000
+LOCATION:産業振興センター
+END:VEVENT
+END:VCALENDAR

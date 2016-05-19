@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:性暴力被害者支援を考える講演会
+DESCRIPTION:性暴力救援センターの機能と役割について\n日時は10月6日（土曜）15時～\n場所はあすてっぷKOBE\n料金は1\,000円\n申し込みは先着順\n問い合わせは電話361-6977、FAX361-6477
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1208/info04.html#性暴力被害者支援を考える講演会
+DTSTART:20121006T150000
+LOCATION:あすてっぷKOBE
+END:VEVENT
+END:VCALENDAR

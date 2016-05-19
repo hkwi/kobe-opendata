@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:アジア・デザイン都市フォーラム
+DESCRIPTION:日時は11月30日（土曜）15時～\n場所はデザイン・クリエイティブセンター\n料金は無料\n申し込みはFAXで同事務局（FAX802-9811）へ。先着順\n問い合わせはデザイン都市推進室（電話322-6573、FAX322-6051）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1311/info06.html#アジア・デザイン都市フォーラム
+DTSTART:20131130T150000
+LOCATION:デザイン・クリエイティブセンター
+END:VEVENT
+END:VCALENDAR

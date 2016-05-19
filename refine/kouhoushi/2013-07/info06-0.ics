@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:神戸港振興協会の催し（3）三菱しんせんサマースクール
+DESCRIPTION:（1）日本ボトルシップ協会新作発表展\n日時は7月6日（土曜）～21日（日曜）10時～17時（21日は14時まで）\n場所は海洋博物館\n料金は無料（別途入園料等が必要）\n（2）海上保安庁展\n日時は7月23日（火曜）～9月1日（日曜）10時～17時\n場所は海洋博物館\n料金は無料（別途入園料等が必要）\n（3）三菱しんせんサマースクール\n対象は小学4～6年生と保護者\n日時は8月1日（木曜）13時30分～17時\n場所は三菱重工業神戸造船所（兵庫区和田崎町1）\n料金は無料\n申し込みは往復はがき（〒650-0042波止場町2-2）で。7月8日（月曜）消印有効。抽選\n問い合わせは電話327-8982、FAX332-4739
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1307/info06.html#神戸港振興協会の催し#3
+DTSTART:20130801T133000
+DTEND:20130801T170000
+LOCATION:三菱重工業神戸造船所（兵庫区和田崎町1）
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:客船フェスタ
+DESCRIPTION:日時は10月14日（月曜・祝日）13時～18時\n場所はポートターミナル\n料金は無料\n問い合わせは振興課（電話322-5670、FAX322-6121）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1310/info06.html#客船フェスタ
+DTSTART:20131014T130000
+DTEND:20131014T180000
+LOCATION:ポートターミナル
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:須磨アクアイルミナージュ
+DESCRIPTION:夜の水族館を約300万球のイルミネーションで幻想的に演出します。イルカプールと壁面をスクリーンにしたプロジェクションマッピング（立体映像）の上映や、人の動きに反応して色が変わる体験型イルミネーションを楽しむことができます。\n日時は12月5日（土曜）～2月29日（月曜）\n17時30分～21時（入場は20時まで）\n場所は須磨海浜水族園\n料金は大人2\,000円（18歳以上）、中・小人1\,000円（3歳以上）、3歳未満無料\n詳細はホームページで\nホームページ（外部リンク）\n問い合わせは須磨海浜水族園（電話731-7301、FAX733-6333）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1512/info00-04.html#須磨アクアイルミナージュ
+DTSTART:20151205
+DTEND:20160301
+LOCATION:須磨海浜水族園
+END:VEVENT
+END:VCALENDAR

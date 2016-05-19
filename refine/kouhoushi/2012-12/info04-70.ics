@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ピアノフェスティバル
+DESCRIPTION:アマチュアとプロのピアニストによる演奏\n日時は12月28日（金曜）13時～\n場所は文化ホール\n料金は無料\n問い合わせは市民文化振興財団（電話361-9200、FAX351-3121）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1212/info04.html#ピアノフェスティバル
+DTSTART:20121228T130000
+LOCATION:文化ホール
+END:VEVENT
+END:VCALENDAR

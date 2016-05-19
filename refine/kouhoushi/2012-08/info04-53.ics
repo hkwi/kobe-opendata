@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ラインの館親子ミニシネマ上映
+DESCRIPTION:アニメ映画「11ぴきのねこ」を上映します\n対象は小学生と保護者\n日時は8月31日（金曜）18時30分～\n料金は無料\n申し込みは8月21日（火曜）消印有効\n問い合わせは文化財課（電話322-5798、FAX322-6148）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1208/info04.html#ラインの館親子ミニシネマ上映
+DTSTART:20120831T183000
+END:VEVENT
+END:VCALENDAR

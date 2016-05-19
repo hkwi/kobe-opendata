@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:銅鐸をつくろう
+DESCRIPTION:自作の鋳型で銅鐸を製作（全2回）\n日時は7月16日（月曜・祝日）・22日（日曜）14時～\n場所は埋蔵文化財センター\n料金は1\,000円\n申し込みは7月1日（日曜）必着\n問い合わせは電話992-0656、FAX992-5201
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1206/info04.html#銅鐸をつくろう
+DTSTART:20120716T140000
+RRULE:FREQ=DAILY;BYMONTHDAY=22;COUNT=1
+LOCATION:埋蔵文化財センター
+END:VEVENT
+END:VCALENDAR

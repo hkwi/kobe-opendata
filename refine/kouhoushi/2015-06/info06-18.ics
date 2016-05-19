@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:さかなの学校（2）チリメンの佃煮とおにぎりづくり
+DESCRIPTION:（1）七夕飾りづくり\n日時は6月13日（土曜）～7月7日（火曜）\n料金は700円\n（2）チリメンの佃煮とおにぎりづくり\n対象は小学生以上（小学生は保護者同伴）\n日時は6月28日（日曜）10時30分～\n料金は1\,000円\n申し込みは往復はがき（〒655-0036海岸通12-4）かFAXで。6月15日（月曜）消印有効。抽選\n（3）ちりめんキャラクターをさがそう\n対象は5歳以上（小学生以下は保護者同伴）\n日時は7月19日（日曜）10時30分～\n料金は1\,650円（2人1組）\n申し込みは往復はがき（〒655-0036海岸通12-4）かFAXで。7月6日（月曜）消印有効。抽選\n問い合わせは電話706-5550、FAX706-5636
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1506/info06.html#さかなの学校#2
+DTSTART:20150628T103000
+END:VEVENT
+END:VCALENDAR

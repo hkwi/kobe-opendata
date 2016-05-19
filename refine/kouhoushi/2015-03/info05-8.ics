@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:スポーツイベント観戦情報（有料）（3）INAC神戸VS岡山湯郷ベル
+DESCRIPTION:（1）NBL兵庫ストークスVS日立東京\n日時は3月21日（土曜・祝日）14時～・22日（日曜）13時～\n場所は中央体育館\n（2）ヴィッセル神戸VSモンテディオ山形\n日時は3月28日（土曜）17時～\n場所はノエビアスタジアム神戸\n（3）INAC神戸VS岡山湯郷ベル\n日時は4月5日（日曜）13時～\n場所はノエビアスタジアム神戸\n問い合わせは市スポーツ教育協会（電話261-3620、FAX261-8020）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1503/info05.html#スポーツイベント観戦情報（有料）#3
+DTSTART:20150405T130000
+LOCATION:ノエビアスタジアム神戸
+END:VEVENT
+END:VCALENDAR

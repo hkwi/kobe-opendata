@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ファッション美術館（1）ウールの衣服展 ギャラリートーク
+DESCRIPTION:（1）ウールの衣服展 ギャラリートーク\n日時は2月15日（土曜）14時～\n料金は無料（別途入園料等が必要）\n（2）指編みでウールのマフラーを編もう\n対象は小学生\n日時は2月22日（土曜）13時30分～\n料金は無料\n申し込みは往復はがき（〒658-0032向洋町中2-9-1）かFAXで。2月8日（土曜）消印有効。抽選\n問い合わせは電話858-0050、FAX858-0058
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1402/info06.html#ファッション美術館#1
+DTSTART:20140215T140000
+END:VEVENT
+END:VCALENDAR

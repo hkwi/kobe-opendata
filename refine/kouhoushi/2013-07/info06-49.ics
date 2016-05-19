@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:夏休み親子UD体験教室
+DESCRIPTION:対象は小学3～6年生と保護者\n日時は8月7日（水曜）10時～16時\n場所は須磨海浜水族園等\n料金は1\,000円\n申し込みははがきかFAXで市民福祉振興協会（北区山田町下谷上字中一里山14-1）へ。7月19日（金曜）必着。抽選\n問い合わせは電話743-8193、FAX743-8180
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1307/info06.html#夏休み親子UD体験教室
+DTSTART:20130807T100000
+DTEND:20130807T160000
+LOCATION:須磨海浜水族園等
+END:VEVENT
+END:VCALENDAR

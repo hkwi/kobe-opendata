@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:市民山の会ハイキング（1）紅葉の散策
+DESCRIPTION:（1）紅葉の散策\n日時は11月16日（日曜）9時集合\n場所はJR住吉駅\n料金は無料\n（2）離宮公園へ\n日時は12月7日（日曜）9時集合\n場所は山陽電鉄板宿駅\n料金は無料\n問い合わせは市総合コールセンター（電話333-3330、FAX333-3314）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1411/info05.html#市民山の会ハイキング#1
+DTSTART:20141116T090000
+LOCATION:JR住吉駅
+END:VEVENT
+END:VCALENDAR

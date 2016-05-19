@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:新開地ジャズヴォーカル本選
+DESCRIPTION:日時は5月9日（土曜）15時～19時15分\n場所はアートビレッジセンター\n料金は3\,000円\n申し込みは直接新開地まちづくりNPO（兵庫区新開地3）へ。先着順\n問い合わせは文化交流部（電話322-6598、FAX322-6136）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1504/info06.html#新開地ジャズヴォーカル本選
+DTSTART:20150509T150000
+DTEND:20150509T191500
+LOCATION:アートビレッジセンター
+END:VEVENT
+END:VCALENDAR

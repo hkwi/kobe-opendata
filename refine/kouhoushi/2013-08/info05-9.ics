@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:少年団六甲ミニ全山縦走
+DESCRIPTION:対象は小学4年～中学生\n日時は9月7日（土曜）9時～15時\n場所はAコース:須磨浦公園駅、Bコース:湊川公園、Cコース:新神戸駅\n料金は無料\n申し込みは往復はがきでスポーツ体育課（〒650-8570住所不要）へ。8月26日（月曜）消印有効。抽選\n問い合わせは電話322-5804、FAX322-6149
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1308/info05.html#少年団六甲ミニ全山縦走
+DTSTART:20130907T090000
+DTEND:20130907T150000
+LOCATION:Aコース:須磨浦公園駅、Bコース:湊川公園、Cコース:新神戸駅
+END:VEVENT
+END:VCALENDAR

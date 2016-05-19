@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:宝の地図で宝探し！親子測量教室
+DESCRIPTION:対象は小学3年～中学生\n日時は5月25日（土曜）13時～16時30分\n場所は東遊園地\n料金は1人300円\n申し込みははがきかFAXで道路部計画課（〒650-8570住所不要）へ。5月10日（金曜）必着。抽選\n問い合わせは電話322-5389、FAX391-7772
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1305/info04.html#宝の地図で宝探し！親子測量教室
+DTSTART:20130525T130000
+DTEND:20130525T163000
+LOCATION:東遊園地
+END:VEVENT
+END:VCALENDAR

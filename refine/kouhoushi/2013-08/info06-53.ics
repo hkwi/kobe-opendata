@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:神戸建築物語
+DESCRIPTION:日時は9月14日（土曜）10時～16時\n場所はThe 45th（中央区播磨町45）\n料金は無料\n申し込みは往復はがき（4人以内。〒650-8570住所不要）でまちのデザイン室へ。8月20日（火曜）必着。抽選\n問い合わせは電話322-5490、FAX322-6096
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1308/info06.html#神戸建築物語
+DTSTART:20130914T100000
+DTEND:20130914T160000
+LOCATION:The 45th（中央区播磨町45）
+END:VEVENT
+END:VCALENDAR

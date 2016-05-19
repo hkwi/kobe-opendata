@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:水中写真展「海中生物の顔」
+DESCRIPTION:日時は5月24日（土曜）～6月29日（日曜）\n場所は海洋博物館\n料金は無料（別途入園料等が必要）\n問い合わせは電話327-8983、FAX391-6756
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1406/info06.html#水中写真展「海中生物の顔」
+DTSTART:20140524
+DTEND:20140630
+LOCATION:海洋博物館
+END:VEVENT
+END:VCALENDAR

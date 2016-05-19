@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:障害者スポーツ振興センターの催し（1）市ふれあいロードレース大会
+DESCRIPTION:（1）市ふれあいロードレース大会\n3キロメートル・2キロメートル・1キロメートルと障害別に分かれて競技する\n対象は13歳以上の障害者手帳所持者\n日時は12月8日（土曜）9時30分～\n場所はユニバー記念競技場\n料金は無料\n申し込みははがきに住所・氏名・年齢・電話番号・障害内容・等級を記入し、同センター（〒651-0086磯上通3-1-32）へ。11月15日（木曜）消印有効。抽選\n（2）障害者スポーツ指導者養成講習会\n障害者スポーツの初級指導者を養成する\n日時は25年1月13日（日曜）9時～。5回\n場所は市民福祉交流センター\n料金は3\,750円\n申し込みは12月15日（土曜）消印有効\n問い合わせは電話271-5330、FAX271-5367
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1211/info04.html#障害者スポーツ振興センターの催し#1
+DTSTART:20121208T093000
+LOCATION:ユニバー記念競技場
+END:VEVENT
+END:VCALENDAR

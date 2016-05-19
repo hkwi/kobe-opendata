@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:はじめよう！ フットサル
+DESCRIPTION:日時は5月16日（金曜）19時～\n場所はグリーンアリーナ\n料金は1\,000円\n申し込みは電話か直接。先着順\n問い合わせは電話796-1126、FAX796-1192
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1405/info05.html#はじめよう！ フットサル
+DTSTART:20140516T190000
+LOCATION:グリーンアリーナ
+END:VEVENT
+END:VCALENDAR

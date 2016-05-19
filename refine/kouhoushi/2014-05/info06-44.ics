@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ろうごの日のつどい
+DESCRIPTION:日時は6月5日（木曜）13時～16時20分\n場所は文化ホール\n料金は無料\n申し込みは往復はがきで市老人福祉施設連盟（〒650-0016橘通3-4-1）へ。5月26日（月曜）消印有効。抽選\n問い合わせは高齢福祉課（電話322-5219、FAX322-6046）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1405/info06.html#ろうごの日のつどい
+DTSTART:20140605T130000
+DTEND:20140605T162000
+LOCATION:文化ホール
+END:VEVENT
+END:VCALENDAR

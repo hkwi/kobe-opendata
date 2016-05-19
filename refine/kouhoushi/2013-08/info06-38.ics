@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:有馬温泉金の湯・銀の湯（3）シルバーデー（割引あり）
+DESCRIPTION:（1）ミント湯\n日時は8月24日（土曜）・25日（日曜）\n料金は有料\n（2）漢方薬草サウナ\n日時は8月24日（土曜）・25日（日曜）\n料金は有料\n（3）シルバーデー（割引あり）\n対象は65歳以上（要証明）\n日時は8月28日（水曜）\n料金は有料\n問い合わせは国際観光コンベンション協会（電話904-0680、FAX907-3370）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1308/info06.html#有馬温泉金の湯・銀の湯#3
+DTSTART:20130828
+END:VEVENT
+END:VCALENDAR

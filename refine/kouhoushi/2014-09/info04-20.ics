@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:こうべいい歯の講演会と歯科相談会
+DESCRIPTION:日時は9月27日（土曜）13時30分～\n場所は勤労会館\n料金は無料\n申し込みははがきかFAX（歯科相談の有無も記入）で地域保健課（〒650-8570住所不要）へ。9月19日（金曜）必着。抽選\n問い合わせは電話322-6514、FAX322-6052
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1409/info04.html#こうべいい歯の講演会と歯科相談会
+DTSTART:20140927T133000
+LOCATION:勤労会館
+END:VEVENT
+END:VCALENDAR

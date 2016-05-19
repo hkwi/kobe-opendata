@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:絵本の読み聞かせびと養成講座（1）ステップアップコース
+DESCRIPTION:（1）ステップアップコース\n日時は10月14日～、水曜10時～。5回\n場所は教育・地域連携センター\n料金は1\,500円\n申し込みは往復はがきで教育・地域連携センター（〒653-0042二葉町7-1-18）へ。9月18日（金曜）消印有効。抽選\n（2）初級コース\n日時は（a）10月15日～、木曜10時30分～。5回\n（b）10月16日～、金曜10時～。5回\n場所は（a）東灘図書館（b）教育・地域連携センター\n料金は1\,800円\n申し込みは往復はがきで教育・地域連携センター（〒653-0042二葉町7-1-18）へ。9月18日（金曜）消印有効。抽選\n問い合わせは電話641-5013、FAX641-5015
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1509/info04.html#絵本の読み聞かせびと養成講座#1
+DTSTART:20151014T100000
+RRULE:FREQ=WEEKLY;COUNT=5
+LOCATION:教育・地域連携センター
+END:VEVENT
+END:VCALENDAR

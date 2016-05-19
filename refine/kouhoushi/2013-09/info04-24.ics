@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:消費生活講座「気になる健康食品」
+DESCRIPTION:日時は10月5日（土曜）13時～\n場所はあすてっぷKOBE\n料金は無料\n申し込みは電話で。先着順\n問い合わせは消費生活課（電話322-5185、FAX322-6036）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1309/info04.html#消費生活講座「気になる健康食品」
+DTSTART:20131005T130000
+LOCATION:あすてっぷKOBE
+END:VEVENT
+END:VCALENDAR

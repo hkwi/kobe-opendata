@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:六甲山牧場（2）新春福引抽選会
+DESCRIPTION:（1）牧場オリジナルカレンダーを進呈\n各日先着100人に各ゲートにて無料配布\n日時は1月2日（水曜）・3日（木曜）9時～\n料金は入場料が必要\n（2）新春福引抽選会\n1回のレジが2\,000円以上で抽選。空くじなし\n日時は1月2日（水曜）・3日（木曜）9時～\n料金は入場料が必要\n（3）初売り！福袋限定販売\n牧場オリジナル商品が満杯の福袋50個限定\n日時は1月2日（水曜）9時～\n料金は3\,000円（入場料が必要）\n問い合わせは電話891-0280、FAX891-0592
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1212/info04.html#六甲山牧場#2
+DTSTART:20130102T090000
+RRULE:FREQ=DAILY;BYMONTHDAY=3;COUNT=1
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:市演奏協会のコンサート（2）舞子ビラ 海のコンサート
+DESCRIPTION:（1）わがまちコンサートピフレ\n市混声合唱団\n日時は12月14日（金曜）18時30分～\n場所はピフレホール\n料金は1\,500円\n（2）舞子ビラ 海のコンサート\n市室内合奏団\n日時は12月21日（金曜）14時～\n料金は1\,500円\n問い合わせは電話361-7241、FAX361-7182
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1212/info04.html#市演奏協会のコンサート#2
+DTSTART:20121221T140000
+END:VEVENT
+END:VCALENDAR

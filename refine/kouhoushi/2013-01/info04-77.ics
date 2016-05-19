@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:健康ライフプラザ（3）健診結果の見方・生かし方
+DESCRIPTION:（1）ロボット手術の現状と課題\nロボットによる泌尿器の手術の方法とは\n対象は中学生以上\n日時は1月26日（土曜）13時30分～\n料金は500円\n（2）放射線医学の最先端\n小さく見つけてやさしく治すがん治療とは\n対象は中学生以上\n日時は2月9日（土曜）13時30分～\n料金は500円\n（3）健診結果の見方・生かし方\n胃・肝臓等の検査を中心に\n対象は中学生以上\n日時は3月2日（土曜）13時30分～\n料金は無料\n申し込みは先着順\n問い合わせは電話652-5202、FAX652-5211
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1301/info04.html#健康ライフプラザ#3
+DTSTART:20130302T133000
+END:VEVENT
+END:VCALENDAR

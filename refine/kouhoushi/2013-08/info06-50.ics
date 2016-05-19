@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:神戸ゴルフ倶楽部での植物観察会
+DESCRIPTION:対象は小学生以上\n日時は9月3日（火曜）13時～\n場所は神戸ゴルフ倶楽部（灘区六甲山町一ヶ谷1）\n料金は無料\n申し込みは往復はがきで環境評価共生推進室（〒650-8570住所不要）へ。8月12日（月曜）消印有効。抽選\n問い合わせは電話322-5316、FAX322-6069
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1308/info06.html#神戸ゴルフ倶楽部での植物観察会
+DTSTART:20130903T130000
+LOCATION:神戸ゴルフ倶楽部（灘区六甲山町一ヶ谷1）
+END:VEVENT
+END:VCALENDAR

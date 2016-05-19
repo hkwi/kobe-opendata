@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:スポーツイベント観戦情報（有料）（1）デウソン神戸VSアグレミーナ浜松
+DESCRIPTION:（1）デウソン神戸VSアグレミーナ浜松\n日時は11月9日（土曜）19時～\n場所はグリーンアリーナ\n（2）ヴィッセル神戸VSロアッソ熊本\n日時は11月24日（日曜）12時30分～\n場所はノエビアスタジアム神戸\n（3）大学アメフト・西日本代表校決定戦\n日時は12月1日（日曜）14時～\n場所は王子スタジアム\n問い合わせは市スポーツ教育協会（電話261-3620、FAX261-8020）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1311/info05.html#スポーツイベント観戦情報（有料）#1
+DTSTART:20131109T190000
+LOCATION:グリーンアリーナ
+END:VEVENT
+END:VCALENDAR

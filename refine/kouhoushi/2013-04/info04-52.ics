@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:自然の家（1）ジュニアリーダーと遊ぼう
+DESCRIPTION:（1）ジュニアリーダーと遊ぼう\nリーダーたちと楽しい一日を過ごします\n対象は小学２～6年生\n日時は5月18日（土曜）9時～\n料金は有料\n申し込みは4月10日（水曜）～先着順\n（2）アウトドア入門親子キャンプ\n家族でテントをはり野外炊さんをします\n日時は5月25日（土曜）～、1泊2日\n料金は有料\n申し込みは4月10日（水曜）～先着順\n問い合わせは電話891-0001、FAX891-0002
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1304/info04.html#自然の家#1
+DTSTART:20130518T090000
+END:VEVENT
+END:VCALENDAR

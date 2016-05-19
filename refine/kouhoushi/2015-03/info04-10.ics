@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:てん刻教室
+DESCRIPTION:日時は3月26日（木曜）10時～\n場所は北須磨文化センター\n料金は700円\n申し込みは電話かFAXか直接。3月8日（日曜）～先着順\n問い合わせは電話791-0840、FAX792-0700
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1503/info04.html#てん刻教室
+DTSTART:20150326T100000
+LOCATION:北須磨文化センター
+END:VEVENT
+END:VCALENDAR

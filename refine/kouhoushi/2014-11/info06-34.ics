@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:市演奏協会のコンサート（1）あなたに贈るコンサート
+DESCRIPTION:（1）あなたに贈るコンサート\n日時は11月15日（土曜）14時～\n場所は北神区民センター\n料金は1\,500円\n（2）海のコンサート（市室内合奏団）\n日時は11月21日（金曜）14時～\n場所は舞子ビラ\n料金は1\,500円\n（3）定期演奏会（市室内合奏団）\n日時は12月5日（金曜）19時～\n場所は松方ホール（中央区東川崎町1）\n料金は3\,000円\n（4）あなたに贈るコンサート\n日時は12月7日（日曜）14時～\n場所は灘区民センター\n料金は1\,500円\n問い合わせは電話361-7241、FAX361-7182
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1411/info06.html#市演奏協会のコンサート#1
+DTSTART:20141115T140000
+LOCATION:北神区民センター
+END:VEVENT
+END:VCALENDAR

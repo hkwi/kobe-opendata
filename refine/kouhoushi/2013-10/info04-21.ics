@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:まちづくり会館20周年記念の催し（1）元町まち歩き～魅力再発見
+DESCRIPTION:（1）元町まち歩き～魅力再発見\n日時は11月10日（日曜）10時～\n料金は無料\n申し込みは往復はがき（〒650-0022元町通4-2-14）かFAXで。10月20日（日曜）必着。抽選\n（2）田辺眞人が語る元町歴史講演会\n日時は11月17日（日曜）14時～\n料金は無料\n申し込みは往復はがき（〒650-0022元町通4-2-14）かFAXで。10月30日（水曜）必着。抽選\n問い合わせは電話361-4523、FAX361-4546
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1310/info04.html#まちづくり会館20周年記念の催し#1
+DTSTART:20131110T100000
+END:VEVENT
+END:VCALENDAR

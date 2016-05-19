@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:森林整備事務所の催し（1）こうべ森の学校・森の手入れと観察
+DESCRIPTION:（1）こうべ森の学校・森の手入れと観察\n対象は小学4年生以上\n日時は11月8日（土曜）10時30分～15時\n場所は再度公園\n料金は無料\n（2）市立外国人墓地一般公開\n日時は11月23日（日曜・祝日）10時30分～・13時30分～\n場所は再度公園\n料金は無料\n申し込みは往復はがき（北区山田町下谷上字中一里山4-1）で。11月10日（月曜）消印有効。抽選\n問い合わせは電話371-5937、FAX371-1087
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1411/info06.html#森林整備事務所の催し#1
+DTSTART:20141108T103000
+DTEND:20141108T150000
+LOCATION:再度公園
+END:VEVENT
+END:VCALENDAR

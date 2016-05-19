@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:親子で楽しむ子どもスマホ体験教室
+DESCRIPTION:対象は小学3年生～中学生と保護者\n日時は8月21日（水曜）13時～\n場所は灘浜サイエンススクエア（灘区灘浜東町2）\n料金は無料\n申し込みははがきかFAXで情報化推進部（〒650-8570住所不要）へ。8月12日（月曜）必着。抽選\n問い合わせは電話322-5042、FAX322-6199
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1308/info06.html#親子で楽しむ子どもスマホ体験教室
+DTSTART:20130821T130000
+LOCATION:灘浜サイエンススクエア（灘区灘浜東町2）
+END:VEVENT
+END:VCALENDAR

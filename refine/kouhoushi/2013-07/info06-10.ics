@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:神戸ゆかりの美術館（1）人物スケッチを楽しもう
+DESCRIPTION:（1）人物スケッチを楽しもう\n対象は小学生以上と保護者\n日時は7月20日（土曜）10時30分～\n料金は無料（別途入園料等が必要）\n申し込みは往復はがき（〒658-0032向洋町中2-9-1）で。7月10日（水曜）消印有効。抽選\n（2）美術館バックヤードツアー\n対象は小・中学生\n日時は8月8日（木曜）10時30分～\n料金は無料（別途入園料等が必要）\n申し込みは往復はがき（〒658-0032向洋町中2-9-1）で。7月29日（月曜）消印有効。抽選\n問い合わせは電話858-1520、FAX858-1522
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1307/info06.html#神戸ゆかりの美術館#1
+DTSTART:20130720T103000
+END:VEVENT
+END:VCALENDAR

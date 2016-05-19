@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ひょうごヒューマンフェスティバル
+DESCRIPTION:日時は8月8日（土曜）9時30分～15時30分\n場所は文化体育館（長田区蓮池町1）\n料金は無料\n問い合わせは人権推進課（電話322-5234、FAX322-6048）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1508/info06.html#ひょうごヒューマンフェスティバル
+DTSTART:20150808T093000
+DTEND:20150808T153000
+LOCATION:文化体育館（長田区蓮池町1）
+END:VEVENT
+END:VCALENDAR

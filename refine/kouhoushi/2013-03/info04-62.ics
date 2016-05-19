@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:さわってみよう能の世界
+DESCRIPTION:能楽器と仕舞の体験と狂言・半能の鑑賞会\n対象は親子（中学生以上は1人でも可）\n日時は3月30日（土曜）13時～\n場所は上田観正会能楽堂（長田区大塚町2）\n料金は無料\n申し込みは往復はがき（4人以内）に住所・氏名・年齢・性別・電話番号を記入し、市民文化振興財団（〒650-0017楠町4-2-2）へ。3月12日（火曜）必着。抽選\n問い合わせは同財団（電話351-3597、FAX351-3121）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1303/info04.html#さわってみよう能の世界
+DTSTART:20130330T130000
+LOCATION:上田観正会能楽堂（長田区大塚町2）
+END:VEVENT
+END:VCALENDAR

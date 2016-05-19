@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:須磨離宮公園の催し（1）バラの園芸教室
+DESCRIPTION:（1）バラの園芸教室\nバラの育て方を基礎から学びます\n日時は5月25日（金曜）10時30分～\n料金は無料（入園料が必要）\n申し込みは5月15日（火曜）～先着順\n（2）バラのさし木教室\nバラのさし木を分かりやすく実習します\n日時は6月10日（日曜）10時30分～\n料金は無料（入園料が必要）\n申し込みは5月29日（火曜）～先着順\n問い合わせは電話732-6688、FAX734-6022
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1205/info04.html#須磨離宮公園の催し#1
+DTSTART:20120525T103000
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:防災教育とコミュニティ
+DESCRIPTION:日時は11月5日（火曜）15時～\n場所は危機管理センター\n料金は無料\n申し込みは電話かFAXで市総合コールセンター（電話333-3330、FAX333-3314）へ。先着順\n問い合わせは危機管理室（電話322-6487、FAX322-6031）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1310/info04.html#防災教育とコミュニティ
+DTSTART:20131105T150000
+LOCATION:危機管理センター
+END:VEVENT
+END:VCALENDAR

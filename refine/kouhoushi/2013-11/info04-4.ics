@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:中央卸売市場東部市場の催し（1）花壇造り体験
+DESCRIPTION:（1）花壇造り体験\n対象は小学生と保護者\n日時は11月16日（土曜）9時～\n料金は無料\n申し込みは往復はがき（〒658-0023深江浜町1-1）で。11月9日（土曜）消印有効。抽選\n（2）秋の季節料理\n日時は11月18日（月曜）10時～\n料金は1\,500円\n申し込みは往復はがき（〒658-0023深江浜町1-1）で。11月9日（土曜）消印有効。抽選\n問い合わせは電話413-7076、FAX413-2156
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1311/info04.html#中央卸売市場東部市場の催し#1
+DTSTART:20131116T090000
+END:VEVENT
+END:VCALENDAR

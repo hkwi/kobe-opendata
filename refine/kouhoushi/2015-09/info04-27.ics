@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:四季の和・洋・中華家庭料理教室
+DESCRIPTION:日時は10月13日～、火曜10時～。10回\n場所は生田文化会館\n料金は15\,500円\n申し込みは電話かFAXで生活指導研究会（電話・FAX351-3443）へ。9月10日（木曜）～先着順\n問い合わせはこども家庭支援課（電話322-5211、FAX322-6119）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1509/info04.html#四季の和・洋・中華家庭料理教室
+DTSTART:20151013T100000
+RRULE:FREQ=WEEKLY;COUNT=10
+LOCATION:生田文化会館
+END:VEVENT
+END:VCALENDAR

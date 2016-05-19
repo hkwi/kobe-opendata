@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:神戸識字交流会
+DESCRIPTION:日時は2月22日（日曜）13時～\n場所は生田文化会館\n料金は無料\n問い合わせは生涯学習課（電話322-6295、FAX322-6144）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1502/info06.html#神戸識字交流会
+DTSTART:20150222T130000
+LOCATION:生田文化会館
+END:VEVENT
+END:VCALENDAR

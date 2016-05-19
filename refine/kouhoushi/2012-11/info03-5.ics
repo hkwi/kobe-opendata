@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:難病医療相談会
+DESCRIPTION:日時は12月2日（日曜）13時～16時\n場所は勤労会館\n料金は無料\n問い合わせは健康づくり支援課（電話322-6517、FAX322-6053）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1211/info03.html#難病医療相談会
+DTSTART:20121202T130000
+DTEND:20121202T160000
+LOCATION:勤労会館
+END:VEVENT
+END:VCALENDAR

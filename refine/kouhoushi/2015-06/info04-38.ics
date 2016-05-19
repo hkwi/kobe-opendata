@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:市民福祉大学（3）介護セミナー「ころばぬ先のつえ」
+DESCRIPTION:（1）家にいたい!を支える在宅医療とは\n日時は7月26日（日曜）13時30分～\n場所は市民福祉交流センター\n料金は1\,000円\n申し込みははがきか電話かFAXか直接同大学（〒651-0086磯上通3-1-32）へ。7月9日（木曜）必着。抽選\n（2）ボランティア・NPO団体会計研修\n日時は8月5日（水曜）18時30分～\n場所は市民福祉交流センター\n料金は500円\n申し込みははがきか電話かFAXか直接同大学（〒651-0086磯上通3-1-32）へ。7月22日（水曜）必着。抽選\n（3）介護セミナー「ころばぬ先のつえ」\n日時は8月18日（火曜）・19日（水曜）10時～\n場所は市民福祉交流センター\n料金は2\,500円\n申し込みははがきか電話かFAXか直接同大学（〒651-0086磯上通3-1-32）へ。8月4日（火曜）必着。抽選\n問い合わせは電話271-5300、FAX271-5365
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1506/info04.html#市民福祉大学#3
+DTSTART:20150818T100000
+RRULE:FREQ=DAILY;BYMONTHDAY=19;COUNT=1
+LOCATION:市民福祉交流センター
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:歴史講演会・昭和の残映
+DESCRIPTION:企画展示関連の講演・昭和の神戸を紹介\n日時は1月19日（土曜）14時～\n場所は埋蔵文化財センター\n料金は無料\n申し込みは1月6日（日曜）必着\n問い合わせは電話992-0656、FAX992-5201
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1212/info04.html#歴史講演会・昭和の残映
+DTSTART:20130119T140000
+LOCATION:埋蔵文化財センター
+END:VEVENT
+END:VCALENDAR

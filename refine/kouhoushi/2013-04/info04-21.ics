@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:少年団六甲ミニ全山縦走
+DESCRIPTION:六甲山を3コースに分かれて登ろう\n対象は小学4年～中学生\n日時は4月20日（土曜）8時50分～15時\n場所はA:須磨浦公園駅、B:湊川公園、C:JR新神戸駅\n料金は無料\n申し込みは往復はがきに希望コース・学校名・学年・氏名・性別・郵便番号・住所・電話番号・保護者名を記入し、スポーツ体育課（〒650-8570住所不要）へ。4月10日（水曜）消印有効。抽選\n問い合わせは電話322-5804、FAX322-6149
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1304/info04.html#少年団六甲ミニ全山縦走
+DTSTART:20130420T085000
+DTEND:20130420T150000
+LOCATION:A:須磨浦公園駅、B:湊川公園、C:JR新神戸駅
+END:VEVENT
+END:VCALENDAR

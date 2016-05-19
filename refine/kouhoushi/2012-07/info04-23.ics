@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:西神中央公園の里山で昆虫採集！
+DESCRIPTION:虫博士と一緒に昆虫採集。解説も実施\n対象は小学生と保護者\n日時は7月21日（土曜）10時～14時\n申し込みは7月13日（金曜）必着\n問い合わせは地球環境課（電話322-6678、FAX322-6068）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1207/info04.html#西神中央公園の里山で昆虫採集！
+DTSTART:20120721T100000
+DTEND:20120721T140000
+END:VEVENT
+END:VCALENDAR

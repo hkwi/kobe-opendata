@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:須磨離宮公園 植物見どころ散歩
+DESCRIPTION:ロウバイなど見ごろの花や冬芽の観察\n日時は1月20日（日曜）13時～\n料金は無料（入園料が必要）\n問い合わせは電話732-6688、FAX734-6022
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1301/info04.html#須磨離宮公園 植物見どころ散歩
+DTSTART:20130120T130000
+END:VEVENT
+END:VCALENDAR

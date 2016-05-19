@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:減らそうレジ袋!マイバッグ作品展
+DESCRIPTION:日時は10月15日（火曜）～28日（月曜）\n場所はそごう神戸店（中央区小野柄通8）\n料金は無料\n問い合わせは減量リサイクル推進課（電話322-5299、FAX322-6064）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1310/info06.html#減らそうレジ袋!マイバッグ作品展
+DTSTART:20131015
+DTEND:20131029
+LOCATION:そごう神戸店（中央区小野柄通8）
+END:VEVENT
+END:VCALENDAR

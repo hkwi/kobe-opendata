@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:こうべ花マルシェ（お花の販売）
+DESCRIPTION:日時は12月14日（土曜）・15日（日曜）10時～16時\n場所はハーバーランド\n問い合わせは農水産課（電話322-5355、FAX322-6076）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1312/info06.html#こうべ花マルシェ（お花の販売）
+DTSTART:20131214T100000
+DTEND:20131214T160000
+RRULE:FREQ=DAILY;BYMONTHDAY=15;COUNT=1
+LOCATION:ハーバーランド
+END:VEVENT
+END:VCALENDAR

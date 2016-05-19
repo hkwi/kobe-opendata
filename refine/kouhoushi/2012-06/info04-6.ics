@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:区民センターなどの催し（2）7月パソコン講座
+DESCRIPTION:（1）初めての第九\n初心者・経験者大歓迎！\n日時は6月10日～、日曜10時～。月3回\n場所は東灘区民センター\n料金は月3\,000円\n申し込みは先着順\n問い合わせは電話822-8333、FAX822-8181\n（2）7月パソコン講座\n新OS導入により新型パソコンの使用可能\n日時は7月4日（水曜）～\n場所は兵庫勤労市民センター\n料金は有料\n申し込みは先着順\n問い合わせは電話576-0981、FAX578-1307\n（3）ギャラリー展示\nデッサン・水墨画・書道\n日時は6月5日（火曜）～27日（水曜）\n場所は垂水勤労市民センター\n料金は無料\n問い合わせは電話708-8901、FAX708-9301
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1206/info04.html#区民センターなどの催し#2
+DTSTART:20120704
+LOCATION:兵庫勤労市民センター
+END:VEVENT
+END:VCALENDAR

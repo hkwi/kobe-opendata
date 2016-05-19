@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:愛の輪ふれあいコンサート
+DESCRIPTION:日時は11月3日（月曜・祝日）13時～16時30分\n場所はこべっこランド\n料金は無料\n問い合わせは市社会福祉協議会（電話271-5306、FAX271-5365）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1410/info06.html#愛の輪ふれあいコンサート
+DTSTART:20141103T130000
+DTEND:20141103T163000
+LOCATION:こべっこランド
+END:VEVENT
+END:VCALENDAR

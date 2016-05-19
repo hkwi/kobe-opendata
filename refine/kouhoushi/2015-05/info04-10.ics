@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ユニティの講座（3）公開講座～暮らしと法律
+DESCRIPTION:（1）Excel超入門講座\n日時は5月19日～、火・金曜9時30分～。4回\n料金は12\,000円\n申し込みは電話で。先着順\n（2）Word・Excel講座\n日時は6月2日～、火・金曜9時30分～。6回\n料金は18\,000円\n申し込みは電話で。先着順\n（3）公開講座～暮らしと法律\n日時は6月27日～、土曜14時～。5回\n料金は1回1\,080円\n申し込みは電話で。先着順\n問い合わせは電話794-4970、FAX794-4910
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1505/info04.html#ユニティの講座#3
+DTSTART:20150627T140000
+RRULE:FREQ=WEEKLY;COUNT=5
+END:VEVENT
+END:VCALENDAR

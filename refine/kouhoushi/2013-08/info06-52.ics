@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:有馬温泉旅館大浴場無料開放
+DESCRIPTION:日時は9月9日（月曜）11時～\n申し込みは往復はがきで有馬温泉観光総合案内所（〒651-1401有馬町790-3）へ。8月21日（水曜）必着。抽選\n問い合わせは観光コンベンション課（電話322-5339、FAX322-6138）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1308/info06.html#有馬温泉旅館大浴場無料開放
+DTSTART:20130909T110000
+END:VEVENT
+END:VCALENDAR

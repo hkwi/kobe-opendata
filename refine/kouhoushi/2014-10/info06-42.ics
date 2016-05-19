@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:こべっこランド（1）こべっこdeハロウィン
+DESCRIPTION:（1）こべっこdeハロウィン\n対象は18歳未満（未就学児は保護者同伴）\n日時は10月25日（土曜）・26日（日曜）10時～16時\n料金は無料\n（2）KOBE★はたらキッズ\n対象は小学3年生以上\n日時は11月23日（日曜・祝日）10時30分～・13時30分～\n料金は無料\n申し込みは往復はがき（〒650-0044東川崎町1-3-1）か直接。11月2日（日曜）消印有効。抽選\n問い合わせは電話382-1300、FAX351-0684
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1410/info06.html#こべっこランド#1
+DTSTART:20141025T100000
+DTEND:20141025T160000
+RRULE:FREQ=DAILY;BYMONTHDAY=26;COUNT=1
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:セミナー 「食」と人とのつながり
+DESCRIPTION:日時は5月31日（土曜）14時～\n場所はファッション美術館\n料金は500円\n申し込みは電話かFAXで。先着順\n問い合わせは電話858-0050、FAX858-0058
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1405/info04.html#セミナー 「食」と人とのつながり
+DTSTART:20140531T140000
+LOCATION:ファッション美術館
+END:VEVENT
+END:VCALENDAR

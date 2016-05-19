@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:森林植物園（2）親子でバードウオッチング
+DESCRIPTION:（1）たこあげ大会\n日時は3月22日（日曜）13時30分～\n料金は無料（別途入園料等が必要）\n（2）親子でバードウオッチング\n日時は4月19日（日曜）9時30分～\n料金は無料（別途入園料等が必要）\n申し込みはFAXで。3月19日（木曜）～先着順\n問い合わせは電話591-0253、FAX594-2324
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1503/info06.html#森林植物園#2
+DTSTART:20150419T093000
+END:VEVENT
+END:VCALENDAR

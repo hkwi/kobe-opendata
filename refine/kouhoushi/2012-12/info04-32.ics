@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:フォークダンス年末の集い
+DESCRIPTION:楽しく踊って健康づくり！上履き必要\n日時は12月16日（日曜）10時～15時\n場所は中央体育館\n料金は500円\n問い合わせは市スポーツ教育協会（電話261-3620、FAX261-8020）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1212/info04.html#フォークダンス年末の集い
+DTSTART:20121216T100000
+DTEND:20121216T150000
+LOCATION:中央体育館
+END:VEVENT
+END:VCALENDAR

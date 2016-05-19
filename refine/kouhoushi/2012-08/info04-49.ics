@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:オリジナル小物入れをつくろう
+DESCRIPTION:抽選20人。楽しいものづくり体験\n対象は小学3年生以上\n日時は8月30日（木曜）13時30分～\n場所は地域人材支援センター\n料金は1\,000円\n申し込みは8月17日（金曜）まで受付\n問い合わせは工業課（電話322-5333、FAX322-6074）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1208/info04.html#オリジナル小物入れをつくろう
+DTSTART:20120830T133000
+LOCATION:地域人材支援センター
+END:VEVENT
+END:VCALENDAR

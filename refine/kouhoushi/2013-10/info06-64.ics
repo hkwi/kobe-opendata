@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ガーデンシクラメンの寄せ植え
+DESCRIPTION:日時は10月27日（日曜）11時～\n場所はフルーツ・フラワーパーク\n料金は1\,500円\n申し込みは電話かFAXで。先着順\n問い合わせは電話954-1000、FAX954-1023
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1310/info06.html#ガーデンシクラメンの寄せ植え
+DTSTART:20131027T110000
+LOCATION:フルーツ・フラワーパーク
+END:VEVENT
+END:VCALENDAR

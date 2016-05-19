@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:発達障害支援講演会
+DESCRIPTION:発達障害のお話とピアノコンサート\n日時は3月8日（金曜）14時30分～\n場所はピフレホール\n料金は無料\n申し込みはFAX（氏名・電話番号を記入）で市発達障害者支援センターへ。先着順\n問い合わせは電話382-2760、FAX382-2766
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1302/info04.html#発達障害支援講演会
+DTSTART:20130308T143000
+LOCATION:ピフレホール
+END:VEVENT
+END:VCALENDAR

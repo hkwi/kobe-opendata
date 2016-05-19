@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:映画特別試写会「茜色の約束」
+DESCRIPTION:日系ブラジル人少年の不思議な体験物語\n日時は4月14日（日曜）14時～\n場所は海外移住と文化の交流センター\n料金は無料\n申し込みは4月10日（水曜）必着\n問い合わせは電話272-2362、FAX272-2210
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1304/info04.html#映画特別試写会「茜色の約束」
+DTSTART:20130414T140000
+LOCATION:海外移住と文化の交流センター
+END:VEVENT
+END:VCALENDAR

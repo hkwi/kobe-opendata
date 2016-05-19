@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:日本透析医学会 市民公開講座
+DESCRIPTION:日時は6月15日（日曜）13時～\n場所はポートピアホテル（中央区港島中町6）\n料金は無料\n問い合わせは国際観光コンベンション協会（電話302-5200、FAX302-6485）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1406/info04.html#日本透析医学会 市民公開講座
+DTSTART:20140615T130000
+LOCATION:ポートピアホテル（中央区港島中町6）
+END:VEVENT
+END:VCALENDAR

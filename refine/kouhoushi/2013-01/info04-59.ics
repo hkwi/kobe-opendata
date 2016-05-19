@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:いきいき勤労財団の催し（1）ワークライフバランスセミナー
+DESCRIPTION:（1）ワークライフバランスセミナー\n仕事と生活を両立する方法を講義\n日時は1月23日（水曜）14時～\n場所は勤労会館\n料金は無料\n申し込みは先着順\n（2）メンタルヘルス講演会\n「気持ちを楽にする工夫」をテーマに講演\n日時は1月28日（月曜）18時30分～\n場所は勤労会館\n料金は無料\n申し込みは先着順\n（3）熟年生活講座パート2\n今、注目の“終活”を分かりやすく講義\n日時は2月14日（木曜）14時～。3回\n場所は勤労会館\n料金は1回1\,000円（夫婦で1\,500円）\n申し込みは先着順\n問い合わせは電話251-5561、FAX252-9448
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1301/info04.html#いきいき勤労財団の催し#1
+DTSTART:20130123T140000
+LOCATION:勤労会館
+END:VEVENT
+END:VCALENDAR

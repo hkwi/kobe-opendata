@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:花と緑のまち推進センター（2）庭木の手入れ
+DESCRIPTION:（1）ハンドクリームと入浴剤づくり\n手荒れの季節にぴったりです\n日時は1月19日（土曜）10時30分～\n料金は500円\n申し込みは先着順\n（2）庭木の手入れ\nよりきれいな庭づくりのための手入れ\n日時は1月27日（日曜）13時30分～\n料金は100円\n申し込みは先着順\n（3）つるバラの誘引と植え替え\n花をたくさん咲かせるためのアドバイス\n日時は2月3日（日曜）13時30分～\n料金は100円\n申し込みは先着順\n問い合わせは電話351-6756、FAX341-8710
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1301/info04.html#花と緑のまち推進センター#2
+DTSTART:20130127T133000
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:さかなの学校（2）垂水のタコを使った料理づくり
+DESCRIPTION:（1）敬老の日のプレゼントづくり\n日時は9月1日（月曜）～15日（月曜・祝日）\n料金は700円\n（2）垂水のタコを使った料理づくり\n対象は5歳以上（小学生以下は保護者同伴）\n日時は10月5日（日曜）10時30分～\n料金は1組2\,000円\n申し込みは往復はがき（〒655-0036海岸通12-4）かFAXで。9月22日（月曜）消印有効。抽選\n（3）地引網体験\n対象は小学生以上（小学生は保護者同伴）\n日時は10月12日（日曜）9時30分～\n料金は無料\n申し込みは往復はがき（〒655-0036海岸通12-4）かFAXで。9月29日（月曜）消印有効。抽選\n問い合わせは電話706-5550、FAX706-5636
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1409/info06.html#さかなの学校#2
+DTSTART:20141005T103000
+END:VEVENT
+END:VCALENDAR

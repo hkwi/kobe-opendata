@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:フェリシモクリスマスコレクション
+DESCRIPTION:日時は11月14日（木曜）～12月24日（火曜）\n場所はファッション美術館\n料金は無料\n問い合わせは電話858-0050、FAX858-0058
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1311/info06.html#フェリシモクリスマスコレクション
+DTSTART:20131114
+DTEND:20131225
+LOCATION:ファッション美術館
+END:VEVENT
+END:VCALENDAR

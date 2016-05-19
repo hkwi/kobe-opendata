@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:農業振興センターの催し（2）神出「菜の花まつり」
+DESCRIPTION:（1）梨の花 お花見ウオーキング\n日時は4月19日（土曜）10時～\n場所は神戸ワイナリー\n料金は無料（大人は100円）\n申し込みは電話かFAXで。先着順\n（2）神出「菜の花まつり」\n日時は5月17日（土曜）10時～\n場所は神出北ファームビレッジ\n料金は大人500円・子ども300円\n申し込みは往復はがき（〒651-2313神出町田井459-1）で。4月15日（火曜）消印有効。抽選\n（3）米づくり体験\n日時は5月25日（日曜）10時～。4回\n場所は生野地区圃場（北区道場町）\n料金は500円\n申し込みは電話かFAXで田んぼパークス実行委員会（電話090-8531-5797、FAX985-3045）へ。4月15日（火曜）まで受付。抽選\n問い合わせは電話975-6845、FAX975-6828
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1404/info06.html#農業振興センターの催し#2
+DTSTART:20140517T100000
+LOCATION:神出北ファームビレッジ
+END:VEVENT
+END:VCALENDAR

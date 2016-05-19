@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:青少年科学館（2）大人のための星空塾・太陽系の天体
+DESCRIPTION:（1）「メカライフの世界」展\n日時は11月16日（土曜）・17日（日曜）10時～16時30分\n料金は一部有料\n（2）大人のための星空塾・太陽系の天体\n対象は中学生以上\n日時は11月29日（金曜）19時～\n料金は300円\n申し込みは電話で。11月10日（日曜）～先着順\n（3）プラネタリウムクリスマスコンサート\n日時は12月21日（土曜）18時30分～\n料金は400円\n申し込みは電話で。11月24日（日曜）～先着順\n問い合わせは電話302-5177、FAX302-4816
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1311/info06.html#青少年科学館#2
+DTSTART:20131129T190000
+END:VEVENT
+END:VCALENDAR

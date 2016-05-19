@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:動物慰霊祭（献花とミニコンサート）
+DESCRIPTION:日時は10月6日（日曜）14時～\n場所は動物管理センター\n料金は無料\n問い合わせは電話741-8111、FAX741-8035
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1309/info06.html#動物慰霊祭（献花とミニコンサート）
+DTSTART:20131006T140000
+LOCATION:動物管理センター
+END:VEVENT
+END:VCALENDAR

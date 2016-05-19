@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:水道局の催し（2）羽束川探訪ウオーク（約6キロメートル）
+DESCRIPTION:（1）千苅クリーン交流\n千苅貯水池の清掃活動＆芋堀り体験\n日時は10月28日（日曜）9時～17時。雨天中止\n場所は千苅貯水池（宝塚市波豆竜王山1）等\n料金は無料\n申し込みは10月18日（木曜）必着\n（2）羽束川探訪ウオーク（約6キロメートル）\n水源の大切さを学び、神社・古民家等を巡る\n日時は11月10日（土曜）9時～17時30分。雨天中止\n場所は高平下浄化センター（三田市木器字川向2187）等\n料金は無料\n申し込みは10月18日（木曜）必着\n問い合わせは経営計画課（電話322-5915、FAX322-6179）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1210/info04.html#水道局の催し#2
+DTSTART:20121110T090000
+DTEND:20121110T173000
+LOCATION:高平下浄化センター（三田市木器字川向2187）等
+END:VEVENT
+END:VCALENDAR

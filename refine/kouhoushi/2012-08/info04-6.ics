@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:釣り人感謝デー・無料開放
+DESCRIPTION:感謝の気持ちを込めて釣り・入園料金無料\n日時は8月10日（金曜）6時～20時\n場所は須磨・平磯海づり公園\n問い合わせは須磨（電話735-2907、FAX735-2950）、平磯（電話753-3973、FAX753-4873）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1208/info04.html#釣り人感謝デー・無料開放
+DTSTART:20120810T060000
+DTEND:20120810T200000
+LOCATION:須磨・平磯海づり公園
+END:VEVENT
+END:VCALENDAR

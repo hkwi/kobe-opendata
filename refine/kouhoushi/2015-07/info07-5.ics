@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:須磨海浜水族園（2）特別展「怪奇水族園（水辺の妖怪展）」
+DESCRIPTION:（1）夜間浴衣来園de入園割引\n日時は7月18日（土曜）～8月31日（月曜）17時～\n（2）特別展「怪奇水族園（水辺の妖怪展）」\n日時は7月18日（土曜）～11月8日（日曜）\n料金は無料（別途入園料等が必要）\n問い合わせは電話731-7301、FAX733-6333
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1507/info07.html#須磨海浜水族園#2
+DTSTART:20150718
+DTEND:20151109
+END:VEVENT
+END:VCALENDAR

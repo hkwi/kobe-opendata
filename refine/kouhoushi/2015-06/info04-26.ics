@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:人もみどりも元気 六甲山サミット
+DESCRIPTION:日時は6月28日（日曜）13時～\n場所は神戸大学（灘区六甲台町2）\n料金は無料\n申し込みは電話かFAXで六甲山サミット運営事務局（電話・FAX0120-677-882）へ。先着順\n問い合わせは防災課（電話322-6624、FAX322-6983）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1506/info04.html#人もみどりも元気 六甲山サミット
+DTSTART:20150628T130000
+LOCATION:神戸大学（灘区六甲台町2）
+END:VEVENT
+END:VCALENDAR

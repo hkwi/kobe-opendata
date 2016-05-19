@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:大道芸・バトンパフォーマンス
+DESCRIPTION:日時は8月22日（土曜）13時～17時\n場所はデュオドーム（JR神戸駅南側地下）\n料金は無料\n問い合わせは文化交流部（電話322-6598、FAX322-6136）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1508/info06.html#大道芸・バトンパフォーマンス
+DTSTART:20150822T130000
+DTEND:20150822T170000
+LOCATION:デュオドーム（JR神戸駅南側地下）
+END:VEVENT
+END:VCALENDAR

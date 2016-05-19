@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:市ファミリー・サポート・センター（2）子どもの事故を防ごう!
+DESCRIPTION:（1）ファミサポ子育て講演会\n現役アナを迎えます。親子で参加可能です\n日時は7月1日（日曜）11時～\n場所はこべっこランド\n料金は無料\n申し込みは6月11日（月曜）～先着順\n（2）子どもの事故を防ごう!\n子どもを守るためにできることを学びます\n日時は7月10日（火曜）14時～\n場所は市民福祉交流センター\n料金は無料\n申し込みは6月11日（月曜）～先着順\n問い合わせは電話・FAX271-5545
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1206/info04.html#市ファミリー・サポート・センター#2
+DTSTART:20120710T140000
+LOCATION:市民福祉交流センター
+END:VEVENT
+END:VCALENDAR

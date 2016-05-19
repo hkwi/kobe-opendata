@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:神戸花物語2014春
+DESCRIPTION:日時は2月28日（金曜）～3月2日（日曜）\n場所はデュオドーム（JR神戸駅南側地下）\n料金は無料\n問い合わせは市総合コールセンター（電話333-3330、FAX333-3314）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1402/info06.html#神戸花物語2014春
+DTSTART:20140228
+DTEND:20140303
+LOCATION:デュオドーム（JR神戸駅南側地下）
+END:VEVENT
+END:VCALENDAR

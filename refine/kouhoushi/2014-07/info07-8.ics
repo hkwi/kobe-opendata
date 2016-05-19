@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:博物館たんけん隊
+DESCRIPTION:対象は小学4年生～中学生\n日時は7月26日（土曜）10時～\n場所は市立博物館\n料金は無料\n申し込みは往復はがき（3人以内）で同館（〒650-0034京町24）へ。7月11日（金曜）必着。抽選\n問い合わせは電話391-0035、FAX392-7054
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1407/info07.html#博物館たんけん隊
+DTSTART:20140726T100000
+LOCATION:市立博物館
+END:VEVENT
+END:VCALENDAR

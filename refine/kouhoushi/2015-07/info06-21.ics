@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:親子で楽しむジャズコンサート
+DESCRIPTION:日時は7月31日（金曜）14時～\n場所は北神区民センター\n料金は200円\n申し込みははがきかFAXで市民文化振興財団（〒650-0017楠町4-2-2）へ。7月22日（水曜）必着。抽選\n問い合わせは電話351-3597、FAX351-3121
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1507/info06.html#親子で楽しむジャズコンサート
+DTSTART:20150731T140000
+LOCATION:北神区民センター
+END:VEVENT
+END:VCALENDAR

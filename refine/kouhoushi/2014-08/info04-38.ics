@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:あすてっぷKOBEの講座（3）私たちの暮らしとダイバーシティ
+DESCRIPTION:（1）理系女子と家庭科男子\n日時は10月8日（水曜）13時30分～\n料金は無料\n申し込みは電話かFAXか直接。先着順\n（2）多様“性”と生活\n日時は10月18日（土曜）13時30分～\n料金は無料\n申し込みは電話かFAXか直接。先着順\n（3）私たちの暮らしとダイバーシティ\n日時は10月25日（土曜）13時30分～\n料金は無料\n申し込みは電話かFAXか直接。先着順\n問い合わせは電話361-6977、FAX361-6477
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1408/info04.html#あすてっぷKOBEの講座#3
+DTSTART:20141025T133000
+END:VEVENT
+END:VCALENDAR

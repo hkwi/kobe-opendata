@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:埋蔵文化財センター（1）石印とガラス版画で年賀状作り
+DESCRIPTION:（1）石印とガラス版画で年賀状作り\n石印とガラス版画を製作し、年賀状を作成\n対象は小学4年生以上\n日時は11月25日（日曜）10時～\n料金は500円\n申し込みは11月11日（日曜）必着\n（2）歴史講演会・明石川流域の古墳\n西区の明石川流域の古墳についての講演\n対象は16歳以上\n日時は12月1日（土曜）14時～\n料金は無料\n申し込みは11月18日（日曜）必着\n（3）縄文土器をつくろう\n当時と同じ材料、技法で製作。全2回\n対象は小学4年生以上\n日時は12月9日・25年2月3日（日曜）10時～\n料金は1\,000円\n申し込みは11月25日（日曜）必着\n問い合わせは電話992-0656、FAX992-5201
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1211/info04.html#埋蔵文化財センター#1
+DTSTART:20121125T100000
+END:VEVENT
+END:VCALENDAR

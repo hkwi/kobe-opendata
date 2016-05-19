@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:王子スポーツセンター（2）定期スポーツ教室
+DESCRIPTION:（1）小学生春休み短期スポーツ教室\n日時は3月25日（水曜）～31日（火曜）\n料金は有料\n申し込みははがき（〒657-0805青谷町1-1-1）かFAXか直接。3月10日（火曜）消印有効。抽選\n（2）定期スポーツ教室\n日時は4月1日（水曜）～7月27日（月曜）\n料金は有料\n申し込みははがき（〒657-0805青谷町1-1-1）かFAXか直接。3月10日（火曜）消印有効。抽選\n問い合わせは電話802-0223、FAX861-5628
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1503/info05.html#王子スポーツセンター#2
+DTSTART:20150401
+DTEND:20150728
+END:VEVENT
+END:VCALENDAR

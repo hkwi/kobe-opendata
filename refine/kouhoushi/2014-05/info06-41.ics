@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:こべっこランド（1）おはなし大好き!人形劇大集合
+DESCRIPTION:（1）おはなし大好き!人形劇大集合\n日時は6月1日（日曜）13時30分～\n料金は無料\n（2）廃油せっけんを作ろう\n日時は6月21日（土曜）10時30分～・13時～\n料金は無料\n申し込みは往復はがき（〒650-0044東川崎町1-3-1）か直接。6月7日（土曜）消印有効。抽選\n（3）おかしな楽器のふしぎコンサート\n日時は7月13日（日曜）14時～\n料金は無料\n申し込みは直接。先着順\n問い合わせは電話382-1300、FAX351-0684
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1405/info06.html#こべっこランド#1
+DTSTART:20140601T133000
+END:VEVENT
+END:VCALENDAR

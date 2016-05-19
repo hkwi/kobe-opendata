@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:神戸っ子アートフェスティバル
+DESCRIPTION:表現の面白さ！つくりだす夢・未来・神戸\n日時は1月29日（火曜）～2月3日（日曜）\n場所は県立美術館（中央区脇浜海岸通1）\n料金は無料\n問い合わせは市総合コールセンター（電話333-3330、FAX333-3314）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1301/info04.html#神戸っ子アートフェスティバル
+DTSTART:20130129
+DTEND:20130204
+LOCATION:県立美術館（中央区脇浜海岸通1）
+END:VEVENT
+END:VCALENDAR

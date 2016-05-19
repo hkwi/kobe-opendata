@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:神戸の弥生時代と古墳時代のムラ
+DESCRIPTION:対象は16歳以上\n日時は5月16日（土曜）14時～\n場所は埋蔵文化財センター\n料金は無料\n申し込みは当日先着順\n問い合わせは電話992-0656、FAX992-5201
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1505/info04.html#神戸の弥生時代と古墳時代のムラ
+DTSTART:20150516T140000
+LOCATION:埋蔵文化財センター
+END:VEVENT
+END:VCALENDAR

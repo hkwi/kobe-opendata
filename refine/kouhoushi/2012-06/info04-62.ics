@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:健康ライフプラザの催し（1）簡単！お役立ちメニュー
+DESCRIPTION:（1）簡単！お役立ちメニュー\n夕ご飯に役立つレシピを学びましょう\n日時は7月20日（金曜）18時30分～\n料金は2\,500円\n申し込みは先着順\n（2）自分を力づけるコーチング術\nなりたい自分になるための気づきとは\n日時は7月29日・8月19日・9月9日（日曜）10時～\n料金は3\,000円\n申し込みは先着順\n（3）講演「コミュニケーションと傾聴」\n発達心理学を基に人との関わり方を学ぶ\n日時は7月29日（日曜）14時～\n料金は500円\n申し込みは先着順\n問い合わせは電話652-5202、FAX652-5211
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1206/info04.html#健康ライフプラザの催し#1
+DTSTART:20120720T183000
+END:VEVENT
+END:VCALENDAR

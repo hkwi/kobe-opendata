@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:スポーツイベント観戦情報（2）兵庫ストークスVSリンク栃木
+DESCRIPTION:（1）日本陸上競技選手権大会20キロメートル競歩\n日時は2月15日（日曜）8時50分～\n場所は六甲アイランド\n料金は無料\n（2）兵庫ストークスVSリンク栃木\n日時は2月22日（日曜）13時～\n場所は中央体育館\n料金は有料\n問い合わせは市スポーツ教育協会（電話261-3620、FAX261-8020）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1502/info05.html#スポーツイベント観戦情報#2
+DTSTART:20150222T130000
+LOCATION:中央体育館
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:オリックス戦市民無料招待（1）中日ドラゴンズ戦。花火ナイト
+DESCRIPTION:（1）中日ドラゴンズ戦。花火ナイト\n日時は5月22日（水曜）18時～\n場所はほっともっとフィールド神戸\n料金は無料\n申し込みは往復はがきに希望日・住所・参加者全員（2人まで）の氏名・電話番号を記入し、市公園緑化協会（〒654-0163住所不要）へ。4月10日（水曜）消印有効。抽選\n（2）広島カープ戦。花火ナイト\n日時は6月3日（月曜）18時～\n場所はほっともっとフィールド神戸\n料金は無料\n申し込みは往復はがきに希望日・住所・参加者全員（2人まで）の氏名・電話番号を記入し、市公園緑化協会（〒654-0163住所不要）へ。4月10日（水曜）消印有効。抽選\n問い合わせは電話795-5533、FAX795-5544
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1304/info04.html#オリックス戦市民無料招待#1
+DTSTART:20130522T180000
+LOCATION:ほっともっとフィールド神戸
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:国際理解のための市民講座（2）ラトビア講座
+DESCRIPTION:（1）インドの人に学ぶ本格家庭料理\n日時は11月29日（土曜）10時～13時30分\n場所はコミスタこうべ\n料金は500円\n申し込みは往復はがきかFAXで生涯学習課（〒650-8570住所不要）へ。11月22日（土曜）必着。抽選\n（2）ラトビア講座\n日時は12月6日（土曜）13時30分～\n場所は海外移住と文化の交流センター\n料金は無料\n申し込みは往復はがきかFAXで生涯学習課（〒650-8570住所不要）へ。11月22日（土曜）必着。抽選\n問い合わせは電話322-6295、FAX322-6144
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1411/info04.html#国際理解のための市民講座#2
+DTSTART:20141206T133000
+LOCATION:海外移住と文化の交流センター
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:子ども生活実験講座（2）ワサビでカビ防止！
+DESCRIPTION:（1）砂糖や食塩をとり過ぎてない？\nおやつの砂糖や塩の量を調べてみよう！\n対象は小学3～6年生と保護者\n日時は8月17日（金曜）14時～\n場所は消費者教育センター\n料金は無料\n申し込みは先着順\n（2）ワサビでカビ防止！\n本当にワサビでカビを防げるの？\n対象は小学3～6年生と保護者\n日時は8月18日（土曜）14時～\n場所は消費者教育センター\n料金は無料\n申し込みは先着順\n（3）布のなりたち\n顕微鏡を使って繊維を観察！\n対象は小学3～6年生と保護者\n日時は8月23日（木曜）14時～\n場所は消費者教育センター\n料金は無料\n申し込みは先着順\n問い合わせは消費生活課（電話322-5185、FAX322-6036）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1208/info04.html#子ども生活実験講座#2
+DTSTART:20120818T140000
+LOCATION:消費者教育センター
+END:VEVENT
+END:VCALENDAR

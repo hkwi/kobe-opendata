@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:盲ろう者向け通訳・介助員養成講座
+DESCRIPTION:盲ろう者への基本的な支援の技術を学ぶ\n日時は5月18日～、土曜10時～15時。10回\n場所は総合福祉センター\n料金は3\,000円\n申し込みは4月27日（土曜）必着\n問い合わせは自立支援課（電話322-6332、FAX322-6065）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1304/info04.html#盲ろう者向け通訳・介助員養成講座
+DTSTART:20130518T100000
+DTEND:20130518T150000
+RRULE:FREQ=WEEKLY;COUNT=10
+LOCATION:総合福祉センター
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ミズノラグビークリニック
+DESCRIPTION:初心者OK！ みんなでラグビーしよう！\n対象は小学生\n日時は7月1日（日曜）13時～\n場所はユニバー記念競技場\n料金は1\,000円\n申し込みは6月11日（月曜）消印有効\n問い合わせは電話793-6150、FAX793-6159
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1206/info04.html#ミズノラグビークリニック
+DTSTART:20120701T130000
+LOCATION:ユニバー記念競技場
+END:VEVENT
+END:VCALENDAR

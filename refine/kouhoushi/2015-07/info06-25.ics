@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:たるみ 水の旅
+DESCRIPTION:対象は小学生と保護者\n日時は8月18日（火曜）9時30分～16時\n場所は垂水年金会館\n料金は無料\n申し込みは当日先着順\n問い合わせは西水環境センター（電話752-1700、FAX755-2460）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1507/info06.html#たるみ 水の旅
+DTSTART:20150818T093000
+DTEND:20150818T160000
+LOCATION:垂水年金会館
+END:VEVENT
+END:VCALENDAR

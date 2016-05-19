@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:あなたが選ぶ小磯良平作品選
+DESCRIPTION:日時は12月21日（土曜）～4月6日（日曜）\n場所は小磯記念美術館\n料金は800円\n問い合わせは電話857-5880、FAX857-3737
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1312/info06.html#あなたが選ぶ小磯良平作品選
+DTSTART:20131221
+DTEND:20140407
+LOCATION:小磯記念美術館
+END:VEVENT
+END:VCALENDAR

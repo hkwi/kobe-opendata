@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:寄せ植え講習会
+DESCRIPTION:障害者の社会参加を促し、親睦を深める\n対象は18歳以上\n日時は11月28日（水曜）10時～\n場所は総合福祉センター\n料金は1\,000円\n申し込みは11月9日（金曜）必着\n問い合わせは自立支援課（電話322-6332、FAX322-6065）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1211/info04.html#寄せ植え講習会
+DTSTART:20121128T100000
+LOCATION:総合福祉センター
+END:VEVENT
+END:VCALENDAR

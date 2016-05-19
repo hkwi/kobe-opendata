@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:須磨海づり公園（1）こども釣り大会
+DESCRIPTION:（1）こども釣り大会\n対象は6～15歳\n日時は5月11日（日曜）6時～10時\n料金は大人1\,200円・小人700円\n（2）セイゴ釣り大会\n日時は5月31日（土曜）～6月8日（日曜）6時～16時\n料金は大人1\,200円・小人700円\n問い合わせは電話735-2907、FAX735-2950
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1405/info06.html#須磨海づり公園#1
+DTSTART:20140511T060000
+DTEND:20140511T100000
+END:VEVENT
+END:VCALENDAR

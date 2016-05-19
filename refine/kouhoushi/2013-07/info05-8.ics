@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ふれあいボウリング大会
+DESCRIPTION:対象は15歳以上\n日時は7月28日（日曜）9時30分～\n場所は六甲ボウル（灘区友田町5）\n料金は1\,000円\n申し込みははがきか往復はがきかFAXで身体障害者団体連合会（〒650-0016橘通3-4-1、FAX341-7706）へ。7月10日（水曜）必着。抽選\n問い合わせは障害者支援課（電話322-6332、FAX322-6065）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1307/info05.html#ふれあいボウリング大会
+DTSTART:20130728T093000
+LOCATION:六甲ボウル（灘区友田町5）
+END:VEVENT
+END:VCALENDAR

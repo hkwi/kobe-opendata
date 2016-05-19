@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:神戸オリニマダン
+DESCRIPTION:在日コリアン児童等による民族文化の発表\n日時は12月16日（日曜）10時～15時\n場所はだいち小学校\n料金は無料\n問い合わせは人権教育課（電話322-5809、FAX322-6139）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1212/info04.html#神戸オリニマダン
+DTSTART:20121216T100000
+DTEND:20121216T150000
+LOCATION:だいち小学校
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:伊藤知秋先生の絵画教室
+DESCRIPTION:日時は7月21日（日曜）13時～\n場所はフルーツ・フラワーパーク\n料金は500円（別途入園料等が必要）\n申し込みは電話かFAXで。先着順\n問い合わせは電話954-1000、FAX954-1023
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1307/info04.html#伊藤知秋先生の絵画教室
+DTSTART:20130721T130000
+LOCATION:フルーツ・フラワーパーク
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ネイチャーゲームで自然と遊ぼう
+DESCRIPTION:親子で遊べるネイチャーゲームを紹介\n日時は11月17日（土曜）9時30分～\n場所は須磨浦公園\n料金は無料\n申し込みは11月12日（月曜）必着\n問い合わせは地球環境課（電話322-6678、FAX322-6068）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1211/info04.html#ネイチャーゲームで自然と遊ぼう
+DTSTART:20121117T093000
+LOCATION:須磨浦公園
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:さかなの学校（2）カマボコとおにぎりづくり
+DESCRIPTION:（1）フィッシュアートコンテスト\n日時は9月1日（日曜）～10月31日（木曜）\n料金は300円\n（2）カマボコとおにぎりづくり\n対象は5歳以上（小学生以下は保護者同伴）\n日時は9月29日（日曜）10時30分～\n料金は800円\n申し込みは往復はがき（〒655-0036海岸通12-4）かFAXで。9月19日（木曜）消印有効。抽選\n（3）地引網体験\n対象は小学生以上（小学生は保護者同伴）\n日時は10月19日（土曜）9時30分～\n場所は須磨海岸\n料金は無料\n申し込みは往復はがき（〒655-0036海岸通12-4）かFAXで。10月3日（木曜）消印有効。抽選\n問い合わせは電話706-5550、FAX706-5636
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1309/info06.html#さかなの学校#2
+DTSTART:20130929T103000
+END:VEVENT
+END:VCALENDAR

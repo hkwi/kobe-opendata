@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:消防音楽隊コンサート
+DESCRIPTION:日時は2月20日（木曜）18時30分～\n場所は文化ホール\n料金は無料\n申し込みは往復はがきで消防音楽隊（〒651-1124ひよどり北町3-1）へ。12月31日（火曜）消印有効。抽選\n問い合わせは電話743-3773、FAX743-3791
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1312/info06.html#消防音楽隊コンサート
+DTSTART:20140220T183000
+LOCATION:文化ホール
+END:VEVENT
+END:VCALENDAR

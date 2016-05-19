@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:森林植物園（2）ネイチャーゲーム体験森の色あわせ
+DESCRIPTION:（1）新緑つつじ・しゃくなげ散策会\n日時は4月19日～5月18日の土・日曜、祝日10時30分～・13時30分～\n料金は無料（別途入園料等が必要）\n（2）ネイチャーゲーム体験森の色あわせ\n日時は4月29日（火曜・祝日）10時30分～・13時30分～\n料金は有料（別途入園料等が必要）\n問い合わせは電話591-0253、FAX594-2324
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1404/info06.html#森林植物園#2
+DTSTART:20140429T103000
+RRULE:FREQ=DAILY;BYHOUR=13;BYMINUTE=30;COUNT=1
+END:VEVENT
+END:VCALENDAR

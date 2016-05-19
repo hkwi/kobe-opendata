@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:くらしに役立つ金融経済講演会
+DESCRIPTION:ディズニーで得た感動のサービス\n日時は7月26日（木曜）18時30分～\n場所は勤労会館\n料金は無料\n申し込みは先着順\n問い合わせは市総合コールセンター（電話333-3330、FAX333-3314）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1207/info04.html#くらしに役立つ金融経済講演会
+DTSTART:20120726T183000
+LOCATION:勤労会館
+END:VEVENT
+END:VCALENDAR

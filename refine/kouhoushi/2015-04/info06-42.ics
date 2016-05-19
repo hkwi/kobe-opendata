@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:自然の家（1）森のようちえん
+DESCRIPTION:（1）森のようちえん\n日時は5月2日（土曜）10時～\n料金は1\,200円\n申し込みは電話で。4月16日（木曜）まで受付。抽選\n（2）カヌーアーチェリー体験\n日時は5月3日（日曜・祝日）・5日（火曜・祝日）・6日（水曜・休日）10時30分～\n料金は大人1\,000円・小人500円\n申し込みは電話で。4月10日（金曜）～先着順\n（3）ファミリー宿泊タイム\n日時は5月5日（火曜・祝日）～、1泊2日\n料金は大人4\,000円・小人3\,000円\n申し込みは電話で。4月10日（金曜）～先着順\n問い合わせは電話891-0001、FAX891-0002
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1504/info06.html#自然の家#1
+DTSTART:20150502T100000
+END:VEVENT
+END:VCALENDAR

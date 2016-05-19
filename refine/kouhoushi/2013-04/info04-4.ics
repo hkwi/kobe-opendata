@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:四柱推命入門一日講座
+DESCRIPTION:四柱推命とは何かが分かります\n日時は4月12日（金曜）13時30分～\n場所は母子福祉センター\n料金は1\,000円\n申し込みは先着順\n問い合わせは電話341-4532、FAX371-6478
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1304/info04.html#四柱推命入門一日講座
+DTSTART:20130412T133000
+LOCATION:母子福祉センター
+END:VEVENT
+END:VCALENDAR

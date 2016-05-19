@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ユニティの講座（1）パソコン講座
+DESCRIPTION:（1）パソコン講座\nExcel初級者を対象とした講座\n日時は7月6日（金曜）9時30分～\n料金は15\,000円\n申し込みは先着順\n（2）公開講座「環境・エネルギー事情」\n再生可能・新エネルギーについて解説\n日時は7月7日（土曜）14時～。5回\n料金は4\,200円\n申し込みは先着順\n（3）わくわく理科教室\n理科実験や理科工作を体験してもらいます\n対象は小学5・6年生\n日時は7月27日（金曜）10時～。4回\n料金は3\,000円\n申し込みは先着順\n問い合わせは電話794-4970、FAX794-4910
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1206/info04.html#ユニティの講座#1
+DTSTART:20120706T093000
+END:VEVENT
+END:VCALENDAR

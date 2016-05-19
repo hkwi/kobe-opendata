@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:アジア交流プラザ（2）台湾語入門講座
+DESCRIPTION:（1）読書サロン～宋姉妹\n日時は5月25日、6月8日（月曜）10時30分～\n料金は1回840円\n申し込みは電話か直接。先着順\n（2）台湾語入門講座\n日時は5月30日～、土曜13時30分～。7回\n料金は有料\n申し込みは電話で。先着順\n問い合わせは電話646-7100、FAX646-7200
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1505/info04.html#アジア交流プラザ#2
+DTSTART:20150530T133000
+RRULE:FREQ=WEEKLY;COUNT=7
+END:VEVENT
+END:VCALENDAR

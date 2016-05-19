@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:家具修理（木工製作）教室
+DESCRIPTION:夏休みの宿題にも\n日時は8月19日（日曜）13時30分～\n場所はリサイクル工房みなとじま\n料金は無料\n申し込みは8月12日（日曜）まで受付\n問い合わせは電話・FAX303-0319
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1208/info04.html#家具修理（木工製作）教室
+DTSTART:20120819T133000
+LOCATION:リサイクル工房みなとじま
+END:VEVENT
+END:VCALENDAR

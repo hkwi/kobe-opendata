@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:モーターボート体験乗船会
+DESCRIPTION:モーターボートの魅力を須磨の海で体験\n対象は2人1組（中学生以下は保護者同伴）\n日時は8月23日（木曜）13時～\n場所は須磨ヨットハーバー\n料金は無料\n申し込みは8月8日（水曜）消印有効\n問い合わせは電話735-7968、FAX735-7969
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1208/info04.html#モーターボート体験乗船会
+DTSTART:20120823T130000
+LOCATION:須磨ヨットハーバー
+END:VEVENT
+END:VCALENDAR

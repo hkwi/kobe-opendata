@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:流して作る抽象画、いろとかたち
+DESCRIPTION:親子が一緒に参加するワークショップ\n対象は小学生以上と保護者\n日時は3月9日（土曜）10時30分～\n場所は神戸ゆかりの美術館\n料金は無料（入館料が必要）\n申し込みは2月27日（水曜）消印有効\n問い合わせは電話858-1520、FAX858-1522
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1302/info04.html#流して作る抽象画、いろとかたち
+DTSTART:20130309T103000
+LOCATION:神戸ゆかりの美術館
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:消防音楽隊きらめきコンサート
+DESCRIPTION:音楽と安全・安心情報を発信します\n日時は2月13日（水曜）18時30分～\n場所は文化ホール\n料金は無料\n申し込みは往復はがきに住所・氏名（2人以内）・年齢・性別・電話番号を記入し、消防音楽隊（〒651-1124ひよどり北町3-1）へ。12月31日（月曜）消印有効。抽選\n問い合わせは電話743-3773、FAX743-3791\n\n  \n    \n\n\n
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1212/info04.html#消防音楽隊きらめきコンサート
+DTSTART:20130213T183000
+LOCATION:文化ホール
+END:VEVENT
+END:VCALENDAR

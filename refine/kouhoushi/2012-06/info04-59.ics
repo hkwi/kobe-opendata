@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:夏の植物を使って遊ぼう
+DESCRIPTION:園内の植物解説や植物を用いた遊びの紹介\n日時は7月7日（土曜）10時～\n場所は会下山公園\n料金は無料\n申し込みは6月29日（金曜）必着\n問い合わせは地球環境課（電話322-6678、FAX322-6068）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1206/info04.html#夏の植物を使って遊ぼう
+DTSTART:20120707T100000
+LOCATION:会下山公園
+END:VEVENT
+END:VCALENDAR

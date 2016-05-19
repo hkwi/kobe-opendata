@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:昭和の遊び体験
+DESCRIPTION:昭和の子どもたちの遊びを体験します\n日時は2月10日（日曜）10時～15時\n場所は埋蔵文化財センター\n料金は無料\n問い合わせは電話992-0656、FAX992-5201
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1302/info04.html#昭和の遊び体験
+DTSTART:20130210T100000
+DTEND:20130210T150000
+LOCATION:埋蔵文化財センター
+END:VEVENT
+END:VCALENDAR

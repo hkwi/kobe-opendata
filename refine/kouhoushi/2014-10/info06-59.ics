@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:見つけよう！里山の野鳥たちを？
+DESCRIPTION:対象は小学生と保護者\n日時は11月15日（土曜）10時～\n場所は環境未来館\n料金は無料\n申し込みははがきかFAXで環境未来館（〒651-2228見津が丘1-9、FAX995-3192）へ。10月25日（土曜）必着。抽選\n問い合わせは地球環境課（電話322-6678、FAX322-6068）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1410/info06.html#見つけよう！里山の野鳥たちを？
+DTSTART:20141115T100000
+LOCATION:環境未来館
+END:VEVENT
+END:VCALENDAR

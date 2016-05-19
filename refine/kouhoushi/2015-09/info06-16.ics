@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:全国シルバー合唱コンクール
+DESCRIPTION:日時は9月18日（金曜）10時30分～18時45分\n場所は文化ホール\n料金は無料\n問い合わせは市民福祉振興協会（電話743-8092、FAX743-8180）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1509/info06.html#全国シルバー合唱コンクール
+DTSTART:20150918T103000
+DTEND:20150918T184500
+LOCATION:文化ホール
+END:VEVENT
+END:VCALENDAR

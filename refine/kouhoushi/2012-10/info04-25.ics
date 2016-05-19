@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:市長杯争奪投輪大会
+DESCRIPTION:申し込みは投輪連盟まで。11月も実施\n日時は10月21日（日曜）9時～16時\n場所は王子スポーツセンター\n料金は1\,000円\n申し込みは10月10日（水曜）必着\n問い合わせは市スポーツ教育協会（電話261-3620、FAX261-8020）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1210/info04.html#市長杯争奪投輪大会
+DTSTART:20121021T090000
+DTEND:20121021T160000
+LOCATION:王子スポーツセンター
+END:VEVENT
+END:VCALENDAR

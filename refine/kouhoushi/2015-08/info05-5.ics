@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:王子スポーツセンター（2）定期スポーツ教室
+DESCRIPTION:（1）アシックス重廣恒夫 六甲山登山教室\n対象は18歳以上\n日時は8月28日～、第4金曜9時～。4回\n料金は8\,000円\n申し込みははがき（〒657-0805青谷町1-1-1）かFAXか直接。8月18日（火曜）消印有効。抽選\n（2）定期スポーツ教室\n日時は9月1日（火曜）～12月23日（水曜・祝日）\n料金は有料\n申し込みははがき（〒657-0805青谷町1-1-1）かFAXか直接。8月10日（月曜）消印有効。抽選\n問い合わせは電話802-0223、FAX861-5628
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1508/info05.html#王子スポーツセンター#2
+DTSTART:20150901
+DTEND:20151224
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:青少年科学館
+DESCRIPTION:（1）ミニ工作屋台 砂絵作り\n対象は家族\n日時は3月15日（土曜）12時30分～\n料金は100円（別途入園料等が必要）\n（2）春の企画展 やってみよう!自遊研究\n日時は3月21日（金曜・祝日）～4月6日（日曜）\n料金は無料（別途入園料等が必要）\n（3）休館日のお知らせ\n3月3日（月曜）～7日（金曜）まで休館します\n問い合わせは電話302-5177、FAX302-4816
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1403/info06.html#青少年科学館
+DTSTART:20140315T123000
+END:VEVENT
+END:VCALENDAR

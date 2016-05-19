@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:障害者スポーツ振興センター（2）ふれあいロードレース大会
+DESCRIPTION:（1）ダーツ教室\n対象は障害者手帳所持者（（1）は16歳以上）\n日時は11月8日～、土曜18時～。5回\n場所はオージースポーツ神戸福祉スポーツセンター\n料金は1\,000円\n申し込みは往復はがき（〒651-0086磯上通3-1-32）で。10月15日（水曜）消印有効。抽選\n（2）ふれあいロードレース大会\n対象は障害者手帳所持者（（1）は16歳以上）\n日時は11月29日（土曜）9時～13時\n場所はユニバー補助競技場\n料金は無料\n申し込みは往復はがき（〒651-0086磯上通3-1-32）で。11月8日（土曜）消印有効。抽選\n問い合わせは電話271-5330、FAX271-5367
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1410/info05.html#障害者スポーツ振興センター#2
+DTSTART:20141129T090000
+DTEND:20141129T130000
+LOCATION:ユニバー補助競技場
+END:VEVENT
+END:VCALENDAR

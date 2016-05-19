@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:こべっこランド（1）ハンドベルミニコンサート
+DESCRIPTION:（1）ハンドベルミニコンサート\n対象は17歳以下（未就学児は保護者同伴）\n日時は3月21日（土曜・祝日）13時30分～\n料金は無料\n（2）キッズフェス\n対象は17歳以下（未就学児は保護者同伴）\n日時は3月22日（日曜）14時～\n料金は無料\n問い合わせは電話382-1300、FAX351-0684
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1503/info06.html#こべっこランド#1
+DTSTART:20150321T133000
+END:VEVENT
+END:VCALENDAR

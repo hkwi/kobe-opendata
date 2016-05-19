@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:勤労感謝のつどい
+DESCRIPTION:日時は11月29日（土曜）10時30分～14時\n場所は産業振興センター\n料金は大人1\,000円・小人500円\n申し込みは往復はがきで勤労市民課（〒650-8570住所不要）へ。10月31日（金曜）消印有効。抽選\n問い合わせは電話322-5177、FAX322-6033\n\n  \n    \n\n\n
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1410/info06.html#勤労感謝のつどい
+DTSTART:20141129T103000
+DTEND:20141129T140000
+LOCATION:産業振興センター
+END:VEVENT
+END:VCALENDAR

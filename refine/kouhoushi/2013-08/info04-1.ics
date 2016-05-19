@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:婦人会館あじさい講座（2）市民救命士・AED
+DESCRIPTION:（1）絵手紙ほか\n日時は8月8日（木曜）～9月7日（土曜）\n料金は1講座500円\n申し込みは電話で。先着順\n（2）市民救命士・AED\n日時は8月16日（金曜）13時30分～\n料金は1講座500円\n申し込みは電話で。先着順\n問い合わせは電話351-0861、FAX351-0862
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1308/info04.html#婦人会館あじさい講座#2
+DTSTART:20130816T133000
+END:VEVENT
+END:VCALENDAR

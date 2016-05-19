@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:三屋裕子（福祉教育）講演会
+DESCRIPTION:日時は12月14日（日曜）13時～\n場所は神戸朝日ホール（中央区浪花町59）\n料金は無料\n申し込みは電話かFAXか直接。先着順\n問い合わせは市社会福祉協議会（電話271-5306、FAX271-5365）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1411/info04.html#三屋裕子（福祉教育）講演会
+DTSTART:20141214T130000
+LOCATION:神戸朝日ホール（中央区浪花町59）
+END:VEVENT
+END:VCALENDAR

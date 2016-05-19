@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:心かよわす親子映画大会
+DESCRIPTION:対象は小・中学生と保護者\n日時は8月28日（水曜）10時～・13時30分～\n場所は文化ホール\n料金は無料\n申し込みは往復はがきで人権推進課（〒650-8570住所不要）へ。8月5日（月曜）消印有効。抽選\n問い合わせは電話322-5234、FAX322-6048
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1307/info06.html#心かよわす親子映画大会
+DTSTART:20130828T100000
+RRULE:FREQ=DAILY;BYHOUR=13;BYMINUTE=30;COUNT=1
+LOCATION:文化ホール
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:小学生鉄道教室
+DESCRIPTION:運転体験等で楽しみながら学習できます\n日時は10月14日（日曜）10時～15時\n場所は名谷車両基地\n料金は無料\n申し込みは9月24日（月曜）消印有効\n問い合わせは営業推進課（電話322-5994、FAX322-6183）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1209/info04.html#小学生鉄道教室
+DTSTART:20121014T100000
+DTEND:20121014T150000
+LOCATION:名谷車両基地
+END:VEVENT
+END:VCALENDAR

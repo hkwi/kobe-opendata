@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:医療産業都市視察・説明会
+DESCRIPTION:医療産業都市をわかりやすく説明します\n日時は4月25日（木曜）14時～\n場所は理化学研究所（中央区港島南町2）等\n料金は無料\n申し込みは4月9日（火曜）～先着順\n問い合わせは医療産業都市推進本部調査課（電話322-6569、FAX322-6010）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1304/info04.html#医療産業都市視察・説明会
+DTSTART:20130425T140000
+LOCATION:理化学研究所（中央区港島南町2）等
+END:VEVENT
+END:VCALENDAR

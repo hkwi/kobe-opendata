@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:柏木哲夫氏講演会
+DESCRIPTION:ターミナルケア～心をいやすメッセージ\n日時は2月6日（水曜）14時～\n場所は市民福祉交流センター\n料金は1\,000円\n申し込みは1月18日（金曜）必着\n問い合わせは市民福祉大学（電話271-5300、FAX271-5365）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1212/info04.html#柏木哲夫氏講演会
+DTSTART:20130206T140000
+LOCATION:市民福祉交流センター
+END:VEVENT
+END:VCALENDAR

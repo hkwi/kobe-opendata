@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:モーターサイクルZフェア
+DESCRIPTION:カワサキの名車Z1登場40周年イベント\n日時は2月5日（火曜）～17日（日曜）\n場所は海洋博物館\n料金は無料（入館料が必要）\n問い合わせは神戸港振興協会（電話327-8982、FAX332-4739）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1302/info04.html#モーターサイクルZフェア
+DTSTART:20130205
+DTEND:20130218
+LOCATION:海洋博物館
+END:VEVENT
+END:VCALENDAR

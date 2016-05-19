@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:健康ライフプラザ（2）炊飯器でチキンライス
+DESCRIPTION:（1）秋のイタリアン！\n秋の味覚できのこリゾットを作ろう！\n日時は9月12日（水曜）10時～\n料金は2\,000円\n申し込みは先着順\n（2）炊飯器でチキンライス\n忙しい貴方に役立つメニューを紹介します\n日時は9月21日（金曜）18時30分～\n料金は2\,500円\n申し込みは先着順\n問い合わせは電話652-5202、FAX652-5211
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1208/info04.html#健康ライフプラザ#2
+DTSTART:20120921T183000
+END:VEVENT
+END:VCALENDAR

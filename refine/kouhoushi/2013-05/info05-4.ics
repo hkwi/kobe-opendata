@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:歩き方講習＆ウェルネスウオーク
+DESCRIPTION:対象は小学生以上（小学生は保護者同伴）\n日時は5月19日（日曜）9時30分～14時\n場所は王子スポーツセンター\n料金は無料\n申し込みは電話かFAXか直接。先着順\n問い合わせは電話802-0223、FAX861-5628
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1305/info05.html#歩き方講習＆ウェルネスウオーク
+DTSTART:20130519T093000
+DTEND:20130519T140000
+LOCATION:王子スポーツセンター
+END:VEVENT
+END:VCALENDAR

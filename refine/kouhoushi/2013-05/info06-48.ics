@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:区民センター等の催し（1）サロンオペラ「愛の妙薬」
+DESCRIPTION:（1）サロンオペラ「愛の妙薬」\n日時は6月1日（土曜）・2日（日曜）14時～\n場所は灘区民ホール\n料金は2\,500円（小・中学・高校生1\,000円）\n申し込みは電話か直接。先着順\n問い合わせは電話802-8555、FAX802-9811\n（2）ギャラリー展示（写真教室）\n日時は5月6日（月曜・休日）～20日（月曜）\n場所は垂水勤労市民センター\n問い合わせは電話708-8901、FAX708-9301
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1305/info06.html#区民センター等の催し#1
+DTSTART:20130601T140000
+RRULE:FREQ=DAILY;BYMONTHDAY=2;COUNT=1
+LOCATION:灘区民ホール
+END:VEVENT
+END:VCALENDAR

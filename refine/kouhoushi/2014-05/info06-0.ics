@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:市演奏協会のコンサート（1）海のコンサート（市混声合唱団）
+DESCRIPTION:（1）海のコンサート（市混声合唱団）\n日時は5月9日（金曜）14時～\n場所は舞子ビラ\n料金は1\,500円\n（2）あなたに贈るコンサート\n日時は5月10日（土曜）14時～\n場所は北区民センター\n料金は1\,500円\n（3）定期演奏会（市室内合奏団）\n日時は5月31日（土曜）14時～\n場所は文化ホール\n料金は3\,000円\n問い合わせは電話361-7241、FAX361-7182
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1405/info06.html#市演奏協会のコンサート#1
+DTSTART:20140509T140000
+LOCATION:舞子ビラ
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:こども客船探検隊募集!
+DESCRIPTION:対象は市内在住の小学3年～中学2年生と保護者\n日時は10月13日（月曜・祝日）13時～\n場所は中突堤旅客ターミナル\n料金は無料\n申し込みはFAXで。9月26日（金曜）必着。抽選\n問い合わせはみなと総局振興課（電話322-5670、FAX322-6121）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1409/info06.html#こども客船探検隊募集!
+DTSTART:20141013T130000
+LOCATION:中突堤旅客ターミナル
+END:VEVENT
+END:VCALENDAR

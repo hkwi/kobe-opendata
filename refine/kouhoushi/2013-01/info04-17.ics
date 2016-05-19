@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:市演奏協会のコンサート（2）レイクエムの夕べ
+DESCRIPTION:（1）ニューイヤーコンサート\n市室内合奏団\n日時は1月12日（土曜）14時～\n場所はピフレホール\n料金は1\,500円\n（2）レイクエムの夕べ\n市室内合奏団・市混声合唱団\n日時は1月17日（木曜）18時30分～\n場所は文化ホール\n料金は1\,000円\n（3）うはらの郷コンサート\n市混声合唱団\n日時は1月20日（日曜）14時～\n場所はうはらホール\n料金は1\,500円\n問い合わせは電話361-7241、FAX361-7182
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1301/info04.html#市演奏協会のコンサート#2
+DTSTART:20130117T183000
+LOCATION:文化ホール
+END:VEVENT
+END:VCALENDAR

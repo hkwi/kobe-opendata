@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:市民公開シンポジウム
+DESCRIPTION:患者さんをチームで支える取り組み\n日時は6月9日（土曜）9時30分～\n場所は神戸ポートピアホテル（中央区港島中町6）\n料金は無料\n問い合わせは国際観光コンベンション協会（電話302-5200、FAX302-6485）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1205/info04.html#市民公開シンポジウム
+DTSTART:20120609T093000
+LOCATION:神戸ポートピアホテル（中央区港島中町6）
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:教育・地域連携センター（1）外国人へのボランティア養成講座
+DESCRIPTION:（1）外国人へのボランティア養成講座\n日時は5月25日～、水曜13時30分～。9回\n料金は3\,000円\n申し込みは往復はがき（〒653-0042二葉町7-1-18）で。5月17日（火曜）必着。抽選\n（2）はじめよう!学校支援ボランティア\n日時は5月26日～、木曜15時～。7回\n料金は無料\n申し込みは電話で。先着順\n問い合わせは電話641-5013、FAX641-5015
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1605/info04.html#教育・地域連携センター#1
+DTSTART:20160525T133000
+RRULE:FREQ=WEEKLY;COUNT=9
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ジャズライブ in プレンティ
+DESCRIPTION:日時は7月4日（土曜）14時～\n場所はプレンティ（西区糀台5）\n料金は無料\n問い合わせは文化交流部（電話322-6598、FAX322-6136）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1506/info06.html#ジャズライブ in プレンティ
+DTSTART:20150704T140000
+LOCATION:プレンティ（西区糀台5）
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ベトナム語入門講座
+DESCRIPTION:日時は5月15日～、金曜14時～。10回\n場所はアジア交流プラザ\n料金は有料\n申し込みは電話で。4月9日（木曜）～先着順\n問い合わせは電話646-7100、FAX646-7200
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1504/info04.html#ベトナム語入門講座
+DTSTART:20150515T140000
+RRULE:FREQ=WEEKLY;COUNT=10
+LOCATION:アジア交流プラザ
+END:VEVENT
+END:VCALENDAR

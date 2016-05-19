@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:関西学院グリークラブ里帰り公演
+DESCRIPTION:日時は7月11日（土曜）14時～\n場所は文学館\n料金は200円\n申し込みは電話かFAXか直接。先着順\n問い合わせは電話・FAX882-2028
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1506/info06.html#関西学院グリークラブ里帰り公演
+DTSTART:20150711T140000
+LOCATION:文学館
+END:VEVENT
+END:VCALENDAR

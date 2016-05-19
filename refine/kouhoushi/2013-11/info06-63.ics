@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:エコクッキング～簡単ちらし寿司
+DESCRIPTION:対象は18歳以上\n日時は11月22日（金曜）10時～\n場所はコミスタこうべ\n料金は無料\n申し込みは往復はがきで地球環境課（〒650-8570住所不要）へ。11月15日（金曜）必着。抽選\n問い合わせは電話322-6678、FAX322-6068
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1311/info06.html#エコクッキング～簡単ちらし寿司
+DTSTART:20131122T100000
+LOCATION:コミスタこうべ
+END:VEVENT
+END:VCALENDAR

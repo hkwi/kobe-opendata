@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:春休みロボット工房工作教室（2）ゴム風船・消しゴム作り
+DESCRIPTION:（1）ロボット組立プログラミング\n日時は3月30日（土曜）10時～16時\n対象は小学3年生以上\n場所は地域人材支援センター\n料金は無料\n申し込みは3月15日（金曜）まで受付\n（2）ゴム風船・消しゴム作り\n日時は3月31日（日曜）13時30分～\n対象は小学3年生以上\n場所は地域人材支援センター\n料金は無料\n申し込みは3月15日（金曜）まで受付\n問い合わせは工業課（電話322-5333、FAX322-6074）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1303/info04.html#春休みロボット工房工作教室#2
+DTSTART:20130331T133000
+LOCATION:地域人材支援センター
+END:VEVENT
+END:VCALENDAR

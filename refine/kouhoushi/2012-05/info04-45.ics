@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:青少年科学館の催し
+DESCRIPTION:（1）金環日食をみよう！\n金環日食を観察するイベントです\n日時は5月21日（月曜）7時～\n料金は無料\n（2）「きみたちの魔法-化学『新』発見」展\n化学のふしぎを五感で体験できる展示会\n日時は5月26日（土曜）～6月10日（日曜）\n料金は無料（入館料が必要）\n（3）5月末から6月上旬の開館状況\n5月29日（火曜）はプラネタリウムのみ休館。6月6日（水曜）は「金星の太陽通過」観察会のため展示室・プラネタリウムともに開館します\n問い合わせは電話302-5177、FAX302-4816
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1205/info04.html#青少年科学館の催し
+DTSTART:20120521T070000
+END:VEVENT
+END:VCALENDAR

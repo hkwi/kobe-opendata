@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:神戸空港JAZZライブ
+DESCRIPTION:日時は10月25日（土曜）14時～\n料金は無料\n問い合わせは文化交流部（電話322-6598、FAX322-6136）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1410/info06.html#神戸空港JAZZライブ
+DTSTART:20141025T140000
+END:VEVENT
+END:VCALENDAR

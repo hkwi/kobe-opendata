@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:お楽しみ工作屋台
+DESCRIPTION:日時は6月13日（土曜）・28日（日曜）11時～16時\n場所はバンドー神戸青少年科学館\n料金は100円（別途入園料等が必要）\n問い合わせは電話302-5177、FAX302-4816
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1506/info06.html#お楽しみ工作屋台
+DTSTART:20150613T110000
+DTEND:20150613T160000
+RRULE:FREQ=DAILY;BYMONTHDAY=28;COUNT=1
+LOCATION:バンドー神戸青少年科学館
+END:VEVENT
+END:VCALENDAR

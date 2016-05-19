@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:室内楽「神戸国際芸術祭」
+DESCRIPTION:日時は10月10日（木曜）19時～\n場所は舞子ビラ\n料金は3\,000円\n申し込みは直接。先着順\n問い合わせは市民文化振興財団（電話351-3597、FAX351-3121）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1310/info06.html#室内楽「神戸国際芸術祭」
+DTSTART:20131010T190000
+LOCATION:舞子ビラ
+END:VEVENT
+END:VCALENDAR

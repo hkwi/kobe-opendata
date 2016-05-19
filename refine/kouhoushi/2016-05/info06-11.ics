@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:王子動物園（1）ヒツジの毛刈り
+DESCRIPTION:（1）ヒツジの毛刈り\n日時は5月15日（日曜）13時30分～\n料金は無料（別途入園料等が必要）\n（2）飼育係のうらばなし\n対象は小学生以上\n日時は5月22日（日曜）13時30分～\n料金は無料（別途入園料等が必要）\n申し込みは往復はがき（〒657-0838王子町3-1）か神戸市　募集情報（\nhttp://www.city.kobe.lg.jp/information/recruit/\n）で。5月14日（土曜）消印有効。抽選\n問い合わせは電話861-5624、FAX861-5640
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1605/info06.html#王子動物園#1
+DTSTART:20160515T133000
+END:VEVENT
+END:VCALENDAR

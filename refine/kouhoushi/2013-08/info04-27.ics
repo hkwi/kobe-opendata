@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:第5回障害者歯科医療研修会
+DESCRIPTION:日時は9月7日（土曜）14時～\n場所は三宮研修センター（中央区八幡通4）\n料金は無料\n申し込みは電話かFAXで歯科保健推進室（電話611-8900、FAX611-8899）へ。先着順\n問い合わせは地域医療室（電話322-5246、FAX322-6054）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1308/info04.html#第5回障害者歯科医療研修会
+DTSTART:20130907T140000
+LOCATION:三宮研修センター（中央区八幡通4）
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:グリーンフェスタこうべ
+DESCRIPTION:ご家族で楽しい一日を過ごせるイベント\n日時は10月13日（土曜）10時～16時\n場所は総合運動公園\n料金は無料\n問い合わせは花と緑のまち推進センター（電話351-6756、FAX341-8710）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1210/info04.html#グリーンフェスタこうべ
+DTSTART:20121013T100000
+DTEND:20121013T160000
+LOCATION:総合運動公園
+END:VEVENT
+END:VCALENDAR

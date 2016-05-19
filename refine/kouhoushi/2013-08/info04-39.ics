@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:世界アルツハイマーデー記念講演会
+DESCRIPTION:日時は9月21日（土曜）13時30分～\n場所は県私学会館（中央区北長狭通4）\n料金は無料\n申し込みははがき（4人以内・手話が必要な人はその旨を記入）で神港園しあわせの家（北区山田町下谷上字中一里山14-1）へ。8月31日（土曜）消印有効。抽選\n問い合わせは介護保険課（電話322-5259、FAX322-6047）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1308/info04.html#世界アルツハイマーデー記念講演会
+DTSTART:20130921T133000
+LOCATION:県私学会館（中央区北長狭通4）
+END:VEVENT
+END:VCALENDAR

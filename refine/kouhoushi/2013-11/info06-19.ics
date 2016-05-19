@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:進む韓国の電子政府化そして日本は
+DESCRIPTION:日時は11月9日（土曜）13時30分～\n場所はアジア交流プラザ\n料金は840円\n申し込みは電話か直接。先着順\n問い合わせは電話646-7100、FAX646-7200
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1311/info06.html#進む韓国の電子政府化そして日本は
+DTSTART:20131109T133000
+LOCATION:アジア交流プラザ
+END:VEVENT
+END:VCALENDAR

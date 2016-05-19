@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ちびっこうべ2014
+DESCRIPTION:日時は10月12日（日曜）～26日（日曜）\n場所はデザイン・クリエイティブセンター\n料金は無料\n問い合わせは電話325-2235、FAX325-2230
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1410/info06.html#ちびっこうべ2014
+DTSTART:20141012
+DTEND:20141027
+LOCATION:デザイン・クリエイティブセンター
+END:VEVENT
+END:VCALENDAR

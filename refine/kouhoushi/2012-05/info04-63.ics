@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:水源探訪ハイキング＆登山
+DESCRIPTION:宝塚丸山湿原～大岩岳～千苅ダムの約8キロメートル\n日時は6月2日（土曜）9時集合\n場所は市役所2号館\n料金は無料\n申し込みは5月22日（火曜）必着\n問い合わせは経営計画課（電話322-5915、FAX322-6179）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1205/info04.html#水源探訪ハイキング＆登山
+DTSTART:20120602T090000
+LOCATION:市役所2号館
+END:VEVENT
+END:VCALENDAR

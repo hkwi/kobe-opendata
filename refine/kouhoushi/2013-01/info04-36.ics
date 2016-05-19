@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:中央卸売市場本場（3）基本的な魚のさばき方
+DESCRIPTION:（1）旬の魚でおもてなし\nエレガントに楽しむ創作フレンチ\n日時は1月18日（金曜）10時30分～\n料金は有料\n申し込みは開催日の10日前まで受付\n（2）初めての魚のさばき方\n失敗のないさばき方\n日時は1月28日（月曜）10時30分～\n料金は有料\n申し込みは開催日の10日前まで受付\n（3）基本的な魚のさばき方\n魚屋さんのさばき方\n日時は2月5日（火曜）10時30分～\n料金は有料\n申し込みは開催日の10日前まで受付\n問い合わせは電話652-5503、FAX681-3772
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1301/info04.html#中央卸売市場本場#3
+DTSTART:20130205T103000
+END:VEVENT
+END:VCALENDAR

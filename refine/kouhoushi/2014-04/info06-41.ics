@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ハートフルジパングダンスナイト
+DESCRIPTION:日時は5月18日（日曜）18時～\n場所は文化ホール\n料金は無料\n申し込みははがきで同事務局（〒657-0837原田通1-1-3-303）へ。5月7日（水曜）必着。抽選\n問い合わせは市民祭協会（電話331-2413、FAX322-6137）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1404/info06.html#ハートフルジパングダンスナイト
+DTSTART:20140518T180000
+LOCATION:文化ホール
+END:VEVENT
+END:VCALENDAR

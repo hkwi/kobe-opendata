@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ユニティの講座（1）公開講座～新ひょうご学9
+DESCRIPTION:（1）公開講座～新ひょうご学9\n日時は4月4日～、土曜14時～。5回\n料金は4\,320円\n申し込みは電話で。先着順\n（2）パソコンは怖くない!超入門者講座\n日時は4月7日～、火・金曜9時30分～。3回\n料金は9\,000円\n申し込みは電話で。先着順\n（3）インターネット・メール超入門講座\n日時は4月17日～、火・金曜9時30分～。3回\n料金は9\,000円\n申し込みは電話で。先着順\n問い合わせは電話794-4970、FAX794-4910
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1503/info04.html#ユニティの講座#1
+DTSTART:20150404T140000
+RRULE:FREQ=WEEKLY;COUNT=5
+END:VEVENT
+END:VCALENDAR

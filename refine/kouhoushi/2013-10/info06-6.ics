@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:森林植物園の催し（3）秋の草木と遊ぼう「木の実の工作教室」
+DESCRIPTION:（1）森のライトアップ用モビール作り\n日時は10月12日（土曜）10時30分～15時\n料金は無料（別途入園料等が必要）\n申し込みは当日先着順\n（2）森の中で健康教室「ストレスチェック」\n日時は10月12日（土曜）11時～15時30分\n料金は無料（別途入園料等が必要）\n（3）秋の草木と遊ぼう「木の実の工作教室」\n日時は10月13日（日曜）・14日（月曜・祝日）10時30分～15時\n料金は無料（別途入園料等が必要）\n問い合わせは電話591-0253、FAX594-2324
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1310/info06.html#森林植物園の催し#3
+DTSTART:20131013T103000
+DTEND:20131013T150000
+RRULE:FREQ=DAILY;BYMONTHDAY=14;COUNT=1
+END:VEVENT
+END:VCALENDAR

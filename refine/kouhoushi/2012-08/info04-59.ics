@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:藍の生葉でTシャツを染めよう
+DESCRIPTION:持参したTシャツをタデ藍で絞り染にする\n対象は中学生以上\n日時は9月7日（金曜）・8日（土曜）10時～\n場所はファッション美術館\n料金は500円\n申し込みは8月26日（日曜）消印有効\n問い合わせは電話858-0050、FAX858-0058
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1208/info04.html#藍の生葉でTシャツを染めよう
+DTSTART:20120907T100000
+RRULE:FREQ=DAILY;BYMONTHDAY=8;COUNT=1
+LOCATION:ファッション美術館
+END:VEVENT
+END:VCALENDAR

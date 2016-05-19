@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:犯罪被害者等支援講演会・土師守氏
+DESCRIPTION:日時は12月13日（金曜）14時～\n場所は勤労会館\n料金は無料\n申し込みは電話かFAXで。11月29日（金曜）まで受付。抽選\n問い合わせは人権推進課（電話322-5234、FAX322-6048）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1311/info04.html#犯罪被害者等支援講演会・土師守氏
+DTSTART:20131213T140000
+LOCATION:勤労会館
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:KNTライナーウオーク
+DESCRIPTION:北野天満神社から神戸空港島まで13.5キロメートル\n日時は3月3日（日曜）10時集合\n場所は地下鉄新神戸駅\n料金は無料\n問い合わせは新交通株式会社（電話302-2775、FAX302-4504）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1302/info04.html#KNTライナーウオーク
+DTSTART:20130303T100000
+LOCATION:地下鉄新神戸駅
+END:VEVENT
+END:VCALENDAR

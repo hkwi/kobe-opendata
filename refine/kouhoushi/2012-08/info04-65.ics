@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:子ども・じんけんサッカー教室
+DESCRIPTION:サッカーを通じて楽しく人権を学ぶ\n対象は小学生（付添者同伴）\n日時は9月15日（土曜）16時～\n場所はユニバー記念競技場補助競技場\n料金は無料\n申し込みは8月31日（金曜）必着\n問い合わせは人権推進課（電話322-5236、FAX322-6048）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1208/info04.html#子ども・じんけんサッカー教室
+DTSTART:20120915T160000
+LOCATION:ユニバー記念競技場補助競技場
+END:VEVENT
+END:VCALENDAR

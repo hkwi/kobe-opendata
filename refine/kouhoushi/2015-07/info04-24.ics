@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:市民福祉大学（1）介護セミナー～ころばぬ先のつえ
+DESCRIPTION:（1）介護セミナー～ころばぬ先のつえ\n日時は8月18日（火曜）・19日（水曜）10時～\n料金は2\,500円\n場所は市民福祉交流センター\n申し込みははがき（〒651-0086磯上通3-1-32）か電話かFAXで。8月4日（火曜）必着。抽選\n（2）暮らしの中の性の多様性～LGBT\n日時は8月21日（金曜）14時～\n料金は1\,000円\n場所は市民福祉交流センター\n申し込みははがき（〒651-0086磯上通3-1-32）か電話かFAXか直接。8月7日（金曜）必着。抽選\n問い合わせは電話271-5300、FAX271-5365
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1507/info04.html#市民福祉大学#1
+DTSTART:20150818T100000
+RRULE:FREQ=DAILY;BYMONTHDAY=19;COUNT=1
+LOCATION:市民福祉交流センター
+END:VEVENT
+END:VCALENDAR

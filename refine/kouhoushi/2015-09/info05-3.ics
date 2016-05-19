@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:市民ファミリー応援デー（無料）（1）INAC神戸レオネッサ
+DESCRIPTION:（1）INAC神戸レオネッサ\n対象は小・中学生と家族\n日時は9月27日（日曜）13時～\n場所はノエビアスタジアム神戸\n申し込みは往復はがきで市スポーツ教育協会（〒651-0083浜辺通5-1-14）へ。9月10日（木曜）必着。抽選\n（2）デウソン神戸\n対象は小・中学生と家族\n日時は10月9日（金曜）19時～\n場所は中央体育館\n申し込みは往復はがきで市スポーツ教育協会（〒651-0083浜辺通5-1-14）へ。9月18日（金曜）必着。抽選\n問い合わせは電話261-3620、FAX261-8020
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1509/info05.html#市民ファミリー応援デー（無料）#1
+DTSTART:20150927T130000
+LOCATION:ノエビアスタジアム神戸
+END:VEVENT
+END:VCALENDAR

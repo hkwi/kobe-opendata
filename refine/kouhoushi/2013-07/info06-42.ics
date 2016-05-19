@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:自然観察会「生田川を探ろう」
+DESCRIPTION:対象は5歳以上と保護者\n日時は7月28日（日曜）10時30分～15時\n場所は森林植物園\n料金は無料（別途入園料等が必要）\n申し込みはFAXで。先着順\n問い合わせは電話591-0253、FAX594-2324
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1307/info06.html#自然観察会「生田川を探ろう」
+DTSTART:20130728T103000
+DTEND:20130728T150000
+LOCATION:森林植物園
+END:VEVENT
+END:VCALENDAR

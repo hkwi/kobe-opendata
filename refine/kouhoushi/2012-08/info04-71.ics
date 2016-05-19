@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:世界アルツハイマーデー記念講演
+DESCRIPTION:沖田裕子氏による講演\n日時は9月23日（日曜）13時30分～\n場所は県農業会館（中央区海岸通1）\n料金は無料\n申し込みははがきに参加者全員の氏名・代表者の住所・氏名・電話番号・手話通訳の必要な人はその旨を記入し、神港園しあわせの家（北区山田町しあわせの村内）へ。8月31日（金曜）消印有効。抽選\n問い合わせは介護保険課（電話322-5259、FAX322-6047）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1208/info04.html#世界アルツハイマーデー記念講演
+DTSTART:20120923T133000
+LOCATION:県農業会館（中央区海岸通1）
+END:VEVENT
+END:VCALENDAR

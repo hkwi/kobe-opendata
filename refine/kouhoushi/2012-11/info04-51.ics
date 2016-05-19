@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ノルディックウオーキング
+DESCRIPTION:初心者講習後、垂水健康公園まで歩きます\n対象は身長140センチメートル以上の人\n日時は11月18日（日曜）10時～15時\n場所は総合運動公園駅前広場\n料金は500円\n申し込みは先着順\n問い合わせはグリーンアリーナ神戸（電話796-1126、FAX796-1192）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1211/info04.html#ノルディックウオーキング
+DTSTART:20121118T100000
+DTEND:20121118T150000
+LOCATION:総合運動公園駅前広場
+END:VEVENT
+END:VCALENDAR

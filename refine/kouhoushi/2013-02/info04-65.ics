@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ルミナス神戸2 市民クルーズ
+DESCRIPTION:ルミナス神戸2に乗船しての市民クルーズ\n日時は2月19日（火曜）16時～\n場所は中突堤旅客ターミナル\n料金は無料\n申し込みは往復はがきに参加者全員（5人以内）の住所・氏名・年齢・電話番号を記入し、神戸港振興協会（〒650-0042波止場町2-2）へ。2月11日（月曜・祝日）必着。抽選\n問い合わせは電話327-8982、FAX332-4739
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1302/info04.html#ルミナス神戸2 市民クルーズ
+DTSTART:20130219T160000
+LOCATION:中突堤旅客ターミナル
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:西神IPフェア（1）防災体験&工場見学スタンプラリー
+DESCRIPTION:（1）防災体験&工場見学スタンプラリー\n日時は8月22日（金曜）9時20分集合\n場所は西神工業会館（西区高塚台5）\n料金は無料\n申し込みは往復はがきで西神工業会（〒651-2271高塚台5-1-1）へ。7月18日（金曜）消印有効。抽選\n（2）グラウンドゴルフ大会\n日時は8月24日（日曜）10時～\n場所は富士電機グランド（西区高塚台4）\n料金は無料\n申し込みは往復はがきで西神工業会（〒651-2271高塚台5-1-1）へ。7月18日（金曜）消印有効。抽選\n問い合わせは工業課（電話322-5335、FAX322-6074）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1407/info06.html#西神IPフェア#1
+DTSTART:20140822T092000
+LOCATION:西神工業会館（西区高塚台5）
+END:VEVENT
+END:VCALENDAR

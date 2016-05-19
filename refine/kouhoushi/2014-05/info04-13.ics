@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:男性のための介護実技教室
+DESCRIPTION:対象は18歳以上\n日時は5月24日（土曜）14時～\n場所はしあわせの村\n料金は300円\n申し込みははがきか電話かFAXで市民福祉振興協会（北区山田町下谷上字中一里山14-1）へ。5月16日（金曜）必着。抽選\n問い合わせは電話743-8017、FAX743-8180
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1405/info04.html#男性のための介護実技教室
+DTSTART:20140524T140000
+LOCATION:しあわせの村
+END:VEVENT
+END:VCALENDAR

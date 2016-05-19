@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:生活指導研究会新会員募集説明会
+DESCRIPTION:日時は3月6日（金曜）10時30分～\n場所は総合福祉センター\n料金は無料\n申し込みは電話かFAXで生活指導研究会（電話・FAX351-3443）へ。先着順\n問い合わせはこども家庭支援課（電話322-5211、FAX322-6119）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1502/info04.html#生活指導研究会新会員募集説明会
+DTSTART:20150306T103000
+LOCATION:総合福祉センター
+END:VEVENT
+END:VCALENDAR

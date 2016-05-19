@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:飼い犬しつけ方教室
+DESCRIPTION:無駄吠えと飛び付き引張り防止の実技講習\n日時は5月12日（日曜）10時～\n場所は動物管理センター\n料金は2\,000円\n申し込みは4月19日（金曜）消印有効\n問い合わせは電話741-8111、FAX741-8035
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1304/info04.html#飼い犬しつけ方教室
+DTSTART:20130512T100000
+LOCATION:動物管理センター
+END:VEVENT
+END:VCALENDAR

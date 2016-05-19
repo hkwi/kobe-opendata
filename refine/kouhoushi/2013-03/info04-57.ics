@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:KNTライナーウオーク
+DESCRIPTION:深田池公園～六甲アイランド。約13キロメートル\n日時は3月24日（日曜）10時集合\n場所は深田池公園\n料金は無料\n問い合わせは新交通株式会社（電話302-2775、FAX302-4504）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1303/info04.html#KNTライナーウオーク
+DTSTART:20130324T100000
+LOCATION:深田池公園
+END:VEVENT
+END:VCALENDAR

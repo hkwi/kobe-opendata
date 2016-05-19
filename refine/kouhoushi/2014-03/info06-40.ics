@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ハーブショー
+DESCRIPTION:日時は3月21日（金曜・祝日）～6月1日（日曜）\n場所は布引ハーブ園\n料金は有料\n問い合わせは電話271-1160、FAX271-1180
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1403/info06.html#ハーブショー
+DTSTART:20140321
+DTEND:20140602
+LOCATION:布引ハーブ園
+END:VEVENT
+END:VCALENDAR

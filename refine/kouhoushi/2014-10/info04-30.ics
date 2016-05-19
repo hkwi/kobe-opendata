@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:シルバーカレッジまちかどキャンパス
+DESCRIPTION:日時は11月30日（日曜）13時～\n場所は県民会館（中央区下山手通4）\n料金は無料\n申し込みは往復はがきかFAXでシルバーカレッジ事務局（北区山田町下谷上字中一里山14-1）へ。10月31日（金曜）必着。抽選\n問い合わせは電話743-8100、FAX743-8103
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1410/info04.html#シルバーカレッジまちかどキャンパス
+DTSTART:20141130T130000
+LOCATION:県民会館（中央区下山手通4）
+END:VEVENT
+END:VCALENDAR

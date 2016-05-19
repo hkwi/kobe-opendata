@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:街発見 家族でウオークラリー
+DESCRIPTION:日時は3月21日（土曜・祝日）10時～15時30分\n場所は東遊園地\n料金は100円\n申し込みははがきかFAX（5人以内）で兵庫県レクリエーション協会（〒650-0011下山手通4-2-2下山手ハイツ2階、FAX334-2068）へ。3月10日（火曜）消印有効。抽選\n問い合わせは市スポーツ教育協会（電話261-3620、FAX261-8020）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1503/info06.html#街発見 家族でウオークラリー
+DTSTART:20150321T100000
+DTEND:20150321T153000
+LOCATION:東遊園地
+END:VEVENT
+END:VCALENDAR

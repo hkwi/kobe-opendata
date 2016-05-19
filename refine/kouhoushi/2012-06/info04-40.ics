@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:森林整備事務所の催し（1）市立外国人墓地一般公開
+DESCRIPTION:（1）市立外国人墓地一般公開\n歴史的遺産である外国人墓地をたずねます\n日時は6月24日（日曜）10時30分～・13時30分～\n場所は再度公園\n料金は無料\n申し込みは6月10日（日曜）消印有効\n（2）摩耶の森クラブ\n水辺の生き物とキノコ観察会を行います\n日時は6月24日（日曜）10時30分～15時\n場所は掬星台\n料金は無料\n申し込みは6月15日（金曜）消印有効\n（3）こうべ森の小学校～森の生きもの\n森の生きものを探したりしながら学びます\n日時は6月24日（日曜）10時30分～15時\n場所は再度公園\n料金は無料\n申し込みは6月8日（金曜）消印有効\n問い合わせは電話371-5937、FAX371-1087
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1206/info04.html#森林整備事務所の催し#1
+DTSTART:20120624T103000
+RRULE:FREQ=DAILY;BYHOUR=13;BYMINUTE=30;COUNT=1
+LOCATION:再度公園
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:渡部陽一氏講演会＆愛の輪表彰式
+DESCRIPTION:福祉体験作文・愛の輪ポスター表彰式\n日時は12月16日（日曜）13時～\n場所は文化ホール\n料金は無料\n申し込みは先着順\n問い合わせは市社会福祉協議会（電話271-5306、FAX271-5365）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1211/info04.html#渡部陽一氏講演会＆愛の輪表彰式
+DTSTART:20121216T130000
+LOCATION:文化ホール
+END:VEVENT
+END:VCALENDAR

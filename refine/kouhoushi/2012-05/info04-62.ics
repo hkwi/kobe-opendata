@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:高齢者学習センター 体験教室
+DESCRIPTION:短歌・書道・謡曲・民謡・水墨画・俳句等\n対象は60歳以上\n日時は6月1日（金曜）～30日（土曜）\n場所はコミスタこうべ\n料金は0～500円\n申し込みは5月31日（木曜）必着\n問い合わせは電話・FAX251-5581
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1205/info04.html#高齢者学習センター 体験教室
+DTSTART:20120601
+DTEND:20120701
+LOCATION:コミスタこうべ
+END:VEVENT
+END:VCALENDAR

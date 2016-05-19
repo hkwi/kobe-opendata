@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:フルーツ・フラワーパーク（2）ミニ門松作り
+DESCRIPTION:（1）お正月風リース作り\n自然の素材を使ってリースを作ります\n日時は12月22日（土曜）11時～\n料金は1\,000円（入園料が必要）\n申し込みは12月8日（土曜）～先着順\n（2）ミニ門松作り\n本格的なミニ門松を作ります\n日時は12月23日（日曜・祝日）11時～\n料金は1\,000円（入園料が必要）\n申し込みは12月8日（土曜）～先着順\n問い合わせは電話954-1000、FAX954-1023
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1212/info04.html#フルーツ・フラワーパーク#2
+DTSTART:20121223T110000
+END:VEVENT
+END:VCALENDAR

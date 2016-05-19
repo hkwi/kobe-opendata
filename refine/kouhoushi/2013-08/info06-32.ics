@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:消費者教育センター（2）「心と体で学ぶ食育」セミナー
+DESCRIPTION:（1）おいしいニッポンを食べよう！展\n日時は8月19日（月曜）～9月20日（金曜）\n料金は無料\n（2）「心と体で学ぶ食育」セミナー\n日時は8月21日（水曜）13時30分～\n料金は無料\n申し込みは電話で。先着順\n問い合わせは電話371-1222、FAX351-5556
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1308/info06.html#消費者教育センター#2
+DTSTART:20130821T133000
+END:VEVENT
+END:VCALENDAR

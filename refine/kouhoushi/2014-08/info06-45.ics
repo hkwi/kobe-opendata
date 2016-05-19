@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:体験教室「星空ウォッチング」
+DESCRIPTION:対象は中学生以下は保護者同伴\n日時は9月8日（月曜）19時～\n場所はバンドー神戸青少年科学館\n料金は300円\n申し込みは電話で。8月14日（木曜）～先着順\n問い合わせは電話302-5177、FAX302-4816
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1408/info06.html#体験教室「星空ウォッチング」
+DTSTART:20140908T190000
+LOCATION:バンドー神戸青少年科学館
+END:VEVENT
+END:VCALENDAR

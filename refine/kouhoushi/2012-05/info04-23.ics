@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:小磯記念美術館の催し（1）ロビーコンサート
+DESCRIPTION:（1）ロビーコンサート\n市室内合奏団4人による弦楽四重奏曲\n日時は5月12日（土曜）14時～\n料金は無料（入館料が必要）\n（2）特別展講演会\n演題「マリー・ローランサンとその時代」\n日時は5月27日（日曜）14時～\n料金は無料（入館料が必要）\n申し込みは当日先着順\n問い合わせは電話857-5880、FAX857-3737
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1205/info04.html#小磯記念美術館の催し#1
+DTSTART:20120512T140000
+END:VEVENT
+END:VCALENDAR

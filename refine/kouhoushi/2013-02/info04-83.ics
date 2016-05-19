@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:自然の家（2）ダッチオーブン入門教室
+DESCRIPTION:（1）小学6年生卒業キャンプ\n仲良しグループで思い出作りをします\n日時は3月9日（土曜）～、1泊2日\n料金は6\,600円\n申し込みは2月17日（日曜）消印有効\n（2）ダッチオーブン入門教室\nダッチオーブンでさまざまな料理をします\n日時は3月17日（日曜）10時～15時\n料金は大人2\,000円、小人1\,800円\n申し込みは2月10日（日曜）～先着順\n（3）草木染め体験教室\n自然の中で採れた草木を使って染めます\n日時は3月20日（水曜・祝日）10時～15時\n料金は大人800円、小人600円\n申し込みは2月10日（日曜）～先着順\n問い合わせは電話891-0001、FAX891-0002
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1302/info04.html#自然の家#2
+DTSTART:20130317T100000
+DTEND:20130317T150000
+END:VEVENT
+END:VCALENDAR

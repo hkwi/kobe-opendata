@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:オーロラパネル展示
+DESCRIPTION:宇宙から見られるオーロラを紹介します\n日時は1月19日（土曜）～2月3日（日曜）\n場所は青少年科学館\n料金は無料（入館料が必要）\n問い合わせは電話302-5177、FAX302-4816
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1301/info04.html#オーロラパネル展示
+DTSTART:20130119
+DTEND:20130204
+LOCATION:青少年科学館
+END:VEVENT
+END:VCALENDAR

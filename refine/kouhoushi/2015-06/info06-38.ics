@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:花火大会 障害者専用観覧エリア
+DESCRIPTION:対象は障害者手帳所持者と介護者（2人以内）\n日時は8月8日（土曜）19時30分～\n場所は兵庫ふ頭（兵庫区築地町）\n料金は無料\n申し込みは往復はがき（介護者の人数・車種も記入）で神戸港振興協会（〒650-0042波止場町2-2）へ。6月18日（木曜）必着。抽選\n問い合わせは市総合コールセンター（電話333-3330、FAX333-3314）\n\n  \n    \n\n\n
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1506/info06.html#花火大会 障害者専用観覧エリア
+DTSTART:20150808T193000
+LOCATION:兵庫ふ頭（兵庫区築地町）
+END:VEVENT
+END:VCALENDAR

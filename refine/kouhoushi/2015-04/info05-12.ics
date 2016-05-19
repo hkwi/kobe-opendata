@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:スポーツイベント観戦情報（有料）（3）INAC神戸VSアルビレックス新潟
+DESCRIPTION:（1）兵庫ストークスVSレバンガ北海道\n日時は4月18日（土曜）15時～・19日（日曜）14時～\n場所は中央体育館\n（2）ヴィッセル神戸VS名古屋グランパス\n日時は4月29日（水曜・祝日）16時～\n場所はノエビアスタジアム神戸\n（3）INAC神戸VSアルビレックス新潟\n日時は5月2日（土曜）13時～\n場所はノエビアスタジアム神戸\n問い合わせは市スポーツ教育協会（電話261-3620、FAX261-8020）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1504/info05.html#スポーツイベント観戦情報（有料）#3
+DTSTART:20150502T130000
+LOCATION:ノエビアスタジアム神戸
+END:VEVENT
+END:VCALENDAR

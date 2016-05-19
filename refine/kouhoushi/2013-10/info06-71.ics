@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:大道芸パフォーマンス
+DESCRIPTION:日時は11月2日（土曜）・3日（日曜・祝日）14時～\n場所はメリケンパーク（中央区波止場町2）\n料金は無料\n問い合わせは文化交流部（電話599-5595、FAX599-5596）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1310/info06.html#大道芸パフォーマンス
+DTSTART:20131102T140000
+RRULE:FREQ=DAILY;BYMONTHDAY=3;COUNT=1
+LOCATION:メリケンパーク（中央区波止場町2）
+END:VEVENT
+END:VCALENDAR

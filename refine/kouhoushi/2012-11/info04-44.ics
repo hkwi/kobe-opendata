@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:須磨離宮公園（3）ポインセチア展
+DESCRIPTION:（1）秋の洋らん展\n洋らん約150点の展示、一部即売・相談会\n日時は11月19日（月曜）～25日（日曜）\n料金は無料（入園料が必要）\n（2）もみじ観賞会\n期間中の土・日曜、祝日にライトアップ\n日時は11月23日（金曜・祝日）～12月9日（日曜）\n料金は無料（入園料が必要）\n（3）ポインセチア展\nホワイトクリスマスをイメージした展示\n日時は12月1日（土曜）～25日（火曜）\n料金は無料（入園料が必要）\n問い合わせは電話732-6688、FAX734-6022
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1211/info04.html#須磨離宮公園#3
+DTSTART:20121201
+DTEND:20121226
+END:VEVENT
+END:VCALENDAR

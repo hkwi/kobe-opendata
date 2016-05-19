@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:DV防止セミナー「DVの連鎖」
+DESCRIPTION:日時は11月21日（金曜）13時30分～\n場所はあすてっぷKOBE\n料金は無料\n申し込みは電話かFAXか直接。9月9日（火曜）～先着順\n問い合わせは電話361-6977、FAX361-6477\n\n  \n    \n\n\n
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1409/info04.html#DV防止セミナー「DVの連鎖」
+DTSTART:20141121T133000
+LOCATION:あすてっぷKOBE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:夏休み小学生親子市場見学会
+DESCRIPTION:対象は小学生と保護者\n日時は8月1日（土曜）8時～12時\n場所は中央卸売市場本場\n料金は500円\n申し込みは電話で。7月22日（水曜）まで受付。抽選\n問い合わせは電話652-5503、FAX681-3772
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1507/info07.html#夏休み小学生親子市場見学会
+DTSTART:20150801T080000
+DTEND:20150801T120000
+LOCATION:中央卸売市場本場
+END:VEVENT
+END:VCALENDAR

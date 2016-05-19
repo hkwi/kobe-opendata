@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:さかなの学校（1）塩づくりとアイスクリームづくり
+DESCRIPTION:（1）塩づくりとアイスクリームづくり\n塩の性質を利用しアイスクリームを作ろう\n対象は小・中学生と保護者\n日時は8月19日（日曜）10時30分～\n料金は1人800円\n申し込みは8月8日（水曜）消印有効\n（2）ちりめんキャラクターをさがそう\nチリメンジャコに交じっている生物を観察\n対象は小学生と保護者（2人1組）\n日時は8月23日（木曜）10時30分～\n料金は1組1\,600円\n申し込みは8月9日（木曜）消印有効\n問い合わせは電話706-5550、FAX706-5636
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1208/info04.html#さかなの学校#1
+DTSTART:20120819T103000
+END:VEVENT
+END:VCALENDAR

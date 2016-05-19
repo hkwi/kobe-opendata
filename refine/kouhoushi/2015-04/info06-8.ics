@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ワタナベフラワーコンサート
+DESCRIPTION:日時は4月12日（日曜）15時45分～\n場所は灘区民ホール\n料金は大人2\,500円・中学生以下1\,000円\n申し込みは電話か直接。先着順\n問い合わせは電話802-8555、FAX802-9811
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1504/info06.html#ワタナベフラワーコンサート
+DTSTART:20150412T154500
+LOCATION:灘区民ホール
+END:VEVENT
+END:VCALENDAR

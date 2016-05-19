@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:スポーツイベント観戦情報（有料）（1）デウソン神戸VS名古屋オーシャンズ
+DESCRIPTION:（1）デウソン神戸VS名古屋オーシャンズ\n日時は12月8日（日曜）14時～\n場所はグリーンアリーナ\n（2）皇后杯全日本女子サッカー大会\n日時は12月15日（日曜）11時～・14時～\n場所はユニバー記念競技場\n（3）兵庫ストークスVS東芝神奈川\n日時は12月20日（金曜）19時～、21日（土曜）15時～\n場所は中央体育館\n問い合わせは市スポーツ教育協会（電話261-3620、FAX261-8020）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1312/info05.html#スポーツイベント観戦情報（有料）#1
+DTSTART:20131208T140000
+LOCATION:グリーンアリーナ
+END:VEVENT
+END:VCALENDAR

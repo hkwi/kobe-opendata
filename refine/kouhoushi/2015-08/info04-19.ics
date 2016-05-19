@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:いきいき勤労財団の講座（1）シルバーのつどい～もんたよしのり
+DESCRIPTION:（1）シルバーのつどい～もんたよしのり\n対象は60歳以上\n日時は9月2日（水曜）13時～\n場所は文化ホール\n料金は無料\n申し込みは往復はがき（〒651-0096雲井通5-3-1）で。8月11日（火曜）消印有効。抽選\n（2）勤労市民センター秋季講座\n日時は10月～平成28年3月\n場所は勤労会館・各勤労市民センター（六甲道、兵庫、新長田、ピフレホール、垂水）\n料金は有料\n申し込みははがきか直接各館へ。9月5日（土曜）必着。抽選\n問い合わせは電話251-5561、FAX252-9448
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1508/info04.html#いきいき勤労財団の講座#1
+DTSTART:20150902T130000
+LOCATION:文化ホール
+END:VEVENT
+END:VCALENDAR

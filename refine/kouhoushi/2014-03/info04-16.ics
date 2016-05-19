@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:プロップ パソコン講習会（1）イラストレーター基礎
+DESCRIPTION:（1）イラストレーター基礎\n日時は3月27日～、木曜13時～。8回\n場所はファッションマート（東灘区向洋町中6）\n料金は有料\n申し込みは電話かFAXでプロップステーション（電話845-2263、FAX845-2918）へ。開催日の7日前まで受付。抽選\n（2）フォトショップ基礎\n日時は3月27日～、木曜15時～。8回\n場所はファッションマート（東灘区向洋町中6）\n料金は有料\n申し込みは電話かFAXでプロップステーション（電話845-2263、FAX845-2918）へ。開催日の7日前まで受付。抽選\n（3）ワードエクセル初級\n日時は3月25日～、火曜13時30分～。10回\n場所はファッションマート（東灘区向洋町中6）\n料金は有料\n申し込みは電話かFAXでプロップステーション（電話845-2263、FAX845-2918）へ。開催日の7日前まで受付。抽選\n問い合わせは情報化推進部（電話322-5042、FAX322-6199）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1403/info04.html#プロップ パソコン講習会#1
+DTSTART:20140327T130000
+RRULE:FREQ=WEEKLY;COUNT=8
+LOCATION:ファッションマート（東灘区向洋町中6）
+END:VEVENT
+END:VCALENDAR

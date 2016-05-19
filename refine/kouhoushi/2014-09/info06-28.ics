@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:大道芸パフォーマンス
+DESCRIPTION:日時は9月13日（土曜）15時～・17時～\n場所はキャナルプロムナード（兵庫区切戸町）\n料金は無料\n問い合わせは文化交流部（電話322-6598、FAX322-6136）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1409/info06.html#大道芸パフォーマンス
+DTSTART:20140913T150000
+RRULE:FREQ=DAILY;BYHOUR=17;BYMINUTE=0;COUNT=1
+LOCATION:キャナルプロムナード（兵庫区切戸町）
+END:VEVENT
+END:VCALENDAR

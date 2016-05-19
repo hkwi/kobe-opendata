@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ユニティの講座（1）都市の防災を考える
+DESCRIPTION:（1）都市の防災を考える\n日時は9月28日～、土曜14時～。5回\n料金は4\,200円\n申し込みは電話で。先着順\n（2）パソコン講座入門～Word2010\n日時は10月11日～25日、火・金曜9時30分～。5回\n料金は15\,000円\n申し込みは電話で。先着順\n問い合わせは電話794-4970、FAX794-4910
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1309/info04.html#ユニティの講座#1
+DTSTART:20130928T140000
+RRULE:FREQ=WEEKLY;COUNT=5
+END:VEVENT
+END:VCALENDAR

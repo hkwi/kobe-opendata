@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:神戸ファッションウイーク
+DESCRIPTION:日時は9月4日（金曜）～19日（土曜）\n問い合わせはファッション産業課（電話322-5332、FAX322-6077）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1508/info06.html#神戸ファッションウイーク
+DTSTART:20150904
+DTEND:20150920
+END:VEVENT
+END:VCALENDAR

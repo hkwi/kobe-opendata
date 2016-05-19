@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:INAC神戸VS浦和戦無料招待
+DESCRIPTION:日時は9月27日（日曜）13時～\n場所はノエビアスタジアム神戸\n申し込みははがき（4人以内）で広報課（〒650-8570住所不要）へ。9月11日（金曜）必着。抽選\n問い合わせは電話322-5013、FAX322-6007
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1509/info05.html#INAC神戸VS浦和戦無料招待
+DTSTART:20150927T130000
+LOCATION:ノエビアスタジアム神戸
+END:VEVENT
+END:VCALENDAR

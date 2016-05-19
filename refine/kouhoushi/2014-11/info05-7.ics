@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:中央体育館（1）太極拳教室
+DESCRIPTION:（1）太極拳教室\n日時は11月14日～、金曜10時～。5回\n料金は4\,100円\n申し込みは電話か直接。11月8日（土曜）～先着順\n（2）がんばれ神戸っ子長縄とび大会\n対象は小学4年生\n日時は27年2月14日（土曜）9時～\n料金は無料\n申し込みははがき（〒650-0017楠町4-1-1）で。11月28日（金曜）消印有効。抽選\n問い合わせは電話341-7971、FAX341-7974
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1411/info05.html#中央体育館#1
+DTSTART:20141114T100000
+RRULE:FREQ=WEEKLY;COUNT=5
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:婦人会館あじさい講座（2）パソコン講座
+DESCRIPTION:（1）中高年から始める「らくらくピアノ」\n日時は8月12・26日（水曜）13時～\n料金は1\,500円\n申し込みは電話か直接。先着順\n（2）パソコン講座\n日時は8月18日（火曜）10時～\n料金は500円\n申し込みは電話か直接。先着順\n問い合わせは電話351-0861、FAX351-0862
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1508/info04.html#婦人会館あじさい講座#2
+DTSTART:20150818T100000
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:愛の輪ふれあいコンサート
+DESCRIPTION:日時は10月4日（日曜）10時～\n場所はしあわせの村\n料金は無料\n問い合わせは市社会福祉協議会（電話271-5306、FAX271-5365）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1509/info06.html#愛の輪ふれあいコンサート
+DTSTART:20151004T100000
+LOCATION:しあわせの村
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ポートアイランドスポーツセンター（1）50メートルプール一般営業開始
+DESCRIPTION:（1）50メートルプール一般営業開始\n日時は6月8日（月曜）～9月13日（日曜）\n料金は大人650円・小人300円\n（2）夏季水泳教室\n対象は5カ月～未就学児と保護者、高校生以上\n日時は7月2日（木曜）10時～\n料金は有料\n申し込みははがき（〒650-0046港島中町6-12-1）で。6月9日（火曜）消印有効。抽選\n問い合わせは電話302-1031、FAX302-1032
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1506/info05.html#ポートアイランドスポーツセンター#1
+DTSTART:20150608
+DTEND:20150914
+END:VEVENT
+END:VCALENDAR

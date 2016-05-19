@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:漁業デー
+DESCRIPTION:垂水漁港で水揚げされた鮮魚や野菜を販売\n日時は12月19日（水曜）13時30分～\n場所は市水産会館\n料金は有料\n問い合わせは農水産課（電話322-5358、FAX322-6076）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1212/info04.html#漁業デー
+DTSTART:20121219T133000
+LOCATION:市水産会館
+END:VEVENT
+END:VCALENDAR

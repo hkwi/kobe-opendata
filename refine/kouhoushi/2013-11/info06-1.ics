@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:相楽園（3）浣心亭お茶席
+DESCRIPTION:（1）菊花展\n日時は11月23日（土曜・祝日）まで\n料金は無料（別途入園料等が必要）\n（2）アコースティックカバーライブ\n日時は11月16日（土曜）14時～\n料金は無料（別途入園料等が必要）\n（3）浣心亭お茶席\n日時は11月23日（土曜・祝日）・24日（日曜）13時～\n料金は400円（別途入園料等が必要）\n申し込みは当日先着順\n問い合わせは電話351-5155、FAX361-7307
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1311/info06.html#相楽園#3
+DTSTART:20131123T130000
+RRULE:FREQ=DAILY;BYMONTHDAY=24;COUNT=1
+END:VEVENT
+END:VCALENDAR

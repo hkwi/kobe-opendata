@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:文学講座・百けん文芸の出発点
+DESCRIPTION:日時は5月25日（土曜）14時～\n場所は神戸文学館\n料金は200円\n申し込みは電話かFAXで。先着順\n問い合わせは電話・FAX882-2028
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1305/info06.html#文学講座・百けん文芸の出発点
+DTSTART:20130525T140000
+LOCATION:神戸文学館
+END:VEVENT
+END:VCALENDAR

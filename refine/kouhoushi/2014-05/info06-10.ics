@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ヒツジの毛刈り
+DESCRIPTION:日時は5月11日（日曜）13時30分～\n場所は王子動物園\n料金は無料（別途入園料等が必要）\n問い合わせは電話861-5624、FAX861-5640
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1405/info06.html#ヒツジの毛刈り
+DTSTART:20140511T133000
+LOCATION:王子動物園
+END:VEVENT
+END:VCALENDAR

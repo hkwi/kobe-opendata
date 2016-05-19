@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:飼い犬しつけ方教室
+DESCRIPTION:咬みぐせ防止の講習会（実技なし）\n日時は12月6日（木曜）14時～\n場所は市動物管理センター\n料金は2\,000円\n申し込みは11月20日（火曜）消印有効\n問い合わせは電話741-8111、FAX741-8035
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1211/info04.html#飼い犬しつけ方教室
+DTSTART:20121206T140000
+LOCATION:市動物管理センター
+END:VEVENT
+END:VCALENDAR

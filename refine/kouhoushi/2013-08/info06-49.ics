@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:青少年科学館（3）青少年のための科学の祭典 神戸大会
+DESCRIPTION:（1）チャレンジ!かがくかんマスター\n日時は9月1日（日曜）まで\n料金は無料（別途入園料等が必要）\n（2）プラネタリウムが熱い夏休み\n日時は8月17日（土曜）～9月1日（日曜）\n料金は大人400円、小人200円\n（3）青少年のための科学の祭典 神戸大会\n日時は9月7日（土曜）・8日（日曜）10時～16時30分\n料金は無料\n問い合わせは電話302-5177、FAX302-4816
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1308/info06.html#青少年科学館#3
+DTSTART:20130907T100000
+DTEND:20130907T163000
+RRULE:FREQ=DAILY;BYMONTHDAY=8;COUNT=1
+END:VEVENT
+END:VCALENDAR

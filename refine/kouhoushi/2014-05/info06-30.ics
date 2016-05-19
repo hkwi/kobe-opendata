@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:医療産業都市見学会
+DESCRIPTION:日時は5月21日（水曜）14時～\n場所はキメックセンタービル等\n料金は無料\n申し込みは電話かFAXで医療産業都市推進本部へ。先着順\n問い合わせは電話322-6349、FAX322-6010
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1405/info06.html#医療産業都市見学会
+DTSTART:20140521T140000
+LOCATION:キメックセンタービル等
+END:VEVENT
+END:VCALENDAR

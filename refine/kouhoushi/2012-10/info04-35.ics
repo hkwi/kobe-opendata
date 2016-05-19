@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:鈴木清一展～昭和の神戸風景画
+DESCRIPTION:昭和の神戸風景を油絵等約40点で紹介\n日時は10月25日（木曜）～11月6日（火曜）\n場所はこうべまちづくり会館\n料金は無料\n問い合わせは電話361-4523、FAX361-4546
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1210/info04.html#鈴木清一展～昭和の神戸風景画
+DTSTART:20121025
+DTEND:20121107
+LOCATION:こうべまちづくり会館
+END:VEVENT
+END:VCALENDAR

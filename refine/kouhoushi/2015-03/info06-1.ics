@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:クルーズ客船主な入港情報（2）ノーティカ
+DESCRIPTION:（1）セブンシーズ・ボイジャー\n日時は（a）3月8日（日曜）14時入港・9日（月曜）16時出港、（b）3月13日（金曜）9時入港・14日（土曜）15時出港\n場所は（a）中突堤旅客ターミナル（b）ポートターミナル\n（2）ノーティカ\n日時は3月22日（日曜）9時入港・23日（月曜）18時出港、3月28日（土曜）18時入港・29日（日曜）21時出港\n場所は中突堤旅客ターミナル\n問い合わせは市総合コールセンター（電話333-3330、FAX333-3314）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1503/info06.html#クルーズ客船主な入港情報#2
+DTSTART:20150322T090000
+DTEND:20150323T180000
+LOCATION:中突堤旅客ターミナル
+END:VEVENT
+END:VCALENDAR

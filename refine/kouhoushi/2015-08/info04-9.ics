@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:中央卸売市場本場の料理教室（3）魚のさばき方講座ステップ1
+DESCRIPTION:（1）大田忠道料理道場～旬の味\n日時は8月18日（火曜）10時30分～\n料金は4\,000円\n申し込みは電話で。開催日の10日前まで受付。抽選\n（2）街の魚屋さん親子料理教室～さんま\n日時は8月30日（日曜）10時30分～\n料金は2\,000円\n申し込みは電話で。開催日の10日前まで受付。抽選\n（3）魚のさばき方講座ステップ1\n日時は9月7日（月曜）10時30分～\n料金は2\,600円\n申し込みは電話で。開催日の10日前まで受付。抽選\n問い合わせは電話652-5503、FAX681-3772
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1508/info04.html#中央卸売市場本場の料理教室#3
+DTSTART:20150907T103000
+END:VEVENT
+END:VCALENDAR

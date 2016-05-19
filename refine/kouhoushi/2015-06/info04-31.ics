@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:エコ・古布ぞうりづくり他体験教室
+DESCRIPTION:日時は7月2日（木曜）～30日（木曜）\n場所はコミスタこうべ\n料金は一部有料\n申し込みは電話か直接。先着順\n問い合わせは電話251-4731、FAX251-4733
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1506/info04.html#エコ・古布ぞうりづくり他体験教室
+DTSTART:20150702
+DTEND:20150731
+LOCATION:コミスタこうべ
+END:VEVENT
+END:VCALENDAR

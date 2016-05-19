@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ラトビア日和～ラトビア音楽祭
+DESCRIPTION:日時は9月24日（木曜）18時～\n場所は東灘区民センター\n料金は無料\n申し込みは電話でバルトフェスタ事務局（電話080-4046-3442）へ。先着順\n問い合わせは国際交流推進部（電話322-5010、FAX322-2382）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1509/info06.html#ラトビア日和～ラトビア音楽祭
+DTSTART:20150924T180000
+LOCATION:東灘区民センター
+END:VEVENT
+END:VCALENDAR

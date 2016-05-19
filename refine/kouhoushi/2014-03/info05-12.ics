@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ファミリーウオーキング～桜の名所
+DESCRIPTION:日時は4月6日（日曜）10時集合。雨天決行\n場所はJR灘駅\n料金は無料\n申し込みは当日受付\n問い合わせはスポーツ教育協会（電話261-3620、FAX261-8020）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1403/info05.html#ファミリーウオーキング～桜の名所
+DTSTART:20140406T100000
+LOCATION:JR灘駅
+END:VEVENT
+END:VCALENDAR

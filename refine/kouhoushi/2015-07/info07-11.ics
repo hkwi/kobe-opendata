@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:六甲山で流しそうめん
+DESCRIPTION:日時は8月30日（日曜）12時～\n場所は自然の家\n料金は大人1\,500円・小人1\,000円\n申し込みは電話で。7月16日（木曜）～29日（水曜）まで受付。抽選\n問い合わせは電話891-0001、FAX891-0002\n\n  \n    \n\n\n
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1507/info07.html#六甲山で流しそうめん
+DTSTART:20150830T120000
+LOCATION:自然の家
+END:VEVENT
+END:VCALENDAR

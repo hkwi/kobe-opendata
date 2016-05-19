@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:布引ハーブ園（2）ラベンダー&ローズフェスティバル
+DESCRIPTION:（1）ローズカフェ\n日時は6月1日（月曜）～7月5日（日曜）\n料金は300円（別途入園料等が必要）\n（2）ラベンダー&ローズフェスティバル\n日時は6月1日（月曜）～7月12日（日曜）\n料金は無料（別途入園料等が必要）\n（3）ラベンダー摘み取り体験\n日時は6月6日（土曜）～7月5日（日曜）の土・日曜（雨天中止）\n料金は無料（別途入園料等が必要）\n問い合わせは電話271-1160、FAX271-1180
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1506/info06.html#布引ハーブ園#2
+DTSTART:20150601
+DTEND:20150713
+END:VEVENT
+END:VCALENDAR

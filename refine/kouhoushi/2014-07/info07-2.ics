@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:環境未来館（夏休みエコ講座）（1）ワケトン作者山崎先生のお絵かき教室
+DESCRIPTION:（1）ワケトン作者山崎先生のお絵かき教室\n対象は小学生と保護者\n日時は7月25日（金曜）10時30分～・13時～\n料金は無料\n申し込みははがきかFAXで地球環境課（〒650-8570住所不要）へ。7月14日（月曜）必着。抽選\n（2）UCCのコーヒーおもてなし講座\n対象は（a）中学生以上（b）小学生と保護者\n日時は7月29日（火曜）、（a）10時30分～（b）13時30分～\n料金は無料\n申し込みははがきかFAXで地球環境課（〒650-8570住所不要）へ。7月14日（月曜）必着。抽選\n（3）宝酒造エコの学校「紙すき体験」\n対象は小学生と保護者\n日時は8月4日（月曜）13時30分～、5日（火曜）10時～\n料金は無料\n申し込みははがきかFAXで地球環境課（〒650-8570住所不要）へ。7月25日（金曜）必着。抽選\n問い合わせは電話322-6678、FAX322-6068
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1407/info07.html#環境未来館（夏休みエコ講座）#1
+DTSTART:20140725T103000
+RRULE:FREQ=DAILY;BYHOUR=13;BYMINUTE=0;COUNT=1
+END:VEVENT
+END:VCALENDAR

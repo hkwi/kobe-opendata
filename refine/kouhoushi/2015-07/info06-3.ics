@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:クルーズ客船主な入港情報（1）スカイシー・ゴールデン・エラ
+DESCRIPTION:（1）スカイシー・ゴールデン・エラ\n日時は7月14日（火曜）15時入港・15日（水曜）16時出港\n場所はポートターミナル\n（2）オーシャン・ドリーム\n日時は7月26日（日曜）14時入港・29日（水曜）19時出港\n場所はポートターミナル\n問い合わせは市総合コールセンター（電話333-3330、FAX333-3314）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1507/info06.html#クルーズ客船主な入港情報#1
+DTSTART:20150714T150000
+DTEND:20150715T160000
+LOCATION:ポートターミナル
+END:VEVENT
+END:VCALENDAR

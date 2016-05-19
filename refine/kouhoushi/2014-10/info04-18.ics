@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:里親制度を進めるための講演
+DESCRIPTION:日時は11月2日（日曜）13時30分～\n場所はあすてっぷKOBE\n料金は無料\n申し込みは電話かFAXで家庭養護推進協会（電話341-5046、FAX341-1096）へ。先着順\n問い合わせはこども家庭支援課（電話322-5211、FAX322-6119）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1410/info04.html#里親制度を進めるための講演
+DTSTART:20141102T133000
+LOCATION:あすてっぷKOBE
+END:VEVENT
+END:VCALENDAR

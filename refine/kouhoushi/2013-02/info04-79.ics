@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:リサイクル工房みなとじま（1）自転車パンク修理教室
+DESCRIPTION:（1）自転車パンク修理教室\n自分でパンク修理をやってみよう！\n対象は小学生以上と家族\n日時は3月10日（日曜）13時30分～\n料金は無料\n申し込みは開催日の1週間前必着\n（2）家具修理（木工製作）教室\n小型ラックを製作します\n対象は小学生以上と家族\n日時は3月17日（日曜）13時30分～\n料金は無料\n申し込みは開催日の1週間前必着\n問い合わせは電話・FAX303-0319
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1302/info04.html#リサイクル工房みなとじま#1
+DTSTART:20130310T133000
+END:VEVENT
+END:VCALENDAR

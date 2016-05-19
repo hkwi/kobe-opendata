@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:農業振興センターの催し（1）松本NGK田んぼ花摘み会
+DESCRIPTION:（1）松本NGK田んぼ花摘み会\n対象は小学生以下は保護者同伴\n日時は5月12日（日曜）10時～14時。雨天中止\n場所はレストランでん園（西区櫨谷町松本179）\n料金は無料\n（2）ため池田んぼ探検隊\n対象は小学生がいる家族\n日時は6月9日（日曜）9時30分～。4回\n場所はめっこうファーム（西区神出町東）\n料金は無料\n申し込みははがきかFAXで同センター（〒651-2124伊川谷町潤和1058）へ。5月20日（月曜）必着。抽選\n（3）おしべのゆめ田植え体験\n対象は小学生以下は保護者同伴\n日時は6月15日（土曜）10時30分～\n場所は西区押部谷町木見\n料金は無料\n申し込みははがきで同センターへ。5月31日（金曜）必着。抽選\n問い合わせは電話975-6845、FAX975-6828
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1305/info06.html#農業振興センターの催し#1
+DTSTART:20130512T100000
+DTEND:20130512T140000
+LOCATION:レストランでん園（西区櫨谷町松本179）
+END:VEVENT
+END:VCALENDAR

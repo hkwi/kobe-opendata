@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:全国瞬時警報システムの伝達訓練
+DESCRIPTION:緊急情報を伝達する「全国瞬時警報システム」の全国一斉情報伝達訓練が行われ、防災行政無線から訓練放送が流れます\n日時は9月11日（水曜）11時～・11時30分～\n問い合わせは危機管理室（電話322-6456、FAX322-6031）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1309/info02.html#全国瞬時警報システムの伝達訓練
+DTSTART:20130911T110000
+RRULE:FREQ=DAILY;BYHOUR=11;BYMINUTE=30;COUNT=1
+END:VEVENT
+END:VCALENDAR

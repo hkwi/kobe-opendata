@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:勤労感謝のつどい
+DESCRIPTION:生涯学習体験、映画、パーティー\n日時は11月17日（土曜）13時～18時30分\n場所は舞子ビラ\n料金は4\,000円\n申し込みは10月31日（水曜）必着\n問い合わせは勤労市民課（電話322-5177、FAX322-6033）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1210/info04.html#勤労感謝のつどい
+DTSTART:20121117T130000
+DTEND:20121117T183000
+LOCATION:舞子ビラ
+END:VEVENT
+END:VCALENDAR

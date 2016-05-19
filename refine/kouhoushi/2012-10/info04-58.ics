@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:空の日＆鉄道の日イベント
+DESCRIPTION:詳細は神戸空港・新交通ホームページ参照\n日時は11月4日（日曜）10時～16時\n場所は神戸空港等\n料金は無料\n問い合わせは空港事業室（電話322-6378、FAX322-6011）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1210/info04.html#空の日＆鉄道の日イベント
+DTSTART:20121104T100000
+DTEND:20121104T160000
+LOCATION:神戸空港等
+END:VEVENT
+END:VCALENDAR

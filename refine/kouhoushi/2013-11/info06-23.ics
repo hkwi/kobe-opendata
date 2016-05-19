@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:神戸港振興協会の催し（2）ばら積運搬船進水式見学会
+DESCRIPTION:（1）特別展「丸木舟から宇宙船まで」\n日時は11月2日（土曜）～12月23日（月曜・祝日）\n場所は海洋博物館\n料金は無料（別途入園料等が必要）\n（2）ばら積運搬船進水式見学会\n日時は12月3日（火曜）11時～\n場所は川崎重工業神戸工場（中央区東川崎町3）\n料金は無料\n申し込みは往復はがき（5人以内）で同協会（〒650-0042波止場町2-2）へ。11月13日（水曜）消印有効。抽選\n問い合わせは電話327-8982、FAX332-4739
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1311/info06.html#神戸港振興協会の催し#2
+DTSTART:20131203T110000
+LOCATION:川崎重工業神戸工場（中央区東川崎町3）
+END:VEVENT
+END:VCALENDAR

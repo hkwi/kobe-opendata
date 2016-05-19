@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:コミスタこうべ
+DESCRIPTION:（1）一日体験教室\nプリザーブド、ハーモニカほか3教室\n日時は8月9日（木曜）～30日（木曜）\n料金は100～1\,600円\n申し込みは先着順\n（2）市民合同作品展募集\n絵画・写真・手工芸品等を募集\n申し込みは8月31日（金曜）必着\n問い合わせは電話251-4731、FAX251-4733
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1208/info04.html#コミスタこうべ
+DTSTART:20120809
+DTEND:20120831
+END:VEVENT
+END:VCALENDAR

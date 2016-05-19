@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:勤労会館（2）秘書検定準1級 受験対策講座
+DESCRIPTION:（1）宅建主任者資格試験 受験対策講座\n日時は7月1日～、火・木曜18時30分～。22回\n料金は42\,220円\n申し込みは電話かFAXか直接。先着順\n（2）秘書検定準1級 受験対策講座\n日時は7月24日～、木曜18時30分～。10回\n料金は19\,910円\n申し込みは電話かFAXか直接。先着順\n問い合わせは電話232-1881、FAX232-1876
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1406/info04.html#勤労会館#2
+DTSTART:20140724T183000
+RRULE:FREQ=WEEKLY;COUNT=10
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ばら積運搬船進水式見学会
+DESCRIPTION:日時は8月7日（水曜）11時～\n場所は川崎重工業神戸工場（中央区東川崎町3）\n料金は無料\n申し込みは往復はがき（5人以内）で神戸港振興協会（〒650-0042波止場2-2）へ。7月12日（金曜）消印有効。抽選\n問い合わせは電話327-8982、FAX332-4739
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1307/info06.html#ばら積運搬船進水式見学会
+DTSTART:20130807T110000
+LOCATION:川崎重工業神戸工場（中央区東川崎町3）
+END:VEVENT
+END:VCALENDAR

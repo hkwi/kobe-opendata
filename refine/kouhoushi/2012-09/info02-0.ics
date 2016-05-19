@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:全国瞬時警報システムの放送試験
+DESCRIPTION:緊急情報を伝達する「全国瞬時警報システム」の全国一斉試験が行われ、市内全ての防災行政無線から試験放送が流れます\n日時は9月12日（水曜）10時～・10時30分～\n問い合わせは危機管理室（電話322-6456、FAX322-6031）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1209/info02.html#全国瞬時警報システムの放送試験
+DTSTART:20120912T100000
+RRULE:FREQ=DAILY;BYHOUR=10;BYMINUTE=30;COUNT=1
+END:VEVENT
+END:VCALENDAR

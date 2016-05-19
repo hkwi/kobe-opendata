@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:増田寛也（元総務大臣）講演会
+DESCRIPTION:日時は9月17日（木曜）17時～\n場所は神戸芸術センター（中央区熊内橋通7）\n料金は無料\n問い合わせは総合計画課（電話322-5029、FAX322-6009）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1509/info04.html#増田寛也（元総務大臣）講演会
+DTSTART:20150917T170000
+LOCATION:神戸芸術センター（中央区熊内橋通7）
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:プレパパママ食育講座
+DESCRIPTION:対象は初産妊婦と夫\n日時は8月18日（日曜）10時～13時30分\n場所はピフレホール\n料金は2人1\,000円\n申し込みは電話で市総合コールセンター（電話333-3330）へ。先着順\n問い合わせは地域保健課（電話322-6512、FAX322-6052）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1308/info04.html#プレパパママ食育講座
+DTSTART:20130818T100000
+DTEND:20130818T133000
+LOCATION:ピフレホール
+END:VEVENT
+END:VCALENDAR

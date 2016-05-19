@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:平磯海づり公園（4）ジュニアフィッシングパーティー
+DESCRIPTION:（1）親子海釣り教室\n対象は小・中学生と保護者\n日時は11月8・22日（土曜）10時～\n料金は1人1\,400円\n（2）市長杯釣り大会\n日時は11月16日（日曜）6時～10時\n料金は大人1\,000円・小人600円\n（3）神戸マラソン協賛・無料開放\n日時は11月23日（日曜・祝日）\n（4）ジュニアフィッシングパーティー\n対象は6～15歳\n日時は11月24日（月曜・休日）6時～10時\n料金は600円\n問い合わせは電話753-3973、FAX753-4873
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1411/info06.html#平磯海づり公園#4
+DTSTART:20141124T060000
+DTEND:20141124T100000
+END:VEVENT
+END:VCALENDAR

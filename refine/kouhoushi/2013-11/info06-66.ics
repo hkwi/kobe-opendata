@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:神戸フィル定期演奏会
+DESCRIPTION:日時は11月23日（土曜・祝日）16時～\n場所は文化ホール\n料金は3\,000円\n問い合わせは市民文化振興財団（電話351-3597、FAX351-3121）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1311/info06.html#神戸フィル定期演奏会
+DTSTART:20131123T160000
+LOCATION:文化ホール
+END:VEVENT
+END:VCALENDAR

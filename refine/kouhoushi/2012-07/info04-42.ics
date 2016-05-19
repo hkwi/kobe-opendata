@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:夏休み日帰りバス旅行
+DESCRIPTION:母子で行く鈴鹿サーキットへの日帰り旅行\n対象は母子家庭の親子\n日時は8月5日（日曜）8時30分集合\n場所は湊川神社（中央区多聞通3）\n料金は4\,000円（小学生以下3\,000円）\n申し込みは先着順\n問い合わせは母子福祉センター（電話341-4532、FAX371-6478）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1207/info04.html#夏休み日帰りバス旅行
+DTSTART:20120805T083000
+LOCATION:湊川神社（中央区多聞通3）
+END:VEVENT
+END:VCALENDAR

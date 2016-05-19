@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:みなと&空港の施設見学会
+DESCRIPTION:対象は小学3年生～中学2年生（小学生は保護者同伴）\n日時は1月6日（火曜）10時～17時\n場所は中突堤中央ターミナル\n料金は無料\n申し込みはFAXで。12月12日（金曜）必着。抽選\n問い合わせはみなと総局振興課（電話322-5670、FAX322-6121）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1412/info06.html#みなと&空港の施設見学会
+DTSTART:20150106T100000
+DTEND:20150106T170000
+LOCATION:中突堤中央ターミナル
+END:VEVENT
+END:VCALENDAR

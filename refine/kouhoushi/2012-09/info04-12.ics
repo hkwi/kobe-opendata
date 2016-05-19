@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:まちのアートステージ
+DESCRIPTION:トアステジャズライブ\n日時は9月15日（土曜）14時～\n場所はNHK神戸放送局（中央区中山手通2）\n料金は無料\n問い合わせは文化交流部電話（322-6598、FAX322-6136）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1209/info04.html#まちのアートステージ
+DTSTART:20120915T140000
+LOCATION:NHK神戸放送局（中央区中山手通2）
+END:VEVENT
+END:VCALENDAR

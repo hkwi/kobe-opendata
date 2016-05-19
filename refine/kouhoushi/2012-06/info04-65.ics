@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:あすてっぷKOBEのセミナー（2）結婚する？結婚しない？それとも…
+DESCRIPTION:（1）女性のためのからだとこころの連続講座\n30代からの更年期講座\n日時は7月28日（土曜）10時～\n料金は無料\n申し込みは先着順\n（2）結婚する？結婚しない？それとも…\n「結婚」をトコトン考える！\n対象は20～40代の未婚者\n日時は8月4日（土曜）13時30分～\n料金は500円\n申し込みは先着順\n（3）たまご塾「女性の政治参画」\n女性の視点で社会を変える\n日時は8月17日（金曜）13時30分～\n料金は無料\n申し込みは先着順\n問い合わせは電話361-6977、FAX361-6477
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1206/info04.html#あすてっぷKOBEのセミナー#2
+DTSTART:20120804T133000
+END:VEVENT
+END:VCALENDAR

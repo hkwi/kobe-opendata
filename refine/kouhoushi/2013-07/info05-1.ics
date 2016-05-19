@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:王子スポーツセンター
+DESCRIPTION:（1）夏休み短期スポーツ教室\n対象は小学生\n日時は7月20日（土曜）～8月21日（水曜）\n料金は有料\n申し込みははがき（〒657-0805青谷町1-1-1）かFAXか直接。7月10日（水曜）消印有効。抽選\n（2）第２期定期教室\n対象は小学生以上\n日時は9月4日（水曜）～12月19日（木曜）\n料金は有料\n申し込みははがき（〒657-0805青谷町1-1-1）かFAXか直接。8月10日（土曜）消印有効。抽選\n（3）テニスコート営業時間延長\n7月31日（水曜）までは19時まで営業\n問い合わせは電話802-0223、FAX861-5628
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1307/info05.html#王子スポーツセンター
+DTSTART:20130720
+DTEND:20130822
+END:VEVENT
+END:VCALENDAR

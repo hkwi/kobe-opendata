@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:鍼灸師の免許について
+DESCRIPTION:日時は10月16日（水曜）15時～\n場所は国際会議場\n料金は無料\n問い合わせは国際観光コンベンション協会（電話302-5200、FAX302-6485）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1309/info04.html#鍼灸師の免許について
+DTSTART:20131016T150000
+LOCATION:国際会議場
+END:VEVENT
+END:VCALENDAR

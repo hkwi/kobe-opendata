@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:スポーツイベント観戦情報（有料）（3）ヴィッセル神戸VS浦和レッズ
+DESCRIPTION:（1）デウソン神戸VSシュライカー大阪\n日時は6月12日（金曜）18時30分～\n場所はグリーンアリーナ\n（2）オリックスVS埼玉西武ライオンズ\n日時は6月19日（金曜）18時～・20日（土曜）14時～\n場所はほっともっとフィールド神戸\n（3）ヴィッセル神戸VS浦和レッズ\n日時は6月20日（土曜）16時～\n場所はノエビアスタジアム神戸\n問い合わせは市スポーツ教育協会（電話261-3620、FAX261-8020）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1506/info05.html#スポーツイベント観戦情報（有料）#3
+DTSTART:20150620T160000
+LOCATION:ノエビアスタジアム神戸
+END:VEVENT
+END:VCALENDAR

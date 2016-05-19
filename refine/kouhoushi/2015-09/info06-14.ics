@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:子供の家（1）親子ふれあいイベント
+DESCRIPTION:（1）親子ふれあいイベント\n対象は3歳以下と保護者\n日時は9月15日（火曜）・25日（金曜）10時30分～\n料金は無料\n（2）親子ふれあいコンサート\n対象は3歳以下と保護者\n日時は9月22日（火曜・休日）10時30分～\n料金は無料\n問い合わせは電話783-7137、FAX783-7138
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1509/info06.html#子供の家#1
+DTSTART:20150915T103000
+RRULE:FREQ=DAILY;BYMONTHDAY=25;COUNT=1
+END:VEVENT
+END:VCALENDAR

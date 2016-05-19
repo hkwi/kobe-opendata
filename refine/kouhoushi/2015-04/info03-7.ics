@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:女性のための相談室（面接・予約制）（4）からだの相談
+DESCRIPTION:（1）こころの悩み相談\n日時は火・水・木・土曜（祝日休）\n場所はあすてっぷKOBE\n料金は無料\n（2）法律相談\n日時は4月9・30日（木曜）・11・18日（土曜）\n場所はあすてっぷKOBE\n料金は無料\n（3）就業・チャレンジ相談\n日時は4月25日（土曜）\n場所はあすてっぷKOBE\n料金は無料\n（4）からだの相談\n日時は5月2日（土曜）\n場所はあすてっぷKOBE\n料金は無料\n問い合わせは電話361-8935、FAX361-6477
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1504/info03.html#女性のための相談室（面接・予約制）#4
+DTSTART:20150502
+LOCATION:あすてっぷKOBE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:女性の権利110番
+DESCRIPTION:日時は6月22日（金曜）10時～16時\n場所はあすてっぷKOBE\n料金は無料\n申し込みは先着順\n問い合わせは電話361-6977、FAX361-6477
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1205/info03.html#女性の権利110番
+DTSTART:20120622T100000
+DTEND:20120622T160000
+LOCATION:あすてっぷKOBE
+END:VEVENT
+END:VCALENDAR

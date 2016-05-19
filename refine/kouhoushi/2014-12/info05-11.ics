@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ポートアイランドスポーツセンターの教室
+DESCRIPTION:（1）冬休み・1月スケート教室\n日時は12月23日（火曜・祝日）～2月12日（木曜）\n料金は有料\n申し込みははがき（〒650-0046港島中町6-12-1）で。12月12日（金曜）消印有効。抽選\n（2）臨時休業日・短縮営業日\n25メートルプールは12月1日（月曜）～1月31日（土曜）休業（変更の場合あり）。スケートは12月13日（土曜）・30日（火曜）・31日（水曜）休業、12月14日（日曜）・20日（土曜）・28日（日曜）・29日（月曜）短縮営業\n問い合わせは電話302-1031、FAX302-1032
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1412/info05.html#ポートアイランドスポーツセンターの教室
+DTSTART:20141223
+DTEND:20150213
+END:VEVENT
+END:VCALENDAR

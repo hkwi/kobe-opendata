@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:家具・住宅内装修理相談会
+DESCRIPTION:日時は10月14日（日曜）12時30分～15時30分\n場所はリサイクル工房みなとじま\n申し込みは9月14日（金曜）～先着順\n問い合わせは電話・FAX303-0319
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1209/info03.html#家具・住宅内装修理相談会
+DTSTART:20121014T123000
+DTEND:20121014T153000
+LOCATION:リサイクル工房みなとじま
+END:VEVENT
+END:VCALENDAR

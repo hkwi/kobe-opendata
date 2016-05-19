@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ユニティ公開講座（2）公開講座（プロダクトデザイン）
+DESCRIPTION:（1）パソコン講座（フェイスブック入門）\n日時は6月28日～、火・金曜9時30分～。4回\n料金は有料\n申し込みは電話で。先着順\n（2）公開講座（プロダクトデザイン）\n日時は7月6日～、土曜14時～。5回\n料金は有料\n申し込みは電話で。先着順\n（3）パソコン講座（エクセル入門）\n日時は7月12日～、火・金曜9時30分～。5回\n料金は有料\n申し込みは電話で。先着順\n問い合わせは電話794-4970、FAX794-4910
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1306/info04.html#ユニティ公開講座#2
+DTSTART:20130706T140000
+RRULE:FREQ=WEEKLY;COUNT=5
+END:VEVENT
+END:VCALENDAR

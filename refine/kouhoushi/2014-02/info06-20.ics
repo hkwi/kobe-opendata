@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:区民センター等の催し（3）3月度パソコン講座
+DESCRIPTION:（1）アトランティス弦楽四重奏団\n日時は2月17日（月曜）19時～\n場所は灘区民ホール\n料金は有料\n申し込みは電話か直接。2月8日（土曜）～先着順\n問い合わせは電話802-8555、FAX802-9811\n（2）剣道体験教室\n対象は小学2年生以上\n日時は3月2日（日曜）13時30分～\n場所は生田文化会館\n料金は無料\n申し込みは電話かFAXか直接。2月8日（土曜）～先着順\n問い合わせは電話382-0861、FAX361-4115\n（3）3月度パソコン講座\n日時は3月3日（月曜）～\n場所は兵庫勤労市民センター\n料金は有料\n申し込みは電話か直接。2月8日（土曜）～先着順\n問い合わせは電話576-0981、FAX578-1307
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1402/info06.html#区民センター等の催し#3
+DTSTART:20140303
+LOCATION:兵庫勤労市民センター
+END:VEVENT
+END:VCALENDAR

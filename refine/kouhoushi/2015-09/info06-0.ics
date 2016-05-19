@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:コミスタこうべ（1）コミスタ生涯学習フェスティバル
+DESCRIPTION:（1）コミスタ生涯学習フェスティバル\n日時は9月2日（水曜）～10月31日（土曜）\n料金は一部有料\n申し込みは電話か直接。先着順\n（2）「シャーロックホームズ」を読む\n日時は10月10・24日（土曜）11時～\n料金は無料\n申し込みは電話かFAXか直接。先着順\n問い合わせは電話251-4731、FAX251-4733
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1509/info06.html#コミスタこうべ#1
+DTSTART:20150902
+DTEND:20151101
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ファミリーウオーキング～新春
+DESCRIPTION:新春神戸八社巡り（一宮神社～八宮神社）\n日時は1月13日（日曜）9時45分集合。雨天決行\n場所はJR新神戸駅\n料金は無料\n問い合わせは市スポーツ教育協会（電話261-3620、FAX261-8020）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1301/info04.html#ファミリーウオーキング～新春
+DTSTART:20130113T094500
+LOCATION:JR新神戸駅
+END:VEVENT
+END:VCALENDAR

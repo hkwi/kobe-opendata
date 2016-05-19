@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:RICで彫刻と写真で遊ぼう
+DESCRIPTION:家族で楽しむ彫刻ベストショット\n日時は9月8日（土曜）13時～\n場所は小磯記念美術館\n料金は無料\n申し込みは8月28日（火曜）消印有効\n問い合わせは電話857-5880、FAX857-3737
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1208/info04.html#RICで彫刻と写真で遊ぼう
+DTSTART:20120908T130000
+LOCATION:小磯記念美術館
+END:VEVENT
+END:VCALENDAR

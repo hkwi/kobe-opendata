@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:コミスタこうべ（3）「エコ・コンポスト」作り
+DESCRIPTION:（1）「母への絵てがみ」他体験教室\n日時は5月2日（土曜）～31日（日曜）\n料金は有料\n申し込みは電話か直接。先着順\n（2）市政リレー講座「こうべ花時計物語」\n対象は20歳以上\n日時は5月21日（木曜）10時～\n料金は無料\n申し込みは電話か直接。先着順\n（3）「エコ・コンポスト」作り\n対象は20歳以上\n日時は5月26日（火曜）13時30分～\n料金は無料\n申し込みは電話か直接。先着順\n問い合わせは電話251-4731、FAX251-4733
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1504/info04.html#コミスタこうべ#3
+DTSTART:20150526T133000
+END:VEVENT
+END:VCALENDAR

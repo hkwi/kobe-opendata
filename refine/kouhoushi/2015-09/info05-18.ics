@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ベーカリーでRUNデブーマラソン
+DESCRIPTION:日時は11月29日（日曜）10時～・12時～\n場所はノエビアスタジアム神戸\n料金は有料\n申し込みは電話かFAXか直接チームゼロ事務局（電話955-2137、FAX955-5975）へ。9月10日（木曜）～先着順\n問い合わせは電話652-5656、FAX652-5651\n\n  \n    \n\n\n
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1509/info05.html#ベーカリーでRUNデブーマラソン
+DTSTART:20151129T100000
+RRULE:FREQ=DAILY;BYHOUR=12;BYMINUTE=0;COUNT=1
+LOCATION:ノエビアスタジアム神戸
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:地引網体験
+DESCRIPTION:須磨海岸で地引網の体験をします\n日時は6月2日（土曜）9時30分～\n場所は須磨海岸\n料金は無料\n申し込みは5月17日（木曜）消印有効\n問い合わせはさかなの学校（電話706-5550、FAX706-5636）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1205/info04.html#地引網体験
+DTSTART:20120602T093000
+LOCATION:須磨海岸
+END:VEVENT
+END:VCALENDAR

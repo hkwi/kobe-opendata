@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:スイスアルペン音楽祭
+DESCRIPTION:日時は8月11日（日曜）11時50分～・14時～\n場所は六甲山牧場\n料金は無料（別途入園料等が必要）\n問い合わせは電話891-0280、FAX891-0592
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1308/info06.html#スイスアルペン音楽祭
+DTSTART:20130811T115000
+RRULE:FREQ=DAILY;BYHOUR=14;BYMINUTE=0;COUNT=1
+LOCATION:六甲山牧場
+END:VEVENT
+END:VCALENDAR

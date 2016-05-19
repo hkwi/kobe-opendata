@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:希望と絆の集い（防災カフェ）
+DESCRIPTION:日時は9月1日（日曜）13時30分～17時\n場所は危機管理センター\n料金は無料\n申し込みははがきかFAXで防災白熱アカデミィ（〒658-0053住吉宮町5-9-12-101、FAX761-0626）へ。7月8日（月曜）～8月15日（木曜）必着\n問い合わせは危機管理室（電話322-6487、FAX322-6031）\n\n  \n    \n\n\n
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1307/info06.html#希望と絆の集い（防災カフェ）
+DTSTART:20130901T133000
+DTEND:20130901T170000
+LOCATION:危機管理センター
+END:VEVENT
+END:VCALENDAR

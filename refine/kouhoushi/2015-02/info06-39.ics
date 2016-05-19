@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:スポーツで婚活 in ユニバー
+DESCRIPTION:対象は20～39歳までの独身男女\n日時は2月28日（土曜）12時30分～17時\n場所は補助競技場\n料金は男性3\,000円・女性2\,000円\n申し込みは電話で。2月8日（日曜）～先着順\n問い合わせは電話793-6150、FAX793-6159
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1502/info06.html#スポーツで婚活 in ユニバー
+DTSTART:20150228T123000
+DTEND:20150228T170000
+LOCATION:補助競技場
+END:VEVENT
+END:VCALENDAR

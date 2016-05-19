@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:グリーンアリーナ神戸（2）親子ふれあい体操教室
+DESCRIPTION:（1）正しく歩こう！歩幅改善ウオーク\n日時は5月11日（土曜）10時～\n場所は総合運動公園案内所\n料金は500円\n（2）親子ふれあい体操教室\n対象は2～6歳と保護者\n日時は5月28日（火曜）10時～\n料金は1組1\,500円\n申し込みは電話か直接。先着順\n問い合わせは電話796-1126、FAX796-1192
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1305/info05.html#グリーンアリーナ神戸#2
+DTSTART:20130528T100000
+END:VEVENT
+END:VCALENDAR

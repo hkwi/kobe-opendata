@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:オリックス対楽天戦無料招待
+DESCRIPTION:日時は5月14日（木曜）18時～\n場所はほっともっとフィールド神戸\n申し込みは往復はがき（2人以内）で市公園緑化協会（〒654-0163緑台）へ。4月10日（金曜）消印有効。抽選\n問い合わせは電話795-5533、FAX795-5544
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1504/info05.html#オリックス対楽天戦無料招待
+DTSTART:20150514T180000
+LOCATION:ほっともっとフィールド神戸
+END:VEVENT
+END:VCALENDAR

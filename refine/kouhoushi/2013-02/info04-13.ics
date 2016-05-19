@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:KAVC・オン・ステージ’13
+DESCRIPTION:施設を利用するさまざまな団体の発表会\n日時は2月10日（日曜）・11日（月曜・祝日）13時～\n場所はアートビレッジセンター\n料金は無料\n問い合わせは電話512-5500、FAX512-5356
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1302/info04.html#KAVC・オン・ステージ’13
+DTSTART:20130210T130000
+RRULE:FREQ=DAILY;BYMONTHDAY=11;COUNT=1
+LOCATION:アートビレッジセンター
+END:VEVENT
+END:VCALENDAR

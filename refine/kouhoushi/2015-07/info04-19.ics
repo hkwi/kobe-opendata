@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:夏休み「ねんどで作ろう夢の家」
+DESCRIPTION:日時は8月1日（土曜）13時15分～17時\n場所は埋蔵文化財センター\n料金は500円\n申し込みははがきか電話かFAXですまいるネット（〒651-0096雲井通5-3-1サンパル4階）へ。7月17日（金曜）必着。抽選\n問い合わせは電話222-0186、FAX222-0106
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1507/info04.html#夏休み「ねんどで作ろう夢の家」
+DTSTART:20150801T131500
+DTEND:20150801T170000
+LOCATION:埋蔵文化財センター
+END:VEVENT
+END:VCALENDAR

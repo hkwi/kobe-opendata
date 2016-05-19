@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:春の味覚ヘルシー料理講座
+DESCRIPTION:旬の味覚をふんだんに使った料理教室\n日時は5月19日（土曜）10時～\n場所は母子福祉センター\n料金は1\,500円\n申し込みは先着順\n問い合わせは電話341-4532、FAX371-6478
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1205/info04.html#春の味覚ヘルシー料理講座
+DTSTART:20120519T100000
+LOCATION:母子福祉センター
+END:VEVENT
+END:VCALENDAR

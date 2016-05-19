@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:社会人向け写真加工入門
+DESCRIPTION:日時は7月22日（水曜）10時～\n場所は科学技術高等学校\n料金は無料\n申し込みは往復はがき（〒651-0072脇浜町1-4-70）かFAXで。7月10日（金曜）必着。抽選\n問い合わせは電話272-9934、FAX272-9919
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1507/info04.html#社会人向け写真加工入門
+DTSTART:20150722T100000
+LOCATION:科学技術高等学校
+END:VEVENT
+END:VCALENDAR

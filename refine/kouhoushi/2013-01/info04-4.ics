@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:巳年賀状版画コンクール作品展
+DESCRIPTION:全応募作品1\,405点を展示\n日時は1月2日（水曜）～15日（火曜）\n場所は王子動物園\n料金は無料（入園料が必要）\n問い合わせは電話861-5624、FAX861-5640
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1301/info04.html#巳年賀状版画コンクール作品展
+DTSTART:20130102
+DTEND:20130116
+LOCATION:王子動物園
+END:VEVENT
+END:VCALENDAR

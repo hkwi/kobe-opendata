@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:アニメーション神戸展
+DESCRIPTION:イベント紹介と大学・専門学校生の作品展\n日時は12月6日（木曜）～12日（水曜）\n場所は花時計ギャラリー\n料金は無料\n問い合わせは情報化推進部（電話322-5042、FAX322-6199）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1212/info04.html#アニメーション神戸展
+DTSTART:20121206
+DTEND:20121213
+LOCATION:花時計ギャラリー
+END:VEVENT
+END:VCALENDAR

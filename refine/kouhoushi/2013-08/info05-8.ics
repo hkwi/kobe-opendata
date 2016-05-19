@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:王子スポーツセンター
+DESCRIPTION:（1）第2期定期教室（卓球他6教室）\n日時は9月2日（月曜）～12月18日（水曜）\n料金は有料\n申し込みははがき（〒657-0805青谷町1-1-1）かFAXか直接。8月10日（土曜）消印有効。抽選\n（2）プール営業時間延長\n8月1日（木曜）～10日（土曜）は19時まで営業\n問い合わせは電話802-0223、FAX861-5628
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1308/info05.html#王子スポーツセンター
+DTSTART:20130902
+DTEND:20131219
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ポートアイランドスポーツセンター
+DESCRIPTION:（1）2月スケート教室\n幼児～大人。毎週計5回。初心者～OK\n対象は5歳以上\n日時は2月9日（土曜）～\n料金は有料\n申し込みは1月18日（金曜）消印有効\n（2）臨時休館日・短縮営業日\nスケート・25メートルプールは、水曜（冬休みは営業）休館。1月2日（水曜）～4日（金曜）は17時まで。スケートのみ、1月12・19日（土曜）は16時45分まで\n問い合わせは電話302-1031、FAX302-1032
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1301/info04.html#ポートアイランドスポーツセンター
+DTSTART:20130209
+END:VEVENT
+END:VCALENDAR

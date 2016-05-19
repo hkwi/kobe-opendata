@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:あいな里山で秋の自然風景を楽しむ
+DESCRIPTION:日時は9月30日（水曜）10時～\n場所は国営明石海峡公園神戸地区（北区山田町藍那字伝庫）\n料金は無料\n申し込みははがきかFAXで地球環境課（〒650-8570住所不要）へ。9月16日（水曜）必着。抽選\n問い合わせは電話322-6678、FAX322-6982
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1509/info06.html#あいな里山で秋の自然風景を楽しむ
+DTSTART:20150930T100000
+LOCATION:国営明石海峡公園神戸地区（北区山田町藍那字伝庫）
+END:VEVENT
+END:VCALENDAR

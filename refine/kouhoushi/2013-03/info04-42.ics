@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:さかなの学校（1）春休みの工作体験
+DESCRIPTION:（1）春休みの工作体験\n春にちなんだ工作を作る体験\n日時は3月20日（水曜・祝日）～4月5日（金曜）\n料金は600円\n（2）春休み塩づくり体験\n濃縮海水を土鍋で煮詰め、塩を作る体験\n対象は小学生以上（小学3年生以下は保護者同伴）\n日時は3月22日（金曜）～4月5日（金曜）13時30分～\n料金は300円\n（3）こどもの日工作体験\nこいのぼり等の工作を作る体験\n日時は4月6日（土曜）～5月5日（日曜・祝日）\n料金は600円\n問い合わせは電話706-5550、FAX706-5636
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1303/info04.html#さかなの学校#1
+DTSTART:20130320
+DTEND:20130406
+END:VEVENT
+END:VCALENDAR

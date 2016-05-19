@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:小磯さんのパステル
+DESCRIPTION:対象は小学生以上\n日時は3月1日（土曜）10時～・14時～\n場所は小磯記念美術館\n料金は200円（大人は別途入園料等が必要）\n申し込みは往復はがき（〒658-0032向洋町中5-7）で。2月14日（金曜）必着。抽選\n問い合わせは電話857-5880、FAX857-3737
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1402/info06.html#小磯さんのパステル
+DTSTART:20140301T100000
+RRULE:FREQ=DAILY;BYHOUR=14;BYMINUTE=0;COUNT=1
+LOCATION:小磯記念美術館
+END:VEVENT
+END:VCALENDAR

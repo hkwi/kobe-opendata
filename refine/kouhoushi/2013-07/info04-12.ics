@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:「ゆかたの着付」講座
+DESCRIPTION:日時は7月20日（土曜）10時～\n場所は母子福祉センター\n料金は1\,000円\n申し込みは電話かFAXで。先着順\n問い合わせは電話341-4532、FAX371-6478
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1307/info04.html#「ゆかたの着付」講座
+DTSTART:20130720T100000
+LOCATION:母子福祉センター
+END:VEVENT
+END:VCALENDAR

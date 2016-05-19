@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:認知症の正しい理解と予防の必要性
+DESCRIPTION:日時は9月27日（日曜）13時20分～\n場所は国際会議場\n料金は無料\n問い合わせは電話302-5200、FAX302-6485
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1509/info04.html#認知症の正しい理解と予防の必要性
+DTSTART:20150927T132000
+LOCATION:国際会議場
+END:VEVENT
+END:VCALENDAR

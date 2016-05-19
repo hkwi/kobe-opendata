@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:自転車修理・整備相談会
+DESCRIPTION:日時は7月14日（日曜）12時30分～15時30分\n場所はリサイクル工房みなとじま\n料金は無料\n申し込みは7月12日（金曜）必着\n問い合わせは電話・FAX303-0319
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1307/info03.html#自転車修理・整備相談会
+DTSTART:20130714T123000
+DTEND:20130714T153000
+LOCATION:リサイクル工房みなとじま
+END:VEVENT
+END:VCALENDAR

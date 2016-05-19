@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:災害から身を守るセミナー
+DESCRIPTION:東南海・南海地震に備える講演会です\n日時は6月22日（金曜）14時～\n場所は長田公民館\n料金は無料\n問い合わせは電話575-1374、FAX575-1785
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1206/info04.html#災害から身を守るセミナー
+DTSTART:20120622T140000
+LOCATION:長田公民館
+END:VEVENT
+END:VCALENDAR

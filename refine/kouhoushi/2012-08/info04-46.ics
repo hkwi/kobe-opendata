@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:森林整備事務所の催し（1）摩耶の森クラブ
+DESCRIPTION:（1）摩耶の森クラブ\n自然観察園の手入れをしよう\n日時は8月26日（日曜）10時30分～15時\n場所は掬星台\n料金は無料\n申し込みは8月17日（金曜）消印有効\n（2）市立外国人墓地一般公開\n歴史的遺産である外国人墓地を訪ねます\n日時は8月26日（日曜）10時30分～・13時30分～\n場所は再度公園\n料金は無料\n申し込みは8月10日（金曜）消印有効\n問い合わせは電話371-5937、FAX371-1087
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1208/info04.html#森林整備事務所の催し#1
+DTSTART:20120826T103000
+DTEND:20120826T150000
+LOCATION:掬星台
+END:VEVENT
+END:VCALENDAR

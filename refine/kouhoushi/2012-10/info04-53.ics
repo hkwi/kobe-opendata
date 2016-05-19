@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:動物の体重をはかる集い
+DESCRIPTION:インドゾウなどの体重を量る様子を見学\n日時は11月3日（土曜・祝日）11時～・14時～\n場所は王子動物園\n料金は無料（入園料が必要）\n問い合わせは電話861-5624、FAX861-5640
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1210/info04.html#動物の体重をはかる集い
+DTSTART:20121103T110000
+RRULE:FREQ=DAILY;BYHOUR=14;BYMINUTE=0;COUNT=1
+LOCATION:王子動物園
+END:VEVENT
+END:VCALENDAR

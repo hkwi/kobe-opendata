@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:きらめきコンサート（3）きらめきコンサート
+DESCRIPTION:（1）長田deきらめきコンサート\n日時は2月8日（日曜）14時～\n場所はピフレホール\n料金は無料\n申し込みは往復はがき（2人以内）で消防音楽隊（〒651-1124ひよどり北町3-1）へ。12月31日（水曜）消印有効。抽選\n（2）東灘deきらめきコンサート\n日時は2月13日（金曜）18時30分～\n場所はうはらホール\n料金は無料\n申し込みは往復はがき（2人以内）で消防音楽隊（〒651-1124ひよどり北町3-1）へ。12月31日（水曜）消印有効。抽選\n（3）きらめきコンサート\n日時は3月7日（土曜）14時～\n場所は文化ホール\n料金は無料\n申し込みは往復はがき（2人以内）で消防音楽隊（〒651-1124ひよどり北町3-1）へ。12月31日（水曜）消印有効。抽選\n問い合わせは電話743-3773、FAX743-3791
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1412/info06.html#きらめきコンサート#3
+DTSTART:20150307T140000
+LOCATION:文化ホール
+END:VEVENT
+END:VCALENDAR

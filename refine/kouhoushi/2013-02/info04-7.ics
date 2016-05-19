@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:市演奏協会のコンサート（2）市室内合奏団定期演奏会
+DESCRIPTION:（1）仲道郁代＆室内合奏団コンサート\nモーツァルトコレクション\n日時は2月8日（金曜）19時～\n場所は文化ホール\n料金は4\,500円\n（2）市室内合奏団定期演奏会\nふたりの天才と若き日の作品\n日時は3月7日（木曜）18時30分～\n場所は文化ホール\n料金は3\,000円\n問い合わせは電話361-7241、FAX361-7182
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1302/info04.html#市演奏協会のコンサート#2
+DTSTART:20130307T183000
+LOCATION:文化ホール
+END:VEVENT
+END:VCALENDAR

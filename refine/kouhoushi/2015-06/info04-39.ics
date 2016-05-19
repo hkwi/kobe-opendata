@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:あすてっぷKOBEの講座（1）DV防止セミナー
+DESCRIPTION:（1）DV防止セミナー\n日時は8月5日（水曜）13時30分～\n料金は無料\n申し込みは電話かFAXで。6月9日（火曜）～先着順\n（2）女性のための法律セミナー\n日時は8月6日（木曜）13時30分～\n料金は無料\n申し込みは電話かFAXで。6月9日（火曜）～先着順\n問い合わせは男女共同参画センター（電話361-6977、FAX361-6477）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1506/info04.html#あすてっぷKOBEの講座#1
+DTSTART:20150805T133000
+END:VEVENT
+END:VCALENDAR

@@ -10,15 +10,14 @@
  <title>おとな旅・神戸</title>
  <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info00-02.html#おとな旅・神戸</link>
  <pubDate>Wed, 24 Dec 2014 00:00:00 +0900</pubDate>
- <description><![CDATA[<div class="btnSocialBox clearfix">
+ <category>おとな旅・神戸</category>
+ <description><![CDATA[<div class="btnSocialBox">
             <div class="btnSocialInnerBox">
               <span>
                   <a href="https://twitter.com/share" class="twitter-share-button">ツイート</a>
                   
                 </span>
-              <span>
-                  
-                </span>
+              <div class="fb-share-button" href="http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1501/info00-02.html"></div>
               </div>
           </div>
         

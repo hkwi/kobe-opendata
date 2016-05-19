@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ヴィッセル神戸ファミリー応援デー
+DESCRIPTION:対象は小・中学生と家族\n日時は9月22日（日曜）19時～\n場所はユニバー記念競技場\n料金は無料\n申し込みは往復はがき（4人以内）で市スポーツ教育協会（〒651-0083浜辺通5-1-14）へ。9月9日（月曜）必着。抽選\n問い合わせは電話261-3620、FAX261-8020
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1309/info05.html#ヴィッセル神戸ファミリー応援デー
+DTSTART:20130922T190000
+LOCATION:ユニバー記念競技場
+END:VEVENT
+END:VCALENDAR

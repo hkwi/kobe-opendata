@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:平磯海づり公園（2）釣りんピックIN海づり公園
+DESCRIPTION:（1）親子海釣り教室\n対象は小・中学生と保護者\n日時は10月11・25日（土曜）10時～\n料金は1人1\,400円\n（2）釣りんピックIN海づり公園\n日時は10月13日（月曜・祝日）6時～10時\n料金は大人1\,000円・小人600人\n問い合わせは電話753-3973、FAX753-4873
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1410/info06.html#平磯海づり公園#2
+DTSTART:20141013T060000
+DTEND:20141013T100000
+END:VEVENT
+END:VCALENDAR

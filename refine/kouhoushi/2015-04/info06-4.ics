@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:六甲山牧場（2）羊の毛で毛糸を作ろう
+DESCRIPTION:（1）羊の毛刈りショー\n日時は4月11日（土曜）・12・26日（日曜）・29日（水曜・祝日）、5月2日（土曜）～6日（水曜・休日）11時～・13時30分～\n料金は無料（別途入園料等が必要）\n（2）羊の毛で毛糸を作ろう\n日時は5月3日（日曜・祝日）10時30分～15時\n料金は310円（別途入園料等が必要）\n（3）大型絵本の朗読会\n日時は5月5日（火曜・祝日）11時30分～・14時～\n料金は無料（別途入園料等が必要）\n問い合わせは電話891-0280、FAX891-0592
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1504/info06.html#六甲山牧場#2
+DTSTART:20150503T103000
+DTEND:20150503T150000
+END:VEVENT
+END:VCALENDAR

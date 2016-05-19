@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:沙羅の花と一絃琴の観賞会
+DESCRIPTION:日時は6月22日（土曜）～24日（月曜）\n場所は有馬温泉念仏寺（北区有馬町1641）\n料金は1\,500円\n申し込みは往復はがきで有馬温泉観光案内所（〒651-1401有馬町790-3）へ。6月14日（金曜）消印有効。抽選\n問い合わせは観光コンベンション課（電話322-5339、FAX322-6138）\n\n  \n    \n\n\n
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1305/info06.html#沙羅の花と一絃琴の観賞会
+DTSTART:20130622
+DTEND:20130625
+LOCATION:有馬温泉念仏寺（北区有馬町1641）
+END:VEVENT
+END:VCALENDAR

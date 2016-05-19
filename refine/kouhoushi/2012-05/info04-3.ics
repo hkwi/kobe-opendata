@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:婦人大学公開講義
+DESCRIPTION:公開講義（土曜日）の受講生を募集します\n日時は6月2日～、土曜10時～。10回\n場所はあすてっぷKOBE\n料金は1回500円\n申し込みは先着順\n問い合わせは市総合コールセンター（電話333-3330、FAX333-3314）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1205/info04.html#婦人大学公開講義
+DTSTART:20120602T100000
+RRULE:FREQ=WEEKLY;COUNT=10
+LOCATION:あすてっぷKOBE
+END:VEVENT
+END:VCALENDAR

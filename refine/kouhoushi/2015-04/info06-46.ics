@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ハートフル・シネマサロン
+DESCRIPTION:日時は5月12日（火曜）13時30分～・18時30分～\n場所は文化ホール\n料金は無料\n申し込みは電話かFAXで。先着順\n問い合わせは人権推進課（電話322-5234、FAX322-6048）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1504/info06.html#ハートフル・シネマサロン
+DTSTART:20150512T133000
+RRULE:FREQ=DAILY;BYHOUR=18;BYMINUTE=30;COUNT=1
+LOCATION:文化ホール
+END:VEVENT
+END:VCALENDAR

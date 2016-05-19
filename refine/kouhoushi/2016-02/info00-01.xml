@@ -11,15 +11,13 @@
  <link>http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1602/info00-01.html#あなたのご意見をお寄せください</link>
  <pubDate>Tue, 26 Jan 2016 00:00:00 +0900</pubDate>
  <category>意見募集</category>
- <description><![CDATA[<div class="btnSocialBox clearfix">
+ <description><![CDATA[<div class="btnSocialBox">
             <div class="btnSocialInnerBox">
               <span>
                   <a href="https://twitter.com/share" class="twitter-share-button">ツイート</a>
                   
                 </span>
-              <span>
-                  
-                </span>
+              <div class="fb-share-button" href="http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1602/info00-01.html"></div>
               </div>
           </div>
         

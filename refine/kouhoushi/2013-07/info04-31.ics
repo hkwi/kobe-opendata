@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:コミスタこうべ（1）夏休み親子イベント6教室
+DESCRIPTION:（1）夏休み親子イベント6教室\n日時は8月3日（土曜）～11日（日曜）\n料金は有料\n申し込みは電話か直接。先着順\n（2）アロマテラピー・震災耐震講座他\n日時は8月24日（土曜）～30日（金曜）\n料金は有料\n申し込みは電話か直接。先着順\n（3）市民合同作品展作品募集（絵画等）\n日時は10月5日（土曜）～14日（月曜・祝日）\n料金は無料\n申し込みははがき（〒651-0076吾妻通4-1-6）か電話かFAXか直接。8月31日（土曜）必着\n問い合わせは電話251-4731、FAX251-4733
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1307/info04.html#コミスタこうべ#1
+DTSTART:20130803
+DTEND:20130812
+END:VEVENT
+END:VCALENDAR

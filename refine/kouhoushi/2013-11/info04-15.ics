@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ふれあい体験交流会
+DESCRIPTION:日時は11月29日（金曜）10時～16時\n場所は婦人会館\n料金は無料\n問い合わせは障害者支援課（電話322-6332、FAX322-6065）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1311/info04.html#ふれあい体験交流会
+DTSTART:20131129T100000
+DTEND:20131129T160000
+LOCATION:婦人会館
+END:VEVENT
+END:VCALENDAR

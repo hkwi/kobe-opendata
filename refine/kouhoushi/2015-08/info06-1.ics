@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:布引ハーブ園（2）ハーブ園から花火を見よう
+DESCRIPTION:（1）夏休みキッズプロジェクト\n日時は8月31日（月曜）まで\n料金は有料（別途入園料等が必要）\n（2）ハーブ園から花火を見よう\n日時は8月8日（土曜）\n料金は無料（別途入園料等が必要）\n問い合わせは電話271-1160、FAX271-1180
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1508/info06.html#布引ハーブ園#2
+DTSTART:20150808
+END:VEVENT
+END:VCALENDAR

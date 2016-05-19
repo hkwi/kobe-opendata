@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:さかなの学校（2）アジュール舞子観察会
+DESCRIPTION:（1）七夕飾りづくり\n日時は6月14日（土曜）～7月7日（月曜）\n料金は700円\n（2）アジュール舞子観察会\n対象は小学生以上（小学生は保護者同伴）\n日時は6月28日（土曜）11時～\n料金は無料\n申し込みは往復はがき（〒655-0036海岸通12-4）かFAXで。6月16日（月曜）消印有効。抽選\n（3）稚魚放流と釣り体験\n対象は小学生以上（小学生は保護者同伴）\n日時は7月13日（日曜）9時～\n場所は平磯海づり公園\n料金は1\,400円\n申し込みは往復はがき（〒655-0036海岸通12-4）かFAXで。6月30日（月曜）消印有効。抽選\n問い合わせは電話706-5550、FAX706-5636
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1406/info06.html#さかなの学校#2
+DTSTART:20140628T110000
+END:VEVENT
+END:VCALENDAR

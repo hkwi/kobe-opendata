@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:エコクッキングに挑戦
+DESCRIPTION:対象は中学生以上\n日時は12月6日（土曜）10時～\n場所はコミスタこうべ\n料金は無料\n申し込みは往復はがきで地球環境課（〒650-8570住所不要）へ。11月25日（火曜）必着。抽選\n問い合わせは電話322-6678、FAX322-6068
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1411/info06.html#エコクッキングに挑戦
+DTSTART:20141206T100000
+LOCATION:コミスタこうべ
+END:VEVENT
+END:VCALENDAR

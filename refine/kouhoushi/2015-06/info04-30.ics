@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ハワイアンリトミック
+DESCRIPTION:対象は2・3歳と保護者\n日時は6月30日～、火曜11時～。3回\n場所はこべっこランド\n料金は1\,000円\n申し込みは往復はがき（〒650-0044東川崎町1-3-1）か直接。6月16日（火曜）消印有効。抽選\n問い合わせは電話382-1300、FAX351-0684
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1506/info04.html#ハワイアンリトミック
+DTSTART:20150630T110000
+RRULE:FREQ=WEEKLY;COUNT=3
+LOCATION:こべっこランド
+END:VEVENT
+END:VCALENDAR

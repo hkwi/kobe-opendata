@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:室内ローンボウルズ体験会
+DESCRIPTION:日時は11月22日（土曜）13時～\n場所は障害者スポーツ交流館（西区曙町1070）\n料金は無料\n問い合わせは障害者支援課（電話322-6332、FAX322-6065）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1411/info05.html#室内ローンボウルズ体験会
+DTSTART:20141122T130000
+LOCATION:障害者スポーツ交流館（西区曙町1070）
+END:VEVENT
+END:VCALENDAR

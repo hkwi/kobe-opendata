@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:社会貢献塾
+DESCRIPTION:日時は6月17日～、水曜13時30分～。10回\n場所は勤労会館\n料金は10\,000円\n申し込みは電話かFAXで。先着順\n問い合わせはいきいき勤労財団（電話251-5561、FAX252-9448）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1505/info04.html#社会貢献塾
+DTSTART:20150617T133000
+RRULE:FREQ=WEEKLY;COUNT=10
+LOCATION:勤労会館
+END:VEVENT
+END:VCALENDAR

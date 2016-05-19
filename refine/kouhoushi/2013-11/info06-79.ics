@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:震災1\,000日目チャリティーコンサート
+DESCRIPTION:日時は12月5日（木曜）17時～\n場所は朝日ホール（中央区浪花町59）\n料金は3\,000円\n申し込みは直接朝日ホールへ。先着順\n問い合わせは市民文化振興財団（電話351-3597、FAX351-3121）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1311/info06.html#震災1\,000日目チャリティーコンサート
+DTSTART:20131205T170000
+LOCATION:朝日ホール（中央区浪花町59）
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:発達障害児家庭療育講座
+DESCRIPTION:日時は10月17日～、金曜10時～。4回\n場所は灘区役所\n料金は無料\n申し込みはFAXで。先着順\n問い合わせは発達障害者支援センター（電話382-2760、FAX382-2766）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1409/info04.html#発達障害児家庭療育講座
+DTSTART:20141017T100000
+RRULE:FREQ=WEEKLY;COUNT=4
+LOCATION:灘区役所
+END:VEVENT
+END:VCALENDAR

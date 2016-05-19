@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:須磨離宮公園（2）もみじ観賞会
+DESCRIPTION:（1）秋の洋らん展\n日時は11月18日（月曜）～24日（日曜）\n料金は無料（別途入園料等が必要）\n（2）もみじ観賞会\n日時は11月23日（土曜・祝日）～12月8日（日曜）\n料金は無料（別途入園料等が必要）\n（3）もみじライトアップ\n日時は11月23日（土曜・祝日）・30日・12月7日（土曜）・11月24日・12月1・8日（日曜）20時まで。雨天中止\n料金は無料（別途入園料等が必要）\n問い合わせは電話732-6688、FAX734-6022
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1311/info06.html#須磨離宮公園#2
+DTSTART:20131123
+DTEND:20131209
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:EIN OUTLET
+DESCRIPTION:日時は11月9日（土曜）・10日（日曜）10時～16時\n場所は神戸ワイナリー（農業公園）\n問い合わせは電話991-3911、FAX991-3925
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1311/info06.html#EIN OUTLET
+DTSTART:20131109T100000
+DTEND:20131109T160000
+RRULE:FREQ=DAILY;BYMONTHDAY=10;COUNT=1
+LOCATION:神戸ワイナリー（農業公園）
+END:VEVENT
+END:VCALENDAR

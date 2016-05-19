@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ピアノオーディション参加者募集
+DESCRIPTION:ピアノフェスティバルの参加者を選考する\n対象は小・中学生\n日時は9月9日（日曜）～10月28日（日曜）\n場所は東灘区民センター等\n料金は5\,000円\n申し込みは7月31日（火曜）必着\n問い合わせは市民文化振興財団（電話361-9200、FAX351-3121）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1207/info04.html#ピアノオーディション参加者募集
+DTSTART:20120909
+DTEND:20121029
+LOCATION:東灘区民センター等
+END:VEVENT
+END:VCALENDAR

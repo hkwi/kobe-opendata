@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:北須磨文化センター（2）フリーマーケット出店者募集
+DESCRIPTION:（1）介護予防運動指導員養成講習会\n高齢者の日常生活を支援する目的の資格\n対象は医療・介護・スポーツ関係者\n日時は1月19日（土曜）～。5回\n料金は80\,000円\n申し込みは先着順\n（2）フリーマーケット出店者募集\n区画は2メートル×2メートルです\n日時は2月17日（日曜）10時～15時\n料金は2\,000円\n申し込みは1月9日（水曜）～先着順\n問い合わせは電話791-0840、FAX792-0700
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1301/info04.html#北須磨文化センター#2
+DTSTART:20130217T100000
+DTEND:20130217T150000
+END:VEVENT
+END:VCALENDAR

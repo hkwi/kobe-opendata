@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:区民センターなどの催し（1）忠重十番 演目「菌」「空腕」
+DESCRIPTION:（1）忠重十番 演目「菌」「空腕」\n地元の子どもたちとの共演もあります\n日時は8月24日（金曜）19時～\n場所は灘区民ホール\n料金は1\,200円\n申し込みは先着順\n問い合わせは電話802-8555、FAX802-9811\n（2）ギャラリー展示\n日本画講座・講座講師特別展\n日時は8月8日（水曜）～15日（水曜）・8月19日（日曜）～9月11日（火曜）\n場所は垂水勤労市民センター\n料金は無料\n問い合わせは電話708-8901、FAX708-9301
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1208/info04.html#区民センターなどの催し#1
+DTSTART:20120824T190000
+LOCATION:灘区民ホール
+END:VEVENT
+END:VCALENDAR

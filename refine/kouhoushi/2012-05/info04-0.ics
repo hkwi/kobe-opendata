@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:市民山の会ハイキング
+DESCRIPTION:丸山ダム～金仙寺湖～有馬温泉駅。約6キロメートル\n日時は5月20日（日曜）9時集合\n場所は神戸電鉄五社駅\n料金は無料\n問い合わせは市総合コールセンター（電話333-3330、FAX333-3314）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1205/info04.html#市民山の会ハイキング
+DTSTART:20120520T090000
+LOCATION:神戸電鉄五社駅
+END:VEVENT
+END:VCALENDAR

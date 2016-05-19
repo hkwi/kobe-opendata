@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:青少年科学館の催し（2）アロマプラネタリウム
+DESCRIPTION:（1）皆で一緒に体の不思議を探ろう！\n来館者が一緒に体感できる参加型実験です\n日時は7月20日（金曜）までの13時45分～\n料金は無料（入館料が必要）\n（2）アロマプラネタリウム\nアロマと星座を楽しむ大人向けのイベント\n対象は中学生以上\n日時は7月13日（金曜）19時～\n料金は500円\n申し込みは6月24日（日曜）～先着順\n問い合わせは電話302-5177、FAX302-4816
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1206/info04.html#青少年科学館の催し#2
+DTSTART:20120713T190000
+END:VEVENT
+END:VCALENDAR

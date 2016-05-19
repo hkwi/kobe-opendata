@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:HIP HOPキッズダンススクール
+DESCRIPTION:中学生から必修課目！今のうちに始めよう\n対象は小学生\n日時は5月9日～、木曜17時～。4回\n場所はグリーンアリーナ神戸\n料金は4\,000円\n申し込みは開催日の1ヵ月前～先着順\n問い合わせは電話796-1126、FAX796-1192
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1304/info04.html#HIP HOPキッズダンススクール
+DTSTART:20130509T170000
+RRULE:FREQ=WEEKLY;COUNT=4
+LOCATION:グリーンアリーナ神戸
+END:VEVENT
+END:VCALENDAR

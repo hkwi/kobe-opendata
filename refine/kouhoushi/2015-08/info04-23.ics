@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:勤労会館（2）ロコモティブシンドローム予防講習
+DESCRIPTION:（1）子どもの就職を考える親のセミナー\n日時は9月10日（木曜）14時～\n料金は無料\n申し込みは電話かFAXか直接。先着順\n（2）ロコモティブシンドローム予防講習\n日時は9月16日（水曜）13時30分～\n料金は無料\n申し込みは電話かFAXか直接。先着順\n（3）働く女性のための応援セミナー\n日時は9月19日（土曜）14時～\n料金は無料\n申し込みは電話かFAXか直接。先着順\n問い合わせは電話232-1881、FAX232-1876
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1508/info04.html#勤労会館#2
+DTSTART:20150916T133000
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:花と緑のまち推進センターの催し
+DESCRIPTION:申し込みは先着順\n（1）ウチョウランの育て方\n植え付け・植え替え等栽培講座\n日時は6月24日（日曜）13時30分～\n料金は無料\n（2）夏の庭木の手入れ\nアジサイや常緑樹等の手入れ\n日時は7月8日（日曜）13時30分～\n料金は100円\n問い合わせは電話351-6756、FAX341-8710
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1206/info04.html#花と緑のまち推進センターの催し
+DTSTART:20120624T133000
+END:VEVENT
+END:VCALENDAR

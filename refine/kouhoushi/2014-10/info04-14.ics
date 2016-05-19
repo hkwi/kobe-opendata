@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:新しくなった景品表示法について
+DESCRIPTION:日時は10月25日（土曜）14時～\n場所は婦人会館\n料金は無料\n申し込みは電話で。先着順\n問い合わせは消費生活課（電話322-5185、FAX322-6036）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1410/info04.html#新しくなった景品表示法について
+DTSTART:20141025T140000
+LOCATION:婦人会館
+END:VEVENT
+END:VCALENDAR

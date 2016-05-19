@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:あすてっぷKOBEの講座（1）仕事と子育て両立応援セミナー
+DESCRIPTION:（1）仕事と子育て両立応援セミナー\n日時は7月6日（土曜）10時～\n料金は無料\n申し込みは電話かFAXか直接。先着順\n（2）こうべ男女共同参画たまご塾\n日時は7月18日（木曜）13時30分～\n料金は無料\n申し込みは電話かFAXか直接。先着順\n問い合わせは電話361-6977、FAX361-6477
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1305/info04.html#あすてっぷKOBEの講座#1
+DTSTART:20130706T100000
+END:VEVENT
+END:VCALENDAR

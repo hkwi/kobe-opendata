@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:神戸オリニマダン・文化の発表体験
+DESCRIPTION:日時は12月15日（日曜）10時～15時\n場所は真陽小学校\n料金は無料\n問い合わせは人権教育課（電話322-5809、FAX322-6139）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1312/info06.html#神戸オリニマダン・文化の発表体験
+DTSTART:20131215T100000
+DTEND:20131215T150000
+LOCATION:真陽小学校
+END:VEVENT
+END:VCALENDAR

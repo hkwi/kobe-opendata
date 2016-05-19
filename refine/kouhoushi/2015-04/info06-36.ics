@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ふれあいコンサート
+DESCRIPTION:日時は4月25日（土曜）・26日（日曜）12時30分～16時\n場所はしあわせの村\n料金は無料\n問い合わせは市民福祉振興協会（電話743-8092、FAX743-8180）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1504/info06.html#ふれあいコンサート
+DTSTART:20150425T123000
+DTEND:20150425T160000
+RRULE:FREQ=DAILY;BYMONTHDAY=26;COUNT=1
+LOCATION:しあわせの村
+END:VEVENT
+END:VCALENDAR

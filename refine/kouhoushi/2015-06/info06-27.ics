@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:着物・洋服から帽子作り
+DESCRIPTION:日時は6月28日（日曜）9時30分～\n場所はリサイクル工房ほくしん\n料金は無料\n申し込みは電話かFAXで。6月11日（木曜）～先着順\n問い合わせは電話・FAX987-3144
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1506/info06.html#着物・洋服から帽子作り
+DTSTART:20150628T093000
+LOCATION:リサイクル工房ほくしん
+END:VEVENT
+END:VCALENDAR

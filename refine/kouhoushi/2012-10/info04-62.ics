@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:神戸建築物語
+DESCRIPTION:多様な宗教建築が共存する街・北野を巡る\n日時は11月11日（日曜）10時～16時\n場所は神戸外国倶楽部（中央区北野町4）\n料金は無料\n申し込みは往復はがきに参加者全員（4人以内）の住所・氏名・年齢・電話番号を記入し、まちのデザイン室（〒650-8570住所不要）へ。10月26日（金曜）必着。抽選\n問い合わせは電話322-5484、FAX322-6096
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1210/info04.html#神戸建築物語
+DTSTART:20121111T100000
+DTEND:20121111T160000
+LOCATION:神戸外国倶楽部（中央区北野町4）
+END:VEVENT
+END:VCALENDAR

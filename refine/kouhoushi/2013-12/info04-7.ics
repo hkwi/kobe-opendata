@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:健康ライフプラザ（1）漢方を使用した内科診療
+DESCRIPTION:（1）漢方を使用した内科診療\n対象は中学生以上\n日時は12月14日（土曜）13時30分～\n料金は500円\n（2）食育講演会うま味の秘密\n対象は中学生以上\n日時は2月1日（土曜）14時～\n料金は500円\n申し込みは電話で。12月8日（日曜）～先着順\n問い合わせは電話652-5202、FAX652-5211
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1312/info04.html#健康ライフプラザ#1
+DTSTART:20131214T133000
+END:VEVENT
+END:VCALENDAR

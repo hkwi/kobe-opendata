@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:あじさいコンサート
+DESCRIPTION:神戸阪神間の学校・地域団体の合奏・合唱\n日時は1月6日（日曜）13時～\n場所は文化ホール\n料金は無料\n申し込みは往復はがきに住所・氏名（2人以内）・年齢・性別・電話番号を記入し、生涯学習課（〒650-8570住所不要）へ。12月14日（金曜）消印有効。抽選\n問い合わせは電話322-5794、FAX322-6144
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1212/info04.html#あじさいコンサート
+DTSTART:20130106T130000
+LOCATION:文化ホール
+END:VEVENT
+END:VCALENDAR

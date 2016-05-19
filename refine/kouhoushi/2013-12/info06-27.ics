@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:こべっこランド（3）親子でチャレンジ!しめ飾り作り
+DESCRIPTION:（1）ファクトリー～作業所製品を作ろう\n対象は17歳以下（就学前は保護者同伴）\n日時は12月14日（土曜）13時～。6回\n料金は無料\n申し込みは当日先着順\n（2）クリスマスコンサート\n対象は17歳以下（就学前は保護者同伴）\n日時は12月23日（月曜・祝日）13時30分～・15時30分～\n料金は無料\n（3）親子でチャレンジ!しめ飾り作り\n対象は5歳以上と保護者\n日時は12月27日（金曜）10時～・13時30分～\n料金は200円\n申し込みは往復はがき（〒650-0044東川崎町1-3-1）か直接。12月13日（金曜）消印有効。抽選\n問い合わせは電話382-1300、FAX351-0684
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1312/info06.html#こべっこランド#3
+DTSTART:20131227T100000
+RRULE:FREQ=DAILY;BYHOUR=13;BYMINUTE=30;COUNT=1
+END:VEVENT
+END:VCALENDAR

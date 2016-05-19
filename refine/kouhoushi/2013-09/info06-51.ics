@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:バーニングアートに挑戦！
+DESCRIPTION:対象は小学生と保護者\n日時は9月28日（土曜）10時～\n場所は環境未来館\n料金は無料\n申し込みははがきかFAXで環境未来館（〒651-2228見津が丘1-9）へ。9月20日（金曜）必着。抽選\n問い合わせは電話995-3196、FAX995-3192
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1309/info06.html#バーニングアートに挑戦！
+DTSTART:20130928T100000
+LOCATION:環境未来館
+END:VEVENT
+END:VCALENDAR

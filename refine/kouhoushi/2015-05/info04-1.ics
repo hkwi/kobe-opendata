@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:婦人会館あじさい講座（1）女子力アップ大作戦ほか
+DESCRIPTION:（1）女子力アップ大作戦ほか\n日時は5月8日（金曜）～6月7日（日曜）\n料金は1講座500円\n申し込みは電話か直接。先着順\n（2）パソコン講座\n日時は5月8日（金曜）10時～\n料金は1講座500円\n申し込みは電話か直接。先着順\n問い合わせは電話351-0861、FAX351-0862
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1505/info04.html#婦人会館あじさい講座#1
+DTSTART:20150508
+DTEND:20150608
+END:VEVENT
+END:VCALENDAR

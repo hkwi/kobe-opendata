@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:花と緑のまち推進センター（1）一足早いクリスマスホーリー作り
+DESCRIPTION:（1）一足早いクリスマスホーリー作り\nコーンスターチでリースを作ります\n日時は11月11日（日曜）11時～\n料金は800円\n申し込みは先着順\n（2）街角ガーデナー受講生募集\n地域の緑花リーダーを養成する講座\n日時は12月11日（火曜）13時30分～。10回\n料金は有料\n申し込みは11月9日（金曜）必着\n問い合わせは電話351-6756、FAX341-8710
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1211/info04.html#花と緑のまち推進センター#1
+DTSTART:20121111T110000
+END:VEVENT
+END:VCALENDAR

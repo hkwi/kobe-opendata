@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:コスモスを撮ろう!デジカメ教室
+DESCRIPTION:日時は10月24日（木曜）10時～\n場所はユニバー記念競技場\n料金は500円\n申し込みは往復はがき（〒654-0163緑台）かFAXで。10月15日（火曜）必着。抽選\n問い合わせは電話795-5151、FAX792-3122
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1310/info06.html#コスモスを撮ろう!デジカメ教室
+DTSTART:20131024T100000
+LOCATION:ユニバー記念競技場
+END:VEVENT
+END:VCALENDAR

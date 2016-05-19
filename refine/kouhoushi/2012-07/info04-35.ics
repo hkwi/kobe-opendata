@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:西田眞人講演・自作を語る
+DESCRIPTION:展示中の日本画作品等を作者が解説\n対象は小学生以上\n日時は7月29日（日曜）14時～\n場所は神戸ゆかりの美術館\n料金は無料（入館料が必要）\n申し込みは当日先着順\n問い合わせは電話858-1520、FAX858-1522
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1207/info04.html#西田眞人講演・自作を語る
+DTSTART:20120729T140000
+LOCATION:神戸ゆかりの美術館
+END:VEVENT
+END:VCALENDAR

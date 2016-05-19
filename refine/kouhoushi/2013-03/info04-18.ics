@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:有馬温泉金の湯・銀の湯（3）シルバーデー
+DESCRIPTION:（1）レディースデー\n金の湯の入浴料が半額になります\n対象は中学生以上の女性\n日時は3月13日（水曜）\n料金は有料\n（2）金の湯イベント\n変わり湯でデコポン湯を実施\n日時は3月23日（土曜）・24日（日曜）\n料金は有料\n（3）シルバーデー\n金の湯、銀の湯の入浴料が半額になります\n対象は65歳以上（要証明）\n日時は3月27日（水曜）\n料金は有料\n問い合わせは国際観光コンベンション協会（電話904-0680、FAX907-3370）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1303/info04.html#有馬温泉金の湯・銀の湯#3
+DTSTART:20130327
+END:VEVENT
+END:VCALENDAR

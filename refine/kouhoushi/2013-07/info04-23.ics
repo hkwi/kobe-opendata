@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:子ども生活実験講座（2）飲み物の糖度を調べよう！
+DESCRIPTION:（1）紫外線って何だろう？\n対象は小学3～6年生と保護者\n日時は7月25日（木曜）14時～\n場所は消費者教育センター\n料金は無料\n申し込みは電話で。先着順\n（2）飲み物の糖度を調べよう！\n対象は小学3～6年生と保護者\n日時は7月31日（水曜）14時～\n場所は消費者教育センター\n料金は無料\n申し込みは電話で。先着順\n問い合わせは消費生活課（電話322-5185、FAX322-6036）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1307/info04.html#子ども生活実験講座#2
+DTSTART:20130731T140000
+LOCATION:消費者教育センター
+END:VEVENT
+END:VCALENDAR

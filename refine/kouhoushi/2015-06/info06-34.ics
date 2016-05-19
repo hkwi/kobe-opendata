@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:七夕の集い～真野響子名誉園長と
+DESCRIPTION:日時は7月5日（日曜）13時30分～\n場所は森林植物園\n料金は無料（別途入園料等が必要）\n問い合わせは電話591-0253、FAX594-2324
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1506/info06.html#七夕の集い～真野響子名誉園長と
+DTSTART:20150705T133000
+LOCATION:森林植物園
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:国際フロンティア産業メッセ
+DESCRIPTION:日時は9月4日（木曜）・5日（金曜）10時～17時\n場所は国際展示場\n料金は無料\n問い合わせは工業課（電話322-5333、FAX322-6074）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1408/info06.html#国際フロンティア産業メッセ
+DTSTART:20140904T100000
+DTEND:20140904T170000
+RRULE:FREQ=DAILY;BYMONTHDAY=5;COUNT=1
+LOCATION:国際展示場
+END:VEVENT
+END:VCALENDAR

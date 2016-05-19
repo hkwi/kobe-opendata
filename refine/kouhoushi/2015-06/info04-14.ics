@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:イランのアートとデザインの特色
+DESCRIPTION:日時は6月13日（土曜）13時30分～\n場所はアジア交流プラザ　料金は840円\n申し込みは電話で。先着順\n問い合わせは電話646-7100、FAX646-7200
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1506/info04.html#イランのアートとデザインの特色
+DTSTART:20150613T133000
+LOCATION:アジア交流プラザ　料金は840円
+END:VEVENT
+END:VCALENDAR

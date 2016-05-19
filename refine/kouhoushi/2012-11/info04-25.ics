@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:平磯海づり公園（2）芋煮会 IN 平磯海づり公園
+DESCRIPTION:（1）釣り人感謝デー・無料開放\n感謝の気持ちを込めて釣り・入園料金無料\n日時は11月16日（金曜）6時～18時\n（2）芋煮会 IN 平磯海づり公園\n東北地方の伝統行事である芋煮会を平磯で\n日時は11月18日（日曜）10時～・13時～\n料金は有料\n申し込みは先着順\n（3）市長杯釣り大会\n市長賞・各種部門賞等、多数賞品有り\n日時は11月23日（金曜・祝日）6時～10時\n料金は大人1\,000円、小人600円\n問い合わせは電話753-3973、FAX753-4873
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1211/info04.html#平磯海づり公園#2
+DTSTART:20121118T100000
+RRULE:FREQ=DAILY;BYHOUR=13;BYMINUTE=0;COUNT=1
+END:VEVENT
+END:VCALENDAR

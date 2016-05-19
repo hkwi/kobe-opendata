@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ふれあいパターゴルフ大会
+DESCRIPTION:競技を通じて、障害者の社会参加を促す\n対象は18歳以上\n日時は9月30日（日曜）9時～\n場所はしあわせの村\n料金は1\,000円\n申し込みは9月10日（月曜）必着\n問い合わせは自立支援課（電話322-6332、FAX322-6065）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1209/info04.html#ふれあいパターゴルフ大会
+DTSTART:20120930T090000
+LOCATION:しあわせの村
+END:VEVENT
+END:VCALENDAR

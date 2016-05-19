@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:青少年科学館（2）春休みプラネタリウム特別番組
+DESCRIPTION:（1）プラネタリウム新一般番組\n宇宙に生命をさがせ！\n日時は3月9日（土曜）～9月1日（日曜）\n料金は無料（入館料が必要）\n（2）春休みプラネタリウム特別番組\n「名探偵コナン」や「かいけつゾロリ」も投映\n日時は3月23日（土曜）～31日（日曜）\n料金は無料（入館料が必要）\n（3）休館日のお知らせ\n3月4日（月曜）～8日（金曜）・13日（水曜）・21日（木曜）は休館します\n料金は無料（入館料が必要）\n問い合わせは電話302-5177、FAX302-4816
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1303/info04.html#青少年科学館#2
+DTSTART:20130323
+DTEND:20130401
+END:VEVENT
+END:VCALENDAR

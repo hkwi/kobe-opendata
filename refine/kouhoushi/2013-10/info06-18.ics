@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:スタジアム見学会
+DESCRIPTION:日時は10月12日（土曜）・27日（日曜）11時～14時30分\n場所はノエビアスタジアム神戸\n料金は無料\n問い合わせは電話652-5656、FAX652-5651
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1310/info06.html#スタジアム見学会
+DTSTART:20131012T110000
+DTEND:20131012T143000
+RRULE:FREQ=DAILY;BYMONTHDAY=27;COUNT=1
+LOCATION:ノエビアスタジアム神戸
+END:VEVENT
+END:VCALENDAR

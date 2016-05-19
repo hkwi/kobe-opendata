@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:くらしがわかる！こうべ生活講座
+DESCRIPTION:果物の糖分測定と最近の消費者トラブル\n日時は11月21日（水曜）13時30分～\n場所は生活情報センター\n料金は無料\n申し込みは先着順\n問い合わせは消費生活課（電話322-5185、FAX322-6036）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1211/info04.html#くらしがわかる！こうべ生活講座
+DTSTART:20121121T133000
+LOCATION:生活情報センター
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:マネープランニング講座
+DESCRIPTION:日時は7月22日（水曜）10時30分～\n場所は北須磨文化センター\n料金は無料\n申し込みは電話かFAXか直接。先着順\n問い合わせは電話791-0840、FAX792-0700
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1507/info04.html#マネープランニング講座
+DTSTART:20150722T103000
+LOCATION:北須磨文化センター
+END:VEVENT
+END:VCALENDAR

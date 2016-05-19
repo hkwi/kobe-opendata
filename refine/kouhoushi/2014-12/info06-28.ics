@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:名手たちによる弦楽六重奏
+DESCRIPTION:日時は12月22日（月曜）19時～\n場所は灘区民ホール\n料金は3\,000円（高校生以下1\,000円）\n申し込みは電話か直接。先着順\n問い合わせは電話802-8555、FAX802-9811
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1412/info06.html#名手たちによる弦楽六重奏
+DTSTART:20141222T190000
+LOCATION:灘区民ホール
+END:VEVENT
+END:VCALENDAR

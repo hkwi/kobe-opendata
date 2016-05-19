@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:須磨海浜水族園（1）企画展「水の中のかくれんぼ」
+DESCRIPTION:（1）企画展「水の中のかくれんぼ」\n擬態する生き物を展示します\n日時は11月10日（土曜）～25日（日曜）\n料金は無料（入園料が必要）\n（2）クリスマスツリー・リース作り\n海の生き物も参加したオリジナルツリー\n日時は12月2日（日曜）13時～\n料金は500円（入園料が必要）\n（3）干支展「蛇～Do You Love 巳（ミー）」\n干支にちなんで本州のヘビを展示します\n日時は12月3日（月曜）～25年1月8日（火曜）\n料金は無料（入園料が必要）\n問い合わせは電話731-7301、FAX733-6333
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1211/info04.html#須磨海浜水族園#1
+DTSTART:20121110
+DTEND:20121126
+END:VEVENT
+END:VCALENDAR

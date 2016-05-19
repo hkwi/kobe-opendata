@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:「倚松庵」納涼夕涼み
+DESCRIPTION:日時は8月10日（土曜）・11日（日曜）16時～20時\n場所は旧谷崎潤一郎邸「倚松庵」（東灘区住吉東町1）\n料金は無料\n問い合わせは都市計画総局業務課（電話322-5536、FAX322-6105）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1308/info06.html#「倚松庵」納涼夕涼み
+DTSTART:20130810T160000
+DTEND:20130810T200000
+RRULE:FREQ=DAILY;BYMONTHDAY=11;COUNT=1
+LOCATION:旧谷崎潤一郎邸「倚松庵」（東灘区住吉東町1）
+END:VEVENT
+END:VCALENDAR

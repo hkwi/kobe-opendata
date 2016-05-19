@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:婦人会館あじさい講座（1）親子教室キッズラボ
+DESCRIPTION:（1）親子教室キッズラボ\n日時は7月10日（金曜）10時30分～\n料金は1講座800円\n申し込みは電話か直接。先着順\n（2）おやこえいご\n日時は7月15日（水曜）・24日（金曜）10時～\n料金は1講座800円\n申し込みは電話か直接。先着順\n問い合わせは電話351-0861、FAX351-0862
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1507/info04.html#婦人会館あじさい講座#1
+DTSTART:20150710T103000
+END:VEVENT
+END:VCALENDAR

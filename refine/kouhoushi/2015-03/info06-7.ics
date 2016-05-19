@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:市演奏協会のコンサート（1）定期演奏会（市室内合奏団）
+DESCRIPTION:（1）定期演奏会（市室内合奏団）\n日時は3月11日（水曜）19時～\n場所は文化ホール\n料金は3\,000円\n（2）海のコンサート（市室内合奏団）\n日時は3月20日（金曜）14時～\n場所は舞子ビラ\n料金は1\,500円\n問い合わせは電話361-7241、FAX361-7182
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1503/info06.html#市演奏協会のコンサート#1
+DTSTART:20150311T190000
+LOCATION:文化ホール
+END:VEVENT
+END:VCALENDAR

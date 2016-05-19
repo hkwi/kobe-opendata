@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:中央卸売市場本場（2）魚と野菜の創作和食
+DESCRIPTION:（1）旬の魚で家庭料理\n魚料理を気軽に日々の食卓へ！\n日時は9月25日（火曜）・10月15日（月曜）10時30分～\n料金は有料\n申し込みは開催日の10日前まで受付\n（2）魚と野菜の創作和食\n食材を生かし、使い切る料理\n日時は10月1日（月曜）10時30分～\n料金は有料\n申し込みは開催日の10日前まで受付\n（3）はじめての魚のさばき～鯵\n日時は10月11日（木曜）10時30分～\n料金は有料\n申し込みは開催日の10日前まで受付\n問い合わせは電話652-5503、FAX681-3772
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1209/info04.html#中央卸売市場本場#2
+DTSTART:20121001T103000
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ファッション美術館（3）講演「抒情画にみる夏のよそおい」
+DESCRIPTION:（1）観賞ツアー「美術館へようこそ!」\n日時は8月8・22・29日（木曜）15時～\n料金は500円\n（2）浴衣を着よう!\n日時は8月31日（土曜）13時30分～・15時～\n料金は500円\n申し込みは往復はがき（〒658-0032向洋町中2-9-1）かFAXで。8月17日（土曜）消印有効。抽選\n（3）講演「抒情画にみる夏のよそおい」\n日時は9月1日（日曜）14時～\n料金は無料\n（4）インドの衣装を着てみよう\n日時は9月14日（土曜）13時30分～\n料金は無料\n申し込みは往復はがき（〒658-0032向洋町中2-9-1）かFAXで。8月31日（土曜）消印有効。抽選\n問い合わせは電話858-0050、FAX858-0058
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1308/info06.html#ファッション美術館#3
+DTSTART:20130901T140000
+END:VEVENT
+END:VCALENDAR

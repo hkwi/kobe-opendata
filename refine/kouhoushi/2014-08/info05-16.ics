@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:子ども・じんけんサッカー教室
+DESCRIPTION:対象は小学生（保護者同伴）\n日時は9月20日（土曜）16時～\n場所はユニバー記念競技場\n料金は無料\n申し込みは往復はがきでヴィッセル神戸サッカースクール事務局（〒651-2231櫨谷町寺谷1242-111）へ。8月29日（金曜）必着。抽選\n問い合わせは人権推進課（電話322-5234、FAX322-6048）\n\n  \n    \n\n\n
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1408/info05.html#子ども・じんけんサッカー教室
+DTSTART:20140920T160000
+LOCATION:ユニバー記念競技場
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:わが街神戸写生会（ながた編）
+DESCRIPTION:日時は5月25日（日曜）10時～15時\n場所は新長田勤労市民センター\n料金は2\,000円\n申し込みは電話か直接。先着順\n問い合わせは電話643-2431、FAX643-4350
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1405/info06.html#わが街神戸写生会（ながた編）
+DTSTART:20140525T100000
+DTEND:20140525T150000
+LOCATION:新長田勤労市民センター
+END:VEVENT
+END:VCALENDAR

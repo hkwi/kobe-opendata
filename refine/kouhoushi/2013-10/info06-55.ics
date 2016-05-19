@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:中高生たちが作るLIVEイベント
+DESCRIPTION:日時は10月20日（日曜）15時～19時30分\n場所はアートビレッジセンター\n料金は無料\n問い合わせは電話512-5500、FAX512-5356
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1310/info06.html#中高生たちが作るLIVEイベント
+DTSTART:20131020T150000
+DTEND:20131020T193000
+LOCATION:アートビレッジセンター
+END:VEVENT
+END:VCALENDAR

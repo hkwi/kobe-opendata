@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:市民福祉大学の講座（1）地域課題を探り、解決法を学ぼう
+DESCRIPTION:（1）地域課題を探り、解決法を学ぼう\n地域活動のノウハウを学びます\n日時は10月12日（金曜）9時30分～16時30分\n場所は市民福祉交流センター\n料金は1\,000円\n申し込みは9月28日（金曜）必着\n（2）介護福祉士模擬試験（実力編）\n合格に向けた全国一斉の模擬試験です\n日時は11月18日（日曜）10時～15時10分\n場所は市民福祉交流センター\n料金は6\,000円\n申し込みは先着順\n問い合わせは電話271-5300、FAX271-5365
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1209/info04.html#市民福祉大学の講座#1
+DTSTART:20121012T093000
+DTEND:20121012T163000
+LOCATION:市民福祉交流センター
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:青少年科学館
+DESCRIPTION:（1）レスキューロボットコンテストJr.\n日時は12月8日（日曜）10時30分～16時\n料金は無料（別途入園料等が必要）\n（2）JAXAタウンミーティング\n対象は小学4年生以上\n日時は1月18日（土曜）13時30分～\n料金は無料\n申し込みは往復はがき（4人以内）で同館（〒650-0046港島中町7-7-6）へ。1月6日（月曜）必着。抽選\n（3）休館日のお知らせ\n12月2日（月曜）～6日（金曜）、12月27日（金曜）～1月3日（金曜）は休館日です。4日（土曜）から開館。お餅の配布あり\n問い合わせは電話302-5177、FAX302-4816
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1312/info06.html#青少年科学館
+DTSTART:20131208T103000
+DTEND:20131208T160000
+END:VEVENT
+END:VCALENDAR

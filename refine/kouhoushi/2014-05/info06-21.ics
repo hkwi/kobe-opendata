@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:有馬温泉 金の湯・銀の湯（2）シルバーデー（割引あり）
+DESCRIPTION:（1）レディースデー（割引あり）\n対象は中学生以上の女性\n日時は5月14日（水曜）\n（2）シルバーデー（割引あり）\n対象は65歳以上（要証明）\n日時は5月28日（水曜）\n問い合わせは国際観光コンベンション協会（電話904-0680、FAX907-3370）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1405/info06.html#有馬温泉 金の湯・銀の湯#2
+DTSTART:20140528
+END:VEVENT
+END:VCALENDAR

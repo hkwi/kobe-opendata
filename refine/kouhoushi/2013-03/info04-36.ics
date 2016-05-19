@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:難病患者・家族向けシンポジウム
+DESCRIPTION:在宅療養のための食事・リハビリについて\n日時は3月17日（日曜）10時～15時\n場所はしあわせの村\n料金は無料\n申し込みは電話かFAX（住所・氏名・電話番号を記入）で、NPO神戸市難病団体連絡協議会（電話322-1878、FAX322-1876）へ。先着順\n問い合わせは健康づくり支援課（電話322-6517、FAX322-6053）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1303/info04.html#難病患者・家族向けシンポジウム
+DTSTART:20130317T100000
+DTEND:20130317T150000
+LOCATION:しあわせの村
+END:VEVENT
+END:VCALENDAR

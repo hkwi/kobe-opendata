@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:子ども・じんけんサッカー教室
+DESCRIPTION:対象は小学生（付添者同伴）\n日時は10月20日（日曜）14時～\n場所はノエビアスタジアム神戸\n料金は無料\n申し込みは往復はがきでヴィッセル神戸サッカースクール事務局（〒651-2231櫨谷町寺谷1242-111）へ。9月30日（月曜）必着。抽選\n問い合わせは人権推進課（電話322-5234、FAX322-6048）\n\n  \n    \n\n\n
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1309/info06.html#子ども・じんけんサッカー教室
+DTSTART:20131020T140000
+LOCATION:ノエビアスタジアム神戸
+END:VEVENT
+END:VCALENDAR

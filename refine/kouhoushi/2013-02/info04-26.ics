@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:消費生活を学ぼう（1）消費者教育セミナー・高齢者被害を防ぐ
+DESCRIPTION:（1）消費者教育セミナー・高齢者被害を防ぐ\n地域のつながりを通して、高齢者を見守る\n日時は2月15日（金曜）14時～\n場所は総合福祉センター\n料金は無料\n申し込みは先着順\n（2）親と子の金銭学習講座\n親子で学ぼう「おつかい すごろくゲーム」\n対象は小学1～3年生と保護者\n日時は2月16日（土曜）13時30分～\n場所は消費者教育センター\n料金は無料\n申し込みは先着順\n（3）くらしがわかる！こうべ生活講座\n食用油の劣化について調べてみよう！\n日時は2月20日（水曜）13時30分～\n場所は消費者教育センター\n料金は無料\n申し込みは先着順\n問い合わせは消費生活課（電話322-5185、FAX322-6036）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1302/info04.html#消費生活を学ぼう#1
+DTSTART:20130215T140000
+LOCATION:総合福祉センター
+END:VEVENT
+END:VCALENDAR

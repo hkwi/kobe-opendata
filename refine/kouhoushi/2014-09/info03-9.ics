@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:オストメイト神戸地区合同相談会
+DESCRIPTION:日時は9月27日（土曜）13時20分～16時20分\n場所はあすてっぷKOBE\n料金は無料\n申し込みは当日受付\n問い合わせは障害者支援課（電話322-6332、FAX322-6065）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1409/info03.html#オストメイト神戸地区合同相談会
+DTSTART:20140927T132000
+DTEND:20140927T162000
+LOCATION:あすてっぷKOBE
+END:VEVENT
+END:VCALENDAR

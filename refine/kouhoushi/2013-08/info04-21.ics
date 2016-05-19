@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:コミスタこうべ（1）体幹を整えて美しく立つ他体験教室
+DESCRIPTION:（1）体幹を整えて美しく立つ他体験教室\n日時は9月4日（水曜）～26日（木曜）\n料金は有料\n申し込みは電話か直接。先着順\n（2）子育て支援事業～親子リズム体操\n日時は9月13日（金曜）10時～\n料金は100円\n申し込みは電話か直接。先着順\n（3）市政リレー講座「神戸ビエンナーレ」\n日時は9月19日（木曜）10時～\n料金は無料\n申し込みは電話か直接。先着順\n問い合わせは電話251-4731、FAX251-4733
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1308/info04.html#コミスタこうべ#1
+DTSTART:20130904
+DTEND:20130927
+END:VEVENT
+END:VCALENDAR

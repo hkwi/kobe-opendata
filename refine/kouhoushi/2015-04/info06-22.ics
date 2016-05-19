@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:花と緑のまち推進センター（2）花のフェスタこうべ
+DESCRIPTION:（1）オープンガーデン\n日時は4月18日・5月23・30日（土曜）、4月19日・5月24・31日（日曜）10時～16時\n場所は市内各所\n料金は無料\n（2）花のフェスタこうべ\n日時は4月29日（水曜・祝日）10時～16時\n場所は総合運動公園\n料金は一部有料\n問い合わせは電話351-6756、FAX341-8710
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1504/info06.html#花と緑のまち推進センター#2
+DTSTART:20150429T100000
+DTEND:20150429T160000
+LOCATION:総合運動公園
+END:VEVENT
+END:VCALENDAR

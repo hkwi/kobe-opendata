@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:演奏会ペアご招待（2）神戸からのしらべ
+DESCRIPTION:（1）神戸フィル演奏会\n日時は11月8日（土曜）16時～\n場所は文化ホール\n申し込みははがきで市民文化振興財団（〒650-0017楠町4-2-2）へ。10月20日（月曜）必着。抽選\n（2）神戸からのしらべ\n日時は11月9日（日曜）15時～\n場所は東灘区民ホール\n申し込みははがきで市民文化振興財団（〒650-0017楠町4-2-2）へ。10月24日（金曜）必着。抽選\n問い合わせは電話351-3597、FAX351-3121
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1410/info06.html#演奏会ペアご招待#2
+DTSTART:20141109T150000
+LOCATION:東灘区民ホール
+END:VEVENT
+END:VCALENDAR

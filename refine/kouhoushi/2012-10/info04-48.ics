@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ランニングクリニック
+DESCRIPTION:マラソン完走を目指す方への練習会を実施\n対象は中学生以上\n日時は10月28日（日曜）9時～・14時～\n場所は中央体育館\n料金は500円\n申し込みは10月8日（月曜・祝日）～先着順\n問い合わせは電話341-7971、FAX341-7974
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1210/info04.html#ランニングクリニック
+DTSTART:20121028T090000
+RRULE:FREQ=DAILY;BYHOUR=14;BYMINUTE=0;COUNT=1
+LOCATION:中央体育館
+END:VEVENT
+END:VCALENDAR

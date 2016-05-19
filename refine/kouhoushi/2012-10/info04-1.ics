@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:みのりの祭典
+DESCRIPTION:市内産農水産物の販売や各種イベント開催\n日時は11月4日（日曜）10時～15時\n場所は湊川公園\n問い合わせは市総合コールセンター（電話333-3330、FAX333-3314）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1210/info04.html#みのりの祭典
+DTSTART:20121104T100000
+DTEND:20121104T150000
+LOCATION:湊川公園
+END:VEVENT
+END:VCALENDAR

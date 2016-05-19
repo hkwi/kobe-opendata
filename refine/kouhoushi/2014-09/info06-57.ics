@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:室内楽「神戸国際芸術祭」ご招待!
+DESCRIPTION:日時は10月4日（土曜）16時～\n場所は文化ホール\n申し込みは往復はがきで市民文化振興財団（〒650-0017楠町4-2-2）へ。9月11日（木曜）必着。抽選\n問い合わせは電話351-3597、FAX351-3121
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1409/info06.html#室内楽「神戸国際芸術祭」ご招待!
+DTSTART:20141004T160000
+LOCATION:文化ホール
+END:VEVENT
+END:VCALENDAR

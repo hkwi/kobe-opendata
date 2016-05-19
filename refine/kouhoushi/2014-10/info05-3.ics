@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:アシックスキッズスポーツチャレンジ
+DESCRIPTION:対象は2～12歳\n日時は10月18日（土曜）13時30分～・14時30分～\n場所は北須磨文化センター\n料金は500円\n申し込みは往復はがき（〒654-0154中落合3-1-2）で。10月13日（月曜・祝日）消印有効。抽選\n問い合わせは電話791-0840、FAX792-0700
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2014/1410/info05.html#アシックスキッズスポーツチャレンジ
+DTSTART:20141018T133000
+RRULE:FREQ=DAILY;BYHOUR=14;BYMINUTE=30;COUNT=1
+LOCATION:北須磨文化センター
+END:VEVENT
+END:VCALENDAR

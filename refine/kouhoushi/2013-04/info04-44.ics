@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:こうべっこフェスタ
+DESCRIPTION:「3つの合言葉」表彰式とイベント等\n日時は5月5日（日曜・祝日）13時～\n場所はハーバーランドスペースシアター\n料金は無料\n問い合わせはこども家庭局総務課（電話322-6844、FAX322-6119）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2013/1304/info04.html#こうべっこフェスタ
+DTSTART:20130505T130000
+LOCATION:ハーバーランドスペースシアター
+END:VEVENT
+END:VCALENDAR

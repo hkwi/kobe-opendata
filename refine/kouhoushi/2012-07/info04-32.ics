@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:美術館大作戦5「夏休みデッサン」
+DESCRIPTION:素描作品鑑賞後モデルさんを描こう\n対象は小・中学生と保護者\n日時は7月28日（土曜）・29日（日曜）10時～\n場所は小磯記念美術館\n料金は無料（保護者は入館料が必要）\n申し込みは7月20日（金曜）消印有効\n問い合わせは電話857-5880、FAX857-3737
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2012/1207/info04.html#美術館大作戦5「夏休みデッサン」
+DTSTART:20120728T100000
+RRULE:FREQ=DAILY;BYMONTHDAY=29;COUNT=1
+LOCATION:小磯記念美術館
+END:VEVENT
+END:VCALENDAR

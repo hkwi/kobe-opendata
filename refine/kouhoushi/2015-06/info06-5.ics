@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:須磨離宮公園（1）花しょうぶ観賞会
+DESCRIPTION:（1）花しょうぶ観賞会\n日時は6月6日（土曜）～21日（日曜）\n料金は無料（別途入園料等が必要）\n（2）フラワーアレンジメント教室\n日時は6月24日（水曜）10時30分～\n料金は3\,000円（別途入園料等が必要）\n申し込みは電話で。6月8日（月曜）～先着順\n（3）バラのさし木教室\n日時は6月27日（土曜）10時30分～\n料金は無料（別途入園料等が必要）\n申し込みは電話で。6月15日（月曜）～先着順\n問い合わせは電話732-6688、FAX734-6022
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2015/1506/info06.html#須磨離宮公園#1
+DTSTART:20150606
+DTEND:20150622
+END:VEVENT
+END:VCALENDAR
