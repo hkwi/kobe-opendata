@@ -1,3 +1,413 @@
+author: 政策調査課
+author_email: ''
+ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000019
+creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
+extras:
+  コピーライト: City of Kobe
+  作成頻度: ''
+  使用言語: ja
+  文字コード: ''
+  連絡先メールアドレス: ''
+  連絡先電話番号: ''
+groups:
+- b18a8508-9e22-4355-9d36-d8c4d94b7df9
+id: df9241fa-2aec-422d-b7c9-491e8220a4ad
+isopen: true
+license: クリエイティブ・コモンズ 表示
+license_id: cc-by
+license_title: クリエイティブ・コモンズ 表示
+license_url: http://www.opendefinition.org/licenses/cc-by
+maintainer: 政策調査課
+maintainer_email: ''
+metadata_created: '2016-04-11T03:45:26.567300'
+metadata_modified: '2016-05-20T00:13:50.848716'
+name: dataset-00000019
+notes: "直近の国勢調査を基礎に、毎月の住民基本台帳の届出数を加減して算出した推計人口(区別の世帯数や男女数、人口動態の情報など）\r\nhttp://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/sokyuujinkou.html"
+notes_rendered: '<p>直近の国勢調査を基礎に、毎月の住民基本台帳の届出数を加減して算出した推計人口(区別の世帯数や男女数、人口動態の情報など）
+
+  <a href="http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/sokyuujinkou.html"
+  target="_blank" rel="nofollow">http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/sokyuujinkou.html</a></p>'
+num_resources: 12
+num_tags: 1
+organization:
+  approval_status: approved
+  created: '2016-03-23T00:21:39.544252'
+  description: 政策の企画・立案、重要施策の調整、総合基本計画、各種統計、創造都市戦略「デザイン都市・神戸」の推進、神戸医療産業都市の推進、企業誘致施策、情報化の推進など
+  id: cfa5ffc6-52cd-42d7-8e72-8c1dc58df27d
+  image_url: ''
+  is_organization: true
+  name: org_0040
+  revision_id: 5bb86d03-e2d8-4d30-b8da-5f1557fc1b6c
+  state: active
+  title: 企画調整局
+  type: organization
+owner_org: cfa5ffc6-52cd-42d7-8e72-8c1dc58df27d
+private: false
+ratings_average: null
+ratings_count: 0
+relationships: []
+resources:
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-04-11T12:45:27.491935'
+  description: 毎月推計人口（平成27年1月）
+  format: XLS
+  hash: ''
+  id: f107b238-366c-4636-ac4c-45b3ad5da3e5
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 毎月推計人口（平成27年1月）
+  package_id: df9241fa-2aec-422d-b7c9-491e8220a4ad
+  position: 0
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/suikeidata/jinkou2701.xls
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-04-11T12:45:28.346198'
+  description: 毎月推計人口（平成27年2月）
+  format: XLS
+  hash: ''
+  id: 6899c0da-a4e2-433b-a900-6814ac104a7d
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 毎月推計人口（平成27年2月）
+  package_id: df9241fa-2aec-422d-b7c9-491e8220a4ad
+  position: 1
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/suikeidata/jinkou2702.xls
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-04-11T12:45:29.157350'
+  description: 毎月推計人口（平成27年3月）
+  format: XLS
+  hash: ''
+  id: f3541fe5-67a9-493c-ad5e-2aa5808919d9
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 毎月推計人口（平成27年3月）
+  package_id: df9241fa-2aec-422d-b7c9-491e8220a4ad
+  position: 2
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/suikeidata/jinkou2703.xls
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-04-11T12:45:29.989696'
+  description: 毎月推計人口（平成27年4月）
+  format: XLS
+  hash: ''
+  id: a2a2fcc6-748a-4032-9123-861a4558037e
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 毎月推計人口（平成27年4月）
+  package_id: df9241fa-2aec-422d-b7c9-491e8220a4ad
+  position: 3
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/suikeidata/jinkou2704.xls
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-04-11T12:45:30.901709'
+  description: 毎月推計人口（平成27年5月）
+  format: XLS
+  hash: ''
+  id: f115fe23-f70c-4735-bdcb-68ffc9f46c05
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 毎月推計人口（平成27年5月）
+  package_id: df9241fa-2aec-422d-b7c9-491e8220a4ad
+  position: 4
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/suikeidata/jinkou2705.xls
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-04-11T12:45:31.833048'
+  description: 毎月推計人口（平成27年6月）
+  format: XLS
+  hash: ''
+  id: 711fec3f-1afe-41cc-b2a5-3bdc8baa8eb8
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 毎月推計人口（平成27年6月）
+  package_id: df9241fa-2aec-422d-b7c9-491e8220a4ad
+  position: 5
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/suikeidata/jinkou2706.xls
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-04-11T12:45:32.759127'
+  description: 毎月推計人口（平成27年7月）
+  format: XLS
+  hash: ''
+  id: 3b0a2fa5-1627-4c10-8b4a-d1c4938a7130
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 毎月推計人口（平成27年7月）
+  package_id: df9241fa-2aec-422d-b7c9-491e8220a4ad
+  position: 6
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/suikeidata/jinkou2707.xls
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-04-11T12:45:34.248325'
+  description: 毎月推計人口（平成27年8月）
+  format: XLS
+  hash: ''
+  id: 25b1b6cb-2b9e-41a6-9346-320c10229f18
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 毎月推計人口（平成27年8月）
+  package_id: df9241fa-2aec-422d-b7c9-491e8220a4ad
+  position: 7
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/suikeidata/jinkou2708.xls
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-04-11T12:45:35.221123'
+  description: 毎月推計人口（平成27年9月）
+  format: XLS
+  hash: ''
+  id: 1204932e-8cb5-4005-bb4f-c838e9e6da4a
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 毎月推計人口（平成27年9月）
+  package_id: df9241fa-2aec-422d-b7c9-491e8220a4ad
+  position: 8
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/suikeidata/jinkou2709.xls
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-05-20T09:11:46.170432'
+  description: 毎月推計人口（平成27年10月）
+  format: XLS
+  hash: ''
+  id: ad574417-07ad-4026-9bad-88b37aeabd1a
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 毎月推計人口（平成27年10月）
+  package_id: df9241fa-2aec-422d-b7c9-491e8220a4ad
+  position: 9
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/suikeidata/jinkou2710.xls
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-04-11T12:45:37.222602'
+  description: 毎月推計人口（平成27年11月）
+  format: XLS
+  hash: ''
+  id: ddd672f2-aec0-4852-8de7-1c35a00175fc
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 毎月推計人口（平成27年11月）
+  package_id: df9241fa-2aec-422d-b7c9-491e8220a4ad
+  position: 10
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/suikeidata/jinkou2711.xls
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-04-11T12:45:38.218962'
+  description: 毎月推計人口（平成27年12月）
+  format: XLS
+  hash: ''
+  id: 124a2101-adfe-425f-b6cd-63fd1a7b05b5
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 毎月推計人口（平成27年12月）
+  package_id: df9241fa-2aec-422d-b7c9-491e8220a4ad
+  position: 11
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/suikeidata/jinkou2712.xls
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+revision_id: 75834973-f9fa-485e-8f2f-5a181be09453
+state: active
+tags:
+- 統計
+title: 平成27年 毎月推計人口
+type: dataset
+url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/suikeijinkou.html
+version: ''
+---
+author: 政策調査課
+author_email: ''
+ckan_url: https://data.city.kobe.lg.jp/data/dataset/28
+creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
+extras: {}
+groups: []
+id: eabd901d-4db2-4d41-9cfd-fe98ba943c08
+isopen: true
+license: クリエイティブ・コモンズ 表示
+license_id: cc-by
+license_title: クリエイティブ・コモンズ 表示
+license_url: http://www.opendefinition.org/licenses/cc-by
+maintainer: 政策調査課
+maintainer_email: ''
+metadata_created: '2016-05-19T08:30:49.284051'
+metadata_modified: '2016-05-20T00:06:31.055698'
+name: '28'
+notes: 直近の国勢調査を基礎に、毎月の住民基本台帳の届出数を加減して算出した推計人口(区別の世帯数や男女数、人口動態の情報など）
+notes_rendered: <p>直近の国勢調査を基礎に、毎月の住民基本台帳の届出数を加減して算出した推計人口(区別の世帯数や男女数、人口動態の情報など）</p>
+num_resources: 4
+num_tags: 1
+organization:
+  approval_status: approved
+  created: '2016-03-23T00:21:39.544252'
+  description: 政策の企画・立案、重要施策の調整、総合基本計画、各種統計、創造都市戦略「デザイン都市・神戸」の推進、神戸医療産業都市の推進、企業誘致施策、情報化の推進など
+  id: cfa5ffc6-52cd-42d7-8e72-8c1dc58df27d
+  image_url: ''
+  is_organization: true
+  name: org_0040
+  revision_id: 5bb86d03-e2d8-4d30-b8da-5f1557fc1b6c
+  state: active
+  title: 企画調整局
+  type: organization
+owner_org: cfa5ffc6-52cd-42d7-8e72-8c1dc58df27d
+private: false
+ratings_average: null
+ratings_count: 0
+relationships: []
+resources:
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-05-19T17:32:45.719560'
+  description: 毎月推計人口（平成28年1月）
+  format: XLS
+  hash: ''
+  id: 0ec24c71-79cf-4164-967f-913774f4fba8
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 毎月推計人口（平成28年1月）
+  package_id: eabd901d-4db2-4d41-9cfd-fe98ba943c08
+  position: 0
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/suikeidata/jinkou2801.xls
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-05-20T09:04:45.534835'
+  description: 毎月推計人口（平成28年2月）
+  format: XLS
+  hash: ''
+  id: 03c87d4c-77cd-4b76-a354-06b4b32a0576
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 毎月推計人口（平成28年2月）
+  package_id: eabd901d-4db2-4d41-9cfd-fe98ba943c08
+  position: 1
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/suikeidata/jinkou2802.xls
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-05-20T09:05:40.588380'
+  description: 毎月推計人口（平成28年3月）
+  format: XLS
+  hash: ''
+  id: b2e7c857-b821-4b90-b295-4a1802d6ffd3
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 毎月推計人口（平成28年3月）
+  package_id: eabd901d-4db2-4d41-9cfd-fe98ba943c08
+  position: 2
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/suikeidata/jinkou2803.xls
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-05-20T09:06:02.243737'
+  description: 毎月推計人口（平成28年4月）
+  format: XLS
+  hash: ''
+  id: 56b0d874-5e59-40c9-aa25-8f1085d80783
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 毎月推計人口（平成28年4月）
+  package_id: eabd901d-4db2-4d41-9cfd-fe98ba943c08
+  position: 3
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/suikeidata/jinkou2804.xls
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+revision_id: 805fd6fb-a509-4089-a70c-2cf6fa08fbc6
+state: active
+tags:
+- 統計
+title: 平成28年　毎月推計人口
+type: dataset
+url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/suikeijinkou.html
+version: ''
+---
 author: 業務課
 author_email: null
 ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000011
@@ -355,276 +765,6 @@ title: ごみ収集情報
 type: dataset
 url: http://www.city.kobe.lg.jp/life/recycle/waketon/opendeta.html
 version: null
----
-author: 政策調査課
-author_email: ''
-ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000019
-creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
-extras:
-  コピーライト: City of Kobe
-  作成頻度: ''
-  使用言語: ja
-  文字コード: ''
-  連絡先メールアドレス: ''
-  連絡先電話番号: ''
-groups:
-- b18a8508-9e22-4355-9d36-d8c4d94b7df9
-id: df9241fa-2aec-422d-b7c9-491e8220a4ad
-isopen: true
-license: クリエイティブ・コモンズ 表示
-license_id: cc-by
-license_title: クリエイティブ・コモンズ 表示
-license_url: http://www.opendefinition.org/licenses/cc-by
-maintainer: 政策調査課
-maintainer_email: ''
-metadata_created: '2016-04-11T03:45:26.567300'
-metadata_modified: '2016-05-06T05:39:59.045651'
-name: dataset-00000019
-notes: "直近の国勢調査を基礎に、毎月の住民基本台帳の届出数を加減して算出した推計人口(区別の世帯数や男女数、人口動態の情報など）\r\n※平成27年10月分のデータはありません。国勢調査を参照してください。\r\
-  \nhttp://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/sokyuujinkou.html"
-notes_rendered: '<p>直近の国勢調査を基礎に、毎月の住民基本台帳の届出数を加減して算出した推計人口(区別の世帯数や男女数、人口動態の情報など）
-
-  ※平成27年10月分のデータはありません。国勢調査を参照してください。
-
-  <a href="http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/sokyuujinkou.html"
-  target="_blank" rel="nofollow">http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/sokyuujinkou.html</a></p>'
-num_resources: 11
-num_tags: 1
-organization:
-  approval_status: approved
-  created: '2016-03-23T00:21:39.544252'
-  description: 政策の企画・立案、重要施策の調整、総合基本計画、各種統計、創造都市戦略「デザイン都市・神戸」の推進、神戸医療産業都市の推進、企業誘致施策、情報化の推進など
-  id: cfa5ffc6-52cd-42d7-8e72-8c1dc58df27d
-  image_url: ''
-  is_organization: true
-  name: org_0040
-  revision_id: 5bb86d03-e2d8-4d30-b8da-5f1557fc1b6c
-  state: active
-  title: 企画調整局
-  type: organization
-owner_org: cfa5ffc6-52cd-42d7-8e72-8c1dc58df27d
-private: false
-ratings_average: null
-ratings_count: 0
-relationships: []
-resources:
-- cache_last_updated: null
-  cache_url: null
-  created: '2016-04-11T12:45:27.491935'
-  description: 毎月推計人口（平成27年1月）
-  format: XLS
-  hash: ''
-  id: f107b238-366c-4636-ac4c-45b3ad5da3e5
-  last_modified: null
-  mimetype: null
-  mimetype_inner: null
-  name: 毎月推計人口（平成27年1月）
-  package_id: df9241fa-2aec-422d-b7c9-491e8220a4ad
-  position: 0
-  resource_type: null
-  size: null
-  url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/suikeidata/jinkou2701.xls
-  url_type: null
-  webstore_last_updated: null
-  webstore_url: null
-- cache_last_updated: null
-  cache_url: null
-  created: '2016-04-11T12:45:28.346198'
-  description: 毎月推計人口（平成27年2月）
-  format: XLS
-  hash: ''
-  id: 6899c0da-a4e2-433b-a900-6814ac104a7d
-  last_modified: null
-  mimetype: null
-  mimetype_inner: null
-  name: 毎月推計人口（平成27年2月）
-  package_id: df9241fa-2aec-422d-b7c9-491e8220a4ad
-  position: 1
-  resource_type: null
-  size: null
-  url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/suikeidata/jinkou2702.xls
-  url_type: null
-  webstore_last_updated: null
-  webstore_url: null
-- cache_last_updated: null
-  cache_url: null
-  created: '2016-04-11T12:45:29.157350'
-  description: 毎月推計人口（平成27年3月）
-  format: XLS
-  hash: ''
-  id: f3541fe5-67a9-493c-ad5e-2aa5808919d9
-  last_modified: null
-  mimetype: null
-  mimetype_inner: null
-  name: 毎月推計人口（平成27年3月）
-  package_id: df9241fa-2aec-422d-b7c9-491e8220a4ad
-  position: 2
-  resource_type: null
-  size: null
-  url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/suikeidata/jinkou2703.xls
-  url_type: null
-  webstore_last_updated: null
-  webstore_url: null
-- cache_last_updated: null
-  cache_url: null
-  created: '2016-04-11T12:45:29.989696'
-  description: 毎月推計人口（平成27年4月）
-  format: XLS
-  hash: ''
-  id: a2a2fcc6-748a-4032-9123-861a4558037e
-  last_modified: null
-  mimetype: null
-  mimetype_inner: null
-  name: 毎月推計人口（平成27年4月）
-  package_id: df9241fa-2aec-422d-b7c9-491e8220a4ad
-  position: 3
-  resource_type: null
-  size: null
-  url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/suikeidata/jinkou2704.xls
-  url_type: null
-  webstore_last_updated: null
-  webstore_url: null
-- cache_last_updated: null
-  cache_url: null
-  created: '2016-04-11T12:45:30.901709'
-  description: 毎月推計人口（平成27年5月）
-  format: XLS
-  hash: ''
-  id: f115fe23-f70c-4735-bdcb-68ffc9f46c05
-  last_modified: null
-  mimetype: null
-  mimetype_inner: null
-  name: 毎月推計人口（平成27年5月）
-  package_id: df9241fa-2aec-422d-b7c9-491e8220a4ad
-  position: 4
-  resource_type: null
-  size: null
-  url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/suikeidata/jinkou2705.xls
-  url_type: null
-  webstore_last_updated: null
-  webstore_url: null
-- cache_last_updated: null
-  cache_url: null
-  created: '2016-04-11T12:45:31.833048'
-  description: 毎月推計人口（平成27年6月）
-  format: XLS
-  hash: ''
-  id: 711fec3f-1afe-41cc-b2a5-3bdc8baa8eb8
-  last_modified: null
-  mimetype: null
-  mimetype_inner: null
-  name: 毎月推計人口（平成27年6月）
-  package_id: df9241fa-2aec-422d-b7c9-491e8220a4ad
-  position: 5
-  resource_type: null
-  size: null
-  url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/suikeidata/jinkou2706.xls
-  url_type: null
-  webstore_last_updated: null
-  webstore_url: null
-- cache_last_updated: null
-  cache_url: null
-  created: '2016-04-11T12:45:32.759127'
-  description: 毎月推計人口（平成27年7月）
-  format: XLS
-  hash: ''
-  id: 3b0a2fa5-1627-4c10-8b4a-d1c4938a7130
-  last_modified: null
-  mimetype: null
-  mimetype_inner: null
-  name: 毎月推計人口（平成27年7月）
-  package_id: df9241fa-2aec-422d-b7c9-491e8220a4ad
-  position: 6
-  resource_type: null
-  size: null
-  url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/suikeidata/jinkou2707.xls
-  url_type: null
-  webstore_last_updated: null
-  webstore_url: null
-- cache_last_updated: null
-  cache_url: null
-  created: '2016-04-11T12:45:34.248325'
-  description: 毎月推計人口（平成27年8月）
-  format: XLS
-  hash: ''
-  id: 25b1b6cb-2b9e-41a6-9346-320c10229f18
-  last_modified: null
-  mimetype: null
-  mimetype_inner: null
-  name: 毎月推計人口（平成27年8月）
-  package_id: df9241fa-2aec-422d-b7c9-491e8220a4ad
-  position: 7
-  resource_type: null
-  size: null
-  url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/suikeidata/jinkou2708.xls
-  url_type: null
-  webstore_last_updated: null
-  webstore_url: null
-- cache_last_updated: null
-  cache_url: null
-  created: '2016-04-11T12:45:35.221123'
-  description: 毎月推計人口（平成27年9月）
-  format: XLS
-  hash: ''
-  id: 1204932e-8cb5-4005-bb4f-c838e9e6da4a
-  last_modified: null
-  mimetype: null
-  mimetype_inner: null
-  name: 毎月推計人口（平成27年9月）
-  package_id: df9241fa-2aec-422d-b7c9-491e8220a4ad
-  position: 8
-  resource_type: null
-  size: null
-  url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/suikeidata/jinkou2709.xls
-  url_type: null
-  webstore_last_updated: null
-  webstore_url: null
-- cache_last_updated: null
-  cache_url: null
-  created: '2016-04-11T12:45:37.222602'
-  description: 毎月推計人口（平成27年11月）
-  format: XLS
-  hash: ''
-  id: ddd672f2-aec0-4852-8de7-1c35a00175fc
-  last_modified: null
-  mimetype: null
-  mimetype_inner: null
-  name: 毎月推計人口（平成27年11月）
-  package_id: df9241fa-2aec-422d-b7c9-491e8220a4ad
-  position: 9
-  resource_type: null
-  size: null
-  url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/suikeidata/jinkou2711.xls
-  url_type: null
-  webstore_last_updated: null
-  webstore_url: null
-- cache_last_updated: null
-  cache_url: null
-  created: '2016-04-11T12:45:38.218962'
-  description: 毎月推計人口（平成27年12月）
-  format: XLS
-  hash: ''
-  id: 124a2101-adfe-425f-b6cd-63fd1a7b05b5
-  last_modified: null
-  mimetype: null
-  mimetype_inner: null
-  name: 毎月推計人口（平成27年12月）
-  package_id: df9241fa-2aec-422d-b7c9-491e8220a4ad
-  position: 10
-  resource_type: null
-  size: null
-  url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/suikeidata/jinkou2712.xls
-  url_type: null
-  webstore_last_updated: null
-  webstore_url: null
-revision_id: 35c5ccc2-c3db-43fc-8389-2e7155ba2ff5
-state: active
-tags:
-- 統計
-title: 平成27年 毎月推計人口
-type: dataset
-url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/suikeijinkou.html
-version: ''
 ---
 author: 政策調査課
 author_email: ''
