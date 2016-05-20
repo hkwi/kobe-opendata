@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1605/info06.html#ため池・田んぼ探検隊員募集
+X-HINT-DTSTART:日時は6月5日（日曜）9時30分～13時。4回
+DTSTART:20160605T093000
+DTEND:20160605T130000
+SUMMARY:ため池・田んぼ探検隊員募集
+DESCRIPTION:対象は小学生と保護者\n日時は6月5日（日曜）9時30分～13時。4回\n場所はめっこうファーム（西区神出町東）\n料金は無料\n申し込みははがきかFAXで農業振興センター（〒651-2124伊川谷町潤和1058）へ。5月16日（月曜）必着。抽選\n問い合わせは電話975-6860、FAX975-6828
+LOCATION:めっこうファーム（西区神出町東）
+END:VEVENT
+END:VCALENDAR

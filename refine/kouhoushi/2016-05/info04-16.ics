@@ -2,10 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:github.com/hkwi/kobe-opendata/kouhoushi
 BEGIN:VEVENT
-SUMMARY:教育・地域連携センター（1）外国人へのボランティア養成講座
-DESCRIPTION:（1）外国人へのボランティア養成講座\n日時は5月25日～、水曜13時30分～。9回\n料金は3\,000円\n申し込みは往復はがき（〒653-0042二葉町7-1-18）で。5月17日（火曜）必着。抽選\n（2）はじめよう!学校支援ボランティア\n日時は5月26日～、木曜15時～。7回\n料金は無料\n申し込みは電話で。先着順\n問い合わせは電話641-5013、FAX641-5015
-URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1605/info04.html#教育・地域連携センター#1
-DTSTART:20160525T133000
-RRULE:FREQ=WEEKLY;COUNT=9
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1605/info04.html#要約筆記者（PC・手書き）養成講座
+X-HINT-DTSTART:日時は5月27日（金曜）～。32回
+DTSTART;VALUE=DATE:20160527
+RRULE:FREQ=DAILY;COUNT=32
+SUMMARY:要約筆記者（PC・手書き）養成講座
+DESCRIPTION:日時は5月27日（金曜）～。32回\n場所は県立聴覚障害者情報センター（灘区岸地通1）\n料金は無料\n申し込みは専用の申込書で市身体障害者団体連合会へ。5月20日（金）必着。抽選\n問い合わせは障害者支援課（電話322-6332、FAX322-6065）
+LOCATION:県立聴覚障害者情報センター（灘区岸地通1）
 END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1605/info06.html#ゆかりの美術館 ギャラリーツアー
+X-HINT-DTSTART:日時は毎週土曜13時30分～
+DTSTART:20160507T133000
+SUMMARY:ゆかりの美術館 ギャラリーツアー
+DESCRIPTION:日時は毎週土曜13時30分～\n料金は無料（別途入園料等が必要）\n問い合わせは電話858-1520、FAX858-1522
+END:VEVENT
+END:VCALENDAR

@@ -2,10 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:github.com/hkwi/kobe-opendata/kouhoushi
 BEGIN:VEVENT
-SUMMARY:中央体育館（1）（春季）硬式テニス 中級
-DESCRIPTION:（1）（春季）硬式テニス 中級\n日時は5月12日～、木曜13時～。11回\n料金は有料\n申し込みは電話か直接。5月8日（日曜）～先着順\n（2）（春季）太極拳\n日時は5月13日～、金曜10時～。11回\n料金は有料\n申し込みは電話か直接。5月8日（日曜）～先着順\n問い合わせは電話341-7971、FAX341-7974\n\n  \n    \n\n\n
-URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1605/info05.html#中央体育館#1
-DTSTART:20160512T130000
-RRULE:FREQ=WEEKLY;COUNT=11
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1605/info05.html#ヴィッセル神戸親子サッカー教室
+X-HINT-DTSTART:日時は（1）6月11日（土曜）（2）6月18日（土曜）
+DTSTART;VALUE=DATE:20160611
+RDATE;VALUE=DATE:20160618
+SUMMARY:ヴィッセル神戸親子サッカー教室
+DESCRIPTION:対象は16年4月2日～23年4月1日生まれの子と保護者（2人1組）\n日時は（1）6月11日（土曜）（2）6月18日（土曜）\n場所はノエビアスタジアム神戸\n料金は無料\n申し込みは電話かFAXで市イベント案内・申込センターへ。（1）は5月25日（水曜）、（2）は6月1日（水曜）必着。抽選\n問い合わせは電話333-3372、FAX333-3314
+LOCATION:ノエビアスタジアム神戸
 END:VEVENT
 END:VCALENDAR

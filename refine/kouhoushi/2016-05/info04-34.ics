@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1605/info04.html#レクリエーション指導者養成講習会
+X-HINT-DTSTART:日時は6月19・26日、7月3日（日曜）9時30分～16時30分、6月25日、7月2日（土曜）13時～17時
+DTSTART:20160619T093000
+DTEND:20160619T163000
+RDATE:20160625T130000/20160625T170000
+RDATE:20160626T093000
+RDATE:20160702T130000/20160702T170000
+RDATE:20160703T093000
+SUMMARY:レクリエーション指導者養成講習会
+DESCRIPTION:日時は6月19・26日、7月3日（日曜）9時30分～16時30分、6月25日、7月2日（土曜）13時～17時\n場所は青少年会館\n料金は5\,000円\n申し込みははがきかFAXで市レクリエーション指導者クラブ（〒650-0011下山手通4-2-2、FAX334-2068）へ。5月31日（火曜）必着。抽選\n問い合わせは市スポーツ教育協会（電話261-3620、FAX261-8020）
+LOCATION:青少年会館
+END:VEVENT
+END:VCALENDAR

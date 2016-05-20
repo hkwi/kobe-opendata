@@ -2,9 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:github.com/hkwi/kobe-opendata/kouhoushi
 BEGIN:VEVENT
-SUMMARY:有馬温泉 金の湯・銀の湯（2）シルバーデー
-DESCRIPTION:（1）レディースデー（割引あり）\n対象は中学生以上の女性\n日時は5月11日（水曜）\n（2）シルバーデー\n対象は65歳以上（要証明）\n日時は5月25日（水曜）\n問い合わせは電話904-0680、FAX907-3370
-URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1605/info06.html#有馬温泉 金の湯・銀の湯#2
-DTSTART:20160525
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1605/info06.html#クルーズ客船主な入港情報#3
+X-HINT-DTSTART:日時は6月5日（日曜）13時入港・20時出港
+DTSTART:20160605T130000
+DTEND:20160605T200000
+SUMMARY:クルーズ客船主な入港情報（3）MSCリリカ
+DESCRIPTION:（1）ダイヤモンド・プリンセス\n日時は5月8日（日曜）6時入港・17時出港、16日（月曜）6時入港・17時出港、24日（火曜）6時入港・25日（水曜）4時出港、30日（月曜）6時入港・17時出港\n場所はポートターミナル\n（2）ゴールデン・プリンセス\n日時は5月29日（日曜）13時入港・23時59分出港\n場所はポートターミナル\n（3）MSCリリカ\n日時は6月5日（日曜）13時入港・20時出港\n場所はポートターミナル\n問い合わせは市総合コールセンター（電話333-3330、FAX333-3314）
+LOCATION:ポートターミナル
 END:VEVENT
 END:VCALENDAR

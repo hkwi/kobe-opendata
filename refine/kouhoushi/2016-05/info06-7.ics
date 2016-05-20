@@ -2,11 +2,10 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:github.com/hkwi/kobe-opendata/kouhoushi
 BEGIN:VEVENT
-SUMMARY:森林整備事務所の催し（1）こうべ森の学校・森の手入れと観察
-DESCRIPTION:（1）こうべ森の学校・森の手入れと観察\n対象は小学4年生以上\n日時は5月14日（土曜）10時30分～15時\n場所は再度公園\n料金は無料\n（2）こうべ森の小学校・森のようちえん\n対象は3歳～小学生と保護者\n日時は5月22日（日曜）10時30分～14時30分\n場所は再度公園\n料金は無料\n申し込みははがき（北区山田町下谷上字中一里山4-1）かFAXで。5月8日（日曜）消印有効。抽選\n問い合わせは電話371-5937、FAX371-1087
-URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1605/info06.html#森林整備事務所の催し#1
-DTSTART:20160514T103000
-DTEND:20160514T150000
-LOCATION:再度公園
+SUMMARY:こべっこランド（1）あかちゃんひろば
+DESCRIPTION:（1）あかちゃんひろば\n対象は6カ月～1歳6カ月未満の子と保護者\n日時は5月11日～、水曜13時15分～。9回\n料金は無料\n（2）よちよちひろば\n対象は1・2歳の子と保護者\n日時は5月12日～、木曜11時～。9回\n料金は無料\n問い合わせは電話382-1300、FAX351-0684
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1605/info06.html#こべっこランド#1
+DTSTART:20160511T131500
+RRULE:FREQ=WEEKLY;COUNT=9
 END:VEVENT
 END:VCALENDAR

@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:github.com/hkwi/kobe-opendata/kouhoushi
 BEGIN:VEVENT
-SUMMARY:市民福祉大学（1）地域・福祉・活動の基本を学ぼう!
-DESCRIPTION:（1）地域・福祉・活動の基本を学ぼう!\n日時は6月8日（水曜）9時30分～16時30分\n場所は市民福祉交流センター\n料金は1\,000円\n申し込みははがきか電話かFAXか直接同大学（〒651-0086磯上通3-1-32）へ。5月25日（水曜）必着。抽選\n（2）ケアマネージャー受験準備講座\n日時は6月18・25日（土曜）・19・26日（日曜）10時～16時\n場所は市民福祉交流センター\n料金は22\,000円\n申し込みは専用の申込書で。6月3日（金曜）消印有効。抽選\n問い合わせは電話271-5300、FAX271-5365
-URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1605/info04.html#市民福祉大学#1
-DTSTART:20160608T093000
-DTEND:20160608T163000
-LOCATION:市民福祉交流センター
+SUMMARY:ママとパパの医療講座
+DESCRIPTION:対象は未就学児の保護者\n日時は5月28日～、土曜10時30分～。6回\n場所はこども初期急病センター\n料金は無料\n申し込みはFAXで。先着順\n問い合わせは電話862-6075、FAX862-6085
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1605/info04.html#ママとパパの医療講座
+DTSTART:20160528T103000
+RRULE:FREQ=WEEKLY;COUNT=6
+LOCATION:こども初期急病センター
 END:VEVENT
 END:VCALENDAR

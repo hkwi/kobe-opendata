@@ -2,10 +2,10 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:github.com/hkwi/kobe-opendata/kouhoushi
 BEGIN:VEVENT
-SUMMARY:トアステフルートコンサート
-DESCRIPTION:日時は5月28日（土曜）14時～\n場所はNHK神戸放送局（中央区中山手通2）\n料金は無料\n問い合わせは文化交流部（電話322-6598、FAX322-6136）
-URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1605/info06.html#トアステフルートコンサート
-DTSTART:20160528T140000
-LOCATION:NHK神戸放送局（中央区中山手通2）
+SUMMARY:ミニチュアガーデンづくり
+DESCRIPTION:日時は5月22日（日曜）13時30分～\n場所は花と緑のまち推進センター\n料金は2\,000円\n申し込みは電話か直接。5月8日（日曜）～先着順\n問い合わせは電話351-6756、FAX341-8710
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1605/info06.html#ミニチュアガーデンづくり
+DTSTART:20160522T133000
+LOCATION:花と緑のまち推進センター
 END:VEVENT
 END:VCALENDAR

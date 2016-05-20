@@ -2,10 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:github.com/hkwi/kobe-opendata/kouhoushi
 BEGIN:VEVENT
-SUMMARY:コミスタこうべ（2）「男性料理教室」ほか一日体験教室
-DESCRIPTION:（1）親子でビューティーウオーキング\n日時は6月4日（土曜）13時30分～\n料金は無料\n申し込みは電話か直接。5月8日（日曜）～先着順\n（2）「男性料理教室」ほか一日体験教室\n日時は6月4日（土曜）～29日（水曜）\n料金は一部有料\n申し込みは電話か直接。5月8日（日曜）～先着順\n問い合わせは電話251-4731、FAX251-4733
-URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1605/info06.html#コミスタこうべ#2
-DTSTART:20160604
-DTEND:20160630
+SUMMARY:プロから聞く！素敵な舞台の作り方
+DESCRIPTION:日時は5月29日（日曜）10時～・13時～\n場所はファッション美術館\n料金は無料\n申し込みは電話かFAXで。5月8日（日曜）～先着順\n問い合わせは電話858-0050、FAX858-0058
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1605/info06.html#プロから聞く！素敵な舞台の作り方
+DTSTART:20160529T100000
+RRULE:FREQ=DAILY;BYHOUR=13;BYMINUTE=0;COUNT=1
+LOCATION:ファッション美術館
 END:VEVENT
 END:VCALENDAR

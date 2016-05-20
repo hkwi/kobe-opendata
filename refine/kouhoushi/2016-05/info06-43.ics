@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1605/info06.html#アイガモ君と米づくり参加者募集
+X-HINT-DTSTART:日時は5月29日（日曜）10時～。6回
+DTSTART:20160529T100000
+SUMMARY:アイガモ君と米づくり参加者募集
+DESCRIPTION:日時は5月29日（日曜）10時～。6回\n場所は生野地区圃場（北区道場町生野316）\n料金は500円\n申し込みは電話かFAXで同実行委員会（電話090-8531-5797、FAX985-3045）へ。5月15日（日曜）必着。抽選\n問い合わせは農業振興センター（電話975-6860、FAX975-6828）\n\n  \n    \n\n\n
+LOCATION:生野地区圃場（北区道場町生野316）
+END:VEVENT
+END:VCALENDAR

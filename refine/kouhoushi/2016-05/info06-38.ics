@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:コミスタこうべ（1）親子でビューティーウオーキング
+DESCRIPTION:（1）親子でビューティーウオーキング\n日時は6月4日（土曜）13時30分～\n料金は無料\n申し込みは電話か直接。5月8日（日曜）～先着順\n（2）「男性料理教室」ほか一日体験教室\n日時は6月4日（土曜）～29日（水曜）\n料金は一部有料\n申し込みは電話か直接。5月8日（日曜）～先着順\n問い合わせは電話251-4731、FAX251-4733
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1605/info06.html#コミスタこうべ#1
+DTSTART:20160604T133000
+END:VEVENT
+END:VCALENDAR

@@ -2,11 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:github.com/hkwi/kobe-opendata/kouhoushi
 BEGIN:VEVENT
-SUMMARY:HIRAISOキッズイベント
-DESCRIPTION:対象は6～15歳\n日時は5月29日（日曜）10時～15時\n場所は平磯海づり公園\n料金は大人1\,000円・小人600円\n問い合わせは電話753-3973、FAX753-4873
-URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1605/info06.html#HIRAISOキッズイベント
-DTSTART:20160529T100000
-DTEND:20160529T150000
-LOCATION:平磯海づり公園
+SUMMARY:国営（あいな里山）公園 開園
+DESCRIPTION:日時は5月28日（土曜）12時～\n料金は大人410円・小人80円\n問い合わせは緑地課（電話322-5426、FAX322-6988）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1605/info06.html#国営（あいな里山）公園 開園
+DTSTART:20160528T120000
 END:VEVENT
 END:VCALENDAR

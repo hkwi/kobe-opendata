@@ -2,11 +2,10 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:github.com/hkwi/kobe-opendata/kouhoushi
 BEGIN:VEVENT
-SUMMARY:兵庫・神戸IT人材就職フェア
-DESCRIPTION:対象は29年3月卒業予定の学生および既卒者\n日時は5月17日（火曜）13時～16時30分\n場所は産業振興センター\n料金は無料\n問い合わせは創造都市推進部（電話322-6462、FAX322-6051）
-URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1605/info06.html#兵庫・神戸IT人材就職フェア
-DTSTART:20160517T130000
-DTEND:20160517T163000
-LOCATION:産業振興センター
+SUMMARY:六甲山のランのなかまたち
+DESCRIPTION:日時は5月15日（日曜）13時30分～\n場所は森林植物園\n料金は無料（別途入園料等が必要）\n申し込みはFAXで。5月8日（日曜）～先着順\n問い合わせは電話591-0253、FAX594-2324
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1605/info06.html#六甲山のランのなかまたち
+DTSTART:20160515T133000
+LOCATION:森林植物園
 END:VEVENT
 END:VCALENDAR

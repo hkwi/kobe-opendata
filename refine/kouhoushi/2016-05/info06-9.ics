@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:github.com/hkwi/kobe-opendata/kouhoushi
 BEGIN:VEVENT
-SUMMARY:こども釣り大会
-DESCRIPTION:対象は6～15歳\n日時は5月15日（日曜）6時～10時\n場所は須磨海づり公園\n料金は大人1\,200円・小人700円\n問い合わせは電話735-2907、FAX735-2950
-URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1605/info06.html#こども釣り大会
-DTSTART:20160515T060000
-DTEND:20160515T100000
-LOCATION:須磨海づり公園
+SUMMARY:ハートフルシネマ「あん」等上映
+DESCRIPTION:日時は5月11日（水曜）13時30分～・18時30分～\n場所は文化ホール\n料金は無料\n申し込みは当日先着順\n問い合わせは市イベント案内・申込センター（電話333-3372、FAX333-3314）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1605/info06.html#ハートフルシネマ「あん」等上映
+DTSTART:20160511T133000
+RRULE:FREQ=DAILY;BYHOUR=18;BYMINUTE=30;COUNT=1
+LOCATION:文化ホール
 END:VEVENT
 END:VCALENDAR
