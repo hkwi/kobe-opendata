@@ -143,7 +143,6 @@ http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/juukidata/z
 http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/juukidata/zensi2706.xls
 http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/juukidata/zensi2709.xls
 http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/juukidata/zensi2712.xls
-http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/suikeidata/jinkou2801.xls
 http://www.city.kobe.lg.jp/life/access/transport/subway/img/open_kobe_subway_add.csv
 http://www.city.kobe.lg.jp/life/access/transport/subway/img/open_seishin_w_east.csv
 http://www.city.kobe.lg.jp/life/access/transport/subway/img/open_seishin_w_west.csv

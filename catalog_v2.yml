@@ -20,13 +20,10 @@ license_url: http://www.opendefinition.org/licenses/cc-by
 maintainer: 政策調査課
 maintainer_email: ''
 metadata_created: '2016-04-11T03:45:26.567300'
-metadata_modified: '2016-05-20T00:13:50.848716'
+metadata_modified: '2016-05-20T02:39:55.934591'
 name: dataset-00000019
-notes: "直近の国勢調査を基礎に、毎月の住民基本台帳の届出数を加減して算出した推計人口(区別の世帯数や男女数、人口動態の情報など）\r\nhttp://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/sokyuujinkou.html"
-notes_rendered: '<p>直近の国勢調査を基礎に、毎月の住民基本台帳の届出数を加減して算出した推計人口(区別の世帯数や男女数、人口動態の情報など）
-
-  <a href="http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/sokyuujinkou.html"
-  target="_blank" rel="nofollow">http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/sokyuujinkou.html</a></p>'
+notes: 直近の国勢調査を基礎に、毎月の住民基本台帳の届出数を加減して算出した推計人口(区別の世帯数や男女数、人口動態の情報など）
+notes_rendered: <p>直近の国勢調査を基礎に、毎月の住民基本台帳の届出数を加減して算出した推計人口(区別の世帯数や男女数、人口動態の情報など）</p>
 num_resources: 12
 num_tags: 1
 organization:
@@ -275,7 +272,7 @@ resources:
   url_type: null
   webstore_last_updated: null
   webstore_url: null
-revision_id: 75834973-f9fa-485e-8f2f-5a181be09453
+revision_id: 31899643-7988-45eb-b893-37b72cd8d393
 state: active
 tags:
 - 統計
@@ -5005,79 +5002,6 @@ tags:
 title: 平成27年 住民基本台帳（日本人・外国人）町丁目別・１歳階級別人口
 type: dataset
 url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/juukijinkou.html
-version: null
----
-author: 総合計画課
-author_email: null
-ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000020
-creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
-extras:
-  コピーライト: City of Kobe
-  作成頻度: ''
-  使用言語: ja
-  文字コード: ''
-  連絡先メールアドレス: ''
-  連絡先電話番号: ''
-groups:
-- b18a8508-9e22-4355-9d36-d8c4d94b7df9
-id: 3302a57d-13b3-4499-aa31-f14188b675e9
-isopen: false
-license: null
-license_id: CC-BY
-license_title: CC-BY
-maintainer: 総合計画課
-maintainer_email: null
-metadata_created: '2016-04-11T03:45:39.143072'
-metadata_modified: '2016-04-11T03:45:40.110297'
-name: dataset-00000020
-notes: 直近の国勢調査を基礎に、毎月の住民基本台帳の届出数を加減して算出した推計人口(区別の世帯数や男女数、人口動態の情報など）
-notes_rendered: <p>直近の国勢調査を基礎に、毎月の住民基本台帳の届出数を加減して算出した推計人口(区別の世帯数や男女数、人口動態の情報など）</p>
-num_resources: 1
-num_tags: 1
-organization:
-  approval_status: approved
-  created: '2016-03-23T00:21:39.544252'
-  description: 政策の企画・立案、重要施策の調整、総合基本計画、各種統計、創造都市戦略「デザイン都市・神戸」の推進、神戸医療産業都市の推進、企業誘致施策、情報化の推進など
-  id: cfa5ffc6-52cd-42d7-8e72-8c1dc58df27d
-  image_url: ''
-  is_organization: true
-  name: org_0040
-  revision_id: 5bb86d03-e2d8-4d30-b8da-5f1557fc1b6c
-  state: active
-  title: 企画調整局
-  type: organization
-owner_org: cfa5ffc6-52cd-42d7-8e72-8c1dc58df27d
-private: false
-ratings_average: null
-ratings_count: 0
-relationships: []
-resources:
-- cache_last_updated: null
-  cache_url: null
-  created: '2016-04-11T12:45:40.143704'
-  description: 毎月推計統計（平成28年1月）
-  format: XLS
-  hash: ''
-  id: 3708aec4-7222-480b-a7d4-c963728011a0
-  last_modified: null
-  mimetype: null
-  mimetype_inner: null
-  name: 毎月推計統計（平成28年1月）
-  package_id: 3302a57d-13b3-4499-aa31-f14188b675e9
-  position: 0
-  resource_type: null
-  size: null
-  url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/suikeidata/jinkou2801.xls
-  url_type: null
-  webstore_last_updated: null
-  webstore_url: null
-revision_id: 4cd685e1-110a-4ba2-b70c-e81904cc2ef8
-state: active
-tags:
-- 統計
-title: 平成28年 毎月推計統計
-type: dataset
-url: http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/suikeijinkou.html
 version: null
 ---
 author: 広報課
