@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:市民山の会ハイキング～睡蓮咲く横池
+DESCRIPTION:日時は6月19日（日曜）9時集合\n場所はJR甲南山手駅\n料金は無料\n問い合わせは市イベント案内・申込センター（電話333-3372、FAX333-3314）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1606/info05.html#市民山の会ハイキング～睡蓮咲く横池
+DTSTART:20160619T090000
+LOCATION:JR甲南山手駅
+END:VEVENT
+END:VCALENDAR

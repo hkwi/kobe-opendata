@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:発達が気になる子と保護者のつどい
+DESCRIPTION:対象は小学1年生と保護者\n日時は7月3日（日曜）9時30分～・10時45分～\n場所はしあわせの村\n料金は500円\n申し込みは封書で市民福祉振興協会（北区山田町下谷上字中一里山14-1）へ。6月17日（金曜）消印有効。抽選\n問い合わせは電話743-8092、FAX743-8180
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1606/info06.html#発達が気になる子と保護者のつどい
+DTSTART:20160703T093000
+RRULE:FREQ=DAILY;BYHOUR=10;BYMINUTE=45;COUNT=1
+LOCATION:しあわせの村
+END:VEVENT
+END:VCALENDAR

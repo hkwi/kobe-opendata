@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:王子ではじめるフィットネス
+DESCRIPTION:日時は7月1日（金曜）～9月30日（金曜）\n場所は王子スポーツセンター\n料金は有料\n申し込みははがき（〒657-0805青谷町1-1-1）かFAXか直接。6月10日（金曜）消印有効。抽選\n問い合わせは電話802-0223、FAX861-5628
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1606/info05.html#王子ではじめるフィットネス
+DTSTART:20160701
+DTEND:20161001
+LOCATION:王子スポーツセンター
+END:VEVENT
+END:VCALENDAR

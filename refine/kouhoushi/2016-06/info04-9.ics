@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ボランティアグループ活動報告会
+DESCRIPTION:日時は6月15日（水曜）10時30分～15時30分\n場所はシルバーカレッジ\n料金は無料\n問い合わせは電話743-8100、FAX743-8103
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1606/info04.html#ボランティアグループ活動報告会
+DTSTART:20160615T103000
+DTEND:20160615T153000
+LOCATION:シルバーカレッジ
+END:VEVENT
+END:VCALENDAR

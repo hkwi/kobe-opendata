@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:市スポーツ教育協会の催し（2）六甲シティマラソン大会
+DESCRIPTION:（1）ファミリーウオーキング臨港線跡\n日時は7月3日（日曜）10時集合（雨天決行）\n場所はJR灘駅\n料金は無料\n（2）六甲シティマラソン大会\n対象は小学生以上\n日時は11月13日（日曜）9時15分～（荒天中止）\n場所は六甲アイランド\n料金は有料\n申し込みは6月1日（水曜）～配布する専用振替用紙等で。先着順\n問い合わせは電話261-3620、FAX261-8020
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1606/info05.html#市スポーツ教育協会の催し#2
+DTSTART:20161113T091500
+LOCATION:六甲アイランド
+END:VEVENT
+END:VCALENDAR

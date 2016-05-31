@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ブラジルのお祭り「6月祭」
+DESCRIPTION:日時は6月26日（日曜）11時～16時\n場所は海外移住と文化の交流センター\n料金は無料\n申し込みは電話かFAXで同センター（電話272-2362、FAX272-2210）へ。先着順\n問い合わせは国際課（電話322-5010、FAX322-2382）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1606/info06.html#ブラジルのお祭り「6月祭」
+DTSTART:20160626T110000
+DTEND:20160626T160000
+LOCATION:海外移住と文化の交流センター
+END:VEVENT
+END:VCALENDAR

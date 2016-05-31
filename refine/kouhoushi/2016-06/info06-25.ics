@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:こうべイクメンの日
+DESCRIPTION:日時は6月19日（日曜）10時～16時\n場所はハーバーランドumie（中央区東川崎町1）\n料金は無料\n問い合わせは男女共同参画課（電話322-5179、FAX322-6034）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1606/info06.html#こうべイクメンの日
+DTSTART:20160619T100000
+DTEND:20160619T160000
+LOCATION:ハーバーランドumie（中央区東川崎町1）
+END:VEVENT
+END:VCALENDAR

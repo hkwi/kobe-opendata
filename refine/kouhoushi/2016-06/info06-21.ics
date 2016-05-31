@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1606/info06.html#28年度中学校等教科用図書展示会#2
+X-HINT-DTSTART:日時は（1）6月17日（金曜）～7月5日（火曜）（2）6月17日（金曜）～7月2日（土曜）
+X-HINT-LOCATION:場所は（1）総合教育センター（2）東灘・灘・中央・北・新長田・西図書館
+DTSTART;VALUE=DATE:20160617
+DTEND;VALUE=DATE:20160702
+LOCATION:東灘・灘・中央・北・新長田・西図書館
+SUMMARY:28年度中学校等教科用図書展示会
+DESCRIPTION:日時は（1）6月17日（金曜）～7月5日（火曜）（2）6月17日（金曜）～7月2日（土曜）\n場所は（1）総合教育センター（2）東灘・灘・中央・北・新長田・西図書館\n問い合わせは指導課（電話322-6447、FAX322-6143）
+END:VEVENT
+END:VCALENDAR

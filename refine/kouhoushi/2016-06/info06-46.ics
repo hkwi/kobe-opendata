@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1606/info06.html#サマーミュージックステーション
+X-HINT-DTSTART:日時は8月21日（日曜）～23日（火曜）12時～16時
+DTSTART:20160821T120000
+DTEND:20160821T160000
+RDATE:20160822T120000
+RDATE:20160823T120000
+SUMMARY:サマーミュージックステーション
+DESCRIPTION:日時は8月21日（日曜）～23日（火曜）12時～16時\n場所はしあわせの村\n料金は宿泊21\,000円・日帰り16\,000円\n申し込みは専用の申し込み用紙で同事務局（〒650-8570住所不要）へ。7月8日（金曜）必着。抽選\n問い合わせは生涯学習課（電話322-5794、FAX322-6144）\n\n  \n    \n\n\n
+LOCATION:しあわせの村
+END:VEVENT
+END:VCALENDAR

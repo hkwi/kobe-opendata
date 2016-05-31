@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:熟年生活講座「ガンとゲノム」
+DESCRIPTION:日時は7月19日～、火曜18時30分～。3回\n場所は勤労会館\n料金は有料\n申し込みは電話かFAXでいきいき勤労財団へ。先着順\n問い合わせは電話251-5561、FAX252-9448
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1606/info04.html#熟年生活講座「ガンとゲノム」
+DTSTART:20160719T183000
+RRULE:FREQ=WEEKLY;COUNT=3
+LOCATION:勤労会館
+END:VEVENT
+END:VCALENDAR

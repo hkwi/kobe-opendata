@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1606/info06.html#クルーズ客船主な入港情報#3
+X-HINT-DTSTART:日時は6月18日（土曜）13時入港・20時出港
+DTSTART:20160618T130000
+DTEND:20160618T200000
+SUMMARY:クルーズ客船主な入港情報（3）MSCリリカ
+DESCRIPTION:（1）ダイヤモンド・プリンセス\n日時は6月10日（金曜）6時入港・17時出港\n場所はポートターミナル\n（2）コスタ・ビクトリア\n日時は6月17日（金曜）9時入港・15時出港\n場所はポートターミナル\n（3）MSCリリカ\n日時は6月18日（土曜）13時入港・20時出港\n場所はポートターミナル\n問い合わせは市総合コールセンター（電話333-3330、FAX333-3314）
+LOCATION:ポートターミナル
+END:VEVENT
+END:VCALENDAR

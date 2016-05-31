@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:50メートルプール一般営業開始
+DESCRIPTION:日時は6月13日（月曜）～9月10日（土曜）\n場所はポートアイランドスポーツセンター\n料金は大人650円・小人300円\n問い合わせは電話302-1031、FAX302-1032
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1606/info05.html#50メートルプール一般営業開始
+DTSTART:20160613
+DTEND:20160911
+LOCATION:ポートアイランドスポーツセンター
+END:VEVENT
+END:VCALENDAR

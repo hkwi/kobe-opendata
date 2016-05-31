@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:劇団赤鬼本公演「ROOTZ」
+DESCRIPTION:日時は6月17日（金曜）～19日（日曜）\n場所はアートビレッジセンター\n料金は有料\n申し込みは電話で\n問い合わせは電話512-5500、FAX512-5356
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1606/info06.html#劇団赤鬼本公演「ROOTZ」
+DTSTART:20160617
+DTEND:20160620
+LOCATION:アートビレッジセンター
+END:VEVENT
+END:VCALENDAR

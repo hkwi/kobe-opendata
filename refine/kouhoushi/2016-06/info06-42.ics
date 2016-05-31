@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1606/info06.html#夏休み小学生キャンプ#1
+X-HINT-DTSTART:日時は（1）8月6日（土曜）～、2泊3日（2）8月7日（日曜）～、1泊2日（3）8月26日（金曜）～、1泊2日
+DTSTART;VALUE=DATE:20160806
+DTEND;VALUE=DATE:20160808
+SUMMARY:夏休み小学生キャンプ
+DESCRIPTION:対象は（1）（2）小学3～6年生（3）小学1～3年生\n日時は（1）8月6日（土曜）～、2泊3日（2）8月7日（日曜）～、1泊2日（3）8月26日（金曜）～、1泊2日\n場所は自然の家\n料金は（1）11\,000円（2）（3）8\,000円\n申し込みは電話で。6月10日（金曜）～19日（日曜）まで受付。抽選\n問い合わせは電話891-0001、FAX891-0002
+LOCATION:自然の家
+END:VEVENT
+END:VCALENDAR

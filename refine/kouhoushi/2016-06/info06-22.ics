@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1606/info06.html#船舶（艦船）模型合同展示会
+X-HINT-DTSTART:日時は6月18日（土曜）10時～17時・19日（日曜）10時～16時
+DTSTART:20160618T100000
+DTEND:20160618T170000
+RDATE:20160619T100000/20160619T160000
+SUMMARY:船舶（艦船）模型合同展示会
+DESCRIPTION:日時は6月18日（土曜）10時～17時・19日（日曜）10時～16時\n場所はバンドー神戸青少年科学館\n料金は無料（別途入園料等が必要）\n問い合わせは電話302-5177、FAX302-4816
+LOCATION:バンドー神戸青少年科学館
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:（春季）硬式テニス 夜間B 中級
+DESCRIPTION:日時は6月15日～、水曜19時～。6回\n場所は中央体育館\n料金は有料\n申し込みは電話か直接。先着順\n問い合わせは電話341-7971、FAX341-7974
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1606/info05.html#（春季）硬式テニス 夜間B 中級
+DTSTART:20160615T190000
+RRULE:FREQ=WEEKLY;COUNT=6
+LOCATION:中央体育館
+END:VEVENT
+END:VCALENDAR

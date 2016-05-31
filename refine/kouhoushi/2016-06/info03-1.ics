@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ぜん息児のためのチャレンジ相談会
+DESCRIPTION:日時は7月21日（木曜）13時30分～15時30分\n場所は勤労会館\n料金は無料\n申し込みは電話で健康づくり支援課へ。7月8日（金曜）まで受付\n問い合わせは電話322-5248、FAX322-6053
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1606/info03.html#ぜん息児のためのチャレンジ相談会
+DTSTART:20160721T133000
+DTEND:20160721T153000
+LOCATION:勤労会館
+END:VEVENT
+END:VCALENDAR

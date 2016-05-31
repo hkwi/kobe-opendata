@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:こうべ森の学校・森の手入れと観察
+DESCRIPTION:対象は小学4年生以上\n日時は6月19日（日曜）10時30分～15時\n場所は再度公園\n料金は無料\n問い合わせは森林整備事務所（電話371-5937、FAX371-1087）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1606/info06.html#こうべ森の学校・森の手入れと観察
+DTSTART:20160619T103000
+DTEND:20160619T150000
+LOCATION:再度公園
+END:VEVENT
+END:VCALENDAR

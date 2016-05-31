@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1606/info06.html#黒大豆オーナー制参加者募集
+X-HINT-DTSTART:日時は6月19日（日曜）10時～。2回
+DTSTART:20160619T100000
+SUMMARY:黒大豆オーナー制参加者募集
+DESCRIPTION:日時は6月19日（日曜）10時～。2回\n場所は生野地区圃場（北区道場町生野）\n料金は2\,500円\n申し込みは電話かFAXで生野里づくり協議会（電話090-8531-5797、FAX985-3045）へ。6月8日（水曜）まで受付。抽選\n問い合わせは農業振興センター（電話975-6860、FAX975-6828）
+LOCATION:生野地区圃場（北区道場町生野）
+END:VEVENT
+END:VCALENDAR
