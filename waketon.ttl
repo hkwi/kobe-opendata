@@ -10,19 +10,19 @@
  dcat:mediaType "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" .
 
 
-<http://www.city.kobe.lg.jp/life/recycle/nihonngohaisyutukubun.xlsx>
+<http://www.city.kobe.lg.jp/life/recycle/280606gomihaisyutukubunn.xlsx>
  a dcat:Distribution ;
  dcterms:title "【日本語】ごみの排出区分、排出曜日、住所地" ;
  dcterms:license <http://creativecommons.org/licenses/by/2.1/jp/> ;
- dcat:downloadURL <http://www.city.kobe.lg.jp/life/recycle/nihonngohaisyutukubun.xlsx> ;
+ dcat:downloadURL <http://www.city.kobe.lg.jp/life/recycle/280606gomihaisyutukubunn.xlsx> ;
  dcat:mediaType "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" .
 
 
-<http://www.city.kobe.lg.jp/life/recycle/osirase.xlsx>
+<http://www.city.kobe.lg.jp/life/recycle/280607koubeshikaranooshirase.xlsx>
  a dcat:Distribution ;
  dcterms:title "【日本語】神戸市からのお知らせ" ;
  dcterms:license <http://creativecommons.org/licenses/by/2.1/jp/> ;
- dcat:downloadURL <http://www.city.kobe.lg.jp/life/recycle/osirase.xlsx> ;
+ dcat:downloadURL <http://www.city.kobe.lg.jp/life/recycle/280607koubeshikaranooshirase.xlsx> ;
  dcat:mediaType "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" .
 
 
