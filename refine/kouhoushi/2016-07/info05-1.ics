@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:しあわせの村テニススクール
+DESCRIPTION:対象は65歳以上、16歳以上の障害者手帳所持者\n日時は7月29日（金曜）～9月28日（水曜）\n料金は有料\n申し込みは往復はがき（北区山田町下谷上字中一里山14-1）で。7月10日（日曜）必着。抽選\n問い合わせは電話・FAX747-1060
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1607/info05.html#しあわせの村テニススクール
+DTSTART:20160729
+DTEND:20160929
+END:VEVENT
+END:VCALENDAR

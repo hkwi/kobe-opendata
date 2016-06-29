@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:山の日制定記念ウオーク
+DESCRIPTION:日時は8月11日（木曜・祝日）10時集合（雨天決行）\n場所はJR新神戸駅\n料金は無料\n問い合わせは市スポーツ教育協会（電話261-3620、FAX261-8020）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1607/info05.html#山の日制定記念ウオーク
+DTSTART:20160811T100000
+LOCATION:JR新神戸駅
+END:VEVENT
+END:VCALENDAR

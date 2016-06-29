@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:アジア交流プラザ（1）読書サロン 小説 広岡浅子の生涯
+DESCRIPTION:（1）読書サロン 小説 広岡浅子の生涯\n日時は7月14日（木曜）10時30分～\n料金は800円\n申し込みは電話か直接。先着順\n（2）韓国組紐で繋ぐブレスレット\n日時は7月16日（土曜）13時30分～\n料金は1\,500円\n申し込みは電話で。先着順\n問い合わせは電話646-7100、FAX646-7200
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1607/info04.html#アジア交流プラザ#1
+DTSTART:20160714T103000
+END:VEVENT
+END:VCALENDAR

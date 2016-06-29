@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:水源で親子水生生物観察会
+DESCRIPTION:日時は7月31日（日曜）9時～16時\n場所は三田市野外活動センター（三田市小柿949）\n料金は無料\n申し込みは往復はがきで水道局計画調整課（〒650-8570住所不要）へ。7月8日（金曜）消印有効。抽選\n問い合わせは電話322-0235、FAX322-6179
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1607/info06.html#水源で親子水生生物観察会
+DTSTART:20160731T090000
+DTEND:20160731T160000
+LOCATION:三田市野外活動センター（三田市小柿949）
+END:VEVENT
+END:VCALENDAR

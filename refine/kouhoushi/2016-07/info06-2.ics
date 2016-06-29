@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:企画展こうべ発掘ニュース最新号
+DESCRIPTION:日時は7月16日（土曜）～9月4日（日曜）\n場所は埋蔵文化財センター\n料金は無料\n問い合わせは電話992-0656、FAX992-5201
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1607/info06.html#企画展こうべ発掘ニュース最新号
+DTSTART:20160716
+DTEND:20160905
+LOCATION:埋蔵文化財センター
+END:VEVENT
+END:VCALENDAR

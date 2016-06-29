@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:防災カフェ（1）自由研究（雨量計づくり）
+DESCRIPTION:（1）自由研究（雨量計づくり）\n対象は小学3～6年生と保護者\n日時は8月6日（土曜）10時30分～・13時30分～\n場所は危機管理センター\n料金は無料\n申し込みは電話かFAXで危機管理室へ。先着順\n（2）希望と絆の集い\n日時は8月27日（土曜）14時～\n場所は危機管理センター\n料金は無料\n申し込みは電話かFAXで危機管理室へ。先着順\n問い合わせは電話322-6239、FAX322-6031
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1607/info04.html#防災カフェ#1
+DTSTART:20160806T103000
+RRULE:FREQ=DAILY;BYHOUR=13;BYMINUTE=30;COUNT=1
+LOCATION:危機管理センター
+END:VEVENT
+END:VCALENDAR

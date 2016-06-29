@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:夏休み親子料理教室（パン）
+DESCRIPTION:日時は7月27日（水曜）・28日（木曜）10時～\n場所は生田文化会館\n料金は1回1\,800円\n申し込みは電話かFAXで生活指導研究会（電話・FAX351-3443）へ。先着順\n問い合わせはこども家庭支援課（電話322-5211、FAX322-6119）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1607/info04.html#夏休み親子料理教室（パン）
+DTSTART:20160727T100000
+RRULE:FREQ=DAILY;BYMONTHDAY=28;COUNT=1
+LOCATION:生田文化会館
+END:VEVENT
+END:VCALENDAR

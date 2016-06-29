@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:障害者スポーツ教室（2）車椅子テニス教室（中学生以上）
+DESCRIPTION:（1）夏期障害児水泳教室（知的・身体）\n対象は身体障害者・療育手帳所持者\n日時は8月1日（月曜）～・19日（金曜）～。各7回\n場所はオージースポーツ神戸福祉スポーツセンター\n料金は有料\n申し込みは往復はがきで障害者スポーツ振興センター（〒651-0086磯上通3-1-32）へ。7月15日（金曜）消印有効。抽選\n（2）車椅子テニス教室（中学生以上）\n対象は身体障害者・療育手帳所持者\n日時は8月7日～、日曜10時～。6回\n場所はしあわせの村\n料金は有料\n申し込みは往復はがきで障害者スポーツ振興センター（〒651-0086磯上通3-1-32）へ。7月15日（金曜）消印有効。抽選\n問い合わせは電話271-5330、FAX271-5367
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1607/info05.html#障害者スポーツ教室#2
+DTSTART:20160807T100000
+RRULE:FREQ=WEEKLY;COUNT=6
+LOCATION:しあわせの村
+END:VEVENT
+END:VCALENDAR

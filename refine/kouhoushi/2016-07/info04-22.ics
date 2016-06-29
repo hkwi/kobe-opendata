@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:市民福祉大学（1）見て!触って!体験しよう福祉用具
+DESCRIPTION:（1）見て!触って!体験しよう福祉用具\n日時は8月19日（金曜）10時30分～15時\n場所は市民福祉交流センター\n料金は1\,000円\n申し込みははがきか電話かFAXで同大学（〒651-0086磯上通3-1-32）へ。8月4日（木曜）必着。抽選\n（2）障害者差別解消法について知ろう\n日時は8月27日（土曜）13時30分～\n場所は市民福祉交流センター\n料金は1\,000円\n申し込みははがきか電話かFAXで同大学（〒651-0086磯上通3-1-32）へ。8月10日（水曜）必着。抽選\n問い合わせは電話271-5300、FAX271-5365
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1607/info04.html#市民福祉大学#1
+DTSTART:20160819T103000
+DTEND:20160819T150000
+LOCATION:市民福祉交流センター
+END:VEVENT
+END:VCALENDAR

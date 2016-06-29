@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:退職準備セミナー
+DESCRIPTION:日時は8月20日（土曜）9時30分～16時45分\n場所は勤労会館\n料金は有料\n申し込みは電話かFAXでいきいき勤労財団へ。先着順\n問い合わせは電話251-5561、FAX252-9448
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1607/info04.html#退職準備セミナー
+DTSTART:20160820T093000
+DTEND:20160820T164500
+LOCATION:勤労会館
+END:VEVENT
+END:VCALENDAR

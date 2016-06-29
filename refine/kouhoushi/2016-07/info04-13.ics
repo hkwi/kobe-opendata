@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:発達障害支援講演会（森山和泉氏）
+DESCRIPTION:日時は7月29日（金曜）14時～\n場所は県看護協会（中央区下山手通5）\n料金は無料\n申し込みはFAXで発達障害者支援センターへ。先着順\n問い合わせは電話382-2760、FAX382-2766
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1607/info04.html#発達障害支援講演会（森山和泉氏）
+DTSTART:20160729T140000
+LOCATION:県看護協会（中央区下山手通5）
+END:VEVENT
+END:VCALENDAR

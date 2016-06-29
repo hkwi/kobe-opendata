@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:コミスタこうべ（2）小学生親子体験教室
+DESCRIPTION:（1）夏休み親子一日体験 8教室\n日時は8月3日（水曜）～22日（月曜）\n料金は一部有料\n申し込みは電話か直接。先着順\n（2）小学生親子体験教室\n日時は8月6日（土曜）10時～・13時～\n料金は無料\n申し込みは電話かFAXか直接。先着順\n問い合わせは電話251-4731、FAX251-4733
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1607/info06.html#コミスタこうべ#2
+DTSTART:20160806T100000
+RRULE:FREQ=DAILY;BYHOUR=13;BYMINUTE=0;COUNT=1
+END:VEVENT
+END:VCALENDAR

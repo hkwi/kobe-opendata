@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:夏休みこども手話・点字教室（1）手話教室（2日間コース）
+DESCRIPTION:（1）手話教室（2日間コース）\n対象は小学4～6年生\n日時は8月6日（土曜）・7日（日曜）10時～\n場所はしあわせの村\n料金は500円\n申し込みははがきかFAXで市民福祉振興協会（北区山田町下谷上字中一里山14-1）へ。7月15日（金曜）必着。抽選\n（2）点字教室\n対象は（a）小学4年生（b）小学5・6年生（c）小学4～6年生\n日時は（a）8月6日（土曜）13時～（b）8月7日（日曜）13時～（c）8月20日（土曜）13時～\n場所は（a）（b）しあわせの村（c）垂水年金会館\n料金は500円\n申し込みははがきかFAXで市民福祉振興協会（北区山田町下谷上字中一里山14-1）へ。7月15日（金曜）必着。抽選\n問い合わせは電話743-8017、FAX743-8180
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1607/info04.html#夏休みこども手話・点字教室#1
+DTSTART:20160806T100000
+RRULE:FREQ=DAILY;BYMONTHDAY=7;COUNT=1
+LOCATION:しあわせの村
+END:VEVENT
+END:VCALENDAR

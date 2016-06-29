@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:山本二三展リターンズ
+DESCRIPTION:日時は7月16日（土曜）～9月4日（日曜）\n場所はゆかりの美術館\n料金は有料\n問い合わせは電話858-1520、FAX858-1522
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1607/info06.html#山本二三展リターンズ
+DTSTART:20160716
+DTEND:20160905
+LOCATION:ゆかりの美術館
+END:VEVENT
+END:VCALENDAR

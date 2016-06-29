@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:あすてっぷKOBEの講座（2）女性のための法律セミナー
+DESCRIPTION:（1）男性の生き方セミナー\n日時は9月3日（土曜）13時30分～\n料金は無料\n申し込みは電話かFAXか直接。先着順\n（2）女性のための法律セミナー\n日時は9月15日（木曜）13時30分～\n料金は無料\n申し込みは電話かFAXか直接。先着順\n問い合わせは男女共同参画センター（電話361-6977、FAX361-6477）\n\n  \n    \n\n\n
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1607/info04.html#あすてっぷKOBEの講座#2
+DTSTART:20160915T133000
+END:VEVENT
+END:VCALENDAR

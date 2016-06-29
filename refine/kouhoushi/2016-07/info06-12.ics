@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:特別演奏会「神戸 夏 第九」
+DESCRIPTION:日時は7月31日（日曜）14時～\n場所は文化ホール\n料金は有料\n問い合わせは市民文化振興財団（電話361-7241、FAX361-7182）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1607/info06.html#特別演奏会「神戸 夏 第九」
+DTSTART:20160731T140000
+LOCATION:文化ホール
+END:VEVENT
+END:VCALENDAR
