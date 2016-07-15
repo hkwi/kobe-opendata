@@ -2,11 +2,14 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:github.com/hkwi/kobe-opendata/kouhoushi
 BEGIN:VEVENT
-SUMMARY:山本二三展リターンズ
-DESCRIPTION:日時は7月16日（土曜）～9月4日（日曜）\n場所はゆかりの美術館\n料金は有料\n問い合わせは電話858-1520、FAX858-1522
-URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1607/info06.html#山本二三展リターンズ
-DTSTART:20160716
-DTEND:20160905
-LOCATION:ゆかりの美術館
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1607/info06.html#サマースクール#2
+X-HINT-DTSTART:日時は（1）7月23日（土曜）・24日（日曜）10時～（2）7月25日（月曜）・26日（火曜）・28日（木曜）・29日（金曜）9時15分～
+DTSTART:20160725T091500
+RDATE:20160726T091500
+RDATE:20160728T091500
+RDATE:20160729T091500
+SUMMARY:サマースクール
+DESCRIPTION:対象は（1）小学1～3年生（2）小学4～6年生\n日時は（1）7月23日（土曜）・24日（日曜）10時～（2）7月25日（月曜）・26日（火曜）・28日（木曜）・29日（金曜）9時15分～\n場所は王子動物園\n料金は無料（別途入園料等が必要）\n申し込みは往復はがき（〒657-0838王子町3-1）か神戸市　募集情報（http://www.city.kobe.lg.jp/information/recruit/）で。7月12日（火曜）消印有効。抽選\n問い合わせは電話861-5624、FAX861-5640
+LOCATION:王子動物園
 END:VEVENT
 END:VCALENDAR

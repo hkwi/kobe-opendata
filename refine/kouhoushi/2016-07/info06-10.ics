@@ -2,10 +2,10 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:github.com/hkwi/kobe-opendata/kouhoushi
 BEGIN:VEVENT
-SUMMARY:美術館のひみつたんけん隊
-DESCRIPTION:対象は小・中学生\n日時は7月30日（土曜）14時～\n場所は小磯記念美術館\n料金は無料\n申し込みは往復はがき（〒658-0032向洋町中5-7）かFAXで。7月20日（水曜）消印有効。抽選\n問い合わせは電話857-5880、FAX857-3737
-URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1607/info06.html#美術館のひみつたんけん隊
-DTSTART:20160730T140000
-LOCATION:小磯記念美術館
+SUMMARY:ひとり親家庭の日帰りバス旅行
+DESCRIPTION:日時は7月24日（日曜）8時～\n場所は鈴鹿サーキット（鈴鹿市稲生町）\n料金は1人5\,000円（小学生以下4\,500円）\n申し込みは電話かFAXでひとり親家庭支援センター（電話341-4532、FAX371-6478）へ。先着順\n問い合わせはこども家庭支援課（電話322-5211、FAX322-6119）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1607/info06.html#ひとり親家庭の日帰りバス旅行
+DTSTART:20160724T080000
+LOCATION:鈴鹿サーキット（鈴鹿市稲生町）
 END:VEVENT
 END:VCALENDAR

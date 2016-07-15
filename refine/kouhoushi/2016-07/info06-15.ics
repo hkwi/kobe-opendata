@@ -2,11 +2,10 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:github.com/hkwi/kobe-opendata/kouhoushi
 BEGIN:VEVENT
-SUMMARY:三菱重工しんせんサマースクール
-DESCRIPTION:対象は小学4～6年生と保護者\n日時は8月4日（木曜）13時30分～17時\n場所は三菱重工業神戸造船所（兵庫区和田崎町1）\n料金は無料\n申し込みは往復はがきで神戸港振興協会（〒650-0042波止場町2-2）へ。7月11日（月曜）必着。抽選\n問い合わせは電話327-8982、FAX332-4739
-URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1607/info06.html#三菱重工しんせんサマースクール
-DTSTART:20160804T133000
-DTEND:20160804T170000
-LOCATION:三菱重工業神戸造船所（兵庫区和田崎町1）
+SUMMARY:美術館のひみつたんけん隊
+DESCRIPTION:対象は小・中学生\n日時は7月30日（土曜）14時～\n場所は小磯記念美術館\n料金は無料\n申し込みは往復はがき（〒658-0032向洋町中5-7）かFAXで。7月20日（水曜）消印有効。抽選\n問い合わせは電話857-5880、FAX857-3737
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1607/info06.html#美術館のひみつたんけん隊
+DTSTART:20160730T140000
+LOCATION:小磯記念美術館
 END:VEVENT
 END:VCALENDAR

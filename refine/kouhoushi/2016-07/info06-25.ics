@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ディッシュガーデンづくり
+DESCRIPTION:日時は8月7日（日曜）13時30分～\n場所は花と緑のまち推進センター\n料金は1\,000円\n申し込みは電話か直接。先着順\n問い合わせは電話351-6756、FAX341-8710
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1607/info06.html#ディッシュガーデンづくり
+DTSTART:20160807T133000
+LOCATION:花と緑のまち推進センター
+END:VEVENT
+END:VCALENDAR

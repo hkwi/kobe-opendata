@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:夏休み木工教室
+DESCRIPTION:日時は8月21日（日曜）13時～\n場所はリサイクル工房みなとじま\n料金は無料\n申し込みは電話かFAXか直接。先着順\n問い合わせは電話・FAX303-0319
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1607/info06.html#夏休み木工教室
+DTSTART:20160821T130000
+LOCATION:リサイクル工房みなとじま
+END:VEVENT
+END:VCALENDAR

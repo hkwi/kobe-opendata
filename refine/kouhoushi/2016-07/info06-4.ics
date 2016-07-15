@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:github.com/hkwi/kobe-opendata/kouhoushi
 BEGIN:VEVENT
-SUMMARY:親子カヌー乗船体験
-DESCRIPTION:対象は小学3年生～中学生と保護者\n日時は7月16日（土曜）9時30分～16時30分\n場所は自然の家\n料金は1\,500円\n申し込みは往復はがきで青少年会館（〒651-0096雲井通5-1-2）へ。7月9日（土曜）必着。抽選\n問い合わせは電話232-4455、FAX242-2161
-URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1607/info06.html#親子カヌー乗船体験
-DTSTART:20160716T093000
-DTEND:20160716T163000
-LOCATION:自然の家
+SUMMARY:企画展こうべ発掘ニュース最新号
+DESCRIPTION:日時は7月16日（土曜）～9月4日（日曜）\n場所は埋蔵文化財センター\n料金は無料\n問い合わせは電話992-0656、FAX992-5201
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1607/info06.html#企画展こうべ発掘ニュース最新号
+DTSTART:20160716
+DTEND:20160905
+LOCATION:埋蔵文化財センター
 END:VEVENT
 END:VCALENDAR

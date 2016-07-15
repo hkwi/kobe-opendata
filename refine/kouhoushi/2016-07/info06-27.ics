@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:処理場探検とアーモンド狩り
+DESCRIPTION:対象は小学生と家族\n日時は8月9日（火曜）13時～\n場所は東水環境センター\n料金は無料\n申し込みは往復はがき（〒658-0025魚崎南町2-1-23）で。7月26日（火曜）消印有効。抽選\n問い合わせは電話451-0456、FAX453-6328
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1607/info06.html#処理場探検とアーモンド狩り
+DTSTART:20160809T130000
+LOCATION:東水環境センター
+END:VEVENT
+END:VCALENDAR
