@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1608/info06.html#西区でなし狩り・ぶどう狩り#3
+X-HINT-DTSTART:日時は（1）8月16日（火曜）～9月上旬（2）8月22日（月曜）～9月下旬（3）8月26日（金曜）～9月下旬
+X-HINT-LOCATION:場所は（1）岩岡観光ぶどう園（西区岩岡町）（2）神出観光ぶどう園（西区神出町）（3）観光なし園（西区神出町）
+DTSTART;VALUE=DATE:20160826
+LOCATION:観光なし園（西区神出町）
+SUMMARY:西区でなし狩り・ぶどう狩り
+DESCRIPTION:日時は（1）8月16日（火曜）～9月上旬（2）8月22日（月曜）～9月下旬（3）8月26日（金曜）～9月下旬\n場所は（1）岩岡観光ぶどう園（西区岩岡町）（2）神出観光ぶどう園（西区神出町）（3）観光なし園（西区神出町）\n料金は大人1\,000円・4歳～小学生700円\n問い合わせは農水産課（電話322-5355、FAX322-6076）
+END:VEVENT
+END:VCALENDAR

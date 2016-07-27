@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:王子動物園（1）夏休み動物切手教室
+DESCRIPTION:（1）夏休み動物切手教室\n対象は小学生\n日時は8月19日（金曜）9時30分～\n料金は無料（別途入園料等が必要）\n申し込みは往復はがき（〒657-0838王子町3-1）か神戸市　募集情報（\nhttp://www.city.kobe.lg.jp/information/recruit/\n）で。8月9日（火曜）消印有効。抽選\n（2）トワイライトZOO\n日時は8月11日（木曜・祝日）～15日（月曜）\n料金は無料（別途入園料等が必要）\n問い合わせは電話861-5624、FAX861-5640
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1608/info06.html#王子動物園#1
+DTSTART:20160819T093000
+END:VEVENT
+END:VCALENDAR

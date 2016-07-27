@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:考古学入門講座弥生時代稲作のムラ
+DESCRIPTION:日時は8月27日（土曜）14時～\n場所は埋蔵文化財センター\n料金は無料\n申し込みは当日先着順\n問い合わせは電話992-0656、FAX992-5201
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1608/info04.html#考古学入門講座弥生時代稲作のムラ
+DTSTART:20160827T140000
+LOCATION:埋蔵文化財センター
+END:VEVENT
+END:VCALENDAR

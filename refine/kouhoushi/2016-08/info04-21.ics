@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:シルバーのつどい 桂きん枝氏来演
+DESCRIPTION:対象は60歳以上\n日時は9月2日（金曜）13時30分～17時15分\n場所は文化ホール\n料金は無料\n申し込みは往復はがきでいきいき勤労財団（〒651-0096雲井通5-3-1）へ。8月12日（金曜）消印有効。抽選\n問い合わせは電話251-5561、FAX252-9448
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1608/info04.html#シルバーのつどい 桂きん枝氏来演
+DTSTART:20160902T133000
+DTEND:20160902T171500
+LOCATION:文化ホール
+END:VEVENT
+END:VCALENDAR

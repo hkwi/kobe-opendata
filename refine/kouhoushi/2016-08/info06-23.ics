@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:UD映画祭（字幕・副音声付き）
+DESCRIPTION:日時は8月26日（金曜）13時～\n場所は市医師会館（中央区橘通4）\n料金は無料\n申し込みは当日先着順\n問い合わせは障害者支援課（電話322-6332、FAX322-6065）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1608/info06.html#UD映画祭（字幕・副音声付き）
+DTSTART:20160826T130000
+LOCATION:市医師会館（中央区橘通4）
+END:VEVENT
+END:VCALENDAR

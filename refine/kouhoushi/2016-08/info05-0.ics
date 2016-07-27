@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:国宝桜ケ丘銅鐸出土地を巡るコース
+DESCRIPTION:日時は8月21日（日曜）9時集合\n場所は六甲ケーブル下駅\n料金は無料\n問い合わせは市イベント案内・申込センター（電話333-3372、FAX333-3314）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1608/info05.html#国宝桜ケ丘銅鐸出土地を巡るコース
+DTSTART:20160821T090000
+LOCATION:六甲ケーブル下駅
+END:VEVENT
+END:VCALENDAR

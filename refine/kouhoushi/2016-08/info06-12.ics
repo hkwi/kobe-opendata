@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1608/info06.html#ご当地グルメ合戦～夏の陣
+X-HINT-DTSTART:日時は8月19日（金曜）～21日（日曜）11時～21時
+DTSTART:20160819T110000
+DTEND:20160819T210000
+RDATE:20160820T110000
+RDATE:20160821T110000
+SUMMARY:ご当地グルメ合戦～夏の陣
+DESCRIPTION:日時は8月19日（金曜）～21日（日曜）11時～21時\n場所はノエビアスタジアム神戸\n問い合わせは営業推進課（電話322-5994、FAX322-6183）
+LOCATION:ノエビアスタジアム神戸
+END:VEVENT
+END:VCALENDAR

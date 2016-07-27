@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:親子海釣り教室
+DESCRIPTION:対象は小・中学生と保護者\n日時は8月27日（土曜）10時～\n場所は平磯海づり公園\n料金は1人1\,400円\n問い合わせは電話753-3973、FAX753-4873
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1608/info06.html#親子海釣り教室
+DTSTART:20160827T100000
+LOCATION:平磯海づり公園
+END:VEVENT
+END:VCALENDAR

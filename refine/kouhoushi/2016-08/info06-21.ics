@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:シルバーデー
+DESCRIPTION:対象は65歳以上（要証明）\n日時は8月24日（水曜）\n場所は有馬温泉 金の湯・銀の湯\n問い合わせは電話904-0680、FAX907-3370
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1608/info06.html#シルバーデー
+DTSTART:20160824
+LOCATION:有馬温泉 金の湯・銀の湯
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1608/info06.html#国際交流キャンプ
+X-HINT-DTSTART:日時は9月17日（土曜）14時～、1泊2日
+DTSTART:20160917T140000
+SUMMARY:国際交流キャンプ
+DESCRIPTION:対象は小学5・6年生\n日時は9月17日（土曜）14時～、1泊2日\n場所はしあわせの村\n料金は3\,500円\n申し込みははがきかFAXでこども青少年課（〒650-8570住所不要）へ。8月25日（木曜）必着。抽選\n問い合わせは電話322-5181、FAX322-6043
+LOCATION:しあわせの村
+END:VEVENT
+END:VCALENDAR

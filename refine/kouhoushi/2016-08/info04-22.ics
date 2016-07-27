@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:G7市民フォーラム「感染症との闘い」
+DESCRIPTION:日時は9月3日（土曜）14時～\n場所は朝日ホール（中央区浪花町59）\n料金は無料\n申し込みはFAXで市医師会（FAX361-4455）へ。先着順\n問い合わせは地域保健課（電話322-5256、FAX322-6052）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1608/info04.html#G7市民フォーラム「感染症との闘い」
+DTSTART:20160903T140000
+LOCATION:朝日ホール（中央区浪花町59）
+END:VEVENT
+END:VCALENDAR

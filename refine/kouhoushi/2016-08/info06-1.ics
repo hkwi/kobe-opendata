@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:須磨海浜水族園（1）企画展「オリンピックな魚たち」
+DESCRIPTION:（1）企画展「オリンピックな魚たち」\n日時は8月1日（月曜）～31日（水曜）\n料金は無料（別途入園料等が必要）\n（2）水辺の生き物・植物標本鑑定会\n日時は8月28日（日曜）10時～15時\n料金は無料（別途入園料等が必要）\n問い合わせは電話731-7301、FAX733-6333
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1608/info06.html#須磨海浜水族園#1
+DTSTART:20160801
+DTEND:20160901
+END:VEVENT
+END:VCALENDAR

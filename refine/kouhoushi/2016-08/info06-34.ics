@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ファミリーサビキ釣り大会
+DESCRIPTION:日時は9月4日（日曜）6時～12時\n場所は須磨海づり公園\n料金は大人1\,200円・小人700円\n申し込みは当日先着順\n問い合わせは電話735-2907、FAX735-2950
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1608/info06.html#ファミリーサビキ釣り大会
+DTSTART:20160904T060000
+DTEND:20160904T120000
+LOCATION:須磨海づり公園
+END:VEVENT
+END:VCALENDAR

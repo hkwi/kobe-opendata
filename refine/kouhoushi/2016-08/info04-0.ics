@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:KOBE教育フォーラム
+DESCRIPTION:日時は8月18日（木曜）10時～16時\n場所は市総合教育センター\n料金は無料\n申し込みは電話かFAXで指導課へ。先着順\n問い合わせは電話322-6993、FAX322-6143
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1608/info04.html#KOBE教育フォーラム
+DTSTART:20160818T100000
+DTEND:20160818T160000
+LOCATION:市総合教育センター
+END:VEVENT
+END:VCALENDAR
