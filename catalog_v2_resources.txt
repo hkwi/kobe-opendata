@@ -70,9 +70,6 @@ http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/suikeidata/
 http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/suikeidata/jinkou2412.xls
 http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/suikeidata/jinkou2210-2312.xls
 http://www.city.kobe.lg.jp/information/project/design/torikumi/marathon1.csv
-http://www.city.kobe.lg.jp/information/opendata/img/20150903_mynumber_faq.xlsx
-http://www.city.kobe.lg.jp/information/opendata/img/mynumber_kojinmuke_siryo.pptx
-http://www.city.kobe.lg.jp/information/opendata/img/mynumber_jigyonusi_siryo.pptx
 http://www.city.kobe.lg.jp/information/data/statistics/toukei/sanren/data/12bunseki.pdf
 http://www.city.kobe.lg.jp/information/data/statistics/toukei/sanren/data/12gainen.pdf
 http://www.city.kobe.lg.jp/information/data/statistics/toukei/sanren/data/12kihon.pdf

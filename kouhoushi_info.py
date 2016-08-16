@@ -752,7 +752,7 @@ def proc(url, year_month=None, category=None):
 info_pattern = "http://www.city.kobe.lg.jp/information/public/kouhoushi/(\d{4})/\d{2}(\d{2})/info\d{2}(-\d{2})?.html"
 
 if __name__ == "__main__":
-	rows = [r for r in csv.reader(open("kouhoushi_url.csv"))]
+	rows = [r for r in csv.reader(open("kouhoushi_url.csv", encoding="UTF-8"))]
 	
 	def row2key(row):
 		m = re.match(info_pattern, row[0])

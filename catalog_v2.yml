@@ -1,3 +1,127 @@
+author: 情報化推進部
+author_email: ''
+ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000053
+creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
+extras:
+  コピーライト: City of Kobe
+  作成頻度: ''
+  使用言語: ''
+  文字コード: ''
+  連絡先メールアドレス: ''
+  連絡先電話番号: ''
+groups:
+- ea98c354-262b-4cff-a061-477b74f43bcc
+id: b23a805c-8f4a-4886-88bb-7b0448eb903d
+isopen: true
+license: クリエイティブ・コモンズ 表示
+license_id: cc-by
+license_title: クリエイティブ・コモンズ 表示
+license_url: http://www.opendefinition.org/licenses/cc-by
+maintainer: 情報化推進部
+maintainer_email: ''
+metadata_created: '2016-04-11T03:47:25.693572'
+metadata_modified: '2016-08-10T09:05:00.719840'
+name: dataset-00000053
+notes: "マイナンバー制度のFAQや説明資料\r\n※一部古い内容が含まれていたため、一時掲載を停止しています。"
+notes_rendered: '<p>マイナンバー制度のFAQや説明資料
+
+  ※一部古い内容が含まれていたため、一時掲載を停止しています。</p>'
+num_resources: 0
+num_tags: 1
+organization:
+  approval_status: approved
+  created: '2016-03-23T00:21:39.544252'
+  description: 政策の企画・立案、重要施策の調整、総合基本計画、各種統計、創造都市戦略「デザイン都市・神戸」の推進、神戸医療産業都市の推進、企業誘致施策、情報化の推進など
+  id: cfa5ffc6-52cd-42d7-8e72-8c1dc58df27d
+  image_url: ''
+  is_organization: true
+  name: org_0040
+  revision_id: 5bb86d03-e2d8-4d30-b8da-5f1557fc1b6c
+  state: active
+  title: 企画調整局
+  type: organization
+owner_org: cfa5ffc6-52cd-42d7-8e72-8c1dc58df27d
+private: false
+ratings_average: null
+ratings_count: 0
+relationships: []
+resources: []
+revision_id: a80f908a-00e7-4845-aa3e-dfb4cf1d643a
+state: active
+tags:
+- 情報啓発
+title: マイナンバー制度説明資料（掲載停止中）
+type: dataset
+url: http://www.city.kobe.lg.jp/information/project/innovation/mynumber/
+version: ''
+---
+author: ''
+author_email: ''
+ckan_url: https://data.city.kobe.lg.jp/data/dataset/http-www-city-kobe-lg-jp-ward-kuyakusho-higashinada-oshirase-kouhoushi
+creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
+extras: {}
+groups: []
+id: 2280c71a-1267-4df0-ad98-73d30f0574a5
+isopen: true
+license: クリエイティブ・コモンズ 表示
+license_id: cc-by
+license_title: クリエイティブ・コモンズ 表示
+license_url: http://www.opendefinition.org/licenses/cc-by
+maintainer: ''
+maintainer_email: ''
+metadata_created: '2016-08-08T01:34:03.691989'
+metadata_modified: '2016-08-08T01:48:36.476201'
+name: http-www-city-kobe-lg-jp-ward-kuyakusho-higashinada-oshirase-kouhoushi
+notes: 神戸市東灘区版広報紙
+notes_rendered: <p>神戸市東灘区版広報紙</p>
+num_resources: 1
+num_tags: 1
+organization:
+  approval_status: approved
+  created: '2016-03-23T00:21:47.018270'
+  description: 区の個性をのばすまちづくり、市政に対する要望、被災市民への生活支援、地域防犯活動の支援、戸籍・住民票、国民健康保険、後期高齢者医療制度、介護保険、地域福祉、高齢者・障害者・児童の保健福祉相談、保健指導など
+  id: 2a9d35d2-f9d0-455f-98a1-3e2094c3f13a
+  image_url: ''
+  is_organization: true
+  name: org_0230
+  revision_id: b7448fe3-cff5-45c7-8af3-8a14c5c7ee95
+  state: active
+  title: 東灘区役所
+  type: organization
+owner_org: 2a9d35d2-f9d0-455f-98a1-3e2094c3f13a
+private: false
+ratings_average: null
+ratings_count: 0
+relationships: []
+resources:
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-08-08T10:35:05.519339'
+  description: ''
+  format: HTML
+  hash: ''
+  id: f164c9ce-f52c-40ca-bced-3289f46dc5de
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 神戸市東灘区広報紙コミコミ（HTML版）
+  package_id: 2280c71a-1267-4df0-ad98-73d30f0574a5
+  position: 0
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/ward/kuyakusho/higashinada/oshirase/kouhoushi/
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+revision_id: fb364f51-a951-472d-85fb-08363fbe1a6f
+state: active
+tags:
+- 情報啓発
+title: 神戸市東灘区広報紙コミコミ
+type: dataset
+url: http://www.city.kobe.lg.jp/ward/kuyakusho/higashinada/oshirase/kouhoushi/
+version: ''
+---
 author: 危機管理室
 author_email: null
 ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000002
@@ -1849,117 +1973,6 @@ tags:
 title: 神戸マラソンの走行ペース情報
 type: dataset
 url: ''
-version: null
----
-author: 情報化推進部
-author_email: null
-ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000053
-creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
-extras:
-  コピーライト: City of Kobe
-  作成頻度: ''
-  使用言語: ''
-  文字コード: ''
-  連絡先メールアドレス: ''
-  連絡先電話番号: ''
-groups:
-- ea98c354-262b-4cff-a061-477b74f43bcc
-id: b23a805c-8f4a-4886-88bb-7b0448eb903d
-isopen: false
-license: null
-license_id: CC-BY
-license_title: CC-BY
-maintainer: 情報化推進部
-maintainer_email: null
-metadata_created: '2016-04-11T03:47:25.693572'
-metadata_modified: '2016-04-11T03:47:28.283476'
-name: dataset-00000053
-notes: マイナンバー制度のFAQや説明資料
-notes_rendered: <p>マイナンバー制度のFAQや説明資料</p>
-num_resources: 3
-num_tags: 1
-organization:
-  approval_status: approved
-  created: '2016-03-23T00:21:39.544252'
-  description: 政策の企画・立案、重要施策の調整、総合基本計画、各種統計、創造都市戦略「デザイン都市・神戸」の推進、神戸医療産業都市の推進、企業誘致施策、情報化の推進など
-  id: cfa5ffc6-52cd-42d7-8e72-8c1dc58df27d
-  image_url: ''
-  is_organization: true
-  name: org_0040
-  revision_id: 5bb86d03-e2d8-4d30-b8da-5f1557fc1b6c
-  state: active
-  title: 企画調整局
-  type: organization
-owner_org: cfa5ffc6-52cd-42d7-8e72-8c1dc58df27d
-private: false
-ratings_average: null
-ratings_count: 0
-relationships: []
-resources:
-- cache_last_updated: null
-  cache_url: null
-  created: '2016-04-11T12:47:26.617527'
-  description: マイナンバーFAQ一覧
-  format: XLSX
-  hash: ''
-  id: 4931b664-7679-483d-81a6-6aab49112fee
-  last_modified: null
-  mimetype: null
-  mimetype_inner: null
-  name: マイナンバーFAQ一覧
-  package_id: b23a805c-8f4a-4886-88bb-7b0448eb903d
-  position: 0
-  resource_type: null
-  size: null
-  url: http://www.city.kobe.lg.jp/information/opendata/img/20150903_mynumber_faq.xlsx
-  url_type: null
-  webstore_last_updated: null
-  webstore_url: null
-- cache_last_updated: null
-  cache_url: null
-  created: '2016-04-11T12:47:27.458573'
-  description: マイナンバー個人向け資料
-  format: PPTX
-  hash: ''
-  id: dbd2c963-c41b-4b47-835f-54413fcfcba9
-  last_modified: null
-  mimetype: null
-  mimetype_inner: null
-  name: マイナンバー個人向け資料
-  package_id: b23a805c-8f4a-4886-88bb-7b0448eb903d
-  position: 1
-  resource_type: null
-  size: null
-  url: http://www.city.kobe.lg.jp/information/opendata/img/mynumber_kojinmuke_siryo.pptx
-  url_type: null
-  webstore_last_updated: null
-  webstore_url: null
-- cache_last_updated: null
-  cache_url: null
-  created: '2016-04-11T12:47:28.311512'
-  description: マイナンバー事業主向け資料
-  format: PPTX
-  hash: ''
-  id: a9e0094e-5377-4072-9a62-655cde714b0f
-  last_modified: null
-  mimetype: null
-  mimetype_inner: null
-  name: マイナンバー事業主向け資料
-  package_id: b23a805c-8f4a-4886-88bb-7b0448eb903d
-  position: 2
-  resource_type: null
-  size: null
-  url: http://www.city.kobe.lg.jp/information/opendata/img/mynumber_jigyonusi_siryo.pptx
-  url_type: null
-  webstore_last_updated: null
-  webstore_url: null
-revision_id: 849c9ada-8528-4c24-9782-78ab698eb93a
-state: active
-tags:
-- 情報啓発
-title: マイナンバー制度説明資料
-type: dataset
-url: http://www.city.kobe.lg.jp/information/project/innovation/mynumber/
 version: null
 ---
 author: 広報課
