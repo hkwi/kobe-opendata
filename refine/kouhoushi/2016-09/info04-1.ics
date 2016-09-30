@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:アジア交流プラザ（1）由緒あるカンボジアの観光地を巡る
+DESCRIPTION:（1）由緒あるカンボジアの観光地を巡る\n日時は9月10日（土曜）13時30分～\n料金は500円\n申し込みは電話か直接。先着順\n（2）ポルトガル語入門講座\n日時は9月13日～、火曜10時15分～。10回\n料金は有料\n申し込みは電話で。先着順\n問い合わせは電話646-7100、FAX646-7200
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1609/info04.html#アジア交流プラザ#1
+DTSTART:20160910T133000
+END:VEVENT
+END:VCALENDAR

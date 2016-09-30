@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:神戸ファッションウィーク
+DESCRIPTION:日時は9月16日（金曜）～10月2日（日曜）\n問い合わせはファッション産業課（電話322-5332、FAX322-6077）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1609/info06.html#神戸ファッションウィーク
+DTSTART:20160916
+DTEND:20161003
+END:VEVENT
+END:VCALENDAR

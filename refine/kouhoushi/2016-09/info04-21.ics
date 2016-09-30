@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:絵本の読み聞かせ講座（初級・上級）
+DESCRIPTION:日時は10月11日（火曜）～12月9日（金曜）\n場所は教育・地域連携センター、中央図書館\n料金は有料\n申し込みは往復はがきで教育・地域連携センター（〒653-0042二葉町7-1-18）へ。9月16日（金曜）必着。抽選\n問い合わせは電話641-5013、FAX641-5015
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1609/info04.html#絵本の読み聞かせ講座（初級・上級）
+DTSTART:20161011
+DTEND:20161210
+LOCATION:教育・地域連携センター、中央図書館
+END:VEVENT
+END:VCALENDAR

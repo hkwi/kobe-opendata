@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:中央体育館（1）スポーツDE婚活
+DESCRIPTION:（1）スポーツDE婚活\n対象は20～30代の独身男女\n日時は10月1日（土曜）14時～19時\n料金は男性6\,500円・女性6\,000円\n申し込みはFAXで9月20日（火曜）まで受付。抽選\n（2）がんばれ神戸っ子ドッジボール大会\n対象は小学3・4年生\n日時は12月10日（土曜）・11日（日曜）\n料金は無料\n申し込みははがき（〒650-0017楠町4-1-1）で。9月30日（金曜）消印有効。抽選\n問い合わせは電話341-7971、FAX341-7974
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1609/info05.html#中央体育館#1
+DTSTART:20161001T140000
+DTEND:20161001T190000
+END:VEVENT
+END:VCALENDAR

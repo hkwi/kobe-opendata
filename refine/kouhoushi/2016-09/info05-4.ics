@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:スポーツイベント観戦情報（1）ヴィッセル神戸ピンクリボンデー
+DESCRIPTION:（1）ヴィッセル神戸ピンクリボンデー\n対象は女性\n日時は10月1日（土曜）19時～\n場所はノエビアスタジアム神戸\n料金は500円\n申し込みは往復はがき（2人以内）でクリムゾンフットボールクラブ（〒652-0855御崎町1-2-1）へ。9月14日（水曜）必着。抽選\n（2）INAC神戸市民応援デー\n日時は10月8日（土曜）・16日（日曜）13時～\n場所はノエビアスタジアム神戸\n料金は無料\n申し込みは往復はがき（4人以内）でアイナックコーポレーション（〒658-0032向洋町中7-1-1）へ。9月21日（水曜）必着。抽選\n問い合わせはスポーツ体育課（電話322-5803、FAX322-6149）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1609/info05.html#スポーツイベント観戦情報#1
+DTSTART:20161001T190000
+LOCATION:ノエビアスタジアム神戸
+END:VEVENT
+END:VCALENDAR

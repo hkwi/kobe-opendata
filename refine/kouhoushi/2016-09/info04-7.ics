@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:婦人会館あじさい講座（1）尿トレ! いつまでも若々しく
+DESCRIPTION:（1）尿トレ! いつまでも若々しく\n日時は9月26日（月曜）13時30分～\n料金は1講座1\,000円\n申し込みは電話か直接。先着順\n（2）歌声ピンポン in KOBE\n日時は9月27日（火曜）10時～\n料金は1講座1\,000円\n申し込みは電話か直接。先着順\n問い合わせは電話351-0861、FAX351-0862
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1609/info04.html#婦人会館あじさい講座#1
+DTSTART:20160926T133000
+END:VEVENT
+END:VCALENDAR

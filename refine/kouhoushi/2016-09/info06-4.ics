@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:松本零士・牧美也子夫婦コラボ展
+DESCRIPTION:日時は9月10日（土曜）～11月20日（日曜）\n場所はゆかりの美術館\n料金は有料\n問い合わせは電話858-1520、FAX858-1522
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1609/info06.html#松本零士・牧美也子夫婦コラボ展
+DTSTART:20160910
+DTEND:20161121
+LOCATION:ゆかりの美術館
+END:VEVENT
+END:VCALENDAR

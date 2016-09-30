@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:シルバー・ディスカバラー（1）入港歓迎 朝のバルーンリリース
+DESCRIPTION:（1）入港歓迎 朝のバルーンリリース\n日時は9月13日（火曜）6時～\n場所は中突堤旅客ターミナル\n（2）入・出港\n日時は9月13日（火曜）6時30分入港・18時出港\n場所は中突堤旅客ターミナル\n問い合わせは市イベント案内・申込センター（電話333-3372、FAX333-3314）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1609/info06.html#シルバー・ディスカバラー#1
+DTSTART:20160913T060000
+LOCATION:中突堤旅客ターミナル
+END:VEVENT
+END:VCALENDAR

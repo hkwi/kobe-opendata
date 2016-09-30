@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:名誉園長とペンキ塗り
+DESCRIPTION:日時は9月22日（木曜・祝日）9時30分～\n場所は森林植物園\n料金は無料（別途入園料等が必要）\n申し込みはFAXで。先着順\n問い合わせは電話591-0253、FAX594-2324
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1609/info06.html#名誉園長とペンキ塗り
+DTSTART:20160922T093000
+LOCATION:森林植物園
+END:VEVENT
+END:VCALENDAR

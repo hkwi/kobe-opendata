@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ジャズライブ in そごう神戸店
+DESCRIPTION:日時は9月17日（土曜）14時～・15時～\n場所はそごう神戸店（中央区小野柄通8）\n料金は無料\n問い合わせは文化交流部（電話322-6598、FAX322-6136）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1609/info06.html#ジャズライブ in そごう神戸店
+DTSTART:20160917T140000
+RRULE:FREQ=DAILY;BYHOUR=15;BYMINUTE=0;COUNT=1
+LOCATION:そごう神戸店（中央区小野柄通8）
+END:VEVENT
+END:VCALENDAR

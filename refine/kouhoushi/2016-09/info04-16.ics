@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:生物多様性シンポジウム
+DESCRIPTION:日時は10月1日（土曜）13時～\n場所は相楽園会館\n料金は無料\n申し込みはFAXで自然環境共生課へ。先着順\n問い合わせは電話322-5316、FAX322-6069
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1609/info04.html#生物多様性シンポジウム
+DTSTART:20161001T130000
+LOCATION:相楽園会館
+END:VEVENT
+END:VCALENDAR

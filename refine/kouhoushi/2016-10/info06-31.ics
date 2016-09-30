@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:秋の下水道ウオーク
+DESCRIPTION:日時は11月19日（土曜）9時30分集合（雨天時は26日（土曜））\n場所は神戸電鉄鈴蘭台駅\n料金は無料\n申し込みは電話かFAXで中央水環境センターへ。11月7日（月曜）消印有効。抽選\n問い合わせは電話641-2711、FAX642-2783
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1610/info06.html#秋の下水道ウオーク
+DTSTART:20161119T093000
+LOCATION:神戸電鉄鈴蘭台駅
+END:VEVENT
+END:VCALENDAR

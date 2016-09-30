@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:合同企業説明会
+DESCRIPTION:対象は29年3月大学・短大等卒業予定者、既卒若年求職者\n日時は10月31日（月曜）13時～16時30分\n場所は神戸商工会議所（中央区港島中町6）\n料金は無料\n問い合わせは経済政策課（電話322-6218、FAX322-6073）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1610/info06.html#合同企業説明会
+DTSTART:20161031T130000
+DTEND:20161031T163000
+LOCATION:神戸商工会議所（中央区港島中町6）
+END:VEVENT
+END:VCALENDAR

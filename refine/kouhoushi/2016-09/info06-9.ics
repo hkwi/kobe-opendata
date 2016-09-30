@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:中秋～皓月（こうげつ）の宵（観月イベント）
+DESCRIPTION:日時は9月17日（土曜）16時30分～20時（雨天中止）\n場所は須磨離宮公園\n料金は無料（別途入園料等が必要）\n問い合わせは電話732-6688、FAX734-6022
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1609/info06.html#中秋～皓月（こうげつ）の宵（観月イベント）
+DTSTART:20160917T163000
+DTEND:20160917T200000
+LOCATION:須磨離宮公園
+END:VEVENT
+END:VCALENDAR

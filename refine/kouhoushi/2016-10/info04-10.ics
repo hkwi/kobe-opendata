@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:白井操氏講演会「一粒の豆から幸せを」
+DESCRIPTION:対象は中学生以上\n日時は11月5日（土曜）13時30分～\n場所は中央図書館\n料金は無料\n申し込みは電話か直接。10月12日（水曜）～先着順\n問い合わせは電話371-3351、FAX371-5046
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1610/info04.html#白井操氏講演会「一粒の豆から幸せを」
+DTSTART:20161105T133000
+LOCATION:中央図書館
+END:VEVENT
+END:VCALENDAR

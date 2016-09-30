@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:神戸里山暮らし相談会
+DESCRIPTION:日時は10月22日（土曜）11時～14時\n場所はあいな里山公園（北区山田町藍那）\n料金は無料\n問い合わせは経済観光局計画課（電話322-5353、FAX322-6079）\n\n  \n    \n\n\n
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1610/info03.html#神戸里山暮らし相談会
+DTSTART:20161022T110000
+DTEND:20161022T140000
+LOCATION:あいな里山公園（北区山田町藍那）
+END:VEVENT
+END:VCALENDAR

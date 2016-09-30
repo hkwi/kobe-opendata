@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:動物慰霊のための献花式
+DESCRIPTION:日時は10月2日（日曜）11時～\n場所は動物管理センター\n料金は無料\n問い合わせは電話741-8111、FAX741-8035
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1609/info06.html#動物慰霊のための献花式
+DTSTART:20161002T110000
+LOCATION:動物管理センター
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:アシックスランニング教室
+DESCRIPTION:対象は18歳以上\n日時は9月22日（木曜・祝日）10時～\n場所はみなとのもり公園\n料金は3\,000円\n申し込みははがきかFAXか直接市スポーツ教育協会（〒651-0083浜辺通5-1-14）へ。9月8日（木曜）消印有効。抽選\n問い合わせは電話261-3367、FAX221-3558
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1609/info05.html#アシックスランニング教室
+DTSTART:20160922T100000
+LOCATION:みなとのもり公園
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:不登校生に寄り添う講演会・面接相談
+DESCRIPTION:対象は18歳以下の児童生徒の保護者・家族\n日時は10月8日（土曜）10時～16時\n場所は市総合教育センター\n料金は無料\n申し込みは電話で。先着順\n問い合わせは電話360-3153、FAX360-3357
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1610/info03.html#不登校生に寄り添う講演会・面接相談
+DTSTART:20161008T100000
+DTEND:20161008T160000
+LOCATION:市総合教育センター
+END:VEVENT
+END:VCALENDAR

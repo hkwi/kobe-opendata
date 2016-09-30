@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:上野千鶴子氏による在宅医療講演会
+DESCRIPTION:日時は11月19日（土曜）14時～\n場所は県看護協会（中央区下山手通5）\n料金は無料\n申し込みは電話で市イベント案内・申込センター（電話333-3372）へ。10月19日（水曜）～先着順\n問い合わせは地域医療課（電話322-5246、FAX322-6054）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1610/info04.html#上野千鶴子氏による在宅医療講演会
+DTSTART:20161119T140000
+LOCATION:県看護協会（中央区下山手通5）
+END:VEVENT
+END:VCALENDAR

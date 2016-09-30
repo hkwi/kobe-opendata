@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:医療産業都市市民見学会
+DESCRIPTION:日時は10月7日（金曜）13時30分～\n場所は理化学研究所（中央区港島南町2）等\n料金は無料\n申し込みは往復はがきかFAXで医療・新産業本部医療産業都市部（〒650-8570住所不要）へ。9月27日（火曜）必着。抽選\n問い合わせは電話322-6349、FAX322-6010
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1609/info06.html#医療産業都市市民見学会
+DTSTART:20161007T133000
+LOCATION:理化学研究所（中央区港島南町2）等
+END:VEVENT
+END:VCALENDAR

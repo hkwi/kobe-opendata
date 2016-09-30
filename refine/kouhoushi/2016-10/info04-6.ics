@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:もっと笑おう～健康な心と体づくり
+DESCRIPTION:日時は10月28日（金曜）14時～\n場所はあすてっぷKOBE\n料金は無料\n申し込みは電話かFAXでこころの健康センターへ。先着順\n問い合わせは電話371-1900、FAX371-1811
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1610/info04.html#もっと笑おう～健康な心と体づくり
+DTSTART:20161028T140000
+LOCATION:あすてっぷKOBE
+END:VEVENT
+END:VCALENDAR

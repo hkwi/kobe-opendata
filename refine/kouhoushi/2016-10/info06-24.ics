@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:こうべ森の文化祭
+DESCRIPTION:日時は10月30日（日曜）10時～15時\n場所は再度公園\n料金は一部有料\n問い合わせは森林整備事務所（電話371-5937、FAX371-1087）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1610/info06.html#こうべ森の文化祭
+DTSTART:20161030T100000
+DTEND:20161030T150000
+LOCATION:再度公園
+END:VEVENT
+END:VCALENDAR

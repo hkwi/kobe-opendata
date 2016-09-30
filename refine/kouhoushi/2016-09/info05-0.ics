@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:市民山の会ハイキング～ゆずり葉台
+DESCRIPTION:日時は9月18日（日曜）9時集合\n場所は阪急宝塚駅\n料金は無料\n問い合わせは市イベント案内・申込センター（電話333-3372、FAX333-3314）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1609/info05.html#市民山の会ハイキング～ゆずり葉台
+DTSTART:20160918T090000
+LOCATION:阪急宝塚駅
+END:VEVENT
+END:VCALENDAR

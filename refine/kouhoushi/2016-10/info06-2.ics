@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:市立中学校技術・家庭科作品展
+DESCRIPTION:日時は10月7日（金曜）～10月10日（月曜・祝日）\n場所はバンドー神戸青少年科学館\n料金は無料（別途入園料等が必要）\n問い合わせは電話302-5177、FAX302-4816
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1610/info06.html#市立中学校技術・家庭科作品展
+DTSTART:20161007
+DTEND:20161011
+LOCATION:バンドー神戸青少年科学館
+END:VEVENT
+END:VCALENDAR

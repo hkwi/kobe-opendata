@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:市看護大学国際フォーラム
+DESCRIPTION:日時は11月26日（土曜）14時～\n料金は一般2\,000円・学生1\,000円\n申し込みは往復はがきで同大学（〒651-2103学園西町3-4）へ。11月4日（金曜）必着。抽選\n問い合わせは電話794-8080、FAX794-8086
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1610/info04.html#市看護大学国際フォーラム
+DTSTART:20161126T140000
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:中央体育館（1）豊川月乃さん美的健康ウオーキング
+DESCRIPTION:（1）豊川月乃さん美的健康ウオーキング\n日時は11月5日（土曜）13時～・15時～\n場所は中央体育館\n料金は2\,000円\n申し込みははがき（〒650-0017楠町4-1-1）かFAXか直接。10月21日（金曜）消印有効。抽選\n（2）あじさいロードレース\n対象は小学生以上\n日時は29年1月14日（土曜）9時30分～14時\n場所はしあわせの村\n料金は500円\n申し込みは電話で同体育館へ。先着順\n問い合わせは電話341-7971、FAX341-7974
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1610/info05.html#中央体育館#1
+DTSTART:20161105T130000
+RRULE:FREQ=DAILY;BYHOUR=15;BYMINUTE=0;COUNT=1
+LOCATION:中央体育館
+END:VEVENT
+END:VCALENDAR

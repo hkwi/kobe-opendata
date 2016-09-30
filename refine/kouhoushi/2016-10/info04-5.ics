@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:発達障害の理解～当事者の立場から
+DESCRIPTION:日時は10月28日（金曜）14時～\n場所は県民会館（中央区下山手通4）\n料金は無料\n申し込みはFAXで発達障害者支援センターへ。先着順\n問い合わせは電話382-2760、FAX382-2766
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1610/info04.html#発達障害の理解～当事者の立場から
+DTSTART:20161028T140000
+LOCATION:県民会館（中央区下山手通4）
+END:VEVENT
+END:VCALENDAR

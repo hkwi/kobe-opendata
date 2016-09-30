@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:市指定文化財「旧乾邸」特別観覧
+DESCRIPTION:日時は11月1日（火曜）～6日（日曜）\n場所は旧乾邸（東灘区住吉山手5）\n料金は無料\n申し込みは電話で特別観覧受付係（電話842-0610）へ。10月23日（日曜）～先着順\n問い合わせは行財政局総務課（電話322-5062、FAX322-6015）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1610/info06.html#市指定文化財「旧乾邸」特別観覧
+DTSTART:20161101
+DTEND:20161107
+LOCATION:旧乾邸（東灘区住吉山手5）
+END:VEVENT
+END:VCALENDAR

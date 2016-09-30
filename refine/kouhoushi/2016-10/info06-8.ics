@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:兵庫・神戸みんなの住まい展
+DESCRIPTION:日時は10月15日（土曜）・16日（日曜）10時～17時\n場所はハーバーランドスペースシアター（中央区東川崎町1）等\n問い合わせは住宅政策課（電話322-5568、FAX322-6114）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1610/info06.html#兵庫・神戸みんなの住まい展
+DTSTART:20161015T100000
+DTEND:20161015T170000
+RRULE:FREQ=DAILY;BYMONTHDAY=16;COUNT=1
+LOCATION:ハーバーランドスペースシアター（中央区東川崎町1）等
+END:VEVENT
+END:VCALENDAR

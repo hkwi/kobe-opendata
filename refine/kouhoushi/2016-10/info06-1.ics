@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:灘の酒蔵探訪
+DESCRIPTION:日時は10月15日（土曜）～11月23日（水曜・祝日）\n場所は東灘・灘区の酒蔵施設等\n料金は一部有料\n問い合わせは市イベント案内・申込センター（電話333-3372、FAX333-3314）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1610/info06.html#灘の酒蔵探訪
+DTSTART:20161015
+DTEND:20161124
+LOCATION:東灘・灘区の酒蔵施設等
+END:VEVENT
+END:VCALENDAR

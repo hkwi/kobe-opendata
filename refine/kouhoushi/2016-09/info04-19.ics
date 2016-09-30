@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:ファミサポ協力会員養成講習会
+DESCRIPTION:日時は10月4日（火曜）・5日（水曜）9時45分～16時\n場所はファミリー・サポート・センター\n料金は無料\n申し込みは電話か直接。先着順\n問い合わせは電話335-6100、FAX335-6101
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1609/info04.html#ファミサポ協力会員養成講習会
+DTSTART:20161004T094500
+DTEND:20161004T160000
+RRULE:FREQ=DAILY;BYMONTHDAY=5;COUNT=1
+LOCATION:ファミリー・サポート・センター
+END:VEVENT
+END:VCALENDAR

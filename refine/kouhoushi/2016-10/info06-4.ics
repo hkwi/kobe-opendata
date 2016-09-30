@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/hkwi/kobe-opendata/kouhoushi
+BEGIN:VEVENT
+SUMMARY:神戸マイスターフェスティバル
+DESCRIPTION:日時は10月8日（土曜）10時～17時\n場所はハーバーランドスペースシアター（中央区東川崎町1）\n料金は無料\n問い合わせは経済政策課（電話322-5324、FAX322-6070）
+URL:http://www.city.kobe.lg.jp/information/public/kouhoushi/2016/1610/info06.html#神戸マイスターフェスティバル
+DTSTART:20161008T100000
+DTEND:20161008T170000
+LOCATION:ハーバーランドスペースシアター（中央区東川崎町1）
+END:VEVENT
+END:VCALENDAR
