@@ -24,5 +24,8 @@ kouhoushi:
 toukei:
 	-wget -o toukei.log -N -P import -x -i <(python3 toukei.py)
 
+lunch:
+	-wget -o lunch.log -N -P import -x -i <(python3 lunch.py)
+
 clean:
 	-rm *.log
