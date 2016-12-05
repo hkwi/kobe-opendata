@@ -18,11 +18,11 @@
  dcat:mediaType "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" .
 
 
-<http://www.city.kobe.lg.jp/life/recycle/280607koubeshikaranooshirase.xlsx>
+<http://www.city.kobe.lg.jp/life/recycle/281201osirase.xlsx>
  a dcat:Distribution ;
  dcterms:title "【日本語】神戸市からのお知らせ" ;
  dcterms:license <http://creativecommons.org/licenses/by/2.1/jp/> ;
- dcat:downloadURL <http://www.city.kobe.lg.jp/life/recycle/280607koubeshikaranooshirase.xlsx> ;
+ dcat:downloadURL <http://www.city.kobe.lg.jp/life/recycle/281201osirase.xlsx> ;
  dcat:mediaType "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" .
 
 
