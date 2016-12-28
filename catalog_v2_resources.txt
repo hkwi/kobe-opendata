@@ -1,3 +1,5 @@
+http://www.city.kobe.lg.jp/safety/aed_kobe.xml
+http://www.city.kobe.lg.jp/information/project/industry/img/tourism_od2810.csv
 http://www.city.kobe.lg.jp/safety/okunai.csv
 http://www.city.kobe.lg.jp/safety/okugai.csv
 http://www.city.kobe.lg.jp/information/data/statistics/toukei/jinkou/suikeidata/jinkou2701.xls
@@ -157,6 +159,4 @@ http://www.city.kobe.lg.jp/information/opendata/img/sculpture_kobecity_20141128.
 http://www.city.kobe.lg.jp/information/opendata/img/filming_list_kobe.csv
 http://www.city.kobe.lg.jp/information/opendata/img/filming_location_kobe.csv
 http://www.city.kobe.lg.jp/information/opendata/img/yakei_kobe_20141128.csv
-http://www.city.kobe.lg.jp/information/project/industry/img/tourism_od2707.csv
 http://www.city.kobe.lg.jp/information/opendata/img/emergency_water_kobe_20141128.csv
-http://www.city.kobe.lg.jp/safety/fire/ambulance/aedmap/aed--_kobe.xml

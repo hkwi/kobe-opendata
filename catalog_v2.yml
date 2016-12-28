@@ -1,3 +1,149 @@
+author: 救急課
+author_email: null
+ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000003
+creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
+extras:
+  コピーライト: City of Kobe
+  作成頻度: ''
+  使用言語: ja
+  文字コード: ''
+  連絡先メールアドレス: ''
+  連絡先電話番号: ''
+groups:
+- 5eccbc53-86ea-482a-8594-5224aaf5f2c6
+id: 52758dd9-ba82-4d48-8257-7e7199c81abe
+isopen: false
+license: null
+license_id: CC-BY-NC
+license_title: CC-BY-NC
+maintainer: 救急課
+maintainer_email: null
+metadata_created: '2016-04-11T03:44:10.416331'
+metadata_modified: '2016-12-27T05:58:00.414403'
+name: dataset-00000003
+notes: 民間施設も含むAEDの位置情報
+notes_rendered: <p>民間施設も含むAEDの位置情報</p>
+num_resources: 1
+num_tags: 1
+organization:
+  approval_status: approved
+  created: '2016-03-23T00:21:43.343895'
+  description: 火災の予防・消火、救急・救助活動、防火対象物の査察など
+  id: 621b5239-21a0-40b7-ad12-b94186de3082
+  image_url: ''
+  is_organization: true
+  name: org_0140
+  revision_id: 01ac2daf-c3f2-4b5f-8938-f7a363db2e58
+  state: active
+  title: 消防局
+  type: organization
+owner_org: 621b5239-21a0-40b7-ad12-b94186de3082
+private: false
+ratings_average: null
+ratings_count: 0
+relationships: []
+resources:
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-04-11T12:44:11.533028'
+  description: まちかど救急ステーション（AED設置）登録施設一覧
+  format: XML
+  hash: ''
+  id: eeaabc72-180c-47a8-8af0-5a99d8cd2e6f
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: まちかど救急ステーション（AED設置）登録施設一覧
+  package_id: 52758dd9-ba82-4d48-8257-7e7199c81abe
+  position: 0
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/safety/aed_kobe.xml
+  url_type: ''
+  webstore_last_updated: null
+  webstore_url: null
+revision_id: 80e27b57-27c0-4ff1-9d11-05bee64351c8
+state: active
+tags:
+- 施設
+title: まちかど救急ステーション（AED設置）登録施設一覧
+type: dataset
+url: http://www.city.kobe.lg.jp/safety/fire/ambulance/matiqp.html
+version: null
+---
+author: 観光コンベンション課
+author_email: null
+ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000005
+creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
+extras:
+  コピーライト: City of Kobe
+  作成頻度: ''
+  使用言語: ja
+  文字コード: ''
+  連絡先メールアドレス: ''
+  連絡先電話番号: ''
+groups:
+- c2ed703e-ebd0-447e-9b14-cd6aac1ecf8b
+id: 172fc03d-a983-4eb6-ab3a-4799d7dab5a3
+isopen: false
+license: null
+license_id: CC-BY
+license_title: CC-BY
+maintainer: 観光コンベンション課
+maintainer_email: null
+metadata_created: '2016-04-11T03:44:14.209894'
+metadata_modified: '2016-12-27T05:49:44.020666'
+name: dataset-00000005
+notes: 観光施設の位置、営業時間、料金、バリアフリー対応などの情報
+notes_rendered: <p>観光施設の位置、営業時間、料金、バリアフリー対応などの情報</p>
+num_resources: 1
+num_tags: 1
+organization:
+  approval_status: approved
+  created: '2016-03-23T00:21:41.704535'
+  description: 観光コンベンションの推進、商工業・農漁業の振興、中小企業の支援、卸売市場など
+  id: 1cd9cfa3-481c-4fd0-8642-2c4aa8a1a185
+  image_url: ''
+  is_organization: true
+  name: org_0100
+  revision_id: b18fa252-e9c1-4dd6-9c79-bc102e77f635
+  state: active
+  title: 産業振興局
+  type: organization
+owner_org: 1cd9cfa3-481c-4fd0-8642-2c4aa8a1a185
+private: false
+ratings_average: null
+ratings_count: 0
+relationships: []
+resources:
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-04-11T12:44:15.242005'
+  description: 観光施設情報
+  format: CSV
+  hash: ''
+  id: 369be024-e7c2-46be-98ad-a6b2519f12e3
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 観光施設情報
+  package_id: 172fc03d-a983-4eb6-ab3a-4799d7dab5a3
+  position: 0
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/project/industry/img/tourism_od2810.csv
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+revision_id: 781a9a3a-1d1c-4467-bfff-a783215117bc
+state: active
+tags:
+- 施設
+title: 観光施設情報
+type: dataset
+url: http://www.city.kobe.lg.jp/information/project/industry/tourism_opendata.html
+version: null
+---
 author: 情報化推進部
 author_email: ''
 ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000053
@@ -5864,79 +6010,6 @@ type: dataset
 url: ''
 version: null
 ---
-author: 観光コンベンション課
-author_email: null
-ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000005
-creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
-extras:
-  コピーライト: City of Kobe
-  作成頻度: ''
-  使用言語: ja
-  文字コード: ''
-  連絡先メールアドレス: ''
-  連絡先電話番号: ''
-groups:
-- c2ed703e-ebd0-447e-9b14-cd6aac1ecf8b
-id: 172fc03d-a983-4eb6-ab3a-4799d7dab5a3
-isopen: false
-license: null
-license_id: CC-BY
-license_title: CC-BY
-maintainer: 観光コンベンション課
-maintainer_email: null
-metadata_created: '2016-04-11T03:44:14.209894'
-metadata_modified: '2016-04-11T03:44:15.212810'
-name: dataset-00000005
-notes: 観光施設の位置、営業時間、料金、バリアフリー対応などの情報
-notes_rendered: <p>観光施設の位置、営業時間、料金、バリアフリー対応などの情報</p>
-num_resources: 1
-num_tags: 1
-organization:
-  approval_status: approved
-  created: '2016-03-23T00:21:41.704535'
-  description: 観光コンベンションの推進、商工業・農漁業の振興、中小企業の支援、卸売市場など
-  id: 1cd9cfa3-481c-4fd0-8642-2c4aa8a1a185
-  image_url: ''
-  is_organization: true
-  name: org_0100
-  revision_id: b18fa252-e9c1-4dd6-9c79-bc102e77f635
-  state: active
-  title: 産業振興局
-  type: organization
-owner_org: 1cd9cfa3-481c-4fd0-8642-2c4aa8a1a185
-private: false
-ratings_average: null
-ratings_count: 0
-relationships: []
-resources:
-- cache_last_updated: null
-  cache_url: null
-  created: '2016-04-11T12:44:15.242005'
-  description: 観光施設情報
-  format: CSV
-  hash: ''
-  id: 369be024-e7c2-46be-98ad-a6b2519f12e3
-  last_modified: null
-  mimetype: null
-  mimetype_inner: null
-  name: 観光施設情報
-  package_id: 172fc03d-a983-4eb6-ab3a-4799d7dab5a3
-  position: 0
-  resource_type: null
-  size: null
-  url: http://www.city.kobe.lg.jp/information/project/industry/img/tourism_od2707.csv
-  url_type: null
-  webstore_last_updated: null
-  webstore_url: null
-revision_id: 781a9a3a-1d1c-4467-bfff-a783215117bc
-state: active
-tags:
-- 施設
-title: 観光施設情報
-type: dataset
-url: http://www.city.kobe.lg.jp/information/project/industry/tourism_opendata.html
-version: null
----
 author: 業務課
 author_email: null
 ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000004
@@ -6008,79 +6081,6 @@ tags:
 title: 応急給水拠点一覧
 type: dataset
 url: http://www.city.kobe.lg.jp/safety/prevention/water/10.html
-version: null
----
-author: 救急課
-author_email: null
-ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000003
-creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
-extras:
-  コピーライト: City of Kobe
-  作成頻度: ''
-  使用言語: ja
-  文字コード: ''
-  連絡先メールアドレス: ''
-  連絡先電話番号: ''
-groups:
-- 5eccbc53-86ea-482a-8594-5224aaf5f2c6
-id: 52758dd9-ba82-4d48-8257-7e7199c81abe
-isopen: false
-license: null
-license_id: CC-BY-NC
-license_title: CC-BY-NC
-maintainer: 救急課
-maintainer_email: null
-metadata_created: '2016-04-11T03:44:10.416331'
-metadata_modified: '2016-04-11T03:44:11.504617'
-name: dataset-00000003
-notes: 民間施設も含むAEDの位置情報
-notes_rendered: <p>民間施設も含むAEDの位置情報</p>
-num_resources: 1
-num_tags: 1
-organization:
-  approval_status: approved
-  created: '2016-03-23T00:21:43.343895'
-  description: 火災の予防・消火、救急・救助活動、防火対象物の査察など
-  id: 621b5239-21a0-40b7-ad12-b94186de3082
-  image_url: ''
-  is_organization: true
-  name: org_0140
-  revision_id: 01ac2daf-c3f2-4b5f-8938-f7a363db2e58
-  state: active
-  title: 消防局
-  type: organization
-owner_org: 621b5239-21a0-40b7-ad12-b94186de3082
-private: false
-ratings_average: null
-ratings_count: 0
-relationships: []
-resources:
-- cache_last_updated: null
-  cache_url: null
-  created: '2016-04-11T12:44:11.533028'
-  description: まちかど救急ステーション（AED設置）登録施設一覧
-  format: XML
-  hash: ''
-  id: eeaabc72-180c-47a8-8af0-5a99d8cd2e6f
-  last_modified: null
-  mimetype: null
-  mimetype_inner: null
-  name: まちかど救急ステーション（AED設置）登録施設一覧
-  package_id: 52758dd9-ba82-4d48-8257-7e7199c81abe
-  position: 0
-  resource_type: null
-  size: null
-  url: http://www.city.kobe.lg.jp/safety/fire/ambulance/aedmap/aed--_kobe.xml
-  url_type: null
-  webstore_last_updated: null
-  webstore_url: null
-revision_id: 80e27b57-27c0-4ff1-9d11-05bee64351c8
-state: active
-tags:
-- 施設
-title: まちかど救急ステーション（AED設置）登録施設一覧
-type: dataset
-url: http://www.city.kobe.lg.jp/safety/fire/ambulance/matiqp.html
 version: null
 ---
 author: 広報課
