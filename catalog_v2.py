@@ -7,6 +7,7 @@ import yaml
 import json
 import xml.etree.ElementTree as ET
 import csv
+import unicodedata
 try:
 	from urllib import urlopen
 except:
@@ -37,10 +38,11 @@ with open("catalog_v2_resources.txt","w") as fp:
 	w = csv.writer(fp)
 	for ds in dataset:
 		for r in ds["resources"]:
-			if r["format"].lower() == "html":
+			fmt = unicodedata.normalize('NFKC', r["format"])
+			if fmt.lower() == "html":
 				continue
-			if r["format"].lower() == "pdf" and r["url"].endswith("/"):
+			if fmt.lower() == "pdf" and r["url"].endswith("/"):
 				# They're specifying pdf links under the url.
 				continue
-			assert r["format"].lower() in "csv xls xlsx ppt pptx pdf xml".split(), r["format"]
+			assert fmt.lower() in "csv xls xlsx ppt pptx pdf xml".split(), r["format"]
 			w.writerow((r["url"],))

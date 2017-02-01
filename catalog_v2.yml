@@ -1,3 +1,677 @@
+author: 財務課
+author_email: ''
+ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000061
+creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
+extras: {}
+groups:
+- b18a8508-9e22-4355-9d36-d8c4d94b7df9
+id: ff58cb2d-6930-40bf-a3df-7b3172d3d906
+isopen: true
+license: クリエイティブ・コモンズ 表示
+license_id: cc-by
+license_title: クリエイティブ・コモンズ 表示
+license_url: http://www.opendefinition.org/licenses/cc-by
+maintainer: 財務課
+maintainer_email: ''
+metadata_created: '2017-02-01T08:45:47.889913'
+metadata_modified: '2017-02-01T08:47:46.633768'
+name: dataset-00000061
+notes: "神戸市の市町村財政比較分析表\r\n"
+notes_rendered: <p>神戸市の市町村財政比較分析表</p>
+num_resources: 4
+num_tags: 1
+organization:
+  approval_status: approved
+  created: '2016-03-23T00:21:39.907571'
+  description: 庁舎の管理、行財政改革、公正な職務の執行の推進、職員の人事・給与・研修、市の財政、公債の発行、市税、財産の管理、処分、契約な
+  id: 67d08546-800a-4c8b-a99f-e6f3deb2170f
+  image_url: ''
+  is_organization: true
+  name: org_0050
+  revision_id: b766d277-8fb8-408e-a653-8cfa9da98bbb
+  state: active
+  title: 行財政局
+  type: organization
+owner_org: 67d08546-800a-4c8b-a99f-e6f3deb2170f
+private: false
+ratings_average: null
+ratings_count: 0
+relationships: []
+resources:
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-02-01T17:46:19.598448'
+  description: "市町村財政比較分析表(平成21年度普通会計決算)\r\n"
+  format: PDF
+  hash: ''
+  id: 50394bfe-524c-4f48-a630-4c42d580d422
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 市町村財政比較分析表(平成21年度普通会計決算)
+  package_id: ff58cb2d-6930-40bf-a3df-7b3172d3d906
+  position: 0
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/about/financial/zaisei/img/shityousonn-hikaku21.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-02-01T17:46:42.742479'
+  description: "市町村財政比較分析表(平成20年度普通会計決算)\r\n"
+  format: PDF
+  hash: ''
+  id: 559ecb0e-fa99-4f30-b6a7-c7e4cdd450ed
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 市町村財政比較分析表(平成20年度普通会計決算)
+  package_id: ff58cb2d-6930-40bf-a3df-7b3172d3d906
+  position: 1
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/about/financial/zaisei/img/shityousonn-hikaku20.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-02-01T17:47:09.151097'
+  description: "市町村財政比較分析表(平成19年度普通会計決算)\r\n"
+  format: PDF
+  hash: ''
+  id: ff8d9e86-9476-441e-8eda-9b9b841be4a0
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 市町村財政比較分析表(平成19年度普通会計決算)
+  package_id: ff58cb2d-6930-40bf-a3df-7b3172d3d906
+  position: 2
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/about/financial/zaisei/img/shityousonn-hikaku19.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-02-01T17:47:45.860439'
+  description: "市町村財政比較分析表(平成18年度普通会計決算)\r\n"
+  format: PDF
+  hash: ''
+  id: 3b3ad6da-b09c-4904-9d72-f1edd79c260c
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 市町村財政比較分析表(平成18年度普通会計決算)
+  package_id: ff58cb2d-6930-40bf-a3df-7b3172d3d906
+  position: 3
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/about/financial/zaisei/img/shityousonn-hikaku18.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+revision_id: c0b5ae5c-1180-4d87-acad-162e2f5e9b7f
+state: active
+tags:
+- 政策_計画_取組み
+title: 神戸市の市町村財政比較分析表
+type: dataset
+url: http://www.city.kobe.lg.jp/information/about/financial/zaisei/index.html
+version: ''
+---
+author: 財務課
+author_email: ''
+ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000060
+creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
+extras: {}
+groups:
+- b18a8508-9e22-4355-9d36-d8c4d94b7df9
+id: f07f6bf6-1b33-42b9-9934-5ea4c883eb03
+isopen: true
+license: クリエイティブ・コモンズ 表示
+license_id: cc-by
+license_title: クリエイティブ・コモンズ 表示
+license_url: http://www.opendefinition.org/licenses/cc-by
+maintainer: 財務課
+maintainer_email: ''
+metadata_created: '2017-02-01T08:40:49.075209'
+metadata_modified: '2017-02-01T08:43:06.023832'
+name: dataset-00000060
+notes: "神戸市の歳出比較分析表\r\n"
+notes_rendered: <p>神戸市の歳出比較分析表</p>
+num_resources: 4
+num_tags: 1
+organization:
+  approval_status: approved
+  created: '2016-03-23T00:21:39.907571'
+  description: 庁舎の管理、行財政改革、公正な職務の執行の推進、職員の人事・給与・研修、市の財政、公債の発行、市税、財産の管理、処分、契約な
+  id: 67d08546-800a-4c8b-a99f-e6f3deb2170f
+  image_url: ''
+  is_organization: true
+  name: org_0050
+  revision_id: b766d277-8fb8-408e-a653-8cfa9da98bbb
+  state: active
+  title: 行財政局
+  type: organization
+owner_org: 67d08546-800a-4c8b-a99f-e6f3deb2170f
+private: false
+ratings_average: null
+ratings_count: 0
+relationships: []
+resources:
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-02-01T17:41:25.830203'
+  description: "歳出比較分析表(平成21年度普通会計決算)\r\n"
+  format: PDF
+  hash: ''
+  id: c9f7778c-dfc7-4e7a-bb3c-2096cf6497b0
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 歳出比較分析表(平成21年度普通会計決算)
+  package_id: f07f6bf6-1b33-42b9-9934-5ea4c883eb03
+  position: 0
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/about/financial/zaisei/img/saisyutu-hikaku21.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-02-01T17:41:57.384830'
+  description: "歳出比較分析表(平成20年度普通会計決算)\r\n"
+  format: PDF
+  hash: ''
+  id: dda7e18d-8474-44cc-b161-ee16e2c03d54
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 歳出比較分析表(平成20年度普通会計決算)
+  package_id: f07f6bf6-1b33-42b9-9934-5ea4c883eb03
+  position: 1
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/about/financial/zaisei/img/saisyutu-hikaku20.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-02-01T17:42:21.931873'
+  description: "歳出比較分析表(平成19年度普通会計決算)\r\n"
+  format: PDF
+  hash: ''
+  id: 6820307a-2f5a-4d63-bfd0-1f0a5ff22cdf
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 歳出比較分析表(平成19年度普通会計決算)
+  package_id: f07f6bf6-1b33-42b9-9934-5ea4c883eb03
+  position: 2
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/about/financial/zaisei/img/saisyutu-hikaku19.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-02-01T17:43:05.041075'
+  description: "歳出比較分析表(平成18年度普通会計決算)\r\n"
+  format: PDF
+  hash: ''
+  id: 93df97c2-b82e-4e7f-a18e-d7bb687a988b
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 歳出比較分析表(平成18年度普通会計決算)
+  package_id: f07f6bf6-1b33-42b9-9934-5ea4c883eb03
+  position: 3
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/about/financial/zaisei/img/saisyutu-hikaku18.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+revision_id: 436a8191-3141-491c-8190-9ae575305e40
+state: active
+tags:
+- 政策_計画_取組み
+title: 神戸市の歳出比較分析表
+type: dataset
+url: http://www.city.kobe.lg.jp/information/about/financial/zaisei/index.html
+version: ''
+---
+author: 財務課
+author_email: ''
+ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000058
+creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
+extras: {}
+groups:
+- b18a8508-9e22-4355-9d36-d8c4d94b7df9
+id: eb08e451-3dbc-4420-a3b7-25934e8cb8fc
+isopen: true
+license: クリエイティブ・コモンズ 表示
+license_id: cc-by
+license_title: クリエイティブ・コモンズ 表示
+license_url: http://www.opendefinition.org/licenses/cc-by
+maintainer: 財務課
+maintainer_email: ''
+metadata_created: '2017-02-01T08:09:46.959114'
+metadata_modified: '2017-02-01T08:38:57.270604'
+name: dataset-00000058
+notes: 神戸市の公営企業に係る経営比較分析表
+notes_rendered: <p>神戸市の公営企業に係る経営比較分析表</p>
+num_resources: 1
+num_tags: 1
+organization:
+  approval_status: approved
+  created: '2016-03-23T00:21:39.907571'
+  description: 庁舎の管理、行財政改革、公正な職務の執行の推進、職員の人事・給与・研修、市の財政、公債の発行、市税、財産の管理、処分、契約な
+  id: 67d08546-800a-4c8b-a99f-e6f3deb2170f
+  image_url: ''
+  is_organization: true
+  name: org_0050
+  revision_id: b766d277-8fb8-408e-a653-8cfa9da98bbb
+  state: active
+  title: 行財政局
+  type: organization
+owner_org: 67d08546-800a-4c8b-a99f-e6f3deb2170f
+private: false
+ratings_average: null
+ratings_count: 0
+relationships: []
+resources:
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-02-01T17:23:25.885544'
+  description: "経営比較分析表\r\n"
+  format: PDF
+  hash: ''
+  id: ad0596cf-cba4-4919-af32-6748d62065ad
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 経営比較分析表
+  package_id: eb08e451-3dbc-4420-a3b7-25934e8cb8fc
+  position: 0
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/about/financial/zaisei/img/keieihikakubunsekihyou2014.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+revision_id: 368d4431-1da7-4704-a8d4-443300650414
+state: active
+tags:
+- 政策_計画_取組み
+title: 神戸市の公営企業に係る経営比較分析表
+type: dataset
+url: http://www.city.kobe.lg.jp/information/about/financial/zaisei/index.html
+version: ''
+---
+author: 財務課
+author_email: ''
+ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000059
+creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
+extras: {}
+groups:
+- b18a8508-9e22-4355-9d36-d8c4d94b7df9
+id: cf5ea583-ca57-4222-b5a2-294f8f98180f
+isopen: true
+license: クリエイティブ・コモンズ 表示
+license_id: cc-by
+license_title: クリエイティブ・コモンズ 表示
+license_url: http://www.opendefinition.org/licenses/cc-by
+maintainer: 財務課
+maintainer_email: ''
+metadata_created: '2017-02-01T08:26:44.221812'
+metadata_modified: '2017-02-01T08:31:56.149030'
+name: dataset-00000059
+notes: 神戸市の財政状況等一覧表
+notes_rendered: <p>神戸市の財政状況等一覧表</p>
+num_resources: 5
+num_tags: 1
+organization:
+  approval_status: approved
+  created: '2016-03-23T00:21:39.907571'
+  description: 庁舎の管理、行財政改革、公正な職務の執行の推進、職員の人事・給与・研修、市の財政、公債の発行、市税、財産の管理、処分、契約な
+  id: 67d08546-800a-4c8b-a99f-e6f3deb2170f
+  image_url: ''
+  is_organization: true
+  name: org_0050
+  revision_id: b766d277-8fb8-408e-a653-8cfa9da98bbb
+  state: active
+  title: 行財政局
+  type: organization
+owner_org: 67d08546-800a-4c8b-a99f-e6f3deb2170f
+private: false
+ratings_average: null
+ratings_count: 0
+relationships: []
+resources:
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-02-01T17:30:09.759907'
+  description: "財政状況等一覧表（平成２１年度決算）\r\n"
+  format: PDF
+  hash: ''
+  id: c6a7c420-f6b0-4d20-8867-03b8d49e8c2a
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 財政状況等一覧表（平成２１年度決算）
+  package_id: cf5ea583-ca57-4222-b5a2-294f8f98180f
+  position: 0
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/about/financial/zaisei/img/zaisei-itiran21.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-02-01T17:30:39.906964'
+  description: "財政状況等一覧表（平成２０年度決算）\r\n"
+  format: PDF
+  hash: ''
+  id: 4adadc5b-46a5-4f47-aaab-738b52f04778
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 財政状況等一覧表（平成２０年度決算）
+  package_id: cf5ea583-ca57-4222-b5a2-294f8f98180f
+  position: 1
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/about/financial/zaisei/img/zaisei-itiran20.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-02-01T17:31:02.177644'
+  description: "財政状況等一覧表（平成１９年度）\r\n"
+  format: PDF
+  hash: ''
+  id: 401218c6-ad5e-433c-9e29-816bae2e2c78
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 財政状況等一覧表（平成１９年度）
+  package_id: cf5ea583-ca57-4222-b5a2-294f8f98180f
+  position: 2
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/about/financial/zaisei/img/zaisei-itiran19.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-02-01T17:31:25.412255'
+  description: "財政状況等一覧表（平成１８年度）\r\n"
+  format: PDF
+  hash: ''
+  id: d46a236b-4a93-4b9f-b418-e39a5e93d36d
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 財政状況等一覧表（平成１８年度）
+  package_id: cf5ea583-ca57-4222-b5a2-294f8f98180f
+  position: 3
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/about/financial/zaisei/img/zaisei-itiran18.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-02-01T17:31:55.224549'
+  description: "財政状況等一覧表（17年度決算）\r\n"
+  format: PDF
+  hash: ''
+  id: 1fdf307c-1ad6-44c7-9998-cd43ec6f1d84
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 財政状況等一覧表（17年度決算）
+  package_id: cf5ea583-ca57-4222-b5a2-294f8f98180f
+  position: 4
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/about/financial/zaisei/img/zaisei-itiran17.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+revision_id: 2e66f697-06e4-4bf1-a552-a8e53fe3516c
+state: active
+tags:
+- 政策_計画_取組み
+title: 神戸市の財政状況等一覧表
+type: dataset
+url: http://www.city.kobe.lg.jp/information/about/financial/zaisei/index.html
+version: ''
+---
+author: ''
+author_email: ''
+ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000056
+creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
+extras: {}
+groups:
+- 0f6fa0bc-0b25-4796-8197-8f0735f1cd14
+id: bee5b21d-ad4b-4f38-b3f0-2a6f79ca61fd
+isopen: true
+license: クリエイティブ・コモンズ 表示
+license_id: cc-by
+license_title: クリエイティブ・コモンズ 表示
+license_url: http://www.opendefinition.org/licenses/cc-by
+maintainer: ''
+maintainer_email: ''
+metadata_created: '2017-02-01T07:53:07.306893'
+metadata_modified: '2017-02-01T07:57:42.000300'
+name: dataset-00000056
+notes: 小学校・特別支援学校の給食献立表
+notes_rendered: <p>小学校・特別支援学校の給食献立表</p>
+num_resources: 1
+num_tags: 1
+organization:
+  approval_status: approved
+  created: '2016-03-23T00:21:44.525277'
+  description: 教育施策の企画立案、学校職員の任免、学校教育の振興、学校園の整備、教育課程、特別支援教育、健康教育、人権教育、生涯学習の振興、文化財の保護、スポーツの振興、公民館、博物館、図書館など
+  id: a88d1fef-95b7-478c-8831-8b42bdc4c9f7
+  image_url: ''
+  is_organization: true
+  name: org_0170
+  revision_id: 81860d49-bdcb-4fb7-8979-9697c8a60009
+  state: active
+  title: 教育委員会事務局
+  type: organization
+owner_org: a88d1fef-95b7-478c-8831-8b42bdc4c9f7
+private: false
+ratings_average: null
+ratings_count: 0
+relationships: []
+resources:
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-02-01T16:54:59.663483'
+  description: 小学校・特別支援学校の給食献立表
+  format: ＰＤＦ
+  hash: ''
+  id: 95a6bdd9-37b7-455c-ac0c-af404273c09a
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 小学校・特別支援学校の給食献立表
+  package_id: bee5b21d-ad4b-4f38-b3f0-2a6f79ca61fd
+  position: 0
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/child/school/lunch/kyusyoku/kondate_shiyousyokuhin.html
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+revision_id: 62eb24c4-f5cf-4a2a-8e86-5a011757c9d2
+state: active
+tags:
+- くらし
+title: 小学校・特別支援学校の給食献立表
+type: dataset
+url: http://www.city.kobe.lg.jp/child/school/lunch/kyusyoku/kondate_shiyousyokuhin.html
+version: ''
+---
+author: 財務課
+author_email: ''
+ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000057
+creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
+extras: {}
+groups:
+- b18a8508-9e22-4355-9d36-d8c4d94b7df9
+id: a2f321b1-33e9-4641-8510-f86cf52fcc7e
+isopen: true
+license: クリエイティブ・コモンズ 表示
+license_id: cc-by
+license_title: クリエイティブ・コモンズ 表示
+license_url: http://www.opendefinition.org/licenses/cc-by
+maintainer: 財務課
+maintainer_email: ''
+metadata_created: '2017-02-01T06:34:45.043557'
+metadata_modified: '2017-02-01T06:58:14.386181'
+name: dataset-00000057
+notes: 神戸市の財政状況資料集
+notes_rendered: <p>神戸市の財政状況資料集</p>
+num_resources: 5
+num_tags: 1
+organization:
+  approval_status: approved
+  created: '2016-03-23T00:21:39.907571'
+  description: 庁舎の管理、行財政改革、公正な職務の執行の推進、職員の人事・給与・研修、市の財政、公債の発行、市税、財産の管理、処分、契約な
+  id: 67d08546-800a-4c8b-a99f-e6f3deb2170f
+  image_url: ''
+  is_organization: true
+  name: org_0050
+  revision_id: b766d277-8fb8-408e-a653-8cfa9da98bbb
+  state: active
+  title: 行財政局
+  type: organization
+owner_org: 67d08546-800a-4c8b-a99f-e6f3deb2170f
+private: false
+ratings_average: null
+ratings_count: 0
+relationships: []
+resources:
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-02-01T15:54:15.710786'
+  description: 平成26年度財政状況資料集
+  format: XLSX
+  hash: ''
+  id: e3145558-637d-45b7-aa75-6b8d9f7e34ac
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 平成26年度財政状況資料集
+  package_id: a2f321b1-33e9-4641-8510-f86cf52fcc7e
+  position: 0
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/about/financial/zaisei/img/zaiseijoukyousiryoushuu2014.xlsx
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-02-01T15:55:38.186389'
+  description: 平成25年度財政状況資料集
+  format: XLSX
+  hash: ''
+  id: 6fad14d1-2007-48ea-9654-3f158093936a
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 平成25年度財政状況資料集
+  package_id: a2f321b1-33e9-4641-8510-f86cf52fcc7e
+  position: 1
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/about/financial/zaisei/zaiseijoukyousiryoushuu2013.xlsx
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-02-01T15:56:05.216883'
+  description: 平成24年度財政状況資料集
+  format: XLSX
+  hash: ''
+  id: 20b9f519-a14b-4872-bc3c-7b917155da20
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 平成24年度財政状況資料集
+  package_id: a2f321b1-33e9-4641-8510-f86cf52fcc7e
+  position: 2
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/about/financial/zaisei/img/zaiseijoukyousiryoushuu2012.xls
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-02-01T15:56:35.063355'
+  description: 平成23年度財政状況資料集
+  format: XLS
+  hash: ''
+  id: b15bf4f8-6359-412b-9f6b-33fba71be519
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 平成23年度財政状況資料集
+  package_id: a2f321b1-33e9-4641-8510-f86cf52fcc7e
+  position: 3
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/about/financial/zaisei/img/zaiseijoukyousiryoushuu2011.xls
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-02-01T15:57:02.092413'
+  description: 平成22年度財政状況資料集
+  format: XLS
+  hash: ''
+  id: dd55514d-862e-41be-a5a5-e401131a2710
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 平成22年度財政状況資料集
+  package_id: a2f321b1-33e9-4641-8510-f86cf52fcc7e
+  position: 4
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/about/financial/zaisei/img/zaiseijoukyousiryoushuu2010.xls
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+revision_id: af3248eb-aa13-4640-9838-889b731b4021
+state: active
+tags:
+- 政策_計画_取組
+title: 神戸市の財政状況資料集
+type: dataset
+url: http://www.city.kobe.lg.jp/information/about/financial/zaisei/index.html
+version: ''
+---
 author: 救急課
 author_email: null
 ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000003
@@ -143,63 +817,6 @@ title: 観光施設情報
 type: dataset
 url: http://www.city.kobe.lg.jp/information/project/industry/tourism_opendata.html
 version: null
----
-author: 情報化推進部
-author_email: ''
-ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000053
-creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
-extras:
-  コピーライト: City of Kobe
-  作成頻度: ''
-  使用言語: ''
-  文字コード: ''
-  連絡先メールアドレス: ''
-  連絡先電話番号: ''
-groups:
-- ea98c354-262b-4cff-a061-477b74f43bcc
-id: b23a805c-8f4a-4886-88bb-7b0448eb903d
-isopen: true
-license: クリエイティブ・コモンズ 表示
-license_id: cc-by
-license_title: クリエイティブ・コモンズ 表示
-license_url: http://www.opendefinition.org/licenses/cc-by
-maintainer: 情報化推進部
-maintainer_email: ''
-metadata_created: '2016-04-11T03:47:25.693572'
-metadata_modified: '2016-08-10T09:05:00.719840'
-name: dataset-00000053
-notes: "マイナンバー制度のFAQや説明資料\r\n※一部古い内容が含まれていたため、一時掲載を停止しています。"
-notes_rendered: '<p>マイナンバー制度のFAQや説明資料
-
-  ※一部古い内容が含まれていたため、一時掲載を停止しています。</p>'
-num_resources: 0
-num_tags: 1
-organization:
-  approval_status: approved
-  created: '2016-03-23T00:21:39.544252'
-  description: 政策の企画・立案、重要施策の調整、総合基本計画、各種統計、創造都市戦略「デザイン都市・神戸」の推進、神戸医療産業都市の推進、企業誘致施策、情報化の推進など
-  id: cfa5ffc6-52cd-42d7-8e72-8c1dc58df27d
-  image_url: ''
-  is_organization: true
-  name: org_0040
-  revision_id: 5bb86d03-e2d8-4d30-b8da-5f1557fc1b6c
-  state: active
-  title: 企画調整局
-  type: organization
-owner_org: cfa5ffc6-52cd-42d7-8e72-8c1dc58df27d
-private: false
-ratings_average: null
-ratings_count: 0
-relationships: []
-resources: []
-revision_id: a80f908a-00e7-4845-aa3e-dfb4cf1d643a
-state: active
-tags:
-- 情報啓発
-title: マイナンバー制度説明資料（掲載停止中）
-type: dataset
-url: http://www.city.kobe.lg.jp/information/project/innovation/mynumber/
-version: ''
 ---
 author: ''
 author_email: ''
