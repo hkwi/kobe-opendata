@@ -1,3 +1,90 @@
+author: 総務課
+author_email: ''
+ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000131
+creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
+extras: {}
+groups:
+- 2101c5ea-0a32-4d20-974d-923e0c9e9fe9
+id: 7e0c83f7-b087-4ccf-b1f3-cc9107bef5b3
+isopen: true
+license: クリエイティブ・コモンズ 表示
+license_id: cc-by
+license_title: クリエイティブ・コモンズ 表示
+license_url: http://www.opendefinition.org/licenses/cc-by
+maintainer: 総務課
+maintainer_email: ''
+metadata_created: '2017-02-02T09:02:21.234458'
+metadata_modified: '2017-02-06T01:06:45.084664'
+name: dataset-00000131
+notes: "神戸市交通局　財務情報（営業成績の推移地下鉄および駅別乗車人員）\r\n"
+notes_rendered: <p>神戸市交通局　財務情報（営業成績の推移地下鉄および駅別乗車人員）</p>
+num_resources: 2
+num_tags: 1
+organization:
+  approval_status: approved
+  created: '2016-03-23T00:21:44.149532'
+  description: 市バス、市営地下鉄の経営など
+  id: c2d931de-17f3-4648-aad5-8b5ca84aae05
+  image_url: ''
+  is_organization: true
+  name: org_0160
+  revision_id: 22461459-9650-4d0b-876a-3e5930c9d246
+  state: active
+  title: 交通局
+  type: organization
+owner_org: c2d931de-17f3-4648-aad5-8b5ca84aae05
+private: false
+ratings_average: null
+ratings_count: 0
+relationships: []
+resources:
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-02-02T18:03:39.567246'
+  description: "営業成績の推移\r\n"
+  format: PDF
+  hash: ''
+  id: b57afbe1-aea7-4581-b270-a318ff7e853b
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 営業成績の推移
+  package_id: 7e0c83f7-b087-4ccf-b1f3-cc9107bef5b3
+  position: 0
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/life/access/transport/kotsu/gaiyou/zaisei/eigyouseiseki27.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-02-02T18:03:55.726222'
+  description: "地下鉄　駅別乗車人員\r\n"
+  format: PDF
+  hash: ''
+  id: a2dc08b1-00c3-41be-887b-a0375c946f11
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 地下鉄　駅別乗車人員
+  package_id: 7e0c83f7-b087-4ccf-b1f3-cc9107bef5b3
+  position: 1
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/life/access/transport/kotsu/gaiyou/img/H7-27.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+revision_id: 354b0e71-1e7a-44a6-a204-3ccbe597c3b0
+state: active
+tags:
+- 統計
+title: 神戸市交通局　財務情報
+type: dataset
+url: http://www.city.kobe.lg.jp/life/access/transport/kotsu/gaiyou/zaisei/index.html
+version: ''
+---
 author: 財務課
 author_email: ''
 ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000059
@@ -2682,93 +2769,6 @@ tags:
 title: 市バス路線別経営状況
 type: dataset
 url: http://www.city.kobe.lg.jp/life/access/transport/kotsu/gaiyou/zaisei/rosen.html
-version: ''
----
-author: 総務課
-author_email: ''
-ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000131
-creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
-extras: {}
-groups:
-- 2101c5ea-0a32-4d20-974d-923e0c9e9fe9
-id: 7e0c83f7-b087-4ccf-b1f3-cc9107bef5b3
-isopen: true
-license: クリエイティブ・コモンズ 表示
-license_id: cc-by
-license_title: クリエイティブ・コモンズ 表示
-license_url: http://www.opendefinition.org/licenses/cc-by
-maintainer: 総務課
-maintainer_email: ''
-metadata_created: '2017-02-02T09:02:21.234458'
-metadata_modified: '2017-02-02T09:03:59.271431'
-name: dataset-00000131
-notes: "神戸市交通局　財務情報\r\n"
-notes_rendered: <p>神戸市交通局　財務情報</p>
-num_resources: 2
-num_tags: 1
-organization:
-  approval_status: approved
-  created: '2016-03-23T00:21:44.149532'
-  description: 市バス、市営地下鉄の経営など
-  id: c2d931de-17f3-4648-aad5-8b5ca84aae05
-  image_url: ''
-  is_organization: true
-  name: org_0160
-  revision_id: 22461459-9650-4d0b-876a-3e5930c9d246
-  state: active
-  title: 交通局
-  type: organization
-owner_org: c2d931de-17f3-4648-aad5-8b5ca84aae05
-private: false
-ratings_average: null
-ratings_count: 0
-relationships: []
-resources:
-- cache_last_updated: null
-  cache_url: null
-  created: '2017-02-02T18:03:39.567246'
-  description: "営業成績の推移\r\n"
-  format: PDF
-  hash: ''
-  id: b57afbe1-aea7-4581-b270-a318ff7e853b
-  last_modified: null
-  mimetype: null
-  mimetype_inner: null
-  name: 営業成績の推移
-  package_id: 7e0c83f7-b087-4ccf-b1f3-cc9107bef5b3
-  position: 0
-  resource_type: null
-  size: null
-  url: http://www.city.kobe.lg.jp/life/access/transport/kotsu/gaiyou/zaisei/eigyouseiseki27.pdf
-  url_type: null
-  webstore_last_updated: null
-  webstore_url: null
-- cache_last_updated: null
-  cache_url: null
-  created: '2017-02-02T18:03:55.726222'
-  description: "地下鉄　駅別乗車人員\r\n"
-  format: PDF
-  hash: ''
-  id: a2dc08b1-00c3-41be-887b-a0375c946f11
-  last_modified: null
-  mimetype: null
-  mimetype_inner: null
-  name: 地下鉄　駅別乗車人員
-  package_id: 7e0c83f7-b087-4ccf-b1f3-cc9107bef5b3
-  position: 1
-  resource_type: null
-  size: null
-  url: http://www.city.kobe.lg.jp/life/access/transport/kotsu/gaiyou/img/H7-27.pdf
-  url_type: null
-  webstore_last_updated: null
-  webstore_url: null
-revision_id: ae5efc9b-b97b-43dc-a486-e997d5aeeff3
-state: active
-tags:
-- 統計
-title: 神戸市交通局　財務情報
-type: dataset
-url: http://www.city.kobe.lg.jp/life/access/transport/kotsu/gaiyou/zaisei/index.html
 version: ''
 ---
 author: 水質試験所

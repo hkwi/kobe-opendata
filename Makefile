@@ -29,3 +29,7 @@ lunch:
 
 clean:
 	-rm *.log
+
+git:
+	git add import/catalog
+	git add import/catalog_v2
