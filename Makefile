@@ -8,7 +8,7 @@ catalog:
 	
 	python3 catalog_v2.py
 	mkdir -p import/catalog_v2
-	-wget -q -N -P import/catalog_v2 -i catalog_v2_resources.txt
+	-wget -q -x -N -P import -i catalog_v2_resources.txt
 
 waketon:
 	PYTHONIOENCODING=utf8 python3 waketon.py > waketon.ttl
