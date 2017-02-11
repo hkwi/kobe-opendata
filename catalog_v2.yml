@@ -1,3 +1,975 @@
+author: 自然環境共生課
+author_email: ''
+ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000085
+creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
+extras: {}
+groups:
+- ea98c354-262b-4cff-a061-477b74f43bcc
+id: 288cd22b-456f-40c5-b326-9aae3fe23d59
+isopen: true
+license: クリエイティブ・コモンズ 表示
+license_id: cc-by
+license_title: クリエイティブ・コモンズ 表示
+license_url: http://www.opendefinition.org/licenses/cc-by
+maintainer: 自然環境共生課
+maintainer_email: ''
+metadata_created: '2017-02-10T09:09:13.462431'
+metadata_modified: '2017-02-10T09:10:24.891305'
+name: dataset-00000085
+notes: "平成26年度（2014年度）　測定地点ごとの水質測定結果\r\n"
+notes_rendered: <p>平成26年度（2014年度）　測定地点ごとの水質測定結果</p>
+num_resources: 4
+num_tags: 1
+organization:
+  approval_status: approved
+  created: '2016-03-23T00:21:41.328967'
+  description: ごみの処理・資源化、まちの美化、大気・水質・騒音などの環境保全対策など
+  id: 840a8105-d6ef-47c5-85ca-519f1641bb91
+  image_url: ''
+  is_organization: true
+  name: org_0090
+  revision_id: 88a20215-a08f-4296-b6da-b52a039ecfa0
+  state: active
+  title: 環境局
+  type: organization
+owner_org: 840a8105-d6ef-47c5-85ca-519f1641bb91
+private: false
+ratings_average: null
+ratings_count: 0
+relationships: []
+resources:
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-02-10T18:09:34.572948'
+  description: "河川の測定地点ごとの測定結果\r\n"
+  format: PDF
+  hash: ''
+  id: 767efdd3-f7af-4203-a9ab-2ea0f4ee18a3
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 河川の測定地点ごとの測定結果
+  package_id: 288cd22b-456f-40c5-b326-9aae3fe23d59
+  position: 0
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/life/recycle/environmental/earth/H26kasenchouhyou.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-02-10T18:09:44.812405'
+  description: "湖沼の測定地点ごとの測定結果\r\n"
+  format: PDF
+  hash: ''
+  id: 61aef976-8b2d-432f-87de-b55790bee9c8
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 湖沼の測定地点ごとの測定結果
+  package_id: 288cd22b-456f-40c5-b326-9aae3fe23d59
+  position: 1
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/life/recycle/environmental/earth/H26koshouchouhyou.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-02-10T18:10:03.386128'
+  description: "海域の測定地点ごとの測定結果\r\n"
+  format: PDF
+  hash: ''
+  id: 39be0cdd-8a87-425b-a83e-afc571965a47
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 海域の測定地点ごとの測定結果
+  package_id: 288cd22b-456f-40c5-b326-9aae3fe23d59
+  position: 2
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/life/recycle/environmental/earth/H26kaiikichouhyou.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-02-10T18:10:24.161924'
+  description: "水生生物調査詳細データ\r\n"
+  format: PDF
+  hash: ''
+  id: a636e48d-923e-4c6f-bb67-2dc521f83410
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 水生生物調査詳細データ
+  package_id: 288cd22b-456f-40c5-b326-9aae3fe23d59
+  position: 3
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/life/recycle/environmental/earth/H26suiseiseibutu.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+revision_id: 6f2a64ce-b2b9-4b24-b3c5-4c3a968d6825
+state: active
+tags:
+- 統計
+title: 平成26年度（2014年度）　測定地点ごとの水質測定結果
+type: dataset
+url: http://www.city.kobe.lg.jp/life/recycle/environmental/earth/img/kokyo26.html
+version: ''
+---
+author: 自然環境共生課
+author_email: ''
+ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000084
+creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
+extras: {}
+groups:
+- ea98c354-262b-4cff-a061-477b74f43bcc
+id: c2d684c6-bee8-46eb-9175-071a55ced8ad
+isopen: true
+license: クリエイティブ・コモンズ 表示
+license_id: cc-by
+license_title: クリエイティブ・コモンズ 表示
+license_url: http://www.opendefinition.org/licenses/cc-by
+maintainer: 自然環境共生課
+maintainer_email: ''
+metadata_created: '2017-02-10T09:07:39.394533'
+metadata_modified: '2017-02-10T09:08:06.493323'
+name: dataset-00000084
+notes: "平成26年度（2014年度）　公共用水域の水質の状況\r\n"
+notes_rendered: <p>平成26年度（2014年度）　公共用水域の水質の状況</p>
+num_resources: 1
+num_tags: 1
+organization:
+  approval_status: approved
+  created: '2016-03-23T00:21:41.328967'
+  description: ごみの処理・資源化、まちの美化、大気・水質・騒音などの環境保全対策など
+  id: 840a8105-d6ef-47c5-85ca-519f1641bb91
+  image_url: ''
+  is_organization: true
+  name: org_0090
+  revision_id: 88a20215-a08f-4296-b6da-b52a039ecfa0
+  state: active
+  title: 環境局
+  type: organization
+owner_org: 840a8105-d6ef-47c5-85ca-519f1641bb91
+private: false
+ratings_average: null
+ratings_count: 0
+relationships: []
+resources:
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-02-10T18:08:05.664015'
+  description: "平成26年度（2014年度）　公共用水域の水質の状況\r\n"
+  format: PDF
+  hash: ''
+  id: 72aff52b-c684-4bbf-907c-e2a8378d5c69
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 平成26年度（2014年度）　公共用水域の水質の状況
+  package_id: c2d684c6-bee8-46eb-9175-071a55ced8ad
+  position: 0
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/life/recycle/environmental/earth/H26kishashiryou.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+revision_id: 8c33f7b3-ee22-406e-8f37-8ca754c17539
+state: active
+tags:
+- 統計
+title: 平成26年度（2014年度）　公共用水域の水質の状況
+type: dataset
+url: http://www.city.kobe.lg.jp/life/recycle/environmental/earth/img/kokyo26.html
+version: ''
+---
+author: 自然環境共生課
+author_email: ''
+ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000083
+creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
+extras: {}
+groups:
+- ea98c354-262b-4cff-a061-477b74f43bcc
+id: e55dd7e0-8251-49a8-a38d-c1f98bff927e
+isopen: true
+license: クリエイティブ・コモンズ 表示
+license_id: cc-by
+license_title: クリエイティブ・コモンズ 表示
+license_url: http://www.opendefinition.org/licenses/cc-by
+maintainer: 自然環境共生課
+maintainer_email: ''
+metadata_created: '2017-02-10T09:06:18.834373'
+metadata_modified: '2017-02-10T09:06:37.012730'
+name: dataset-00000083
+notes: "平成26年度（2014年度）の水質測定地点\r\n"
+notes_rendered: <p>平成26年度（2014年度）の水質測定地点</p>
+num_resources: 1
+num_tags: 1
+organization:
+  approval_status: approved
+  created: '2016-03-23T00:21:41.328967'
+  description: ごみの処理・資源化、まちの美化、大気・水質・騒音などの環境保全対策など
+  id: 840a8105-d6ef-47c5-85ca-519f1641bb91
+  image_url: ''
+  is_organization: true
+  name: org_0090
+  revision_id: 88a20215-a08f-4296-b6da-b52a039ecfa0
+  state: active
+  title: 環境局
+  type: organization
+owner_org: 840a8105-d6ef-47c5-85ca-519f1641bb91
+private: false
+ratings_average: null
+ratings_count: 0
+relationships: []
+resources:
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-02-10T18:06:35.944398'
+  description: "水質測定地点名および地点図\r\n"
+  format: PDF
+  hash: ''
+  id: b0f21efd-1d9b-4ca7-8804-ff47768e23aa
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 水質測定地点名および地点図
+  package_id: e55dd7e0-8251-49a8-a38d-c1f98bff927e
+  position: 0
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/life/recycle/environmental/earth/H26chiten.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+revision_id: 689c0f71-04fb-4615-82ea-a3c8b372be7d
+state: active
+tags:
+- 統計
+title: 平成26年度（2014年度）の水質測定地点
+type: dataset
+url: http://www.city.kobe.lg.jp/life/recycle/environmental/earth/img/kokyo26.html
+version: ''
+---
+author: 自然環境共生課
+author_email: ''
+ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000082
+creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
+extras: {}
+groups:
+- ea98c354-262b-4cff-a061-477b74f43bcc
+id: 3ac2c709-1c50-45b5-91ce-edde8434403b
+isopen: true
+license: クリエイティブ・コモンズ 表示
+license_id: cc-by
+license_title: クリエイティブ・コモンズ 表示
+license_url: http://www.opendefinition.org/licenses/cc-by
+maintainer: 自然環境共生課
+maintainer_email: ''
+metadata_created: '2017-02-10T09:04:16.552641'
+metadata_modified: '2017-02-10T09:05:17.361630'
+name: dataset-00000082
+notes: "平成27年度（2015年度）　地点ごとの水質測定結果\r\n"
+notes_rendered: <p>平成27年度（2015年度）　地点ごとの水質測定結果</p>
+num_resources: 4
+num_tags: 0
+organization:
+  approval_status: approved
+  created: '2016-03-23T00:21:41.328967'
+  description: ごみの処理・資源化、まちの美化、大気・水質・騒音などの環境保全対策など
+  id: 840a8105-d6ef-47c5-85ca-519f1641bb91
+  image_url: ''
+  is_organization: true
+  name: org_0090
+  revision_id: 88a20215-a08f-4296-b6da-b52a039ecfa0
+  state: active
+  title: 環境局
+  type: organization
+owner_org: 840a8105-d6ef-47c5-85ca-519f1641bb91
+private: false
+ratings_average: null
+ratings_count: 0
+relationships: []
+resources:
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-02-10T18:04:30.349923'
+  description: "河川の測定地点ごとの測定結果\r\n"
+  format: PDF
+  hash: ''
+  id: 462e61b0-d578-4b09-8f3b-c1851526e977
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 河川の測定地点ごとの測定結果
+  package_id: 3ac2c709-1c50-45b5-91ce-edde8434403b
+  position: 0
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/life/recycle/environmental/earth/H27kasenchouhyou.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-02-10T18:04:44.859003'
+  description: "湖沼の測定地点ごとの測定結果\r\n"
+  format: PDF
+  hash: ''
+  id: 697c5a5a-563f-4795-ab49-5eda5124af0e
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 湖沼の測定地点ごとの測定結果
+  package_id: 3ac2c709-1c50-45b5-91ce-edde8434403b
+  position: 1
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/life/recycle/environmental/earth/H27koshouchouhyou.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-02-10T18:04:55.219039'
+  description: "海域の測定地点ごとの測定結果\r\n"
+  format: PDF
+  hash: ''
+  id: f05dfbd7-9869-43fc-8496-b1763975559e
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 海域の測定地点ごとの測定結果
+  package_id: 3ac2c709-1c50-45b5-91ce-edde8434403b
+  position: 2
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/life/recycle/environmental/earth/H27kaiikichouhyou.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-02-10T18:05:16.517464'
+  description: "水生生物調査詳細データ\r\n"
+  format: PDF
+  hash: ''
+  id: e7ea24cb-1288-47c8-aa8f-da8a35d54fa4
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 水生生物調査詳細データ
+  package_id: 3ac2c709-1c50-45b5-91ce-edde8434403b
+  position: 3
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/life/recycle/environmental/earth/H27suiseiseibutu.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+revision_id: 952e0669-d4ae-426f-a3e1-4da1743cd45b
+state: active
+tags: []
+title: 平成27年度（2015年度）　地点ごとの水質測定結果
+type: dataset
+url: http://www.city.kobe.lg.jp/life/recycle/environmental/earth/kokyo.html
+version: ''
+---
+author: 自然環境共生課
+author_email: ''
+ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000081
+creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
+extras: {}
+groups:
+- ea98c354-262b-4cff-a061-477b74f43bcc
+id: 07801e91-5cdf-4bdb-8802-380e630f455e
+isopen: true
+license: クリエイティブ・コモンズ 表示
+license_id: cc-by
+license_title: クリエイティブ・コモンズ 表示
+license_url: http://www.opendefinition.org/licenses/cc-by
+maintainer: 自然環境共生課
+maintainer_email: ''
+metadata_created: '2017-02-10T09:02:45.066936'
+metadata_modified: '2017-02-10T09:03:24.536942'
+name: dataset-00000081
+notes: "平成27年度（2015年度）　各水質の状況\r\n"
+notes_rendered: <p>平成27年度（2015年度）　各水質の状況</p>
+num_resources: 3
+num_tags: 1
+organization:
+  approval_status: approved
+  created: '2016-03-23T00:21:41.328967'
+  description: ごみの処理・資源化、まちの美化、大気・水質・騒音などの環境保全対策など
+  id: 840a8105-d6ef-47c5-85ca-519f1641bb91
+  image_url: ''
+  is_organization: true
+  name: org_0090
+  revision_id: 88a20215-a08f-4296-b6da-b52a039ecfa0
+  state: active
+  title: 環境局
+  type: organization
+owner_org: 840a8105-d6ef-47c5-85ca-519f1641bb91
+private: false
+ratings_average: null
+ratings_count: 0
+relationships: []
+resources:
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-02-10T18:02:59.064116'
+  description: "河川水質の状況\r\n"
+  format: PDF
+  hash: ''
+  id: 138efecd-27e2-4994-a56f-a24644b2ac77
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 河川水質の状況
+  package_id: 07801e91-5cdf-4bdb-8802-380e630f455e
+  position: 0
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/life/recycle/environmental/earth/H27kasen.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-02-10T18:03:08.287961'
+  description: "湖沼水質の状況\r\n"
+  format: PDF
+  hash: ''
+  id: 4a4d8958-dfc8-4511-9633-e4ffb3b22aa7
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 湖沼水質の状況
+  package_id: 07801e91-5cdf-4bdb-8802-380e630f455e
+  position: 1
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/life/recycle/environmental/earth/H27koshou.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-02-10T18:03:23.742678'
+  description: "海域水質の状況\r\n"
+  format: PDF
+  hash: ''
+  id: 5b1ada78-f2bd-4f19-809b-ab1cf1b5ca6c
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 海域水質の状況
+  package_id: 07801e91-5cdf-4bdb-8802-380e630f455e
+  position: 2
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/life/recycle/environmental/earth/H27kaiiki.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+revision_id: 2e349374-2e77-4202-81ac-d8d404ea73ec
+state: active
+tags:
+- 統計
+title: 平成27年度（2015年度）　各水質の状況
+type: dataset
+url: http://www.city.kobe.lg.jp/life/recycle/environmental/earth/kokyo.html
+version: ''
+---
+author: 自然環境共生課
+author_email: ''
+ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000079
+creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
+extras: {}
+groups:
+- ea98c354-262b-4cff-a061-477b74f43bcc
+id: 260ac2d3-db8e-48f0-aa10-e3c8f47a52dd
+isopen: true
+license: クリエイティブ・コモンズ 表示
+license_id: cc-by
+license_title: クリエイティブ・コモンズ 表示
+license_url: http://www.opendefinition.org/licenses/cc-by
+maintainer: 自然環境共生課
+maintainer_email: ''
+metadata_created: '2017-02-10T09:00:34.135902'
+metadata_modified: '2017-02-10T09:00:48.169905'
+name: dataset-00000079
+notes: "水質測定地点\r\n"
+notes_rendered: <p>水質測定地点</p>
+num_resources: 1
+num_tags: 1
+organization:
+  approval_status: approved
+  created: '2016-03-23T00:21:41.328967'
+  description: ごみの処理・資源化、まちの美化、大気・水質・騒音などの環境保全対策など
+  id: 840a8105-d6ef-47c5-85ca-519f1641bb91
+  image_url: ''
+  is_organization: true
+  name: org_0090
+  revision_id: 88a20215-a08f-4296-b6da-b52a039ecfa0
+  state: active
+  title: 環境局
+  type: organization
+owner_org: 840a8105-d6ef-47c5-85ca-519f1641bb91
+private: false
+ratings_average: null
+ratings_count: 0
+relationships: []
+resources:
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-02-10T18:00:47.419084'
+  description: "平成27年度（2015年度）　水質測定地点\r\n"
+  format: PDF
+  hash: ''
+  id: d8a6f9de-0643-4410-9202-2e59a810f76a
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 平成27年度（2015年度）　水質測定地点
+  package_id: 260ac2d3-db8e-48f0-aa10-e3c8f47a52dd
+  position: 0
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/life/recycle/environmental/earth/H27chiten.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+revision_id: 2e0aa720-574a-4ce0-834d-45e039127e61
+state: active
+tags:
+- 統計
+title: 水質測定地点
+type: dataset
+url: http://www.city.kobe.lg.jp/life/recycle/environmental/earth/kokyo.html
+version: ''
+---
+author: 自然環境共生課
+author_email: ''
+ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000078
+creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
+extras: {}
+groups:
+- ea98c354-262b-4cff-a061-477b74f43bcc
+id: 9effe33e-119c-4e9e-bd7a-17860a5e1a90
+isopen: true
+license: クリエイティブ・コモンズ 表示
+license_id: cc-by
+license_title: クリエイティブ・コモンズ 表示
+license_url: http://www.opendefinition.org/licenses/cc-by
+maintainer: 自然環境共生課
+maintainer_email: ''
+metadata_created: '2017-02-10T08:59:22.254438'
+metadata_modified: '2017-02-10T08:59:34.917161'
+name: dataset-00000078
+notes: "神戸市の平成2７年度のPM2.5濃度の状況\r\n"
+notes_rendered: <p>神戸市の平成2７年度のPM2.5濃度の状況</p>
+num_resources: 1
+num_tags: 1
+organization:
+  approval_status: approved
+  created: '2016-03-23T00:21:41.328967'
+  description: ごみの処理・資源化、まちの美化、大気・水質・騒音などの環境保全対策など
+  id: 840a8105-d6ef-47c5-85ca-519f1641bb91
+  image_url: ''
+  is_organization: true
+  name: org_0090
+  revision_id: 88a20215-a08f-4296-b6da-b52a039ecfa0
+  state: active
+  title: 環境局
+  type: organization
+owner_org: 840a8105-d6ef-47c5-85ca-519f1641bb91
+private: false
+ratings_average: null
+ratings_count: 0
+relationships: []
+resources:
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-02-10T17:59:34.097591'
+  description: "平成2７年4月１日～平成28年3月31日までの日平均値の推移（グラフ）\r\n"
+  format: PDF
+  hash: ''
+  id: 3434028c-4a00-4ae7-aaae-8b2a321cd517
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 平成2７年4月１日～平成28年3月31日までの日平均値の推移（グラフ）
+  package_id: 9effe33e-119c-4e9e-bd7a-17860a5e1a90
+  position: 0
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/life/recycle/environmental/air/PM2.5graph.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+revision_id: 9777ce5c-20a6-42ff-a5b7-f14526b83d6d
+state: active
+tags:
+- 統計
+title: 神戸市の平成2７年度のPM2.5濃度の状況
+type: dataset
+url: http://www.city.kobe.lg.jp/life/recycle/environmental/air/PM2.5.html
+version: ''
+---
+author: 環境保全指導課
+author_email: ''
+ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000077
+creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
+extras: {}
+groups:
+- ea98c354-262b-4cff-a061-477b74f43bcc
+id: 51ed9ef4-0826-4fac-b8e8-7d2200e67bb9
+isopen: true
+license: クリエイティブ・コモンズ 表示
+license_id: cc-by
+license_title: クリエイティブ・コモンズ 表示
+license_url: http://www.opendefinition.org/licenses/cc-by
+maintainer: 環境保全指導課
+maintainer_email: ''
+metadata_created: '2017-02-10T08:57:05.645978'
+metadata_modified: '2017-02-10T08:58:08.361837'
+name: dataset-00000077
+notes: "神戸市の自動車騒音（点的評価）・道路交通振動調査結果\r\n"
+notes_rendered: <p>神戸市の自動車騒音（点的評価）・道路交通振動調査結果</p>
+num_resources: 5
+num_tags: 1
+organization:
+  approval_status: approved
+  created: '2016-03-23T00:21:41.328967'
+  description: ごみの処理・資源化、まちの美化、大気・水質・騒音などの環境保全対策など
+  id: 840a8105-d6ef-47c5-85ca-519f1641bb91
+  image_url: ''
+  is_organization: true
+  name: org_0090
+  revision_id: 88a20215-a08f-4296-b6da-b52a039ecfa0
+  state: active
+  title: 環境局
+  type: organization
+owner_org: 840a8105-d6ef-47c5-85ca-519f1641bb91
+private: false
+ratings_average: null
+ratings_count: 0
+relationships: []
+resources:
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-02-10T17:57:17.832111'
+  description: "平成27年度\r\n"
+  format: PDF
+  hash: ''
+  id: 7f9e673b-b786-46f4-af93-18c602632b4d
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 平成27年度
+  package_id: 51ed9ef4-0826-4fac-b8e8-7d2200e67bb9
+  position: 0
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/life/recycle/environmental/noise/img/h27trfsouonsindou.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-02-10T17:57:33.928613'
+  description: "平成26年度\r\n"
+  format: PDF
+  hash: ''
+  id: c0df9178-111e-4718-a6dd-e539a09ef9f3
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 平成26年度
+  package_id: 51ed9ef4-0826-4fac-b8e8-7d2200e67bb9
+  position: 1
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/life/recycle/environmental/noise/img/h26trfsouonsindou.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-02-10T17:57:43.989486'
+  description: "平成25年度\r\n"
+  format: PDF
+  hash: ''
+  id: 8ee10f45-0d34-4b47-bbb0-036d64764c90
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 平成25年度
+  package_id: 51ed9ef4-0826-4fac-b8e8-7d2200e67bb9
+  position: 2
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/life/recycle/environmental/noise/img/h25trfsouonsindou.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-02-10T17:57:54.149703'
+  description: "平成24年度\r\n"
+  format: PDF
+  hash: ''
+  id: 023679ee-082b-4e4e-bd06-23b7039a6378
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 平成24年度
+  package_id: 51ed9ef4-0826-4fac-b8e8-7d2200e67bb9
+  position: 3
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/life/recycle/environmental/noise/img/h24trfsouonsindou.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-02-10T17:58:07.586199'
+  description: "平成23年度\r\n"
+  format: PDF
+  hash: ''
+  id: adb8b44f-ff88-4ff3-b53e-28edb882c618
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 平成23年度
+  package_id: 51ed9ef4-0826-4fac-b8e8-7d2200e67bb9
+  position: 4
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/life/recycle/environmental/noise/h23trfsouonsindou.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+revision_id: 8f9b172e-aae7-426a-ae10-3e34da806c3d
+state: active
+tags:
+- 統計
+title: 神戸市の自動車騒音（点的評価）・道路交通振動調査結果
+type: dataset
+url: http://www.city.kobe.lg.jp/life/recycle/environmental/noise/index.html
+version: ''
+---
+author: 環境保全指導課
+author_email: ''
+ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000076
+creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
+extras: {}
+groups:
+- ea98c354-262b-4cff-a061-477b74f43bcc
+id: e8f014f7-c02a-46a8-a3a1-818cdbfebeea
+isopen: true
+license: クリエイティブ・コモンズ 表示
+license_id: cc-by
+license_title: クリエイティブ・コモンズ 表示
+license_url: http://www.opendefinition.org/licenses/cc-by
+maintainer: 環境保全指導課
+maintainer_email: ''
+metadata_created: '2017-02-10T08:54:08.567867'
+metadata_modified: '2017-02-10T08:55:59.335514'
+name: dataset-00000076
+notes: 公害に関する苦情処理状況
+notes_rendered: <p>公害に関する苦情処理状況</p>
+num_resources: 8
+num_tags: 1
+organization:
+  approval_status: approved
+  created: '2016-03-23T00:21:41.328967'
+  description: ごみの処理・資源化、まちの美化、大気・水質・騒音などの環境保全対策など
+  id: 840a8105-d6ef-47c5-85ca-519f1641bb91
+  image_url: ''
+  is_organization: true
+  name: org_0090
+  revision_id: 88a20215-a08f-4296-b6da-b52a039ecfa0
+  state: active
+  title: 環境局
+  type: organization
+owner_org: 840a8105-d6ef-47c5-85ca-519f1641bb91
+private: false
+ratings_average: null
+ratings_count: 0
+relationships: []
+resources:
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-02-10T17:54:30.159438'
+  description: "平成27年度 公害に関する苦情処理状況＜資料編＞\r\n"
+  format: PDF
+  hash: ''
+  id: d0d53434-2f1b-4f77-aa46-a02d08130674
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 平成27年度 公害に関する苦情処理状況＜資料編＞
+  package_id: e8f014f7-c02a-46a8-a3a1-818cdbfebeea
+  position: 0
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/project/environment/complaint/img/kujyosiryouh27.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-02-10T17:54:46.172425'
+  description: "平成26年度 公害に関する苦情処理状況＜資料編＞\r\n"
+  format: PDF
+  hash: ''
+  id: 8d5c87bd-bee2-4114-8b4f-132a8897dac1
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 平成26年度 公害に関する苦情処理状況＜資料編＞
+  package_id: e8f014f7-c02a-46a8-a3a1-818cdbfebeea
+  position: 1
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/project/environment/complaint/img/kujyosiryouh26.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-02-10T17:54:58.425274'
+  description: "平成25年度 公害に関する苦情処理状況＜資料編＞\r\n"
+  format: PDF
+  hash: ''
+  id: afef43a2-f713-4eba-8e16-74a4ced0eb7d
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 平成25年度 公害に関する苦情処理状況＜資料編＞
+  package_id: e8f014f7-c02a-46a8-a3a1-818cdbfebeea
+  position: 2
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/project/environment/complaint/img/kujyosiryouh25.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-02-10T17:55:10.023485'
+  description: "平成24年度 公害に関する苦情処理状況＜資料編＞\r\n"
+  format: PDF
+  hash: ''
+  id: 6f4e887e-331f-41d8-aebb-af4ba7d750a3
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 平成24年度 公害に関する苦情処理状況＜資料編＞
+  package_id: e8f014f7-c02a-46a8-a3a1-818cdbfebeea
+  position: 3
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/project/environment/complaint/img/kujoushiryou_h24.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-02-10T17:55:20.843956'
+  description: "平成23年度 公害に関する苦情処理状況＜資料編＞\r\n"
+  format: PDF
+  hash: ''
+  id: 36a2560a-2122-4b4a-a1a5-9692c83b8cbf
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 平成23年度 公害に関する苦情処理状況＜資料編＞
+  package_id: e8f014f7-c02a-46a8-a3a1-818cdbfebeea
+  position: 4
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/project/environment/complaint/img/kujyoushiryou_h23.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-02-10T17:55:32.590703'
+  description: "平成22年度 公害に関する苦情処理状況＜資料編＞\r\n"
+  format: PDF
+  hash: ''
+  id: b9a38c2f-a2a1-4377-acbf-2a3a93e2b489
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 平成22年度 公害に関する苦情処理状況＜資料編＞
+  package_id: e8f014f7-c02a-46a8-a3a1-818cdbfebeea
+  position: 5
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/project/environment/complaint/img/kujoushiryou_h22.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-02-10T17:55:45.818338'
+  description: "平成21年度 公害に関する苦情処理状況＜資料編＞\r\n"
+  format: PDF
+  hash: ''
+  id: 2177ed71-64d6-42fe-90d0-2bedc5b737ee
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 平成21年度 公害に関する苦情処理状況＜資料編＞
+  package_id: e8f014f7-c02a-46a8-a3a1-818cdbfebeea
+  position: 6
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/project/environment/complaint/img/kujoushiryou_h21.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-02-10T17:55:56.280274'
+  description: "平成20年度 公害に関する苦情処理状況＜資料編＞\r\n"
+  format: PDF
+  hash: ''
+  id: cba891bb-2304-4b97-ae40-bbd8312c8aff
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 平成20年度 公害に関する苦情処理状況＜資料編＞
+  package_id: e8f014f7-c02a-46a8-a3a1-818cdbfebeea
+  position: 7
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/project/environment/complaint/img/kujoushiryou_h20.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+revision_id: d0ef7800-c706-4251-8019-967fb9b1b216
+state: active
+tags:
+- 統計
+title: 公害に関する苦情処理状況
+type: dataset
+url: http://www.city.kobe.lg.jp/life/recycle/environmental/claimindex.html
+version: ''
+---
 author: 総務課
 author_email: ''
 ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000131
