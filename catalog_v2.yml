@@ -1,3 +1,280 @@
+author: 水質試験所
+author_email: ''
+ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000117
+creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
+extras: {}
+groups:
+- ea98c354-262b-4cff-a061-477b74f43bcc
+id: f6dd29f9-7440-41b0-858b-d03921fba9d8
+isopen: true
+license: クリエイティブ・コモンズ 表示
+license_id: cc-by
+license_title: クリエイティブ・コモンズ 表示
+license_url: http://www.opendefinition.org/licenses/cc-by
+maintainer: 水質試験所
+maintainer_email: ''
+metadata_created: '2017-02-02T07:40:27.707532'
+metadata_modified: '2017-02-14T07:45:06.606905'
+name: dataset-00000117
+notes: "平成27年度放射性物質の毎月検査結果\r\n"
+notes_rendered: <p>平成27年度放射性物質の毎月検査結果</p>
+num_resources: 12
+num_tags: 1
+organization:
+  approval_status: approved
+  created: '2016-03-23T00:21:43.784321'
+  description: 水道水・工業用水の供給、水道管などの水道施設の整備・維持管理、また、水源から蛇口に至るまでの水質管理など
+  id: ef27eb5c-3744-4100-987d-c5b889d01a9c
+  image_url: ''
+  is_organization: true
+  name: org_0150
+  revision_id: 33cc9598-6021-4576-97c9-fd3bd4342925
+  state: active
+  title: 水道局
+  type: organization
+owner_org: ef27eb5c-3744-4100-987d-c5b889d01a9c
+private: false
+ratings_average: null
+ratings_count: 0
+relationships: []
+resources:
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-02-02T16:40:44.812770'
+  description: "平成28年3月\r\n"
+  format: PDF
+  hash: ''
+  id: 68213201-51f7-4a58-be11-42c0e87803a5
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 平成28年3月
+  package_id: f6dd29f9-7440-41b0-858b-d03921fba9d8
+  position: 0
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/life/town/waterworks/water/suishitu/3H28_3.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-02-02T16:40:58.680757'
+  description: "平成28年2月\r\n"
+  format: PDF
+  hash: ''
+  id: 4d62a1a6-87e4-4fcb-a096-ccfefb2e9fd6
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 平成28年2月
+  package_id: f6dd29f9-7440-41b0-858b-d03921fba9d8
+  position: 1
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/life/town/waterworks/water/suishitu/3H28_2.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-02-02T16:41:12.611520'
+  description: "平成28年1月\r\n"
+  format: PDF
+  hash: ''
+  id: 2de34a88-9332-492b-b2a1-5779dfc70213
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 平成28年1月
+  package_id: f6dd29f9-7440-41b0-858b-d03921fba9d8
+  position: 2
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/life/town/waterworks/water/suishitu/3H28_1.pdf
+  url_type: ''
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-02-02T16:41:29.037544'
+  description: "平成27年12月\r\n"
+  format: PDF
+  hash: ''
+  id: 712cc1ae-c013-4ff8-8087-c0c3c2c484a9
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 平成27年12月
+  package_id: f6dd29f9-7440-41b0-858b-d03921fba9d8
+  position: 3
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/life/town/waterworks/water/suishitu/02_3H27_12.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-02-02T16:41:49.529967'
+  description: "平成27年11月\r\n"
+  format: PDF
+  hash: ''
+  id: 744caf54-3564-4902-91b4-52c614cebb8a
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 平成27年11月
+  package_id: f6dd29f9-7440-41b0-858b-d03921fba9d8
+  position: 4
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/life/town/waterworks/water/suishitu/02_3H27_11.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-02-02T16:42:08.506569'
+  description: "平成27年10月\r\n"
+  format: PDF
+  hash: ''
+  id: f480fcf8-eec7-4ebe-86c9-8e2369bc2a49
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 平成27年10月
+  package_id: f6dd29f9-7440-41b0-858b-d03921fba9d8
+  position: 5
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/life/town/waterworks/water/suishitu/02_3H27_10.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-02-02T16:42:26.823788'
+  description: "平成27年9月\r\n"
+  format: PDF
+  hash: ''
+  id: b3ecd82e-616f-470c-a0d1-bf1b00e1135d
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 平成27年9月
+  package_id: f6dd29f9-7440-41b0-858b-d03921fba9d8
+  position: 6
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/life/town/waterworks/water/suishitu/02_3H27_9.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-02-02T16:42:44.744765'
+  description: "平成27年8月\r\n"
+  format: PDF
+  hash: ''
+  id: 470d5f7a-a958-4428-9ef7-264c80c176ab
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 平成27年8月
+  package_id: f6dd29f9-7440-41b0-858b-d03921fba9d8
+  position: 7
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/life/town/waterworks/water/suishitu/02_3H27_8.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-02-02T16:42:59.991192'
+  description: "平成27年7月\r\n"
+  format: PDF
+  hash: ''
+  id: e30894c1-b1d5-4c3b-aa72-0a7ceb1bcac7
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 平成27年7月
+  package_id: f6dd29f9-7440-41b0-858b-d03921fba9d8
+  position: 8
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/life/town/waterworks/water/suishitu/img/02_3H27_7.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-02-02T16:43:14.702555'
+  description: "平成27年6月\r\n"
+  format: PDF
+  hash: ''
+  id: 8c2ec89d-1dfd-4485-9092-e64b29a48ec7
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 平成27年6月
+  package_id: f6dd29f9-7440-41b0-858b-d03921fba9d8
+  position: 9
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/life/town/waterworks/water/suishitu/img/02_3H27_6.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-02-02T16:43:30.815295'
+  description: "平成27年5月\r\n"
+  format: PDF
+  hash: ''
+  id: 617727eb-193e-47b2-baa8-5a02db3ff90f
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 平成27年5月
+  package_id: f6dd29f9-7440-41b0-858b-d03921fba9d8
+  position: 10
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/life/town/waterworks/water/suishitu/img/02_3H27_5.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-02-02T16:43:48.800113'
+  description: "平成27年4月\r\n"
+  format: PDF
+  hash: ''
+  id: 81af7f52-9cf7-4d2f-b75c-89a7cc55e13d
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 平成27年4月
+  package_id: f6dd29f9-7440-41b0-858b-d03921fba9d8
+  position: 11
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/life/town/waterworks/water/suishitu/img/02_3H27_4.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+revision_id: 9fe720e7-936d-41c2-b5f8-19d9711653a5
+state: active
+tags:
+- 統計
+title: 平成27年度放射性物質の毎月検査結果
+type: dataset
+url: http://www.city.kobe.lg.jp/life/town/waterworks/water/suishitu/02_3H27.html
+version: ''
+---
 author: 自然環境共生課
 author_email: ''
 ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000104
@@ -9283,283 +9560,6 @@ tags:
 title: 平成27年度水質検査計画に基づく年4回の検査結果
 type: dataset
 url: http://www.city.kobe.lg.jp/life/town/waterworks/water/suishitu/02_2H27.html
-version: ''
----
-author: 水質試験所
-author_email: ''
-ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000117
-creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
-extras: {}
-groups:
-- ea98c354-262b-4cff-a061-477b74f43bcc
-id: f6dd29f9-7440-41b0-858b-d03921fba9d8
-isopen: true
-license: クリエイティブ・コモンズ 表示
-license_id: cc-by
-license_title: クリエイティブ・コモンズ 表示
-license_url: http://www.opendefinition.org/licenses/cc-by
-maintainer: 水質試験所
-maintainer_email: ''
-metadata_created: '2017-02-02T07:40:27.707532'
-metadata_modified: '2017-02-02T07:43:49.729982'
-name: dataset-00000117
-notes: "平成27年度放射性物質の毎月検査結果\r\n"
-notes_rendered: <p>平成27年度放射性物質の毎月検査結果</p>
-num_resources: 12
-num_tags: 1
-organization:
-  approval_status: approved
-  created: '2016-03-23T00:21:43.784321'
-  description: 水道水・工業用水の供給、水道管などの水道施設の整備・維持管理、また、水源から蛇口に至るまでの水質管理など
-  id: ef27eb5c-3744-4100-987d-c5b889d01a9c
-  image_url: ''
-  is_organization: true
-  name: org_0150
-  revision_id: 33cc9598-6021-4576-97c9-fd3bd4342925
-  state: active
-  title: 水道局
-  type: organization
-owner_org: ef27eb5c-3744-4100-987d-c5b889d01a9c
-private: false
-ratings_average: null
-ratings_count: 0
-relationships: []
-resources:
-- cache_last_updated: null
-  cache_url: null
-  created: '2017-02-02T16:40:44.812770'
-  description: "平成28年3月\r\n"
-  format: PDF
-  hash: ''
-  id: 68213201-51f7-4a58-be11-42c0e87803a5
-  last_modified: null
-  mimetype: null
-  mimetype_inner: null
-  name: 平成28年3月
-  package_id: f6dd29f9-7440-41b0-858b-d03921fba9d8
-  position: 0
-  resource_type: null
-  size: null
-  url: http://www.city.kobe.lg.jp/life/town/waterworks/water/suishitu/3H28_3.pdf
-  url_type: null
-  webstore_last_updated: null
-  webstore_url: null
-- cache_last_updated: null
-  cache_url: null
-  created: '2017-02-02T16:40:58.680757'
-  description: "平成28年2月\r\n"
-  format: PDF
-  hash: ''
-  id: 4d62a1a6-87e4-4fcb-a096-ccfefb2e9fd6
-  last_modified: null
-  mimetype: null
-  mimetype_inner: null
-  name: 平成28年2月
-  package_id: f6dd29f9-7440-41b0-858b-d03921fba9d8
-  position: 1
-  resource_type: null
-  size: null
-  url: http://www.city.kobe.lg.jp/life/town/waterworks/water/suishitu/3H28_2.pdf
-  url_type: null
-  webstore_last_updated: null
-  webstore_url: null
-- cache_last_updated: null
-  cache_url: null
-  created: '2017-02-02T16:41:12.611520'
-  description: "平成28年1月\r\n"
-  format: PDF
-  hash: ''
-  id: 2de34a88-9332-492b-b2a1-5779dfc70213
-  last_modified: null
-  mimetype: null
-  mimetype_inner: null
-  name: 平成28年1月
-  package_id: f6dd29f9-7440-41b0-858b-d03921fba9d8
-  position: 2
-  resource_type: null
-  size: null
-  url: http://www.city.kobe.lg.jp/life/town/waterworks/water/suishitu/02_3H27.html
-  url_type: null
-  webstore_last_updated: null
-  webstore_url: null
-- cache_last_updated: null
-  cache_url: null
-  created: '2017-02-02T16:41:29.037544'
-  description: "平成27年12月\r\n"
-  format: PDF
-  hash: ''
-  id: 712cc1ae-c013-4ff8-8087-c0c3c2c484a9
-  last_modified: null
-  mimetype: null
-  mimetype_inner: null
-  name: 平成27年12月
-  package_id: f6dd29f9-7440-41b0-858b-d03921fba9d8
-  position: 3
-  resource_type: null
-  size: null
-  url: http://www.city.kobe.lg.jp/life/town/waterworks/water/suishitu/02_3H27_12.pdf
-  url_type: null
-  webstore_last_updated: null
-  webstore_url: null
-- cache_last_updated: null
-  cache_url: null
-  created: '2017-02-02T16:41:49.529967'
-  description: "平成27年11月\r\n"
-  format: PDF
-  hash: ''
-  id: 744caf54-3564-4902-91b4-52c614cebb8a
-  last_modified: null
-  mimetype: null
-  mimetype_inner: null
-  name: 平成27年11月
-  package_id: f6dd29f9-7440-41b0-858b-d03921fba9d8
-  position: 4
-  resource_type: null
-  size: null
-  url: http://www.city.kobe.lg.jp/life/town/waterworks/water/suishitu/02_3H27_11.pdf
-  url_type: null
-  webstore_last_updated: null
-  webstore_url: null
-- cache_last_updated: null
-  cache_url: null
-  created: '2017-02-02T16:42:08.506569'
-  description: "平成27年10月\r\n"
-  format: PDF
-  hash: ''
-  id: f480fcf8-eec7-4ebe-86c9-8e2369bc2a49
-  last_modified: null
-  mimetype: null
-  mimetype_inner: null
-  name: 平成27年10月
-  package_id: f6dd29f9-7440-41b0-858b-d03921fba9d8
-  position: 5
-  resource_type: null
-  size: null
-  url: http://www.city.kobe.lg.jp/life/town/waterworks/water/suishitu/02_3H27_10.pdf
-  url_type: null
-  webstore_last_updated: null
-  webstore_url: null
-- cache_last_updated: null
-  cache_url: null
-  created: '2017-02-02T16:42:26.823788'
-  description: "平成27年9月\r\n"
-  format: PDF
-  hash: ''
-  id: b3ecd82e-616f-470c-a0d1-bf1b00e1135d
-  last_modified: null
-  mimetype: null
-  mimetype_inner: null
-  name: 平成27年9月
-  package_id: f6dd29f9-7440-41b0-858b-d03921fba9d8
-  position: 6
-  resource_type: null
-  size: null
-  url: http://www.city.kobe.lg.jp/life/town/waterworks/water/suishitu/02_3H27_9.pdf
-  url_type: null
-  webstore_last_updated: null
-  webstore_url: null
-- cache_last_updated: null
-  cache_url: null
-  created: '2017-02-02T16:42:44.744765'
-  description: "平成27年8月\r\n"
-  format: PDF
-  hash: ''
-  id: 470d5f7a-a958-4428-9ef7-264c80c176ab
-  last_modified: null
-  mimetype: null
-  mimetype_inner: null
-  name: 平成27年8月
-  package_id: f6dd29f9-7440-41b0-858b-d03921fba9d8
-  position: 7
-  resource_type: null
-  size: null
-  url: http://www.city.kobe.lg.jp/life/town/waterworks/water/suishitu/02_3H27_8.pdf
-  url_type: null
-  webstore_last_updated: null
-  webstore_url: null
-- cache_last_updated: null
-  cache_url: null
-  created: '2017-02-02T16:42:59.991192'
-  description: "平成27年7月\r\n"
-  format: PDF
-  hash: ''
-  id: e30894c1-b1d5-4c3b-aa72-0a7ceb1bcac7
-  last_modified: null
-  mimetype: null
-  mimetype_inner: null
-  name: 平成27年7月
-  package_id: f6dd29f9-7440-41b0-858b-d03921fba9d8
-  position: 8
-  resource_type: null
-  size: null
-  url: http://www.city.kobe.lg.jp/life/town/waterworks/water/suishitu/img/02_3H27_7.pdf
-  url_type: null
-  webstore_last_updated: null
-  webstore_url: null
-- cache_last_updated: null
-  cache_url: null
-  created: '2017-02-02T16:43:14.702555'
-  description: "平成27年6月\r\n"
-  format: PDF
-  hash: ''
-  id: 8c2ec89d-1dfd-4485-9092-e64b29a48ec7
-  last_modified: null
-  mimetype: null
-  mimetype_inner: null
-  name: 平成27年6月
-  package_id: f6dd29f9-7440-41b0-858b-d03921fba9d8
-  position: 9
-  resource_type: null
-  size: null
-  url: http://www.city.kobe.lg.jp/life/town/waterworks/water/suishitu/img/02_3H27_6.pdf
-  url_type: null
-  webstore_last_updated: null
-  webstore_url: null
-- cache_last_updated: null
-  cache_url: null
-  created: '2017-02-02T16:43:30.815295'
-  description: "平成27年5月\r\n"
-  format: PDF
-  hash: ''
-  id: 617727eb-193e-47b2-baa8-5a02db3ff90f
-  last_modified: null
-  mimetype: null
-  mimetype_inner: null
-  name: 平成27年5月
-  package_id: f6dd29f9-7440-41b0-858b-d03921fba9d8
-  position: 10
-  resource_type: null
-  size: null
-  url: http://www.city.kobe.lg.jp/life/town/waterworks/water/suishitu/img/02_3H27_5.pdf
-  url_type: null
-  webstore_last_updated: null
-  webstore_url: null
-- cache_last_updated: null
-  cache_url: null
-  created: '2017-02-02T16:43:48.800113'
-  description: "平成27年4月\r\n"
-  format: PDF
-  hash: ''
-  id: 81af7f52-9cf7-4d2f-b75c-89a7cc55e13d
-  last_modified: null
-  mimetype: null
-  mimetype_inner: null
-  name: 平成27年4月
-  package_id: f6dd29f9-7440-41b0-858b-d03921fba9d8
-  position: 11
-  resource_type: null
-  size: null
-  url: http://www.city.kobe.lg.jp/life/town/waterworks/water/suishitu/img/02_3H27_4.pdf
-  url_type: null
-  webstore_last_updated: null
-  webstore_url: null
-revision_id: 9fe720e7-936d-41c2-b5f8-19d9711653a5
-state: active
-tags:
-- 統計
-title: 平成27年度放射性物質の毎月検査結果
-type: dataset
-url: http://www.city.kobe.lg.jp/life/town/waterworks/water/suishitu/02_3H27.html
 version: ''
 ---
 author: 水質試験所
