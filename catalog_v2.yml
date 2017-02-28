@@ -3114,7 +3114,8 @@ author_email: ''
 ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000135
 creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
 extras: {}
-groups: []
+groups:
+- 0f6fa0bc-0b25-4796-8197-8f0735f1cd14
 id: 82219451-d705-47fc-8c1e-b56e9e4555ca
 isopen: true
 license: クリエイティブ・コモンズ 表示
@@ -5379,9 +5380,9 @@ organization:
   image_url: ''
   is_organization: true
   name: org_0100
-  revision_id: b18fa252-e9c1-4dd6-9c79-bc102e77f635
+  revision_id: a8619f8f-5b01-466e-9ee3-73e5f0eee224
   state: active
-  title: 産業振興局
+  title: 経済観光局
   type: organization
 owner_org: 1cd9cfa3-481c-4fd0-8642-2c4aa8a1a185
 private: false
@@ -5485,9 +5486,9 @@ organization:
   image_url: ''
   is_organization: true
   name: org_0100
-  revision_id: b18fa252-e9c1-4dd6-9c79-bc102e77f635
+  revision_id: a8619f8f-5b01-466e-9ee3-73e5f0eee224
   state: active
-  title: 産業振興局
+  title: 経済観光局
   type: organization
 owner_org: 1cd9cfa3-481c-4fd0-8642-2c4aa8a1a185
 private: false
@@ -5800,9 +5801,9 @@ organization:
   image_url: ''
   is_organization: true
   name: org_0100
-  revision_id: b18fa252-e9c1-4dd6-9c79-bc102e77f635
+  revision_id: a8619f8f-5b01-466e-9ee3-73e5f0eee224
   state: active
-  title: 産業振興局
+  title: 経済観光局
   type: organization
 owner_org: 1cd9cfa3-481c-4fd0-8642-2c4aa8a1a185
 private: false
@@ -16209,9 +16210,9 @@ organization:
   image_url: ''
   is_organization: true
   name: org_0100
-  revision_id: b18fa252-e9c1-4dd6-9c79-bc102e77f635
+  revision_id: a8619f8f-5b01-466e-9ee3-73e5f0eee224
   state: active
-  title: 産業振興局
+  title: 経済観光局
   type: organization
 owner_org: 1cd9cfa3-481c-4fd0-8642-2c4aa8a1a185
 private: false
@@ -16252,7 +16253,8 @@ author_email: ''
 ckan_url: https://data.city.kobe.lg.jp/data/dataset/http-www-city-kobe-lg-jp-ward-kuyakusho-higashinada-oshirase-kouhoushi
 creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
 extras: {}
-groups: []
+groups:
+- b18a8508-9e22-4355-9d36-d8c4d94b7df9
 id: 2280c71a-1267-4df0-ad98-73d30f0574a5
 isopen: true
 license: クリエイティブ・コモンズ 表示
@@ -16694,7 +16696,8 @@ author_email: ''
 ckan_url: https://data.city.kobe.lg.jp/data/dataset/28
 creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
 extras: {}
-groups: []
+groups:
+- b18a8508-9e22-4355-9d36-d8c4d94b7df9
 id: eabd901d-4db2-4d41-9cfd-fe98ba943c08
 isopen: true
 license: クリエイティブ・コモンズ 表示
@@ -21926,9 +21929,9 @@ organization:
   image_url: ''
   is_organization: true
   name: org_0100
-  revision_id: b18fa252-e9c1-4dd6-9c79-bc102e77f635
+  revision_id: a8619f8f-5b01-466e-9ee3-73e5f0eee224
   state: active
-  title: 産業振興局
+  title: 経済観光局
   type: organization
 owner_org: 1cd9cfa3-481c-4fd0-8642-2c4aa8a1a185
 private: false
