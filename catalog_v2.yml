@@ -1,3 +1,176 @@
+author: 創造都市推進部
+author_email: ''
+ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000141
+creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
+extras: {}
+groups:
+- b18a8508-9e22-4355-9d36-d8c4d94b7df9
+id: d3822cfe-239b-472f-b6da-35bfb7ecbdd5
+isopen: true
+license: クリエイティブ・コモンズ 表示
+license_id: cc-by
+license_title: クリエイティブ・コモンズ 表示
+license_url: http://www.opendefinition.org/licenses/cc-by
+maintainer: ''
+maintainer_email: ''
+metadata_created: '2017-03-01T05:32:47.346409'
+metadata_modified: '2017-03-01T07:03:41.514735'
+name: dataset-00000141
+notes: 神戸市オープンデータポータルに掲載されているデータの登録状況及びアクセス状況
+notes_rendered: <p>神戸市オープンデータポータルに掲載されているデータの登録状況及びアクセス状況</p>
+num_resources: 3
+num_tags: 0
+organization:
+  approval_status: approved
+  created: '2016-03-23T00:21:39.544252'
+  description: 政策の企画・立案、重要施策の調整、総合基本計画、各種統計、創造都市戦略「デザイン都市・神戸」の推進、神戸医療産業都市の推進、企業誘致施策、情報化の推進など
+  id: cfa5ffc6-52cd-42d7-8e72-8c1dc58df27d
+  image_url: ''
+  is_organization: true
+  name: org_0040
+  revision_id: 5bb86d03-e2d8-4d30-b8da-5f1557fc1b6c
+  state: active
+  title: 企画調整局
+  type: organization
+owner_org: cfa5ffc6-52cd-42d7-8e72-8c1dc58df27d
+private: false
+ratings_average: null
+ratings_count: 0
+relationships: []
+resources:
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-03-01T14:34:23.956644'
+  description: "CKAN APIより取得したデータセット登録状況\r\nhttps://data.city.kobe.lg.jp/data/api/action/current_package_list_with_resources?limit=200"
+  format: JSON
+  hash: ''
+  id: 53d6b3cc-b49b-4488-8276-2744feb4173a
+  last_modified: '2017-03-01T05:34:23.914597'
+  mimetype: null
+  mimetype_inner: null
+  name: データセット登録状況
+  package_id: d3822cfe-239b-472f-b6da-35bfb7ecbdd5
+  position: 0
+  resource_type: null
+  size: null
+  url: https://data.city.kobe.lg.jp/data/dataset/d3822cfe-239b-472f-b6da-35bfb7ecbdd5/resource/53d6b3cc-b49b-4488-8276-2744feb4173a/download/cusers208078desktopcplwr.json
+  url_type: upload
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-03-01T14:39:55.700301'
+  description: データセット別月別のページビュー数及び訪問者数
+  format: XLSX
+  hash: ''
+  id: 997b6f8b-a9b1-4ad7-9de4-edbf18c7fc73
+  last_modified: '2017-03-01T05:39:55.650602'
+  mimetype: null
+  mimetype_inner: null
+  name: データセット別月別アクセス状況
+  package_id: d3822cfe-239b-472f-b6da-35bfb7ecbdd5
+  position: 1
+  resource_type: null
+  size: null
+  url: https://data.city.kobe.lg.jp/data/dataset/d3822cfe-239b-472f-b6da-35bfb7ecbdd5/resource/997b6f8b-a9b1-4ad7-9de4-edbf18c7fc73/download/172.16.4.205disk1ictz-01-work0151access.xlsx
+  url_type: upload
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-03-01T16:03:40.600484'
+  description: オープンデータの登録状況やデータセットへのアクセス状況を可視化したもの
+  format: HTML
+  hash: ''
+  id: f99843f0-a249-4536-983d-7913a0d9fa8b
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: オープンデータダッシュボード
+  package_id: d3822cfe-239b-472f-b6da-35bfb7ecbdd5
+  position: 2
+  resource_type: null
+  size: null
+  url: https://data.city.kobe.lg.jp/dashboard/index.html
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+revision_id: b61d22fb-4213-4089-8b86-a53768c4d86f
+state: active
+tags: []
+title: データセット状況
+type: dataset
+url: ''
+version: ''
+---
+author: 自然環境共生課
+author_email: ''
+ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000080
+creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
+extras: {}
+groups:
+- ea98c354-262b-4cff-a061-477b74f43bcc
+id: 457dfe49-faa0-4159-ad15-bd0bdac51e96
+isopen: true
+license: クリエイティブ・コモンズ 表示
+license_id: cc-by
+license_title: クリエイティブ・コモンズ 表示
+license_url: http://www.opendefinition.org/licenses/cc-by
+maintainer: 自然環境共生課
+maintainer_email: ''
+metadata_created: '2017-02-10T09:01:43.414515'
+metadata_modified: '2017-03-01T02:58:12.151101'
+name: dataset-00000080
+notes: "平成27年度（2015年度）　公共用水域の水質の状況\r\n"
+notes_rendered: <p>平成27年度（2015年度）　公共用水域の水質の状況</p>
+num_resources: 1
+num_tags: 1
+organization:
+  approval_status: approved
+  created: '2016-03-23T00:21:41.328967'
+  description: ごみの処理・資源化、まちの美化、大気・水質・騒音などの環境保全対策など
+  id: 840a8105-d6ef-47c5-85ca-519f1641bb91
+  image_url: ''
+  is_organization: true
+  name: org_0090
+  revision_id: 88a20215-a08f-4296-b6da-b52a039ecfa0
+  state: active
+  title: 環境局
+  type: organization
+owner_org: 840a8105-d6ef-47c5-85ca-519f1641bb91
+private: false
+ratings_average: null
+ratings_count: 0
+relationships: []
+resources:
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-02-10T18:01:53.491620'
+  description: "平成27年度（2015年度）　公共用水域の水質の状況\r\n"
+  format: PDF
+  hash: ''
+  id: af274f67-9a8d-4526-9a6f-25d7f8d691b0
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 平成27年度（2015年度）　公共用水域の水質の状況
+  package_id: 457dfe49-faa0-4159-ad15-bd0bdac51e96
+  position: 0
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/life/recycle/environmental/earth/H27kishasiryou.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+revision_id: 3ce0ad38-ab96-4a55-8b1e-14d987dcae9e
+state: active
+tags:
+- 統計
+title: 平成27年度（2015年度）　公共用水域の水質の状況
+type: dataset
+url: http://www.city.kobe.lg.jp/life/recycle/environmental/earth/kokyo.html
+version: ''
+---
 author: 水質試験所
 author_email: ''
 ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000117
