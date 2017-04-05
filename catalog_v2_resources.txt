@@ -1,5 +1,7 @@
-https://data.city.kobe.lg.jp/data/dataset/d3822cfe-239b-472f-b6da-35bfb7ecbdd5/resource/53d6b3cc-b49b-4488-8276-2744feb4173a/download/cusers208078desktopcplwr.json
+https://data.city.kobe.lg.jp/data/dataset/d3822cfe-239b-472f-b6da-35bfb7ecbdd5/resource/53d6b3cc-b49b-4488-8276-2744feb4173a/download/172.16.4.205disk1ictz-01-work0151cplwr.json
 https://data.city.kobe.lg.jp/data/dataset/d3822cfe-239b-472f-b6da-35bfb7ecbdd5/resource/997b6f8b-a9b1-4ad7-9de4-edbf18c7fc73/download/172.16.4.205disk1ictz-01-work0151access.xlsx
+https://data.city.kobe.lg.jp/data/dataset/5fefff2f-1be1-4e4a-87c8-237cd4da2679/resource/4a45fb10-8c6c-451c-8690-21b5a942ac65/download/cusers212046desktopkobedatalinks.xlsx
+http://www.city.kobe.lg.jp/business/regulation/environment/enterprise/bizwastesearch/bizwaste-rule.csv
 http://www.city.kobe.lg.jp/life/recycle/environmental/earth/H27kishasiryou.pdf
 http://www.city.kobe.lg.jp/life/town/waterworks/water/suishitu/3H28_3.pdf
 http://www.city.kobe.lg.jp/life/town/waterworks/water/suishitu/3H28_2.pdf

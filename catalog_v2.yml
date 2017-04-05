@@ -14,7 +14,7 @@ license_url: http://www.opendefinition.org/licenses/cc-by
 maintainer: ''
 maintainer_email: ''
 metadata_created: '2017-03-01T05:32:47.346409'
-metadata_modified: '2017-03-01T07:03:41.514735'
+metadata_modified: '2017-04-03T09:03:39.717130'
 name: dataset-00000141
 notes: 神戸市オープンデータポータルに掲載されているデータの登録状況及びアクセス状況
 notes_rendered: <p>神戸市オープンデータポータルに掲載されているデータの登録状況及びアクセス状況</p>
@@ -45,7 +45,7 @@ resources:
   format: JSON
   hash: ''
   id: 53d6b3cc-b49b-4488-8276-2744feb4173a
-  last_modified: '2017-03-01T05:34:23.914597'
+  last_modified: '2017-04-03T09:03:39.696965'
   mimetype: null
   mimetype_inner: null
   name: データセット登録状況
@@ -53,7 +53,7 @@ resources:
   position: 0
   resource_type: null
   size: null
-  url: https://data.city.kobe.lg.jp/data/dataset/d3822cfe-239b-472f-b6da-35bfb7ecbdd5/resource/53d6b3cc-b49b-4488-8276-2744feb4173a/download/cusers208078desktopcplwr.json
+  url: https://data.city.kobe.lg.jp/data/dataset/d3822cfe-239b-472f-b6da-35bfb7ecbdd5/resource/53d6b3cc-b49b-4488-8276-2744feb4173a/download/172.16.4.205disk1ictz-01-work0151cplwr.json
   url_type: upload
   webstore_last_updated: null
   webstore_url: null
@@ -64,7 +64,7 @@ resources:
   format: XLSX
   hash: ''
   id: 997b6f8b-a9b1-4ad7-9de4-edbf18c7fc73
-  last_modified: '2017-03-01T05:39:55.650602'
+  last_modified: '2017-04-03T09:02:30.354722'
   mimetype: null
   mimetype_inner: null
   name: データセット別月別アクセス状況
@@ -101,6 +101,399 @@ tags: []
 title: データセット状況
 type: dataset
 url: ''
+version: ''
+---
+author: 創造都市推進部
+author_email: ''
+ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000144
+creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
+extras: {}
+groups:
+- 526033f4-0403-4a38-a905-9275c250d0ce
+id: 5fefff2f-1be1-4e4a-87c8-237cd4da2679
+isopen: true
+license: クリエイティブ・コモンズ 表示
+license_id: cc-by
+license_title: クリエイティブ・コモンズ 表示
+license_url: http://www.opendefinition.org/licenses/cc-by
+maintainer: ''
+maintainer_email: ''
+metadata_created: '2017-03-31T04:32:43.445987'
+metadata_modified: '2017-04-03T07:00:20.040427'
+name: dataset-00000144
+notes: "神戸市ウェブサイト内に存在するデータを一覧化したものです。以下の拡張子のものが一覧化されております。\r\nai、au、csv、doc、docx、dwg、dxf、flv、icns、ico、mp3、mpg、pdf、pptx、rm、rtf、tif、txt、wav、wma、wmv、xls、xlsx、xml、zip\r\
+  \n\r\nデータの時点は平成29年3月23日になります。\r\nまた、一覧に載っているデータの中にはオープンデータであるものとそうでないものとが混在しておりますので予めご了承ください。"
+notes_rendered: '<p>神戸市ウェブサイト内に存在するデータを一覧化したものです。以下の拡張子のものが一覧化されております。
+
+  ai、au、csv、doc、docx、dwg、dxf、flv、icns、ico、mp3、mpg、pdf、pptx、rm、rtf、tif、txt、wav、wma、wmv、xls、xlsx、xml、zip</p>
+
+  <p>データの時点は平成29年3月23日になります。
+
+  また、一覧に載っているデータの中にはオープンデータであるものとそうでないものとが混在しておりますので予めご了承ください。</p>'
+num_resources: 1
+num_tags: 1
+organization:
+  approval_status: approved
+  created: '2016-03-23T00:21:39.544252'
+  description: 政策の企画・立案、重要施策の調整、総合基本計画、各種統計、創造都市戦略「デザイン都市・神戸」の推進、神戸医療産業都市の推進、企業誘致施策、情報化の推進など
+  id: cfa5ffc6-52cd-42d7-8e72-8c1dc58df27d
+  image_url: ''
+  is_organization: true
+  name: org_0040
+  revision_id: 5bb86d03-e2d8-4d30-b8da-5f1557fc1b6c
+  state: active
+  title: 企画調整局
+  type: organization
+owner_org: cfa5ffc6-52cd-42d7-8e72-8c1dc58df27d
+private: false
+ratings_average: null
+ratings_count: 0
+relationships: []
+resources:
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-03-31T13:35:50.039591'
+  description: "神戸市ウェブサイト内に存在するデータを一覧化したものです。一覧化されているものは、Ｗｏｒｄ形式、Ｅｘｃｅｌ形式、ＰＤＦ形式のものに限定されております。\r\
+    \nなお、データの時点は平成29年3月23日になります。"
+  format: XLSX
+  hash: ''
+  id: 4a45fb10-8c6c-451c-8690-21b5a942ac65
+  last_modified: '2017-03-31T04:35:49.993618'
+  mimetype: null
+  mimetype_inner: null
+  name: 神戸市ウェブサイト内データ一覧
+  package_id: 5fefff2f-1be1-4e4a-87c8-237cd4da2679
+  position: 0
+  resource_type: null
+  size: null
+  url: https://data.city.kobe.lg.jp/data/dataset/5fefff2f-1be1-4e4a-87c8-237cd4da2679/resource/4a45fb10-8c6c-451c-8690-21b5a942ac65/download/cusers212046desktopkobedatalinks.xlsx
+  url_type: upload
+  webstore_last_updated: null
+  webstore_url: null
+revision_id: 3de3f63d-72f6-48c4-9205-10a0682c8a39
+state: active
+tags:
+- その他
+title: 神戸市ウェブサイト内データ一覧
+type: dataset
+url: ''
+version: ''
+---
+author: 事業系廃棄物対策部
+author_email: ''
+ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000145
+creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
+extras: {}
+groups:
+- ea98c354-262b-4cff-a061-477b74f43bcc
+id: 4a2faaa8-b269-4cbe-99b9-b9641c6b7460
+isopen: true
+license: クリエイティブ・コモンズ 表示
+license_id: cc-by
+license_title: クリエイティブ・コモンズ 表示
+license_url: http://www.opendefinition.org/licenses/cc-by
+maintainer: ''
+maintainer_email: ''
+metadata_created: '2017-03-31T06:18:24.616086'
+metadata_modified: '2017-03-31T07:42:36.227293'
+name: dataset-00000145
+notes: 神戸市の事業系ごみ（一般廃棄物）の分別区分データ
+notes_rendered: <p>神戸市の事業系ごみ（一般廃棄物）の分別区分データ</p>
+num_resources: 1
+num_tags: 1
+organization:
+  approval_status: approved
+  created: '2016-03-23T00:21:41.328967'
+  description: ごみの処理・資源化、まちの美化、大気・水質・騒音などの環境保全対策など
+  id: 840a8105-d6ef-47c5-85ca-519f1641bb91
+  image_url: ''
+  is_organization: true
+  name: org_0090
+  revision_id: 88a20215-a08f-4296-b6da-b52a039ecfa0
+  state: active
+  title: 環境局
+  type: organization
+owner_org: 840a8105-d6ef-47c5-85ca-519f1641bb91
+private: false
+ratings_average: null
+ratings_count: 0
+relationships: []
+resources:
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-03-31T15:19:26.519325'
+  description: 神戸市の事業系ごみ（一般廃棄物）の分別区分データ
+  format: ＣＳＶ
+  hash: ''
+  id: c6656434-39f0-4830-b035-9ab3c39cf042
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 事業系ごみ（一般廃棄物）の分別区分
+  package_id: 4a2faaa8-b269-4cbe-99b9-b9641c6b7460
+  position: 0
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/business/regulation/environment/enterprise/bizwastesearch/bizwaste-rule.csv
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+revision_id: f45bd00f-b727-4d38-9bf9-451bfe5418c7
+state: active
+tags:
+- 情報啓発
+title: 事業系ごみ（一般廃棄物）の分別区分
+type: dataset
+url: http://www.city.kobe.lg.jp/business/regulation/environment/enterprise/bizwastesearch/index.html
+version: ''
+---
+author: 創造都市推進部
+author_email: ''
+ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000143
+creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
+extras: {}
+groups: []
+id: af84e4f2-ad8f-45cd-98a5-d4512321ca35
+isopen: true
+license: クリエイティブ・コモンズ 表示
+license_id: cc-by
+license_title: クリエイティブ・コモンズ 表示
+license_url: http://www.opendefinition.org/licenses/cc-by
+maintainer: ''
+maintainer_email: ''
+metadata_created: '2017-03-23T09:25:46.076593'
+metadata_modified: '2017-03-23T09:26:37.425879'
+name: dataset-00000143
+notes: "神戸市と他都市の人口構成を可視化・比較することができます。\r\nhttps://data.city.kobe.lg.jp/dashboard/0002.html\r\
+  \n\r\n地域経済分析システム（RESAS）からダウンロードしたデータを利用しています。\r\nhttps://resas.go.jp/\r\n"
+notes_rendered: '<p>神戸市と他都市の人口構成を可視化・比較することができます。
+
+  <a href="https://data.city.kobe.lg.jp/dashboard/0002.html" target="_blank" rel="nofollow">https://data.city.kobe.lg.jp/dashboard/0002.html</a></p>
+
+  <p>地域経済分析システム（RESAS）からダウンロードしたデータを利用しています。
+
+  <a href="https://resas.go.jp/" target="_blank" rel="nofollow">https://resas.go.jp/</a></p>'
+num_resources: 1
+num_tags: 2
+organization:
+  approval_status: approved
+  created: '2016-03-23T00:21:39.544252'
+  description: 政策の企画・立案、重要施策の調整、総合基本計画、各種統計、創造都市戦略「デザイン都市・神戸」の推進、神戸医療産業都市の推進、企業誘致施策、情報化の推進など
+  id: cfa5ffc6-52cd-42d7-8e72-8c1dc58df27d
+  image_url: ''
+  is_organization: true
+  name: org_0040
+  revision_id: 5bb86d03-e2d8-4d30-b8da-5f1557fc1b6c
+  state: active
+  title: 企画調整局
+  type: organization
+owner_org: cfa5ffc6-52cd-42d7-8e72-8c1dc58df27d
+private: false
+ratings_average: null
+ratings_count: 0
+relationships: []
+resources:
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-03-23T18:26:35.919370'
+  description: 神戸市と他都市の人口構成を可視化・比較することができます。地域経済分析システム（RESAS）からダウンロードしたデータを利用しています。
+  format: HTML
+  hash: ''
+  id: 94704227-d84a-40f4-8afa-84067201b9a6
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 人口構成ダッシュボード
+  package_id: af84e4f2-ad8f-45cd-98a5-d4512321ca35
+  position: 0
+  resource_type: null
+  size: null
+  url: https://data.city.kobe.lg.jp/dashboard/0002.html
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+revision_id: fcdbb777-ce9b-428e-9242-133d2eec1edd
+state: active
+tags:
+- 可視化
+- 統計
+title: 人口構成ダッシュボード
+type: dataset
+url: https://resas.go.jp/
+version: ''
+---
+author: 創造都市推進部
+author_email: ''
+ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000142
+creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
+extras: {}
+groups: []
+id: 47cf9b05-1975-4e5e-a49d-ca25e9d30d06
+isopen: true
+license: クリエイティブ・コモンズ 表示
+license_id: cc-by
+license_title: クリエイティブ・コモンズ 表示
+license_url: http://www.opendefinition.org/licenses/cc-by
+maintainer: ''
+maintainer_email: ''
+metadata_created: '2017-03-23T09:21:26.766422'
+metadata_modified: '2017-03-23T09:22:59.674152'
+name: dataset-00000142
+notes: 各区主要の相関を見るダッシュボード
+notes_rendered: <p>各区主要の相関を見るダッシュボード</p>
+num_resources: 1
+num_tags: 2
+organization:
+  approval_status: approved
+  created: '2016-03-23T00:21:39.544252'
+  description: 政策の企画・立案、重要施策の調整、総合基本計画、各種統計、創造都市戦略「デザイン都市・神戸」の推進、神戸医療産業都市の推進、企業誘致施策、情報化の推進など
+  id: cfa5ffc6-52cd-42d7-8e72-8c1dc58df27d
+  image_url: ''
+  is_organization: true
+  name: org_0040
+  revision_id: 5bb86d03-e2d8-4d30-b8da-5f1557fc1b6c
+  state: active
+  title: 企画調整局
+  type: organization
+owner_org: cfa5ffc6-52cd-42d7-8e72-8c1dc58df27d
+private: false
+ratings_average: null
+ratings_count: 0
+relationships: []
+resources:
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-03-23T18:22:42.092630'
+  description: 各区主要の相関を見るダッシュボード
+  format: HTML
+  hash: ''
+  id: ad8f3b1e-a32c-4632-a145-e0714dbfaf45
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 各区主要指標の相関
+  package_id: 47cf9b05-1975-4e5e-a49d-ca25e9d30d06
+  position: 0
+  resource_type: null
+  size: null
+  url: https://data.city.kobe.lg.jp/dashboard/0001.html
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+revision_id: 3511c6c2-95f8-423b-bfb7-a328eade7e46
+state: active
+tags:
+- 可視化
+- 統計
+title: 各区主要指標の相関
+type: dataset
+url: ''
+version: ''
+---
+author: 中央卸売市場運営本部本場
+author_email: ''
+ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000107
+creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
+extras: {}
+groups:
+- b18a8508-9e22-4355-9d36-d8c4d94b7df9
+id: 9d3647cf-4a2f-4f0a-9495-9cafe29828f6
+isopen: true
+license: クリエイティブ・コモンズ 表示
+license_id: cc-by
+license_title: クリエイティブ・コモンズ 表示
+license_url: http://www.opendefinition.org/licenses/cc-by
+maintainer: 中央卸売市場運営本部本場
+maintainer_email: ''
+metadata_created: '2017-02-02T09:48:03.433501'
+metadata_modified: '2017-03-22T06:26:27.703636'
+name: dataset-00000107
+notes: "市場取引情報\r\n"
+notes_rendered: <p>市場取引情報</p>
+num_resources: 3
+num_tags: 1
+organization:
+  approval_status: approved
+  created: '2016-03-23T00:21:41.704535'
+  description: 観光コンベンションの推進、商工業・農漁業の振興、中小企業の支援、卸売市場など
+  id: 1cd9cfa3-481c-4fd0-8642-2c4aa8a1a185
+  image_url: ''
+  is_organization: true
+  name: org_0100
+  revision_id: a8619f8f-5b01-466e-9ee3-73e5f0eee224
+  state: active
+  title: 経済観光局
+  type: organization
+owner_org: 1cd9cfa3-481c-4fd0-8642-2c4aa8a1a185
+private: false
+ratings_average: null
+ratings_count: 0
+relationships: []
+resources:
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-02-02T18:48:26.956288'
+  description: "日報\r\n"
+  format: HTML
+  hash: ''
+  id: 13e96d25-afad-42da-b4a6-4842bad5579e
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 日報
+  package_id: 9d3647cf-4a2f-4f0a-9495-9cafe29828f6
+  position: 0
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/institution/market/nippou.html
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-02-02T18:48:50.081029'
+  description: "月報\r\n"
+  format: HTML
+  hash: ''
+  id: a96f5c13-cbc1-4fd7-99ef-e6ae5e2cadd3
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 月報
+  package_id: 9d3647cf-4a2f-4f0a-9495-9cafe29828f6
+  position: 1
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/institution/market/geppou.html
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-02-02T18:49:02.127566'
+  description: "年報\r\n"
+  format: HTML
+  hash: ''
+  id: 10427218-d190-4293-8791-5015683d0b00
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 年報
+  package_id: 9d3647cf-4a2f-4f0a-9495-9cafe29828f6
+  position: 2
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/institution/market/geppou.html
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+revision_id: 389ca064-b6d4-4b72-bc33-87a3bad07ea9
+state: active
+tags:
+- 統計
+title: 市場取引情報
+type: dataset
+url: http://www.city.kobe.lg.jp/information/institution/market/sikyou.html
 version: ''
 ---
 author: 自然環境共生課
@@ -5521,112 +5914,6 @@ tags:
 title: 市町村税課税状況等の調（神戸市）
 type: dataset
 url: http://www.city.kobe.lg.jp/life/support/tax/kazeizyoukyousirabe.html
-version: ''
----
-author: 中央卸売市場運営本部本場
-author_email: ''
-ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000107
-creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
-extras: {}
-groups:
-- b18a8508-9e22-4355-9d36-d8c4d94b7df9
-id: 9d3647cf-4a2f-4f0a-9495-9cafe29828f6
-isopen: true
-license: クリエイティブ・コモンズ 表示
-license_id: cc-by
-license_title: クリエイティブ・コモンズ 表示
-license_url: http://www.opendefinition.org/licenses/cc-by
-maintainer: 中央卸売市場運営本部本場
-maintainer_email: ''
-metadata_created: '2017-02-02T09:48:03.433501'
-metadata_modified: '2017-02-02T09:49:02.865296'
-name: dataset-00000107
-notes: "市場取引情報\r\n"
-notes_rendered: <p>市場取引情報</p>
-num_resources: 3
-num_tags: 1
-organization:
-  approval_status: approved
-  created: '2016-03-23T00:21:41.704535'
-  description: 観光コンベンションの推進、商工業・農漁業の振興、中小企業の支援、卸売市場など
-  id: 1cd9cfa3-481c-4fd0-8642-2c4aa8a1a185
-  image_url: ''
-  is_organization: true
-  name: org_0100
-  revision_id: a8619f8f-5b01-466e-9ee3-73e5f0eee224
-  state: active
-  title: 経済観光局
-  type: organization
-owner_org: 1cd9cfa3-481c-4fd0-8642-2c4aa8a1a185
-private: false
-ratings_average: null
-ratings_count: 0
-relationships: []
-resources:
-- cache_last_updated: null
-  cache_url: null
-  created: '2017-02-02T18:48:26.956288'
-  description: "日報\r\n"
-  format: HTML
-  hash: ''
-  id: 13e96d25-afad-42da-b4a6-4842bad5579e
-  last_modified: null
-  mimetype: null
-  mimetype_inner: null
-  name: 日報
-  package_id: 9d3647cf-4a2f-4f0a-9495-9cafe29828f6
-  position: 0
-  resource_type: null
-  size: null
-  url: http://www.city.kobe.lg.jp/information/institution/market/nippou.html
-  url_type: null
-  webstore_last_updated: null
-  webstore_url: null
-- cache_last_updated: null
-  cache_url: null
-  created: '2017-02-02T18:48:50.081029'
-  description: "月報\r\n"
-  format: HTML
-  hash: ''
-  id: a96f5c13-cbc1-4fd7-99ef-e6ae5e2cadd3
-  last_modified: null
-  mimetype: null
-  mimetype_inner: null
-  name: 月報
-  package_id: 9d3647cf-4a2f-4f0a-9495-9cafe29828f6
-  position: 1
-  resource_type: null
-  size: null
-  url: http://www.city.kobe.lg.jp/information/institution/market/geppou.html
-  url_type: null
-  webstore_last_updated: null
-  webstore_url: null
-- cache_last_updated: null
-  cache_url: null
-  created: '2017-02-02T18:49:02.127566'
-  description: "年報\r\n"
-  format: HTML
-  hash: ''
-  id: 10427218-d190-4293-8791-5015683d0b00
-  last_modified: null
-  mimetype: null
-  mimetype_inner: null
-  name: 年報
-  package_id: 9d3647cf-4a2f-4f0a-9495-9cafe29828f6
-  position: 2
-  resource_type: null
-  size: null
-  url: http://www.city.kobe.lg.jp/information/institution/market/geppou.html
-  url_type: null
-  webstore_last_updated: null
-  webstore_url: null
-revision_id: 389ca064-b6d4-4b72-bc33-87a3bad07ea9
-state: active
-tags:
-- 統計
-title: 市場取引情報
-type: dataset
-url: http://www.city.kobe.lg.jp/information/institution/market/sikyou.html
 version: ''
 ---
 author: 農政部 計画課
