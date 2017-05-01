@@ -14,7 +14,7 @@ license_url: http://www.opendefinition.org/licenses/cc-by
 maintainer: ''
 maintainer_email: ''
 metadata_created: '2017-03-01T05:32:47.346409'
-metadata_modified: '2017-04-03T09:03:39.717130'
+metadata_modified: '2017-05-01T00:51:51.002177'
 name: dataset-00000141
 notes: 神戸市オープンデータポータルに掲載されているデータの登録状況及びアクセス状況
 notes_rendered: <p>神戸市オープンデータポータルに掲載されているデータの登録状況及びアクセス状況</p>
@@ -45,7 +45,7 @@ resources:
   format: JSON
   hash: ''
   id: 53d6b3cc-b49b-4488-8276-2744feb4173a
-  last_modified: '2017-04-03T09:03:39.696965'
+  last_modified: '2017-05-01T00:50:01.057580'
   mimetype: null
   mimetype_inner: null
   name: データセット登録状況
@@ -60,11 +60,11 @@ resources:
 - cache_last_updated: null
   cache_url: null
   created: '2017-03-01T14:39:55.700301'
-  description: データセット別月別のページビュー数及び訪問者数
+  description: "データセット別月別のページビュー数及び訪問者数\r\n※平成29年5月より、Google Analyticsのデータで公開するようにしました。"
   format: XLSX
   hash: ''
   id: 997b6f8b-a9b1-4ad7-9de4-edbf18c7fc73
-  last_modified: '2017-04-03T09:02:30.354722'
+  last_modified: '2017-05-01T00:51:50.972756'
   mimetype: null
   mimetype_inner: null
   name: データセット別月別アクセス状況
@@ -72,7 +72,7 @@ resources:
   position: 1
   resource_type: null
   size: null
-  url: https://data.city.kobe.lg.jp/data/dataset/d3822cfe-239b-472f-b6da-35bfb7ecbdd5/resource/997b6f8b-a9b1-4ad7-9de4-edbf18c7fc73/download/172.16.4.205disk1ictz-01-work0151access.xlsx
+  url: https://data.city.kobe.lg.jp/data/dataset/d3822cfe-239b-472f-b6da-35bfb7ecbdd5/resource/997b6f8b-a9b1-4ad7-9de4-edbf18c7fc73/download/172.16.4.205disk1ictz-01-work0151google-analytics.csv
   url_type: upload
   webstore_last_updated: null
   webstore_url: null
@@ -101,6 +101,72 @@ tags: []
 title: データセット状況
 type: dataset
 url: ''
+version: ''
+---
+author: 創造都市推進部
+author_email: ''
+ckan_url: https://data.city.kobe.lg.jp/data/dataset/kobe-today
+creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
+extras: {}
+groups: []
+id: d387f3a9-30b5-4e0d-abd7-bf4888783dab
+isopen: true
+license: クリエイティブ・コモンズ 表示
+license_id: cc-by
+license_title: クリエイティブ・コモンズ 表示
+license_url: http://www.opendefinition.org/licenses/cc-by
+maintainer: ''
+maintainer_email: ''
+metadata_created: '2017-04-28T08:59:28.660727'
+metadata_modified: '2017-04-28T09:00:27.891111'
+name: kobe-today
+notes: KOBE TODAYに掲載されているイベント情報をSPARQLエンドポイントで公開しています。
+notes_rendered: <p>KOBE TODAYに掲載されているイベント情報をSPARQLエンドポイントで公開しています。</p>
+num_resources: 1
+num_tags: 0
+organization:
+  approval_status: approved
+  created: '2016-03-23T00:21:39.544252'
+  description: 政策の企画・立案、重要施策の調整、総合基本計画、各種統計、創造都市戦略「デザイン都市・神戸」の推進、神戸医療産業都市の推進、企業誘致施策、情報化の推進など
+  id: cfa5ffc6-52cd-42d7-8e72-8c1dc58df27d
+  image_url: ''
+  is_organization: true
+  name: org_0040
+  revision_id: 5bb86d03-e2d8-4d30-b8da-5f1557fc1b6c
+  state: active
+  title: 企画調整局
+  type: organization
+owner_org: cfa5ffc6-52cd-42d7-8e72-8c1dc58df27d
+private: false
+ratings_average: null
+ratings_count: 0
+relationships: []
+resources:
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-04-28T18:00:26.827788'
+  description: ''
+  format: HTML
+  hash: ''
+  id: af0f579d-17ea-4cbc-8444-f8bb8efc86a7
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: SPARQLエンドポイント
+  package_id: d387f3a9-30b5-4e0d-abd7-bf4888783dab
+  position: 0
+  resource_type: null
+  size: null
+  url: https://data.city.kobe.lg.jp/sparql
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+revision_id: 296876ef-5bea-4b4f-9bae-e97ddf5731a7
+state: active
+tags: []
+title: KOBE TODAYイベント情報
+type: dataset
+url: https://data.city.kobe.lg.jp/api/
 version: ''
 ---
 author: 創造都市推進部
