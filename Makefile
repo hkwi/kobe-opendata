@@ -4,7 +4,6 @@ all: catalog waketon nobipass kouhoushi toukei
 
 catalog:
 	mkdir -p import/catalog
-	-wget -q -N -P import/catalog -i <(python3 catalog.py)
 	
 	python3 catalog_v2.py
 	mkdir -p import/catalog_v2

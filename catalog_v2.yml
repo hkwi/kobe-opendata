@@ -14,7 +14,7 @@ license_url: http://www.opendefinition.org/licenses/cc-by
 maintainer: ''
 maintainer_email: ''
 metadata_created: '2017-03-01T05:32:47.346409'
-metadata_modified: '2017-05-01T00:51:51.002177'
+metadata_modified: '2017-06-01T05:15:53.109274'
 name: dataset-00000141
 notes: 神戸市オープンデータポータルに掲載されているデータの登録状況及びアクセス状況
 notes_rendered: <p>神戸市オープンデータポータルに掲載されているデータの登録状況及びアクセス状況</p>
@@ -45,7 +45,7 @@ resources:
   format: JSON
   hash: ''
   id: 53d6b3cc-b49b-4488-8276-2744feb4173a
-  last_modified: '2017-05-01T00:50:01.057580'
+  last_modified: '2017-06-01T02:49:37.063474'
   mimetype: null
   mimetype_inner: null
   name: データセット登録状況
@@ -61,10 +61,10 @@ resources:
   cache_url: null
   created: '2017-03-01T14:39:55.700301'
   description: "データセット別月別のページビュー数及び訪問者数\r\n※平成29年5月より、Google Analyticsのデータで公開するようにしました。"
-  format: XLSX
+  format: CSV
   hash: ''
   id: 997b6f8b-a9b1-4ad7-9de4-edbf18c7fc73
-  last_modified: '2017-05-01T00:51:50.972756'
+  last_modified: '2017-06-01T05:15:53.089778'
   mimetype: null
   mimetype_inner: null
   name: データセット別月別アクセス状況
