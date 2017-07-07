@@ -336,6 +336,12 @@
 	<marker number="340" area="東灘区" name="六甲ライナー　マリンパーク駅" zipcode="658-0032" location="東灘区向洋町中4丁目" category="公共交通機関" lat="34.684124" lng="135.27016" note="貸出時間制限有"/>
 	<marker number="341" area="東灘区" name="たかくら内科・循環器科" zipcode="658-0015" location="東灘区本山南町９丁目8-37ナカタカンモノビル1階" category="医療関連施設" lat="34.723597" lng="135.278427" note="貸出時間制限有"/>
 	<marker number="342" area="東灘区" name="市橋クリニック" zipcode="658-0013" location="東灘区深江北町5丁目7-15" category="医療関連施設" lat="34.722792" lng="135.289392" note="24時間対応"/>
+	<marker number="343" area="東灘区" name="ダイエー甲南店" zipcode="658-0015" location="東灘区本山南町8丁目7-18" category="商業施設" lat="34.724751" lng="135.28272" note="貸出時間制限有"/>
+	<marker number="344" area="東灘区" name="ダイエーグルメシティ本山店" zipcode="658-0072" location="東灘区岡本1丁目9-6" category="商業施設" lat="34.727533" lng="135.275221" note="貸出時間制限有"/>
+	<marker number="347" area="東灘区" name="魚崎西町会館" zipcode="658-0026" location="東灘区魚崎西町4丁目3-21" category="集会場・公民館・地域福祉センター" lat="34.712256" lng="135.266821" note="貸出時間制限有"/>
+	<marker number="348" area="東灘区" name="魚崎わかばサロン" zipcode="658-0083" location="東灘区魚崎中町4丁目10-54" category="集会場・公民館・地域福祉センター" lat="34.714985" lng="135.270467" note="貸出時間制限有"/>
+	<marker number="349" area="東灘区" name="魚崎会館" zipcode="658-0025" location="東灘区魚崎南町3丁目6-7" category="集会場・公民館・地域福祉センター" lat="34.709703" lng="135.275954" note="貸出時間制限有"/>
+	<marker number="350" area="東灘区" name="横尾会館" zipcode="658-0082" location="東灘区魚崎北町2丁目7-1" category="集会場・公民館・地域福祉センター" lat="34.717811" lng="135.273618" note="貸出時間制限有"/>
 	<marker number="1" area="灘区" name="六甲学院" zipcode="657-0015" location="灘区篠原伯母野山町2丁目4番1号" category="学校・園・児童館" lat="34.727989" lng="135.227345" note="貸出時間制限有"/>
 	<marker number="2" area="灘区" name="松蔭中学校・高等学校" zipcode="657-0805" location="灘区青谷町3－4－47" category="学校・園・児童館" lat="34.713929" lng="135.210562" note="貸出時間制限有"/>
 	<marker number="3" area="灘区" name="灘区医師会" zipcode="657-0831" location="灘区水道筋1－24" category="医療関連施設" lat="34.714474" lng="135.227481" note="貸出時間制限有"/>
@@ -730,7 +736,7 @@
 	<marker number="122" area="中央区" name="みなと銀行　春日野支店" zipcode="651-0071" location="中央区筒井町3-12-14" category="商業施設" lat="34.702683" lng="135.207284" note="貸出時間制限有"/>
 	<marker number="123" area="中央区" name="みなと銀行　三宮支店" zipcode="650-0021" location="中央区三宮町1-10-1" category="商業施設" lat="34.693287" lng="135.194092" note="貸出時間制限有"/>
 	<marker number="124" area="中央区" name="部落解放同盟兵庫県連合会(兵庫人権会館)" zipcode="650-0003" location="中央区山本通4-22-25" category="会社・事業所" lat="34.69457" lng="135.180777" note="貸出時間制限有"/>
-	<marker number="125" area="中央区" name="神戸地下街株式会社" zipcode="650-0021" location="中央区三宮町1-10-1" category="商業施設" lat="34.691885" lng="135.195068" note="貸出時間制限有"/>
+	<marker number="125" area="中央区" name="神戸地下街株式会社" zipcode="650-0021" location="中央区三宮町1-10-1" category="商業施設" lat="34.691885" lng="135.195068" note="24時間対応"/>
 	<marker number="126" area="中央区" name="神戸信用金庫　春日野支店" zipcode="651-0079" location="中央区東雲通1-1-18" category="商業施設" lat="34.701928" lng="135.207271" note="貸出時間制限有"/>
 	<marker number="127" area="中央区" name="雲中地域福祉センター" zipcode="651-0068" location="中央区旗塚通4-4-20" category="集会場・公民館・地域福祉センター" lat="34.70456626" lng="135.2016795" note="貸出時間制限有"/>
 	<marker number="128" area="中央区" name="大神ビル" zipcode="650-0031" location="中央区東町113" category="商業施設" lat="34.68927483" lng="135.1951818" note="貸出時間制限有"/>
@@ -850,6 +856,8 @@
 	<marker number="251" area="中央区" name="武富整形外科" zipcode="650-0004" location="中央区中山手通1-24-4　ドラゴンビル4階" category="医療関連施設" lat="34.697077" lng="135.191675" note="貸出時間制限有"/>
 	<marker number="252" area="中央区" name="神戸信用金庫　北野法人営業部" zipcode="650-0003" location="中央区山本通2丁目8-12" category="会社・事業所" lat="34.698176" lng="135.187856" note="貸出時間制限有"/>
 	<marker number="253" area="中央区" name="株式会社きんでん　神戸支店" zipcode="651-0083" location="中央区浜辺通4丁目1-1" category="会社・事業所" lat="34.689242" lng="135.200714" note="貸出時間制限有"/>
+	<marker number="254" area="中央区" name="御幸ビル株式会社" zipcode="651-0087" location="中央区御幸通6丁目1-15" category="会社・事業所" lat="34.693327" lng="135.197383" note="貸出時間制限有"/>
+	<marker number="255" area="中央区" name="大倉山駐車場" zipcode="650-0017" location="中央区楠町4丁目" category="その他" lat="34.683292" lng="135.174069" note="24時間対応"/>
 	<marker number="1" area="兵庫区" name="神戸高速鉄道㈱　大開駅" zipcode="652-0802" location="兵庫区水木通7丁目" category="公共交通機関" lat="34.671757" lng="135.162539" note="貸出時間制限有"/>
 	<marker number="2" area="兵庫区" name="神戸高速鉄道㈱　新開地駅" zipcode="652-0811" location="兵庫区新開地2丁目" category="公共交通機関" lat="34.676067" lng="135.169451" note="貸出時間制限有"/>
 	<marker number="3" area="兵庫区" name="神戸信用金庫　中央支店" zipcode="652-0802" location="兵庫区水木通1-1-8" category="商業施設" lat="34.67656" lng="135.169525" note="貸出時間制限有"/>
@@ -1009,6 +1017,7 @@
 	<marker number="170" area="兵庫区" name="岩崎内科クリニック" zipcode="652-0047" location="兵庫区下沢通6丁目1-28" category="医療関連施設" lat="34.674723" lng="135.161034" note="貸出時間制限有"/>
 	<marker number="171" area="兵庫区" name="井上クリニック" zipcode="652-0034" location="兵庫区西橘通1丁目1-1" category="医療関連施設" lat="34.680173" lng="135.172788" note="貸出時間制限有"/>
 	<marker number="172" area="兵庫区" name="真境名歯科医院" zipcode="652-0032" location="兵庫区荒田町4丁目7-3" category="医療関連施設" lat="34.68255" lng="135.165555" note="貸出時間制限有"/>
+	<marker number="173" area="兵庫区" name="ホテルサンルートソプラ神戸アネッサ" zipcode="652-0812" location="兵庫区湊町4丁目1-11" category="宿泊施設" lat="34.67589" lng="135.171252" note="24時間対応"/>
 	<marker number="1" area="北区" name="有馬温泉観光総合案内所" zipcode="651-1401" location="北区有馬町790番地3" category="商業施設" lat="34.797783" lng="135.247773" note="貸出時間制限有"/>
 	<marker number="2" area="北区" name="有馬本温泉　金の湯" zipcode="651-1401" location="北区有馬町833" category="入浴施設" lat="34.796732" lng="135.247889" note="貸出時間制限有"/>
 	<marker number="3" area="北区" name="神戸電鉄㈱　鈴蘭台駅" zipcode="651-1111" location="北区鈴蘭台北町1丁目7番17号" category="公共交通機関" lat="34.723646" lng="135.145965" note="貸出時間制限有"/>
@@ -1297,6 +1306,7 @@
 	<marker number="298" area="北区" name="やすらぎの里　道場" zipcode="651-1505" location="北区道場町塩田3080番" category="福祉施設" lat="34.87206" lng="135.246162" note="24時間対応"/>
 	<marker number="299" area="北区" name="株式会社　ケー・エフ・シー" zipcode="651-1505" location="北区道場町日下部300番" category="会社・事業所" lat="34.859076" lng="135.229439" note="貸出時間制限有"/>
 	<marker number="300" area="北区" name="イオン藤原台店" zipcode="651-1302" location="北区藤原台中町1-2-2" category="商業施設" lat="34.821929" lng="135.220526" note="貸出時間制限有"/>
+	<marker number="301" area="北区" name="神戸市道路公社" zipcode="651-1243" location="北区山田町下谷上字池ノ内6番１" category="官公庁" lat="34.761049" lng="135.157136" note="貸出時間制限有"/>
 	<marker number="1" area="長田区" name="神戸高速鉄道㈱　高速長田駅" zipcode="653-0016" location="長田区北町1－2" category="公共交通機関" lat="34.667265" lng="135.15178" note="貸出時間制限有"/>
 	<marker number="2" area="長田区" name="釜田歯科医院" zipcode="653-0843" location="長田区御屋敷通2丁目3-1" category="医療関連施設" lat="34.661285" lng="135.144407" note="貸出時間制限有"/>
 	<marker number="3" area="長田区" name="兵庫県立文化体育館" zipcode="653-0837" location="長田区蓮池町1-1" category="体育施設・スポーツクラブ" lat="34.663514" lng="135.144154" note="貸出時間制限有"/>
@@ -1830,6 +1840,34 @@
 	<marker number="174" area="垂水区" name="ふるさと　特別養護老人ホーム" zipcode="655-0872" location="垂水区塩屋町6-38-8" category="福祉施設" lat="34.636146" lng="135.07392" note="24時間対応"/>
 	<marker number="175" area="垂水区" name="神戸市立　舞多聞小学校" zipcode="655-0051" location="垂水区舞多聞西5-11-12" category="学校・園・児童館" lat="34.666259" lng="135.049757" note="貸出時間制限有"/>
 	<marker number="176" area="垂水区" name="ライフスポーツKTV垂水" zipcode="655-0038" location="垂水区星陵台1丁目4-1" category="体育施設・スポーツクラブ" lat="34.639745" lng="135.046531" note="24時間対応"/>
+	<marker number="177" area="垂水区" name="桃の木幼稚園" zipcode="655-0854" location="垂水区桃山台3丁目23-2" category="学校・園・児童館" lat="34.65701" lng="135.081466" note="貸出時間制限有"/>
+	<marker number="178" area="垂水区" name="舞子台グループホーム" zipcode="655-0046" location="垂水区舞子台7丁目3-6" category="福祉施設" lat="34.640097" lng="135.03812" note="貸出時間制限有"/>
+	<marker number="179" area="垂水区" name="愛徳学園中・高等学校" zipcode="655-0037" location="垂水区歌敷山3丁目6-49" category="学校・園・児童館" lat="34.638637" lng="135.042961" note="貸出時間制限有"/>
+	<marker number="180" area="垂水区" name="千鳥が丘親和保育園" zipcode="655-0011" location="垂水区千鳥が丘3丁目23-25" category="学校・園・児童館" lat="34.645195" lng="135.058888" note="貸出時間制限有"/>
+	<marker number="181" area="垂水区" name="元村歯科医院" zipcode="655-0854" location="垂水区桃山台3丁目11-10" category="医療関連施設" lat="34.656193" lng="135.080085" note="貸出時間制限有"/>
+	<marker number="182" area="垂水区" name="丸山歯科医院" zipcode="655-0004" location="垂水区学が丘4丁目25-1" category="医療関連施設" lat="34.660846" lng="135.055149" note="貸出時間制限有"/>
+	<marker number="183" area="垂水区" name="ウェルシア薬局　SP垂水小束山店" zipcode="655-0003" location="垂水区小束山本町3丁目1-2" category="医療関連施設" lat="34.665123" lng="135.063353" note="貸出時間制限有"/>
+	<marker number="184" area="垂水区" name="みどりの丘" zipcode="655-0008" location="垂水区小束台868-1130" category="高齢者施設" lat="34.674234" lng="135.052595" note="貸出時間制限有"/>
+	<marker number="185" area="垂水区" name="エイジングフリーハウス神戸学が丘" zipcode="655-0004" location="垂水区学が丘4丁目9-3" category="集合住宅" lat="34.659985" lng="135.058593" note="24時間対応"/>
+	<marker number="186" area="垂水区" name="舞子すみれ園" zipcode="655-0048" location="垂水区西舞子6丁目1-13" category="高齢者施設" lat="34.641927" lng="135.024887" note="24時間対応"/>
+	<marker number="187" area="垂水区" name="たけのこども園" zipcode="655-0891" location="垂水区山手2丁目3-18" category="学校・園・児童館" lat="34.631096" lng="135.062449" note="貸出時間制限有"/>
+	<marker number="189" area="垂水区" name="西部在宅障害者福祉センター" zipcode="655-0006" location="垂水区本多聞７丁目２-３" category="福祉施設" lat="34.651575" lng="135.044208" note="貸出時間制限有"/>
+	<marker number="190" area="垂水区" name="学が丘幼稚園" zipcode="655-0004" location="垂水区学が丘1丁目10番" category="学校・園・児童館" lat="34.652601" lng="135.051613" note="貸出時間制限有"/>
+	<marker number="191" area="垂水区" name="本州四国連絡高速道路　神戸管理センター" zipcode="655-0852" location="垂水区名谷町549番" category="会社・事業所" lat="34.655088" lng="135.066259" note="貸出時間制限有"/>
+	<marker number="192" area="垂水区" name="メープルホーム" zipcode="655-0852" location="垂水区名谷町大谷1905-1" category="福祉施設" lat="34.66394" lng="135.070018" note="貸出時間制限有"/>
+	<marker number="193" area="垂水区" name="たかつか保育園" zipcode="655-0009" location="垂水区小束山手１丁目24-1" category="学校・園・児童館" lat="34.675608" lng="135.065067" note="貸出時間制限有"/>
+	<marker number="194" area="垂水区" name="舞子幼稚園" zipcode="655-0048" location="垂水区西舞子４丁目2-5" category="学校・園・児童館" lat="34.642819" lng="135.028898" note="貸出時間制限有"/>
+	<marker number="195" area="垂水区" name="舞子保育園" zipcode="655-0048" location="垂水区西舞子2丁目12-27" category="学校・園・児童館" lat="34.641011" lng="135.029068" note="貸出時間制限有"/>
+	<marker number="196" area="垂水区" name="ユトリーム朝霧" zipcode="655-0049" location="垂水区狩口台6丁目12-1" category="福祉施設" lat="34.643834" lng="135.019201" note="24時間対応"/>
+	<marker number="197" area="垂水区" name="多聞台児童館" zipcode="655-0007" location="垂水区多聞台3丁目9-13" category="学校・園・児童館" lat="34.662344" lng="135.0401" note="貸出時間制限有"/>
+	<marker number="198" area="垂水区" name="おとぎ認定こども園" zipcode="655-0874" location="垂水区美山台2丁目1-3" category="学校・園・児童館" lat="34.639598" lng="135.07027" note="貸出時間制限有"/>
+	<marker number="199" area="垂水区" name="しおやこども園" zipcode="655-0872" location="垂水区塩屋町3丁目23-1" category="学校・園・児童館" lat="34.637487" lng="135.083316" note="貸出時間制限有"/>
+	<marker number="200" area="垂水区" name="塩屋幼稚園" zipcode="655-0872" location="垂水区塩屋町9丁目22-3" category="学校・園・児童館" lat="34.639456" lng="135.08108" note="貸出時間制限有"/>
+	<marker number="201" area="垂水区" name="高丸幼稚園" zipcode="655-0014" location="垂水区大町5丁目1-10" category="学校・園・児童館" lat="34.63847" lng="135.061207" note="貸出時間制限有"/>
+	<marker number="202" area="垂水区" name="コーポ歌敷山" zipcode="655-0037" location="垂水区歌敷山4丁目9-38" category="福祉施設" lat="34.63547" lng="135.040581" note="貸出時間制限有"/>
+	<marker number="203" area="垂水区" name="須磨浦遊園ふんすいランド売店" zipcode="655-0872" location="垂水区塩屋町梅木谷778-12" category="商業施設" lat="34.641978" lng="135.092751" note="貸出時間制限有"/>
+	<marker number="204" area="垂水区" name="神戸少年の町" zipcode="655-0872" location="垂水区塩屋町梅木谷720" category="福祉施設" lat="34.639526" lng="135.0845" note="24時間対応"/>
+	<marker number="205" area="垂水区" name="エクレ小束台" zipcode="655-0008" location="垂水区小束台868-1134" category="福祉施設" lat="34.673064" lng="135.054043" note="貸出時間制限有"/>
 	<marker number="2" area="西区" name="神戸市営地下鉄　西神中央駅" zipcode="651-2273" location="西区糀台5丁目" category="公共交通機関" lat="34.719472" lng="135.017614" note="貸出時間制限有"/>
 	<marker number="3" area="西区" name="神戸市立　西体育館" zipcode="651-2276" location="西区春日台5丁目436番地" category="体育施設・スポーツクラブ" lat="34.702879" lng="134.989172" note="貸出時間制限有"/>
 	<marker number="4" area="西区" name="神戸市立　外国語大学" zipcode="651-2102" location="西区学園東町9丁目1" category="学校・園・児童館" lat="34.680416" lng="135.060047" note="貸出時間制限有"/>
@@ -2110,6 +2148,7 @@
 	<marker number="286" area="西区" name="フェニックス月が丘ケアセンター" zipcode="651-2217" location="西区月が丘1丁目632-14" category="福祉施設" lat="34.756296" lng="135.050074" note="貸出時間制限有"/>
 	<marker number="287" area="西区" name="中嶋石油株式会社　セルフ西神高和SS" zipcode="651-2204" location="西区押部谷町高和732" category="商業施設" lat="34.742269" lng="135.013001" note="24時間対応"/>
 	<marker number="288" area="西区" name="プレンティ2番館　(株)OMこうべ" zipcode="651-2273" location="西区糀台5丁目2-3" category="商業施設" lat="34.719441" lng="135.020159" note="24時間対応"/>
+	<marker number="289" area="西区" name="市立いぶき明生支援学校" zipcode="651-2243" location="西区井吹台西町7-1" category="学校・園・児童館" lat="34.694925" lng="135.014731" note="貸出時間制限有"/>
 	<marker number="1" area="水上" name="㈱築港ポートアイランド化学品センター" zipcode="650-0045" location="中央区港島8丁目7" category="会社・事業所" lat="34.670277" lng="135.232668" note="貸出時間制限有"/>
 	<marker number="2" area="水上" name="㈱ホテルオークラ神戸" zipcode="650-0042" location="中央区波止場町2-1" category="宿泊施設" lat="34.683948" lng="135.187966" note="24時間対応"/>
 	<marker number="3" area="水上" name="神戸国際会議場（財団法人　神戸国際観光ｺﾝﾍﾞﾝｼｮﾝ協会）　" zipcode="650-0046" location="中央区港島中町6-9-1" category="集会場・公民館・地域福祉センター" lat="34.666377" lng="135.21286" note="貸出時間制限有"/>
@@ -2124,6 +2163,7 @@
 	<marker number="13" area="水上" name="神戸海洋博物館・カワサキワールド" zipcode="650-0042" location="中央区波止場町2-2" category="公園・文教施設" lat="34.683039" lng="135.188516" note="貸出時間制限有"/>
 	<marker number="14" area="水上" name="神戸信用金庫　ﾎﾟｰﾄｱｲﾗﾝﾄﾞ支店" zipcode="650-0046" location="中央区港島中町3-2-6" category="商業施設" lat="34.670027" lng="135.210417" note="貸出時間制限有"/>
 	<marker number="15" area="水上" name="神戸ﾎﾟｰﾄﾀﾜｰ" zipcode="650-0042" location="中央区波止場町5-5" category="公園・文教施設" lat="34.682702" lng="135.186803" note="貸出時間制限有"/>
+	<marker number="16" area="水上" name="サニーピア医療保険協会" zipcode="650-0042" location="中央区波止場町3-12" category="福祉施設" lat="34.685011" lng="135.188901" note="貸出時間制限有"/>
 	<marker number="17" area="水上" name="神戸市立　義務教育学校港島学園　中学部" zipcode="650-0046" location="中央区港島中町3-2-2" category="学校・園・児童館" lat="34.669665" lng="135.214237" note="貸出時間制限有"/>
 	<marker number="18" area="水上" name="早駒運輸㈱" zipcode="650-0042" location="中央区波止場町2-7" category="会社・事業所" lat="34.684555" lng="135.189971" note="貸出時間制限有"/>
 	<marker number="19" area="水上" name="神戸商工会議所" zipcode="650-0046" location="中央区港島中町6-1" category="会社・事業所" lat="34.667003" lng="135.212131" note="貸出時間制限有"/>

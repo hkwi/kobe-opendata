@@ -14,7 +14,7 @@ license_url: http://www.opendefinition.org/licenses/cc-by
 maintainer: ''
 maintainer_email: ''
 metadata_created: '2017-03-01T05:32:47.346409'
-metadata_modified: '2017-06-01T05:15:53.109274'
+metadata_modified: '2017-07-03T00:12:44.307452'
 name: dataset-00000141
 notes: 神戸市オープンデータポータルに掲載されているデータの登録状況及びアクセス状況
 notes_rendered: <p>神戸市オープンデータポータルに掲載されているデータの登録状況及びアクセス状況</p>
@@ -45,7 +45,7 @@ resources:
   format: JSON
   hash: ''
   id: 53d6b3cc-b49b-4488-8276-2744feb4173a
-  last_modified: '2017-06-01T02:49:37.063474'
+  last_modified: '2017-07-03T00:12:44.280022'
   mimetype: null
   mimetype_inner: null
   name: データセット登録状況
@@ -102,6 +102,98 @@ title: データセット状況
 type: dataset
 url: ''
 version: ''
+---
+author: 危機管理室
+author_email: null
+ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000002
+creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
+extras:
+  コピーライト: ''
+  作成頻度: ''
+  使用言語: ja
+  文字コード: ''
+  連絡先メールアドレス: ''
+  連絡先電話番号: ''
+groups:
+- 5eccbc53-86ea-482a-8594-5224aaf5f2c6
+id: 8ec547cc-f9aa-4853-acfb-83677fbc7bce
+isopen: false
+license: null
+license_id: CC0
+license_title: CC0
+maintainer: 危機管理室
+maintainer_email: null
+metadata_created: '2016-04-11T03:44:06.979417'
+metadata_modified: '2017-06-30T07:07:25.444331'
+name: dataset-00000002
+notes: 災害時の避難先
+notes_rendered: <p>災害時の避難先</p>
+num_resources: 2
+num_tags: 1
+organization:
+  approval_status: approved
+  created: '2016-03-23T00:21:38.702143'
+  description: 防災・国民保護など
+  id: 8027fbef-058a-4292-a321-e19c199ffaa4
+  image_url: ''
+  is_organization: true
+  name: org_0020
+  revision_id: bb57d85d-fad3-44a8-9f01-38f99f98c878
+  state: active
+  title: 危機管理室
+  type: organization
+owner_org: 8027fbef-058a-4292-a321-e19c199ffaa4
+private: false
+ratings_average: null
+ratings_count: 0
+relationships: []
+resources:
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-04-11T12:44:08.861306'
+  description: 屋内の緊急避難場所の位置情報、特定の災害時の利用の可否の情報(河川氾濫時は他の避難所に行くようになどの指示も含む)
+  format: CSV
+  hash: ''
+  id: 88255ef7-6d8b-405c-9191-5749b6325774
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 屋内の緊急避難場所
+  package_id: 8ec547cc-f9aa-4853-acfb-83677fbc7bce
+  position: 0
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/safety/prevention/evacuation/201706okunaihinanjo.csv
+  url_type: ''
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-04-11T12:44:09.672708'
+  description: 屋外の緊急避難場所の位置情報、特定の災害時の利用の可否の情報
+  format: CSV
+  hash: ''
+  id: dcb155c9-383d-4c23-bf3e-d5588374b36a
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 屋外の緊急避難場所
+  package_id: 8ec547cc-f9aa-4853-acfb-83677fbc7bce
+  position: 1
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/safety/prevention/evacuation/2017okugaihinanjo.csv
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+revision_id: 5972e411-bf37-46e2-807d-9a30841322e8
+state: active
+tags:
+- 施設
+title: 避難場所
+type: dataset
+url: http://www.city.kobe.lg.jp/safety/prevention/evacuation/
+version: null
 ---
 author: 創造都市推進部
 author_email: ''
@@ -16841,98 +16933,6 @@ title: 神戸市東灘区広報紙コミコミ
 type: dataset
 url: http://www.city.kobe.lg.jp/ward/kuyakusho/higashinada/oshirase/kouhoushi/
 version: ''
----
-author: 危機管理室
-author_email: null
-ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000002
-creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
-extras:
-  コピーライト: ''
-  作成頻度: ''
-  使用言語: ja
-  文字コード: ''
-  連絡先メールアドレス: ''
-  連絡先電話番号: ''
-groups:
-- 5eccbc53-86ea-482a-8594-5224aaf5f2c6
-id: 8ec547cc-f9aa-4853-acfb-83677fbc7bce
-isopen: false
-license: null
-license_id: CC0
-license_title: CC0
-maintainer: 危機管理室
-maintainer_email: null
-metadata_created: '2016-04-11T03:44:06.979417'
-metadata_modified: '2016-06-01T11:05:13.717374'
-name: dataset-00000002
-notes: 災害時の避難先
-notes_rendered: <p>災害時の避難先</p>
-num_resources: 2
-num_tags: 1
-organization:
-  approval_status: approved
-  created: '2016-03-23T00:21:38.702143'
-  description: 防災・国民保護など
-  id: 8027fbef-058a-4292-a321-e19c199ffaa4
-  image_url: ''
-  is_organization: true
-  name: org_0020
-  revision_id: bb57d85d-fad3-44a8-9f01-38f99f98c878
-  state: active
-  title: 危機管理室
-  type: organization
-owner_org: 8027fbef-058a-4292-a321-e19c199ffaa4
-private: false
-ratings_average: null
-ratings_count: 0
-relationships: []
-resources:
-- cache_last_updated: null
-  cache_url: null
-  created: '2016-04-11T12:44:08.861306'
-  description: 屋内の緊急避難場所の位置情報、特定の災害時の利用の可否の情報(河川氾濫時は他の避難所に行くようになどの指示も含む)
-  format: CSV
-  hash: ''
-  id: 88255ef7-6d8b-405c-9191-5749b6325774
-  last_modified: null
-  mimetype: null
-  mimetype_inner: null
-  name: 屋内の緊急避難場所
-  package_id: 8ec547cc-f9aa-4853-acfb-83677fbc7bce
-  position: 0
-  resource_type: null
-  size: null
-  url: http://www.city.kobe.lg.jp/safety/okunai.csv
-  url_type: ''
-  webstore_last_updated: null
-  webstore_url: null
-- cache_last_updated: null
-  cache_url: null
-  created: '2016-04-11T12:44:09.672708'
-  description: 屋外の緊急避難場所の位置情報、特定の災害時の利用の可否の情報
-  format: CSV
-  hash: ''
-  id: dcb155c9-383d-4c23-bf3e-d5588374b36a
-  last_modified: null
-  mimetype: null
-  mimetype_inner: null
-  name: 屋外の緊急避難場所
-  package_id: 8ec547cc-f9aa-4853-acfb-83677fbc7bce
-  position: 1
-  resource_type: null
-  size: null
-  url: http://www.city.kobe.lg.jp/safety/okugai.csv
-  url_type: null
-  webstore_last_updated: null
-  webstore_url: null
-revision_id: 5972e411-bf37-46e2-807d-9a30841322e8
-state: active
-tags:
-- 施設
-title: 避難場所
-type: dataset
-url: http://www.city.kobe.lg.jp/safety/prevention/evacuation/
-version: null
 ---
 author: 政策調査課
 author_email: ''
