@@ -44,5 +44,5 @@ with open("catalog_v2_resources.txt","w") as fp:
 			if fmt.lower() == "pdf" and r["url"].endswith("/"):
 				# They're specifying pdf links under the url.
 				continue
-			assert fmt.lower() in "json wmv jpeg csv xls xlsx ppt pptx pdf xml".split(), r["format"]
+			assert fmt.lower() in "json wmv jpeg csv xls xlsx ppt pptx pdf xml txt".split(), r["format"]
 			w.writerow((r["url"],))

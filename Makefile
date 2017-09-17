@@ -15,7 +15,7 @@ waketon:
 	-wget -q -N -x -P import -i <(cat waketon.json | jq -r '.["@graph"][]["@id"]')
 
 nobipass:
-	-wget -o waketon.log -N -P import -r -np -A 'nobi-*.html' http://www.city.kobe.lg.jp/child/education/program/index_02-1.html
+	-wget -o nobipass.log -N -P import -r -np -A 'nobi-*.html' http://www.city.kobe.lg.jp/child/education/program/index_02-1.html
 
 kouhoushi:
 	-wget -o kouhoushi.log -N -P import -r -np -A '*.html' http://www.city.kobe.lg.jp/information/public/kouhoushi/
