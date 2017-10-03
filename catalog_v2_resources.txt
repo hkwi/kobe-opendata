@@ -1,3 +1,4 @@
+http://www.city.kobe.lg.jp/information/opendata/img/emergency_water_kobe_20170915.csv
 http://www.city.kobe.lg.jp/safety/prevention/evacuation/201706okunaihinanjo.csv
 http://www.city.kobe.lg.jp/safety/prevention/evacuation/2017okugaihinanjo.csv
 https://github.com/City-of-Kobe/kobe-today-map/blob/master/kobe_today_sparql.txt
@@ -784,4 +785,3 @@ http://www.city.kobe.lg.jp/information/opendata/img/sculpture_kobecity_20141128.
 http://www.city.kobe.lg.jp/information/opendata/img/filming_list_kobe.csv
 http://www.city.kobe.lg.jp/information/opendata/img/filming_location_kobe.csv
 http://www.city.kobe.lg.jp/information/opendata/img/yakei_kobe_20141128.csv
-http://www.city.kobe.lg.jp/information/opendata/img/emergency_water_kobe_20141128.csv

@@ -1,3 +1,76 @@
+author: 業務課
+author_email: null
+ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000004
+creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
+extras:
+  コピーライト: City of Kobe
+  作成頻度: ''
+  使用言語: ja
+  文字コード: ''
+  連絡先メールアドレス: ''
+  連絡先電話番号: ''
+groups:
+- 5eccbc53-86ea-482a-8594-5224aaf5f2c6
+id: 00acab9c-b5b4-4764-89f7-2268cfe9bc02
+isopen: false
+license: null
+license_id: CC-BY
+license_title: CC-BY
+maintainer: 業務課
+maintainer_email: null
+metadata_created: '2016-04-11T03:44:12.260797'
+metadata_modified: '2017-09-20T00:30:00.254565'
+name: dataset-00000004
+notes: 応急給水拠点の位置情報
+notes_rendered: <p>応急給水拠点の位置情報</p>
+num_resources: 1
+num_tags: 1
+organization:
+  approval_status: approved
+  created: '2016-03-23T00:21:43.784321'
+  description: 水道水・工業用水の供給、水道管などの水道施設の整備・維持管理、また、水源から蛇口に至るまでの水質管理など
+  id: ef27eb5c-3744-4100-987d-c5b889d01a9c
+  image_url: ''
+  is_organization: true
+  name: org_0150
+  revision_id: 33cc9598-6021-4576-97c9-fd3bd4342925
+  state: active
+  title: 水道局
+  type: organization
+owner_org: ef27eb5c-3744-4100-987d-c5b889d01a9c
+private: false
+ratings_average: null
+ratings_count: 0
+relationships: []
+resources:
+- cache_last_updated: null
+  cache_url: null
+  created: '2016-04-11T12:44:13.243111'
+  description: 応急給水拠点一覧
+  format: CSV
+  hash: ''
+  id: 12822a25-c7f5-426a-b9c8-e62cb8124a84
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 応急給水拠点一覧
+  package_id: 00acab9c-b5b4-4764-89f7-2268cfe9bc02
+  position: 0
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/opendata/img/emergency_water_kobe_20170915.csv
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+revision_id: c711bc97-8ed7-4562-9ee5-a04f5bf75637
+state: active
+tags:
+- 施設
+title: 応急給水拠点一覧
+type: dataset
+url: http://www.city.kobe.lg.jp/safety/prevention/water/10.html
+version: null
+---
 author: 危機管理室
 author_email: null
 ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000002
@@ -22684,79 +22757,6 @@ tags:
 title: 夜景スポット一覧
 type: dataset
 url: ''
-version: null
----
-author: 業務課
-author_email: null
-ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000004
-creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
-extras:
-  コピーライト: City of Kobe
-  作成頻度: ''
-  使用言語: ja
-  文字コード: ''
-  連絡先メールアドレス: ''
-  連絡先電話番号: ''
-groups:
-- 5eccbc53-86ea-482a-8594-5224aaf5f2c6
-id: 00acab9c-b5b4-4764-89f7-2268cfe9bc02
-isopen: false
-license: null
-license_id: CC-BY
-license_title: CC-BY
-maintainer: 業務課
-maintainer_email: null
-metadata_created: '2016-04-11T03:44:12.260797'
-metadata_modified: '2016-04-11T03:44:13.216392'
-name: dataset-00000004
-notes: 応急給水拠点の位置情報
-notes_rendered: <p>応急給水拠点の位置情報</p>
-num_resources: 1
-num_tags: 1
-organization:
-  approval_status: approved
-  created: '2016-03-23T00:21:43.784321'
-  description: 水道水・工業用水の供給、水道管などの水道施設の整備・維持管理、また、水源から蛇口に至るまでの水質管理など
-  id: ef27eb5c-3744-4100-987d-c5b889d01a9c
-  image_url: ''
-  is_organization: true
-  name: org_0150
-  revision_id: 33cc9598-6021-4576-97c9-fd3bd4342925
-  state: active
-  title: 水道局
-  type: organization
-owner_org: ef27eb5c-3744-4100-987d-c5b889d01a9c
-private: false
-ratings_average: null
-ratings_count: 0
-relationships: []
-resources:
-- cache_last_updated: null
-  cache_url: null
-  created: '2016-04-11T12:44:13.243111'
-  description: 応急給水拠点一覧
-  format: CSV
-  hash: ''
-  id: 12822a25-c7f5-426a-b9c8-e62cb8124a84
-  last_modified: null
-  mimetype: null
-  mimetype_inner: null
-  name: 応急給水拠点一覧
-  package_id: 00acab9c-b5b4-4764-89f7-2268cfe9bc02
-  position: 0
-  resource_type: null
-  size: null
-  url: http://www.city.kobe.lg.jp/information/opendata/img/emergency_water_kobe_20141128.csv
-  url_type: null
-  webstore_last_updated: null
-  webstore_url: null
-revision_id: c711bc97-8ed7-4562-9ee5-a04f5bf75637
-state: active
-tags:
-- 施設
-title: 応急給水拠点一覧
-type: dataset
-url: http://www.city.kobe.lg.jp/safety/prevention/water/10.html
 version: null
 ---
 author: 広報課
