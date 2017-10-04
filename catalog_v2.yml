@@ -1,3 +1,108 @@
+author: 創造都市推進部
+author_email: ''
+ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000141
+creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
+extras: {}
+groups:
+- b18a8508-9e22-4355-9d36-d8c4d94b7df9
+id: d3822cfe-239b-472f-b6da-35bfb7ecbdd5
+isopen: true
+license: クリエイティブ・コモンズ 表示
+license_id: cc-by
+license_title: クリエイティブ・コモンズ 表示
+license_url: http://www.opendefinition.org/licenses/cc-by
+maintainer: ''
+maintainer_email: ''
+metadata_created: '2017-03-01T05:32:47.346409'
+metadata_modified: '2017-10-04T02:57:45.539403'
+name: dataset-00000141
+notes: 神戸市オープンデータポータルに掲載されているデータの登録状況及びアクセス状況
+notes_rendered: <p>神戸市オープンデータポータルに掲載されているデータの登録状況及びアクセス状況</p>
+num_resources: 3
+num_tags: 0
+organization:
+  approval_status: approved
+  created: '2016-03-23T00:21:39.544252'
+  description: 政策の企画・立案、重要施策の調整、総合基本計画、各種統計、創造都市戦略「デザイン都市・神戸」の推進、神戸医療産業都市の推進、企業誘致施策、情報化の推進など
+  id: cfa5ffc6-52cd-42d7-8e72-8c1dc58df27d
+  image_url: ''
+  is_organization: true
+  name: org_0040
+  revision_id: 5bb86d03-e2d8-4d30-b8da-5f1557fc1b6c
+  state: active
+  title: 企画調整局
+  type: organization
+owner_org: cfa5ffc6-52cd-42d7-8e72-8c1dc58df27d
+private: false
+ratings_average: null
+ratings_count: 0
+relationships: []
+resources:
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-03-01T14:34:23.956644'
+  description: "CKAN APIより取得したデータセット登録状況\r\nhttps://data.city.kobe.lg.jp/data/api/action/current_package_list_with_resources?limit=200"
+  format: JSON
+  hash: ''
+  id: 53d6b3cc-b49b-4488-8276-2744feb4173a
+  last_modified: '2017-10-04T02:57:05.016121'
+  mimetype: null
+  mimetype_inner: null
+  name: データセット登録状況
+  package_id: d3822cfe-239b-472f-b6da-35bfb7ecbdd5
+  position: 0
+  resource_type: null
+  size: null
+  url: https://data.city.kobe.lg.jp/data/dataset/d3822cfe-239b-472f-b6da-35bfb7ecbdd5/resource/53d6b3cc-b49b-4488-8276-2744feb4173a/download/cplwr.json
+  url_type: upload
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-03-01T14:39:55.700301'
+  description: "データセット別月別のページビュー数及び訪問者数\r\n※平成29年5月より、Google Analyticsのデータで公開するようにしました。"
+  format: CSV
+  hash: ''
+  id: 997b6f8b-a9b1-4ad7-9de4-edbf18c7fc73
+  last_modified: '2017-10-04T02:57:45.513950'
+  mimetype: null
+  mimetype_inner: null
+  name: データセット別月別アクセス状況
+  package_id: d3822cfe-239b-472f-b6da-35bfb7ecbdd5
+  position: 1
+  resource_type: null
+  size: null
+  url: https://data.city.kobe.lg.jp/data/dataset/d3822cfe-239b-472f-b6da-35bfb7ecbdd5/resource/997b6f8b-a9b1-4ad7-9de4-edbf18c7fc73/download/google-analytics.csv
+  url_type: upload
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-03-01T16:03:40.600484'
+  description: オープンデータの登録状況やデータセットへのアクセス状況を可視化したもの
+  format: HTML
+  hash: ''
+  id: f99843f0-a249-4536-983d-7913a0d9fa8b
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: オープンデータダッシュボード
+  package_id: d3822cfe-239b-472f-b6da-35bfb7ecbdd5
+  position: 2
+  resource_type: null
+  size: null
+  url: https://data.city.kobe.lg.jp/dashboard/index.html
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+revision_id: b61d22fb-4213-4089-8b86-a53768c4d86f
+state: active
+tags: []
+title: データセット状況
+type: dataset
+url: ''
+version: ''
+---
 author: 業務課
 author_email: null
 ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000004
@@ -261,111 +366,6 @@ tags:
 title: Kobe Today Map用クエリ
 type: dataset
 url: https://github.com/City-of-Kobe/kobe-today-map
-version: ''
----
-author: 創造都市推進部
-author_email: ''
-ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000141
-creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
-extras: {}
-groups:
-- b18a8508-9e22-4355-9d36-d8c4d94b7df9
-id: d3822cfe-239b-472f-b6da-35bfb7ecbdd5
-isopen: true
-license: クリエイティブ・コモンズ 表示
-license_id: cc-by
-license_title: クリエイティブ・コモンズ 表示
-license_url: http://www.opendefinition.org/licenses/cc-by
-maintainer: ''
-maintainer_email: ''
-metadata_created: '2017-03-01T05:32:47.346409'
-metadata_modified: '2017-07-03T00:12:44.307452'
-name: dataset-00000141
-notes: 神戸市オープンデータポータルに掲載されているデータの登録状況及びアクセス状況
-notes_rendered: <p>神戸市オープンデータポータルに掲載されているデータの登録状況及びアクセス状況</p>
-num_resources: 3
-num_tags: 0
-organization:
-  approval_status: approved
-  created: '2016-03-23T00:21:39.544252'
-  description: 政策の企画・立案、重要施策の調整、総合基本計画、各種統計、創造都市戦略「デザイン都市・神戸」の推進、神戸医療産業都市の推進、企業誘致施策、情報化の推進など
-  id: cfa5ffc6-52cd-42d7-8e72-8c1dc58df27d
-  image_url: ''
-  is_organization: true
-  name: org_0040
-  revision_id: 5bb86d03-e2d8-4d30-b8da-5f1557fc1b6c
-  state: active
-  title: 企画調整局
-  type: organization
-owner_org: cfa5ffc6-52cd-42d7-8e72-8c1dc58df27d
-private: false
-ratings_average: null
-ratings_count: 0
-relationships: []
-resources:
-- cache_last_updated: null
-  cache_url: null
-  created: '2017-03-01T14:34:23.956644'
-  description: "CKAN APIより取得したデータセット登録状況\r\nhttps://data.city.kobe.lg.jp/data/api/action/current_package_list_with_resources?limit=200"
-  format: JSON
-  hash: ''
-  id: 53d6b3cc-b49b-4488-8276-2744feb4173a
-  last_modified: '2017-07-03T00:12:44.280022'
-  mimetype: null
-  mimetype_inner: null
-  name: データセット登録状況
-  package_id: d3822cfe-239b-472f-b6da-35bfb7ecbdd5
-  position: 0
-  resource_type: null
-  size: null
-  url: https://data.city.kobe.lg.jp/data/dataset/d3822cfe-239b-472f-b6da-35bfb7ecbdd5/resource/53d6b3cc-b49b-4488-8276-2744feb4173a/download/172.16.4.205disk1ictz-01-work0151cplwr.json
-  url_type: upload
-  webstore_last_updated: null
-  webstore_url: null
-- cache_last_updated: null
-  cache_url: null
-  created: '2017-03-01T14:39:55.700301'
-  description: "データセット別月別のページビュー数及び訪問者数\r\n※平成29年5月より、Google Analyticsのデータで公開するようにしました。"
-  format: CSV
-  hash: ''
-  id: 997b6f8b-a9b1-4ad7-9de4-edbf18c7fc73
-  last_modified: '2017-06-01T05:15:53.089778'
-  mimetype: null
-  mimetype_inner: null
-  name: データセット別月別アクセス状況
-  package_id: d3822cfe-239b-472f-b6da-35bfb7ecbdd5
-  position: 1
-  resource_type: null
-  size: null
-  url: https://data.city.kobe.lg.jp/data/dataset/d3822cfe-239b-472f-b6da-35bfb7ecbdd5/resource/997b6f8b-a9b1-4ad7-9de4-edbf18c7fc73/download/172.16.4.205disk1ictz-01-work0151google-analytics.csv
-  url_type: upload
-  webstore_last_updated: null
-  webstore_url: null
-- cache_last_updated: null
-  cache_url: null
-  created: '2017-03-01T16:03:40.600484'
-  description: オープンデータの登録状況やデータセットへのアクセス状況を可視化したもの
-  format: HTML
-  hash: ''
-  id: f99843f0-a249-4536-983d-7913a0d9fa8b
-  last_modified: null
-  mimetype: null
-  mimetype_inner: null
-  name: オープンデータダッシュボード
-  package_id: d3822cfe-239b-472f-b6da-35bfb7ecbdd5
-  position: 2
-  resource_type: null
-  size: null
-  url: https://data.city.kobe.lg.jp/dashboard/index.html
-  url_type: null
-  webstore_last_updated: null
-  webstore_url: null
-revision_id: b61d22fb-4213-4089-8b86-a53768c4d86f
-state: active
-tags: []
-title: データセット状況
-type: dataset
-url: ''
 version: ''
 ---
 author: 創造都市推進部
