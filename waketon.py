@@ -1,6 +1,7 @@
 import lxml.html
 import json
 import re
+import urllib.request
 
 write = print
 
@@ -27,7 +28,8 @@ pdf = '''
 cc = r"^https?://creativecommons.org/licenses/"
 
 write(pre)
-r = lxml.html.parse("http://www.city.kobe.lg.jp/life/recycle/waketon/opendeta.html").getroot()
+fp = urllib.request.urlopen("http://www.city.kobe.lg.jp/life/recycle/waketon/opendeta.html")
+r = lxml.html.parse(fp).getroot()
 for n in r.xpath('.//h2[@id="midashi20225"]/following-sibling::*'):
 	if n.tag == "p":
 		for t in n.itertext():
