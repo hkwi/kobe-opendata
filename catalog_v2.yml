@@ -14,7 +14,7 @@ license_url: http://www.opendefinition.org/licenses/cc-by
 maintainer: ''
 maintainer_email: ''
 metadata_created: '2017-03-01T05:32:47.346409'
-metadata_modified: '2017-10-04T02:57:45.539403'
+metadata_modified: '2018-01-04T08:47:26.009594'
 name: dataset-00000141
 notes: 神戸市オープンデータポータルに掲載されているデータの登録状況及びアクセス状況
 notes_rendered: <p>神戸市オープンデータポータルに掲載されているデータの登録状況及びアクセス状況</p>
@@ -45,7 +45,7 @@ resources:
   format: JSON
   hash: ''
   id: 53d6b3cc-b49b-4488-8276-2744feb4173a
-  last_modified: '2017-10-04T02:57:05.016121'
+  last_modified: '2018-01-04T08:46:48.195023'
   mimetype: null
   mimetype_inner: null
   name: データセット登録状況
@@ -64,7 +64,7 @@ resources:
   format: CSV
   hash: ''
   id: 997b6f8b-a9b1-4ad7-9de4-edbf18c7fc73
-  last_modified: '2017-10-04T02:57:45.513950'
+  last_modified: '2018-01-04T08:47:25.989350'
   mimetype: null
   mimetype_inner: null
   name: データセット別月別アクセス状況
@@ -101,6 +101,73 @@ tags: []
 title: データセット状況
 type: dataset
 url: ''
+version: ''
+---
+author: 保健福祉局健康部生活衛生課
+author_email: ''
+ckan_url: https://data.city.kobe.lg.jp/data/dataset/hygiene
+creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
+extras: {}
+groups:
+- 5eccbc53-86ea-482a-8594-5224aaf5f2c6
+id: 3bff05b2-c7cd-4166-9e26-fde813ced7d1
+isopen: true
+license: クリエイティブ・コモンズ 表示
+license_id: cc-by
+license_title: クリエイティブ・コモンズ 表示
+license_url: http://www.opendefinition.org/licenses/cc-by
+maintainer: ''
+maintainer_email: ''
+metadata_created: '2017-12-04T06:35:22.941914'
+metadata_modified: '2017-12-04T06:41:04.671573'
+name: hygiene
+notes: 食品衛生法に基づく飲食店・喫茶店等の営業許可施設の情報及び集団給食等の届出施設の情報を提供します。
+notes_rendered: <p>食品衛生法に基づく飲食店・喫茶店等の営業許可施設の情報及び集団給食等の届出施設の情報を提供します。</p>
+num_resources: 1
+num_tags: 0
+organization:
+  approval_status: approved
+  created: '2016-03-23T00:21:40.597348'
+  description: 高齢者・障害者の福祉、健康づくり、地域医療、公衆衛生、墓園・斎場、生活保護、国民健康保険、国民年金、後期高齢者医療制度、介護保険、人権推進など
+  id: 1b4f7c9d-fb19-4c67-8866-679dd932afc9
+  image_url: ''
+  is_organization: true
+  name: org_0070
+  revision_id: 33f6f169-4eb9-499a-9b77-cb0d13e9fd23
+  state: active
+  title: 保健福祉局
+  type: organization
+owner_org: 1b4f7c9d-fb19-4c67-8866-679dd932afc9
+private: false
+ratings_average: null
+ratings_count: 0
+relationships: []
+resources:
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-12-04T15:36:09.883558'
+  description: 食品衛生法に基づく飲食店・喫茶店等の営業許可施設の情報及び集団給食等の届出施設の情報を提供します。
+  format: HTML
+  hash: ''
+  id: 26c27d63-3ca8-444f-aba2-ad96772406d8
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 生活衛生関係許可・届出施設の情報
+  package_id: 3bff05b2-c7cd-4166-9e26-fde813ced7d1
+  position: 0
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/life/health/hygiene/dataset.html
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+revision_id: e5a8c1b1-e923-4d9f-be21-4cc861da5fae
+state: active
+tags: []
+title: 生活衛生関係許可・届出施設の情報
+type: dataset
+url: http://www.city.kobe.lg.jp/life/health/hygiene/dataset.html
 version: ''
 ---
 author: 業務課
