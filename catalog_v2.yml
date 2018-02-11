@@ -1,3 +1,253 @@
+author: 中央図書館総務課
+author_email: ''
+ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000137
+creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
+extras: {}
+groups:
+- 0f6fa0bc-0b25-4796-8197-8f0735f1cd14
+id: e2e166f9-3547-4f05-8bb1-3f40667b9daf
+isopen: true
+license: クリエイティブ・コモンズ 表示
+license_id: cc-by
+license_title: クリエイティブ・コモンズ 表示
+license_url: http://www.opendefinition.org/licenses/cc-by
+maintainer: 中央図書館総務課
+maintainer_email: ''
+metadata_created: '2017-02-02T09:32:54.658708'
+metadata_modified: '2018-02-07T04:20:28.642997'
+name: dataset-00000137
+notes: "図書館利用者の方へのアンケート\r\n"
+notes_rendered: <p>図書館利用者の方へのアンケート</p>
+num_resources: 2
+num_tags: 1
+organization:
+  approval_status: approved
+  created: '2016-03-23T00:21:44.525277'
+  description: 教育施策の企画立案、学校職員の任免、学校教育の振興、学校園の整備、教育課程、特別支援教育、健康教育、人権教育、生涯学習の振興、文化財の保護、スポーツの振興、公民館、博物館、図書館など
+  id: a88d1fef-95b7-478c-8831-8b42bdc4c9f7
+  image_url: ''
+  is_organization: true
+  name: org_0170
+  revision_id: 81860d49-bdcb-4fb7-8979-9697c8a60009
+  state: active
+  title: 教育委員会事務局
+  type: organization
+owner_org: a88d1fef-95b7-478c-8831-8b42bdc4c9f7
+private: false
+ratings_average: null
+ratings_count: 0
+relationships: []
+resources:
+- cache_last_updated: null
+  cache_url: null
+  created: '2018-02-07T13:16:39.128255'
+  description: 平成28年度「図書館ご利用の皆様へのアンケート」集計結果
+  format: PDF
+  hash: ''
+  id: 94328eb4-036c-4fa5-b394-8d70304e2e8c
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 平成28年度「図書館ご利用の皆様へのアンケート」集計結果
+  package_id: e2e166f9-3547-4f05-8bb1-3f40667b9daf
+  position: 0
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/institution/institution/library/enquete/img/manzoku28.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-02-02T18:33:03.434442'
+  description: "平成27年度「図書館ご利用の皆様へのアンケート」集計結果\r\n"
+  format: PDF
+  hash: ''
+  id: 8239ff51-8d8c-4bfd-9abd-7033642e4e3b
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 平成27年度「図書館ご利用の皆様へのアンケート」集計結果
+  package_id: e2e166f9-3547-4f05-8bb1-3f40667b9daf
+  position: 1
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/institution/institution/library/enquete/img/manzoku27.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+revision_id: 5415faa3-f80c-4779-b636-a897ffae5161
+state: active
+tags:
+- 統計
+title: 図書館利用者の方へのアンケート
+type: dataset
+url: http://www.city.kobe.lg.jp/information/institution/institution/library/enquete/index.html
+version: ''
+---
+author: 中央図書館総務課
+author_email: ''
+ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000139
+creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
+extras: {}
+groups:
+- ea98c354-262b-4cff-a061-477b74f43bcc
+id: de7eca06-c804-4a61-bd08-34dc4a5aab1e
+isopen: true
+license: クリエイティブ・コモンズ 表示
+license_id: cc-by
+license_title: クリエイティブ・コモンズ 表示
+license_url: http://www.opendefinition.org/licenses/cc-by
+maintainer: 中央図書館総務課
+maintainer_email: ''
+metadata_created: '2017-02-13T00:19:46.806994'
+metadata_modified: '2018-02-07T04:20:05.459354'
+name: dataset-00000139
+notes: 図書館事業概要
+notes_rendered: <p>図書館事業概要</p>
+num_resources: 6
+num_tags: 1
+organization:
+  approval_status: approved
+  created: '2016-03-23T00:21:44.525277'
+  description: 教育施策の企画立案、学校職員の任免、学校教育の振興、学校園の整備、教育課程、特別支援教育、健康教育、人権教育、生涯学習の振興、文化財の保護、スポーツの振興、公民館、博物館、図書館など
+  id: a88d1fef-95b7-478c-8831-8b42bdc4c9f7
+  image_url: ''
+  is_organization: true
+  name: org_0170
+  revision_id: 81860d49-bdcb-4fb7-8979-9697c8a60009
+  state: active
+  title: 教育委員会事務局
+  type: organization
+owner_org: a88d1fef-95b7-478c-8831-8b42bdc4c9f7
+private: false
+ratings_average: null
+ratings_count: 0
+relationships: []
+resources:
+- cache_last_updated: null
+  cache_url: null
+  created: '2018-02-07T13:19:27.796023'
+  description: 平成29年度事業概要
+  format: PDF
+  hash: ''
+  id: f9d84775-6514-4a32-98d8-5f38d6aa5cbb
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 平成29年度事業概要
+  package_id: de7eca06-c804-4a61-bd08-34dc4a5aab1e
+  position: 0
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/institution/institution/library/gaiyo/img/gaiyou_29.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-02-13T09:20:10.737264'
+  description: "平成28年度事業概要\r\n"
+  format: PDF
+  hash: ''
+  id: 90513684-5223-4db8-bdef-3fecb8fde99f
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 平成28年度事業概要
+  package_id: de7eca06-c804-4a61-bd08-34dc4a5aab1e
+  position: 1
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/institution/institution/library/gaiyo/img/gaiyo-28.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-02-13T09:20:25.939759'
+  description: "平成27年度事業概要\r\n"
+  format: PDF
+  hash: ''
+  id: 52be084d-5b9a-4e4e-b42d-58135841019e
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 平成27年度事業概要
+  package_id: de7eca06-c804-4a61-bd08-34dc4a5aab1e
+  position: 2
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/institution/institution/library/gaiyo/img/gaiyou15.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-02-13T09:20:42.497236'
+  description: "平成26年度事業概要\r\n"
+  format: PDF
+  hash: ''
+  id: 690f50d3-82a3-4f8f-927d-93bc53c43b5b
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 平成26年度事業概要
+  package_id: de7eca06-c804-4a61-bd08-34dc4a5aab1e
+  position: 3
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/institution/institution/library/gaiyo/img/gaiyou14.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-02-13T09:20:54.037189'
+  description: "平成25年度事業概要\r\n"
+  format: PDF
+  hash: ''
+  id: 684c4aa5-8800-4c67-9f0c-acf2d4b02440
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 平成25年度事業概要
+  package_id: de7eca06-c804-4a61-bd08-34dc4a5aab1e
+  position: 4
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/institution/institution/library/gaiyo/img/gaiyou13.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+- cache_last_updated: null
+  cache_url: null
+  created: '2017-02-13T09:21:05.685548'
+  description: "平成24年度事業概要\r\n"
+  format: PDF
+  hash: ''
+  id: b92dd15a-6eb6-4347-9f82-5506ee95ba7d
+  last_modified: null
+  mimetype: null
+  mimetype_inner: null
+  name: 平成24年度事業概要
+  package_id: de7eca06-c804-4a61-bd08-34dc4a5aab1e
+  position: 5
+  resource_type: null
+  size: null
+  url: http://www.city.kobe.lg.jp/information/institution/institution/library/gaiyo/img/gaiyou12_1.pdf
+  url_type: null
+  webstore_last_updated: null
+  webstore_url: null
+revision_id: d8ffa3e3-5133-4ae0-9e7b-de8bc9847835
+state: active
+tags:
+- 統計
+title: 図書館事業概要
+type: dataset
+url: http://www.city.kobe.lg.jp/information/institution/institution/library/gaiyo/index.html
+version: ''
+---
 author: 創造都市推進部
 author_email: ''
 ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000141
@@ -3930,150 +4180,6 @@ type: dataset
 url: http://www.city.kobe.lg.jp/life/recycle/environmental/earth/img/kokyo25.html
 version: ''
 ---
-author: 中央図書館総務課
-author_email: ''
-ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000139
-creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
-extras: {}
-groups:
-- ea98c354-262b-4cff-a061-477b74f43bcc
-id: de7eca06-c804-4a61-bd08-34dc4a5aab1e
-isopen: true
-license: クリエイティブ・コモンズ 表示
-license_id: cc-by
-license_title: クリエイティブ・コモンズ 表示
-license_url: http://www.opendefinition.org/licenses/cc-by
-maintainer: 中央図書館総務課
-maintainer_email: ''
-metadata_created: '2017-02-13T00:19:46.806994'
-metadata_modified: '2017-02-13T00:21:06.606296'
-name: dataset-00000139
-notes: 図書館事業概要
-notes_rendered: <p>図書館事業概要</p>
-num_resources: 5
-num_tags: 1
-organization:
-  approval_status: approved
-  created: '2016-03-23T00:21:44.525277'
-  description: 教育施策の企画立案、学校職員の任免、学校教育の振興、学校園の整備、教育課程、特別支援教育、健康教育、人権教育、生涯学習の振興、文化財の保護、スポーツの振興、公民館、博物館、図書館など
-  id: a88d1fef-95b7-478c-8831-8b42bdc4c9f7
-  image_url: ''
-  is_organization: true
-  name: org_0170
-  revision_id: 81860d49-bdcb-4fb7-8979-9697c8a60009
-  state: active
-  title: 教育委員会事務局
-  type: organization
-owner_org: a88d1fef-95b7-478c-8831-8b42bdc4c9f7
-private: false
-ratings_average: null
-ratings_count: 0
-relationships: []
-resources:
-- cache_last_updated: null
-  cache_url: null
-  created: '2017-02-13T09:20:10.737264'
-  description: "平成28年度事業概要\r\n"
-  format: PDF
-  hash: ''
-  id: 90513684-5223-4db8-bdef-3fecb8fde99f
-  last_modified: null
-  mimetype: null
-  mimetype_inner: null
-  name: 平成28年度事業概要
-  package_id: de7eca06-c804-4a61-bd08-34dc4a5aab1e
-  position: 0
-  resource_type: null
-  size: null
-  url: http://www.city.kobe.lg.jp/information/institution/institution/library/gaiyo/img/gaiyo-28.pdf
-  url_type: null
-  webstore_last_updated: null
-  webstore_url: null
-- cache_last_updated: null
-  cache_url: null
-  created: '2017-02-13T09:20:25.939759'
-  description: "平成27年度事業概要\r\n"
-  format: PDF
-  hash: ''
-  id: 52be084d-5b9a-4e4e-b42d-58135841019e
-  last_modified: null
-  mimetype: null
-  mimetype_inner: null
-  name: 平成27年度事業概要
-  package_id: de7eca06-c804-4a61-bd08-34dc4a5aab1e
-  position: 1
-  resource_type: null
-  size: null
-  url: http://www.city.kobe.lg.jp/information/institution/institution/library/gaiyo/img/gaiyou15.pdf
-  url_type: null
-  webstore_last_updated: null
-  webstore_url: null
-- cache_last_updated: null
-  cache_url: null
-  created: '2017-02-13T09:20:42.497236'
-  description: "平成26年度事業概要\r\n"
-  format: PDF
-  hash: ''
-  id: 690f50d3-82a3-4f8f-927d-93bc53c43b5b
-  last_modified: null
-  mimetype: null
-  mimetype_inner: null
-  name: 平成26年度事業概要
-  package_id: de7eca06-c804-4a61-bd08-34dc4a5aab1e
-  position: 2
-  resource_type: null
-  size: null
-  url: http://www.city.kobe.lg.jp/information/institution/institution/library/gaiyo/img/gaiyou14.pdf
-  url_type: null
-  webstore_last_updated: null
-  webstore_url: null
-- cache_last_updated: null
-  cache_url: null
-  created: '2017-02-13T09:20:54.037189'
-  description: "平成25年度事業概要\r\n"
-  format: PDF
-  hash: ''
-  id: 684c4aa5-8800-4c67-9f0c-acf2d4b02440
-  last_modified: null
-  mimetype: null
-  mimetype_inner: null
-  name: 平成25年度事業概要
-  package_id: de7eca06-c804-4a61-bd08-34dc4a5aab1e
-  position: 3
-  resource_type: null
-  size: null
-  url: http://www.city.kobe.lg.jp/information/institution/institution/library/gaiyo/img/gaiyou13.pdf
-  url_type: null
-  webstore_last_updated: null
-  webstore_url: null
-- cache_last_updated: null
-  cache_url: null
-  created: '2017-02-13T09:21:05.685548'
-  description: "平成24年度事業概要\r\n"
-  format: PDF
-  hash: ''
-  id: b92dd15a-6eb6-4347-9f82-5506ee95ba7d
-  last_modified: null
-  mimetype: null
-  mimetype_inner: null
-  name: 平成24年度事業概要
-  package_id: de7eca06-c804-4a61-bd08-34dc4a5aab1e
-  position: 4
-  resource_type: null
-  size: null
-  url: http://www.city.kobe.lg.jp/information/institution/institution/library/gaiyo/img/gaiyou12_1.pdf
-  url_type: null
-  webstore_last_updated: null
-  webstore_url: null
-revision_id: d8ffa3e3-5133-4ae0-9e7b-de8bc9847835
-state: active
-tags:
-- 統計
-title: 図書館事業概要
-type: dataset
-url: http://www.city.kobe.lg.jp/information/institution/institution/library/gaiyo/index.html
-version: ''
----
 author: 指導部指導課
 author_email: ''
 ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000135
@@ -6897,74 +7003,6 @@ tags:
 title: 農業委員会事務局統計
 type: dataset
 url: http://www.city.kobe.lg.jp/information/committee/industry/agriculture/sub4.html
-version: ''
----
-author: 中央図書館総務課
-author_email: ''
-ckan_url: https://data.city.kobe.lg.jp/data/dataset/dataset-00000137
-creator_user_id: ff892b01-0d1c-4798-9a21-35eda2a921e1
-extras: {}
-groups:
-- 0f6fa0bc-0b25-4796-8197-8f0735f1cd14
-id: e2e166f9-3547-4f05-8bb1-3f40667b9daf
-isopen: true
-license: クリエイティブ・コモンズ 表示
-license_id: cc-by
-license_title: クリエイティブ・コモンズ 表示
-license_url: http://www.opendefinition.org/licenses/cc-by
-maintainer: 中央図書館総務課
-maintainer_email: ''
-metadata_created: '2017-02-02T09:32:54.658708'
-metadata_modified: '2017-02-02T09:33:04.183490'
-name: dataset-00000137
-notes: "図書館利用者の方へのアンケート\r\n"
-notes_rendered: <p>図書館利用者の方へのアンケート</p>
-num_resources: 1
-num_tags: 1
-organization:
-  approval_status: approved
-  created: '2016-03-23T00:21:44.525277'
-  description: 教育施策の企画立案、学校職員の任免、学校教育の振興、学校園の整備、教育課程、特別支援教育、健康教育、人権教育、生涯学習の振興、文化財の保護、スポーツの振興、公民館、博物館、図書館など
-  id: a88d1fef-95b7-478c-8831-8b42bdc4c9f7
-  image_url: ''
-  is_organization: true
-  name: org_0170
-  revision_id: 81860d49-bdcb-4fb7-8979-9697c8a60009
-  state: active
-  title: 教育委員会事務局
-  type: organization
-owner_org: a88d1fef-95b7-478c-8831-8b42bdc4c9f7
-private: false
-ratings_average: null
-ratings_count: 0
-relationships: []
-resources:
-- cache_last_updated: null
-  cache_url: null
-  created: '2017-02-02T18:33:03.434442'
-  description: "平成27年度「図書館ご利用の皆様へのアンケート」集計結果\r\n"
-  format: PDF
-  hash: ''
-  id: 8239ff51-8d8c-4bfd-9abd-7033642e4e3b
-  last_modified: null
-  mimetype: null
-  mimetype_inner: null
-  name: 平成27年度「図書館ご利用の皆様へのアンケート」集計結果
-  package_id: e2e166f9-3547-4f05-8bb1-3f40667b9daf
-  position: 0
-  resource_type: null
-  size: null
-  url: http://www.city.kobe.lg.jp/information/institution/institution/library/enquete/img/manzoku27.pdf
-  url_type: null
-  webstore_last_updated: null
-  webstore_url: null
-revision_id: 5415faa3-f80c-4779-b636-a897ffae5161
-state: active
-tags:
-- 統計
-title: 図書館利用者の方へのアンケート
-type: dataset
-url: http://www.city.kobe.lg.jp/information/institution/institution/library/enquete/index.html
 version: ''
 ---
 author: 指導部指導課
